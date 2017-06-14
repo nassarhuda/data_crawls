@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ray Benge          R   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Jack Berly         R   6   2   0   0   0   0   0   0   1   0   0  .333  .429  .333 
+Tex Carleton       R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 i
+Phil Collins       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Johnny Cooney      L   7   2   1   0   0   0   0   3   0   0   0  .286  .286  .429 
+Wilbur Cooper      L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 i
+Dizzy Dean         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Paul Dean          R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 i
+Paul Derringer     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Donohue       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Rube Ehrhardt      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+F. Fitzsimmons     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Larry French       L   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 i
+Benny Frey         R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Joe Genewich       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Sam Gibson         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Burleigh Grimes    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Hallahan      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Art Herring        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Holley          R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Carl Hubbell       L  10   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Si Johnson         R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 i
+Ray Kremer         R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Bill Lee           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Lee Meadows        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Heinie Meine       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Joe Oeschger       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Elmer Ponder       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bobby Reis         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eppa Rixey         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Charlie Root       R  18   6   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Hal Schumacher     R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+Jack Scott         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Swift         R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Bill Walker        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bucky Walters      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Lon Warneke        R  10   3   0   0   0   1   0   2   0   1   0  .300  .364  .300 i

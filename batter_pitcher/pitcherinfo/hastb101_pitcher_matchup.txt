@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Courtney     L   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000 i
+Stan Coveleski     R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Hooks Dauss        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Dixie Davis        R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Howard Ehmke       R  10   2   0   1   0   0   0   1   0   1   0  .200  .200  .400 i
+Red Faber          R   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000 
+Alex Ferguson      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Walter Johnson     R   5   4   2   0   0   0   0   0   0   0   0  .800  .800 1.200 i
+Dickey Kerr        L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Ray Kolp           R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Carl Mays          R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 i
+George Mogridge    L  10   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 i
+Guy Morton         R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 i
+George Murray      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Herb Pennock       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Jack Quinn         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+C. Robertson       R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Bob Shawkey        R  14   3   0   0   0   0   0   5   0   0   0  .214  .214  .214 
+George Uhle        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Elam Vangilder     R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i

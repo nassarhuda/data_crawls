@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   3   2   0   0   0   1   0   0   0   0   1  .667  .600  .667 
+Josh Beckett       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Matt Belisle       R   8   2   1   0   1   0   0   1   1   0   0  .250  .333  .750 
+Chad Bettis        R   6   4   1   0   1   0   0   1   0   1   0  .667  .667 1.333 
+Trevor Cahill      R   5   1   0   0   0   0   0   0   0   0   1  .200  .167  .200 
+Jhoulys Chacin     R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Tyler Chatwood     R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Steve Cishek       R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Josh Collmenter    R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Patrick Corbin     L  13   7   2   0   0   0   0   0   0   0   0  .538  .538  .692 
+Jorge de la Rosa   L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Nathan Eovaldi     R   6   3   1   0   1   0   0   1   0   0   0  .500  .500 1.167 
+Dana Eveland       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jeff Francis       L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Dillon Gee         R   3   1   0   0   1   0   0   0   0   0   1  .333  .250 1.333 
+Luke Gregerson     R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Zack Greinke       R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Matt Harrison      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+LaTroy Hawkins     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jared Hughes       R   3   1   1   0   0   0   0   1   1   0   0  .333  .500  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Edwin Jackson      R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Kenley Jansen      R   7   2   1   0   0   0   0   4   0   0   0  .286  .286  .429 
+Tommy Kahnle       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ian Kennedy        R   6   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Clayton Kershaw    L   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 
+Tom Koehler        R   3   2   0   0   0   3   0   0   0   0   0  .667  .833  .667 
+Mat Latos          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brandon League     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Wilton Lopez       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Cory Luebke        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brandon McCarthy   R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Wade Miley         L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Mike Minor         L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Franklin Morales   L   5   1   0   0   1   0   0   1   1   0   0  .200  .333  .800 
+Juan Nicasio       R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Jon Niese          L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Adam Ottavino      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Addison Reed       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Alfredo Simon      R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Huston Street      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eric Stults        L   8   2   0   0   1   0   0   1   0   0   0  .250  .250  .625 
+Dale Thayer        R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Carlos Torres      R   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000 
+Edinson Volquez    R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jamey Wright       R   3   1   0   0   0   1   0   1   0   0   1  .333  .400  .333 
+Brad Ziegler       R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500

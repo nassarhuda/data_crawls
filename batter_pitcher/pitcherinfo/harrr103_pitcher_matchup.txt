@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Peaches Davis      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carl Hubbell       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Lee           R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Claude Passeau     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Hal Schumacher     R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Rip Sewell         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

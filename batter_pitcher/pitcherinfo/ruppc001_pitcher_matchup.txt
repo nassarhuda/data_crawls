@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Trevor Cahill      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bartolo Colon      R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Adam Conley        L   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Jarred Cosart      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Matt Garza         R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Gio Gonzalez       L   9   3   1   0   0   1   0   1   0   0   0  .333  .400  .444 
+Ian Kennedy        R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Jeff Locke         L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jon Niese          L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Williams Perez     R   6   2   0   0   1   2   1   3   0   0   0  .333  .500  .833 
+Max Scherzer       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+James Shields      R   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+S. Strasburg       R   7   1   0   0   0   2   0   3   0   0   0  .143  .333  .143 
+Julio Teheran      R  14   3   0   0   0   1   0   3   0   0   0  .214  .267  .214 
+Ryan Vogelsong     R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+J. Zimmermann      R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222

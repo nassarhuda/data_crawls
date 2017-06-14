@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Arredondo     R   4   2   2   0   0   0   0   1   0   0   0  .500  .500 1.000 
+Scott Baker        R   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Nick Blackburn     R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Jose Contreras     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dana Eveland       L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Gavin Floyd        R   8   2   2   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jon Garland        R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Josh Geer          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gio Gonzalez       L   6   1   0   0   0   1   1   2   0   0   0  .167  .286  .167 
+Jason Hammel       R   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 
+Matt Harrison      L   7   3   2   0   0   0   0   2   0   0   0  .429  .429  .714 
+Tim Lincecum       R   5   3   0   0   0   1   0   1   0   0   0  .600  .667  .600 
+F. Liriano         L  12   1   1   0   0   0   0   5   0   0   0  .083  .083  .167 
+Jason Marquis      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Daniel McCutchen   R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Kevin Millwood     R   4   3   0   0   1   1   0   0   0   0   0  .750  .800 1.500 
+Charlie Morton     R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Mike Mussina       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Josh Outman        L   5   2   2   0   0   2   0   1   0   0   0  .400  .571  .800 
+Vicente Padilla    R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Glen Perkins       L   9   2   0   0   1   0   0   2   0   0   0  .222  .222  .556 
+Andy Pettitte      L   9   3   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Ervin Santana      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Saunders       L  12   1   0   0   0   0   0   5   0   0   0  .083  .083  .083 
+James Shields      R   6   3   0   0   1   0   0   1   0   0   0  .500  .500 1.000 
+Greg Smith         L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Tim Wakefield      R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Chien-Ming Wang    R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Barry Zito         L   7   1   1   0   0   1   0   3   0   0   0  .143  .250  .286

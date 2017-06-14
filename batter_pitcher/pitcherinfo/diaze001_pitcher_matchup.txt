@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Buddy Black        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Mike Boddicker     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Chuck Cary         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Roger Clemens      R   6   3   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Chuck Finley       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mark Gubicza       R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Mark Guthrie       L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Greg Hibbard       L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Randy Johnson      L   6   2   0   0   0   3   0   1   0   0   0  .333  .556  .333 
+Dennis Lamp        R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Mark Langston      L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jack Morris        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Ed Nunez           R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Melido Perez       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Dan Petry          R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jeff Robinson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bret Saberhagen    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Frank Tanana       L   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Kevin Tapani       R   6   4   0   1   0   0   0   0   0   0   0  .667  .667 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sergio Valdez      R   3   2   0   0   0   2   0   0   0   0   0  .667  .800  .667 
+David Wells        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333

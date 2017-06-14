@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rob Bell           R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Kevin Brown        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Matt Clement       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tom Glavine        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jose Lima          R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Wade Miller        R   4   2   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Matt Morris        R   3   1   1   0   0   0   0   2   0   1   0  .333  .333  .667 
+Hideo Nomo         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Curt Schilling     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Steve Trachsel     R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Scott Williamson   R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kerry Wood         R   8   1   0   0   0   1   0   4   0   0   0  .125  .222  .125 
+Jamey Wright       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167

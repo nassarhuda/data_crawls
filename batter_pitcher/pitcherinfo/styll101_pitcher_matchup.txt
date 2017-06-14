@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Brandt          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bullet Joe Bush    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Watty Clark        L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Harry Courtney     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Clise Dudley       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Red Faber          R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Larry French       L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Syl Johnson        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Herb Pennock       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Charlie Root       R   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000 
+Joe Shaute         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jim Shaw           R   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Bob Shawkey        R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Les Sweetland      L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Lon Warneke        R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Johnny Welch       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Tom Zachary        L  15   4   2   0   0   0   0   1   0   1   0  .267  .267  .400 i

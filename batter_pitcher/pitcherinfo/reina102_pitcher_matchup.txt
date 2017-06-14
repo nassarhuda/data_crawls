@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Barnes       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Guy Bush           R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Art Decatur        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Jumbo Elliott      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bill Hubbell       R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Percy Jones        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Red Lucas          R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Carl Mays          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob McGraw         R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 i
+Hugh McQuillan     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Hub Pruett         L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Jimmy Ring         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dazzy Vance        R   7   3   0   0   0   1   0   3   0   0   0  .429  .500  .429

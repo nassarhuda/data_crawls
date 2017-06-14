@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Garland Buckeye    L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Howard Ehmke       R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Ted Lyons          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eddie Rommel       R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+George Uhle        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Paul Zahniser      R   3   1   0   0   1   0   0   0   0   1   0  .333  .333 1.333

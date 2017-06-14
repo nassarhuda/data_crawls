@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Bahr            R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Beggs          R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Ewell Blackwell    R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Tiny Bonham        R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Max Butcher        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Ben Chapman        R   5   1   0   0   1   0   0   3   0   0   0  .200  .200  .800 
+Ken Gables         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Hal Gregg          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Harry Gumbert      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Luke Hamlin        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ken Heintzelman    L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Kirby Higbe        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Johnny Lanning     R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 i
+Bill Lee           R   7   2   0   1   0   0   0   0   0   0   0  .286  .286  .571 
+Cliff Melton       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+K. Raffensberger   L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Elmer Riddle       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Preacher Roe       L  10   2   0   0   0   1   0   5   0   0   0  .200  .273  .200 
+Rip Sewell         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Warren Spahn       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Voiselle      R   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500 
+Bucky Walters      R  11   2   0   0   1   0   0   5   0   0   0  .182  .182  .455 
+Ernie White        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i

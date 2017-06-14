@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doc Ayers          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Ted Blankenship    R  13   2   0   0   0   0   0   3   0   1   0  .154  .154  .154 i
+Rip Collins        R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 i
+Sarge Connally     R   5   0   0   0   0   0   0   1   1   1   0  .000  .167  .000 i
+Stan Coveleski     R  10   3   0   0   0   0   0   3   0   0   0  .300  .300  .300 i
+General Crowder    R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Hooks Dauss        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dixie Davis        R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 i
+Howard Ehmke       R  23   1   0   0   0   0   0  11   0   0   0  .043  .043  .043 
+Eric Erickson      R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Red Faber          R  11   2   1   0   0   0   0   3   0   1   0  .182  .182  .273 i
+Milt Gaston        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Joe Gleason        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+George Grant       R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Waite Hoyt         R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 i
+Walter Johnson     R  20   3   0   0   1   0   0   9   0   1   0  .150  .150  .300 i
+Sad Sam Jones      R  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Dickey Kerr        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ted Lyons          R   6   3   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Carl Mays          R   8   2   0   0   0   0   0   3   0   1   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jake Miller        L   2   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+George Mogridge    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Guy Morton         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Herb Pennock       L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Jack Quinn         R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+C. Robertson       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dutch Ruether      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Allen Russell      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Joe Shaute         L  10   2   1   0   0   0   0   2   0   1   0  .200  .200  .300 i
+Bob Shawkey        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Urban Shocker      R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 i
+Sherry Smith       L  10   4   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Lefty Stewart      L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 i
+Sloppy Thurston    R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+George Uhle        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Elam Vangilder     R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Tom Zachary        L  14   1   0   0   0   0   0   3   0   0   0  .071  .071  .071 i
+Paul Zahniser      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143

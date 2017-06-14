@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Grady Adkins       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Garland Braxton    L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Ownie Carroll      R  10   1   0   0   0   2   0   0   0   0   0  .100  .250  .100 i
+Stan Coveleski     R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 i
+George Earnshaw    R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 i
+Red Faber          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Milt Gaston        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+George Grant       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Bump Hadley        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Slim Harriss       R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 i
+Fred Heimach       L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Waite Hoyt         R  15   5   0   0   0   1   0   1   0   0   0  .333  .375  .333 i
+Willis Hudlin      R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 i
+Hank Johnson       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Sad Sam Jones      R   9   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Ted Lyons          R  12   4   0   0   0   0   0   0   1   0   0  .333  .385  .333 i
+Danny MacFayden    R   7   3   0   0   1   1   0   0   0   0   0  .429  .500  .857 i
+Firpo Marberry     R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Ed Morris          R  12   3   0   0   1   2   0   1   0   0   0  .250  .357  .500 i
+Herb Pennock       L  10   0   0   0   0   1   0   1   0   0   0  .000  .091  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Pipgras     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Jack Quinn         R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 i
+Eddie Rommel       R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Red Ruffing        R  20   2   1   0   0   1   0   0   0   1   0  .100  .143  .150 i
+Jack Russell       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Joe Shaute         L   9   3   0   0   0   2   0   0   0   0   0  .333  .455  .333 i
+Tommy Thomas       R  11   3   0   1   0   0   0   0   0   1   0  .273  .273  .455 i
+George Uhle        R  10   3   2   1   0   0   0   0   0   1   0  .300  .300  .700 i
+Elam Vangilder     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Rube Walberg       L  10   3   0   0   0   1   0   0   0   0   0  .300  .364  .300 i
+Ed Wells           L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Earl Whitehill     L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Tom Zachary        L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i

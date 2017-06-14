@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Beggs          R   7   4   0   0   0   0   0   1   0   0   0  .571  .571  .571 
+Paul Derringer     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Johnny Hutchings   R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Max Lanier         L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Howie Pollet       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+J. Vander Meer     L   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667

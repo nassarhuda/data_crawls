@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bibby          R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Reggie Cleveland   R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Pat Dobson         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dennis Eckersley   R   5   2   0   0   1   0   0   2   1   0   0  .400  .500 1.000 
+Ed Figueroa        R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Mike Flanagan      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Wayne Garland      R  15   5   0   0   0   1   0   1   0   0   1  .333  .353  .333 
+Don Gullett        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Hiller        L   4   2   0   0   0   1   1   0   0   0   0  .500  .600  .500 
+Ken Holtzman       L   6   2   0   0   1   2   0   1   0   0   0  .333  .500  .833 
+Catfish Hunter     R   5   2   0   0   1   1   0   2   0   0   0  .400  .500 1.000 
+Jesse Jefferson    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jim Kern           R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Rick Kreuger       L   5   2   0   0   1   3   0   2   0   0   0  .400  .625 1.000 
+Bill Lee           L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dave Lemanczyk     R   3   0   0   0   0   1   0   1   1   0   0  .000  .400  .000 
+Rudy May           L   8   3   1   0   1   1   0   0   0   0   0  .375  .444  .875 
+Scott McGregor     L   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 
+Jim Palmer         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dick Pole          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Roberts       L   7   2   1   0   0   1   0   0   0   0   0  .286  .375  .429 
+Dave Rozema        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Stan Thomas        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Rick Wise          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Ash            R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ed Brandt          L   4   0   0   0   0   0   0   1   1   0   0  .000  .200  .000 i
+Benny Frey         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Percy Jones        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Red Lucas          R   7   1   0   1   0   0   0   1   0   2   0  .143  .143  .429 i
+Dolf Luque         R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 i
+Charlie Root       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Sherdel       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Les Sweetland      L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+C. Willoughby      R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 i

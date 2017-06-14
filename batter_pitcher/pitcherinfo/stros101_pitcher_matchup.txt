@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Eckersley   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rick Langford      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Dennis Martinez    R   7   2   0   0   1   0   0   0   0   0   0  .286  .286  .714 
+Scott McGregor     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sammy Stewart      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Rick Sutcliffe     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

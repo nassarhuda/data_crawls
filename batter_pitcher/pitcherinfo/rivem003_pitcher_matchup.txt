@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Appier       R   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Pedro Astacio      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Paul Byrd          R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shawn Chacon       R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Roger Clemens      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bartolo Colon      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Correia      R   5   3   1   0   1   0   0   1   0   0   0  .600  .600 1.400 
+Jorge de la Rosa   L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Tony Fiore         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Chris George       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Mike Hampton       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Aaron Harang       R   6   2   0   0   0   2   2   1   0   0   0  .333  .500  .333 
+R. Hernandez       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bob Howry          R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Josh Johnson       R   9   2   0   0   1   1   0   2   1   0   0  .222  .364  .556 
+Kyle Lohse         R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Derek Lowe         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Paul Maholm        L   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Sean Marshall      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Justin Miller      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eric Milton        L   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Brian Moehler      R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Matt Morris        R   5   1   1   0   0   1   1   1   0   0   0  .200  .333  .400 
+Roy Oswalt         R   5   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Rick Reed          R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Wandy Rodriguez    L   5   1   1   0   0   3   1   1   0   0   0  .200  .500  .400 
+John Smoltz        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jorge Sosa         R   5   2   0   0   2   0   0   0   0   0   0  .400  .400 1.600 
+Jeff Suppan        R  12   2   0   0   1   3   1   0   0   0   0  .167  .333  .417 
+Brad Thompson      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jeff Weaver        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dontrelle Willis   L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Carlos Zambrano    R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600

@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bob Buhl           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Carl Erskine       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Howie Fox          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Ruben Gomez        R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Jim Hearn          R   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 
+Larry Jansen       R  11   0   0   0   0   2   0   1   0   0   0  .000  .154  .000 
+Sal Maglie         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Russ Meyer         R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Minner        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+V. Mizell          L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Chet Nichols       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bud Podbielan      R   9   0   0   0   0   1   0   0   0   0   0  .000  .100  .000 
+K. Raffensberger   L  11   2   0   1   0   1   0   1   0   0   0  .182  .250  .364 
+Robin Roberts      R   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 
+Preacher Roe       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Curt Simmons       L   9   1   0   0   0   1   0   0   0   0   0  .111  .200  .111 
+Frank Smith        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Gerry Staley       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ben Wade           R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Herm Wehmeier      R  17   0   0   0   0   4   0   1   0   0   0  .000  .190  .000 
+Jim Wilson         R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Al Worthington     R   5   0   0   0   0   3   0   1   0   0   0  .000  .375  .000

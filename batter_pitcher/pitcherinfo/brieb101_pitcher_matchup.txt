@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   8   2   0   0   1   0   0   1   0   0   0  .250  .250  .625 
+Fred Anderson      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Hugh Bedient       R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 i
+Chief Bender       R  11   5   0   0   0   1   0   2   0   0   0  .455  .500  .455 i
+Rube Benton        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Joe Benz           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Joe Boehling       L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Bernie Boland      R   6   2   0   0   0   1   0   1   0   1   0  .333  .429  .333 
+Boardwalk Brown    R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Leon Cadore        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pug Cavet          L   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Ray Collins        L   9   3   0   0   1   0   0   1   0   0   0  .333  .333  .667 i
+Fritz Coumbe       L   3   1   1   0   0   0   0   0   1   0   0  .333  .500  .667 i
+Hooks Dauss        R   7   2   0   1   0   0   0   2   1   0   0  .286  .375  .571 i
+Phil Douglas       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jean Dubuc         R   6   3   1   0   0   0   0   2   0   1   0  .500  .500  .667 i
+Joe Engel          L  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Cy Falkenberg      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Fisher         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Russ Ford          R  12   2   0   0   0   1   0   2   0   0   0  .167  .231  .167 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rube Foster        R   6   1   0   0   0   1   0   2   1   0   0  .167  .375  .167 
+Vean Gregg         L   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Bob Groom          R  11   1   0   0   0   0   0   4   0   0   0  .091  .091  .091 i
+Marc Hall          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Walter Johnson     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ray Keating        R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Jimmy Lavender     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Dutch Leonard      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+G. Lowdermilk      R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Rube Marquard      L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Erskine Mayer      R   8   1   0   0   1   0   0   1   0   0   0  .125  .125  .500 
+George McConnell   R   5   1   0   0   0   1   0   1   0   2   0  .200  .333  .200 i
+Willie Mitchell    L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+George Mullin      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Pol Perritt        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Jeff Pfeffer       R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Eddie Plank        L   9   2   0   0   0   1   0   2   0   0   0  .222  .300  .222 i
+Eppa Rixey         L   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Dick Rudolph       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Reb Russell        L   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Slim Sallee        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Seaton         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jim Shaw           R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Bob Shawkey        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jeff Tesreau       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Hippo Vaughn       L   4   1   0   0   0   1   0   1   0   2   0  .250  .400  .250 i
+Ed Walsh           R   8   2   1   0   0   1   0   0   0   1   0  .250  .333  .375 i
+Doc White          L   2   2   0   0   0   1   0   0   1   0   0 1.000 1.000 1.000 i
+Ed Willett         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Smoky Joe Wood     R  10   2   1   0   0   1   0   3   0   0   0  .200  .273  .300

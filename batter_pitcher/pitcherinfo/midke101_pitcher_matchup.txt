@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mack Allison       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+G. Baumgardner     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Hugh Bedient       R  12   3   0   0   0   0   0   2   0   1   0  .250  .250  .250 i
+Chief Bender       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Joe Benz           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fred Blanding      R  12   2   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Joe Boehling       L   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Bert Brenner       R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Boardwalk Brown    R  12   1   0   0   0   1   0   2   0   0   0  .083  .154  .083 i
+Eddie Cicotte      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Ray Collins        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hooks Dauss        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jean Dubuc         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Cy Falkenberg      R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Vean Gregg         L   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Bob Groom          R   8   0   0   0   0   1   0   1   0   0   0  .000  .111  .000 
+Marc Hall          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Earl Hamilton      L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Byron Houck        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Willie Jensen      R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Walter Johnson     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Kahler      R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Joe Lake           R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Walt Leverenz      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Roy Mitchell       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Willie Mitchell    L  12   1   0   0   0   1   0   3   0   1   0  .083  .154  .083 i
+Buck O'Brien       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Eddie Plank        L   9   2   0   1   0   0   0   1   0   0   0  .222  .222  .444 
+Reb Russell        L   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 
+Jim Scott          R  14   2   1   0   0   0   0   1   0   1   0  .143  .143  .214 i
+Bill Steen         R   6   2   2   0   0   0   0   0   0   0   0  .333  .333  .667 i
+Dwight Stone       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Ed Walsh           R  10   2   1   0   0   1   0   2   0   1   0  .200  .273  .300 
+Charlie Wheatley   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Doc White          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Smoky Joe Wood     R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Weldon Wyckoff     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

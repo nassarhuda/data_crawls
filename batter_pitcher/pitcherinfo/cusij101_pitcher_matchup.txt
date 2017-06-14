@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Bickford      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Brazle          L   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Harry Brecheen     L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cliff Chambers     L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bubba Church       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Dave Cole          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Murry Dickson      R   8   2   0   0   1   0   0   1   0   0   0  .250  .250  .625 
+George Estock      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Friend         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Hearn          R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Larry Jansen       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Clyde King         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Konstanty      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Koski         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Sal Maglie         R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Russ Meyer         R   8   2   0   0   0   3   0   0   0   0   0  .250  .455  .250 
+Don Newcombe       R  10   3   1   0   0   2   0   3   0   1   0  .300  .417  .400 
+Erv Palica         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Pollet       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+K. Raffensberger   L  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willie Ramsdell    R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Robin Roberts      R  16   4   0   1   0   0   0   1   0   0   0  .250  .250  .375 
+Preacher Roe       L  12   3   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Johnny Sain        R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Johnny Schmitz     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+George Spencer     R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Gerry Staley       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Chris Van Cuyk     L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bill Werle         L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Wilson         R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800

@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Black          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Cliff Fannin       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Feller         R  10   0   0   0   0   0   0  10   0   0   0  .000  .000  .000 
+Dave Ferriss       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Steve Gromek       R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Jack Kramer        R   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Cuddles Marshall   R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Hal Newhouser      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Frank Papish       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dizzy Trout        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

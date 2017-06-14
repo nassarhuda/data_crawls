@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bert Blyleven      R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Steve Dunning      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Joe Horlen         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Catfish Hunter     R   5   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Gerry Janeski      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave McNally       L   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Tom Murphy         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Perry          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Gary Peters        L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Diego Segui        R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Earl Wilson        R  10   5   0   0   0   0   0   4   0   1   0  .500  .500  .500

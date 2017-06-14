@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jimmy Anderson     L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Miguel Batista     R   6   2   0   0   0   0   0   3   0   1   0  .333  .333  .333 
+Bartolo Colon      R   5   1   0   0   0   0   0   3   0   2   0  .200  .200  .200 
+Casey Fossum       L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Mike Hampton       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jason Jennings     R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Brian Lawrence     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Cory Lidle         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jake Peavy         R   5   1   0   0   1   1   0   4   0   0   0  .200  .333  .800 
+Kirk Rueter        L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Glendon Rusch      L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Brett Tomko        R   6   2   0   0   0   0   0   3   0   1   0  .333  .333  .333 
+Brandon Webb       R   5   1   0   1   0   0   0   3   0   0   0  .200  .200  .600 
+Dontrelle Willis   L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250

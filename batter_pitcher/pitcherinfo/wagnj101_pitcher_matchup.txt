@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Jack Coombs        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Wheezer Dell       R   6   2   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Bob Harmon         R   8   1   0   1   0   0   0   1   0   0   0  .125  .125  .375 
+Erv Kantlehner     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+C. Mathewson       R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Erskine Mayer      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Lee Meadows        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pol Perritt        R   7   1   1   0   0   1   0   2   0   0   0  .143  .250  .286 i
+Jeff Pfeffer       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eppa Rixey         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Sailor Stroud      R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Jeff Tesreau       R  10   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Zip Zabel          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

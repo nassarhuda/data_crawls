@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+G. Blaeholder      R  10   1   1   0   0   1   0   1   0   0   0  .100  .182  .200 i
+Cy Blanton         R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 i
+Joe Bowman         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Clint Brown        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Lloyd Brown        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Mace Brown         R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 i
+Slick Castleman    R   9   1   0   1   0   0   0   5   0   2   0  .111  .111  .333 i
+Dick Coffman       R  10   2   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Sarge Connally     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+General Crowder    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Paul Derringer     R   6   1   0   0   0   0   0   5   0   1   0  .167  .167  .167 
+Bill Dietrich      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Errickson     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Lefty Gomez        L   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Lee Grissom        L   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Bump Hadley        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Luke Hamlin        R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 i
+Oral Hildebrand    R   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Al Hollingsworth   L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willis Hudlin      R  10   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 i
+Ira Hutchinson     R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Bob Klinger        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Ted Lyons          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Danny MacFayden    R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 i
+Hugh Mulcahy       R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Claude Passeau     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Herb Pennock       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Schoolboy Rowe     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Red Ruffing        R   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 i
+Jack Russell       R   6   2   0   0   0   0   0   3   0   2   0  .333  .333  .333 i
+Bill Swift         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Vito Tamulis       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Tommy Thomas       R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 i
+Jim Turner         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Rube Walberg       L   5   0   0   0   0   5   0   1   0   0   0  .000  .500  .000 
+Jim Weaver         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Earl Whitehill     L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Cain          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Zack Greinke       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Aaron Harang       R   5   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Jon Niese          L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ross Ohlendorf     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+S. Strasburg       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Alex Wood          L   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143

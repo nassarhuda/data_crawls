@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Brewer         R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Tommy Byrne        L   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+Art Ceccarelli     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dick Donovan       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Whitey Ford        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mike Fornieles     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ned Garver         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Grim           R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Billy Hoeft        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Johnny Kucks       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Lemon          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Frank Sullivan     R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Bob Turley         R  13   2   0   0   0   0   0   2   0   0   0  .154  .154  .154

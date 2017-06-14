@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny Darwin       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jimmy Haynes       R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Jose Lima          R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Greg Maddux        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Tapani       R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750

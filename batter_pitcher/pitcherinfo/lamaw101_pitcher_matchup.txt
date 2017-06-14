@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Guy Bush           R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Joe Cascarella     R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Fred Frankhouse    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Larry French       L   8   2   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Al Hollingsworth   L   8   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Van Mungo          R   6   1   1   0   0   1   0   4   0   0   0  .167  .286  .333 
+Roy Parmelee       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hal Schumacher     R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

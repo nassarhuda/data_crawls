@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Bevens        R  10   3   0   0   0   0   0   0   0   1   0  .300  .300  .300 
+Tiny Bonham        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Alex Carrasquel    R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Spud Chandler      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Monk Dubiel        R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Dave Ferriss       R  10   5   1   0   0   0   0   1   0   0   0  .500  .500  .600 
+Jesse Flores       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Gerkin       R   8   2   0   0   0   2   0   1   0   0   0  .250  .400  .250 
+Al Gettel          R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Steve Gromek       R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+Orval Grove        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Randy Heflin       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Holcombe       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Ed Klieman         R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lou Knerr          R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Eddie Lopat        L   7   1   1   0   0   1   0   1   0   1   0  .143  .250  .286 
+Hal Newhouser      L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Bobo Newsom        R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+Johnny Niggeling   R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Marino Pieretti    R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Allie Reynolds     R  14   4   1   0   0   1   0   0   0   0   0  .286  .333  .357 
+Red Ruffing        R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Ryba          R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Al Smith           L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Yank Terry         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Dizzy Trout        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Turner         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Roger Wolff        R  11   2   0   1   0   0   0   1   0   0   0  .182  .182  .364 
+Pinky Woods        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Bill Zuber         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

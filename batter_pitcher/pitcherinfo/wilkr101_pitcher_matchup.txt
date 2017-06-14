@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Acosta        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Bagby          R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill Bayne         L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Bullet Joe Bush    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Sad Sam Jones      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Duster Mails       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Carl Mays          R   8   3   1   0   0   0   0   3   0   0   0  .375  .375  .500 i
+George Mogridge    L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Rollie Naylor      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Shawkey        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+George Uhle        R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000

@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Earl Caldwell      R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Ed Cole            R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Denny Galehouse    R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Bump Hadley        R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mel Harder         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Harry Kelley       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jack Knott         R  12   2   1   0   0   0   0   3   0   0   0  .167  .167  .250 
+Hod Lisenbee       R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Red Ruffing        R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 
+Eddie Smith        L   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Rube Walberg       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Monte Weaver       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Earl Whitehill     L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Williams        R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

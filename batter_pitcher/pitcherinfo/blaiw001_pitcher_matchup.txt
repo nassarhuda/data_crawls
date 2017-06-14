@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Dwight Gooden      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Terry Mulholland   L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Hideo Nomo         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

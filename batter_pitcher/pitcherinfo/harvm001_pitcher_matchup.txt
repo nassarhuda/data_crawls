@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gio Gonzalez       L   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Cole Hamels        L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Koehler        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Lannan        L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Tim Lincecum       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ross Ohlendorf     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Max Scherzer       R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+S. Strasburg       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

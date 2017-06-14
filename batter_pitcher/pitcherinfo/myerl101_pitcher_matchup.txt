@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Russ Bauers        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Clay Bryant        R  12   5   1   1   1   1   0   1   0   0   0  .417  .462  .917 
+Paul Derringer     R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Dick Errickson     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Lou Fette          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+F. Fitzsimmons     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Larry French       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Lee Grissom        L   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Luke Hamlin        R  15   5   1   0   0   0   0   1   0   0   0  .333  .333  .400 i
+Kirby Higbe        R   9   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Al Hollingsworth   L  16   3   0   0   0   0   0   2   0   0   0  .188  .188  .188 i
+Carl Hubbell       L  11   1   0   0   0   2   1   0   0   1   0  .091  .231  .091 i
+Ira Hutchinson     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Johnny Lanning     R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Bill Lee           R  14   2   0   0   0   1   0   2   0   0   0  .143  .200  .143 
+Danny MacFayden    R   8   2   0   0   0   2   0   0   0   0   0  .250  .400  .250 i
+Cliff Melton       L   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 i
+Whitey Moore       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Hugh Mulcahy       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Vance Page         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Claude Passeau     R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Ike Pearson        R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Bill Posedel       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Charlie Root       R   5   2   1   1   0   0   0   0   0   0   0  .400  .400 1.000 
+Milt Shoffner      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vito Tamulis       L   7   1   1   0   0   1   0   2   0   0   0  .143  .250  .286 i
+Jim Tobin          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jim Turner         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Bucky Walters      R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Jim Weaver         R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000

@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pete Alexander     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Jim Bagby          R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Clyde Barfoot      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Jesse Barnes       R   6   3   1   0   0   2   0   3   0   0   0  .500  .625  .667 i
+Jack Bentley       L  10   3   0   1   0   2   0   1   0   0   0  .300  .417  .500 
+Rube Benton        L   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 i
+Sheriff Blake      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Guy Bush           R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Leon Cadore        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Virgil Cheeves     R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Bill Doak          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Pete Donohue       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+F. Fitzsimmons     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Whitey Glazner     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   6   3   0   1   0   2   0   1   0   0   0  .500  .625  .833 
+Jesse Haines       R  14   4   0   0   0   1   0   3   0   0   0  .286  .333  .286 
+Bill Hubbell       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Elmer Jacobs       R   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 
+Percy Jones        L   5   0   0   0   0   4   0   1   0   0   0  .000  .444  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Kaufmann      R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333 
+Vic Keen           R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Ray Kremer         R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Jakie May          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lee Meadows        R   9   2   0   0   0   2   0   4   0   0   0  .222  .364  .222 i
+George Mogridge    L   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 
+Johnny Morrison    R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Art Nehf           L  14   4   0   0   0   1   0   2   0   0   0  .286  .333  .286 
+Tiny Osborne       R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 i
+Bill Pertica       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jesse Petty        L   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 
+Art Reinhart       L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Eppa Rixey         L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Dutch Ruether      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Sheehan        R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Bill Sherdel       L   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+John Singleton     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+George Smith       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dazzy Vance        R   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mule Watson        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Weinert      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Emil Yde           L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i

@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Vic Aldridge       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Alexander     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jesse Barnes       R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Leon Cadore        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Wilbur Cooper      L   6   2   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Al Demaree         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Joe Engel          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   9   1   0   0   0   0   0   4   1   1   0  .111  .200  .111 i
+Charley Hall       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Claude Hendrix     R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Tom Hughes         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dolf Luque         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rube Marquard      L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Speed Martin       R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 i
+Art Nehf           L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jeff Pfeffer       R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Jimmy Ring         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Eppa Rixey         L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Pete Schneider     R  11   1   0   0   0   1   0   1   0   2   0  .091  .167  .091 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Sherdel       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Sherry Smith       L   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 i
+Fred Toney         R   7   1   0   0   0   0   0   1   0   2   0  .143  .143  .143

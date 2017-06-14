@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Cheney       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Wilbur Cooper      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dana Fillingim     R   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 i
+Whitey Glazner     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bill Hubbell       R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Elmer Jacobs       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Dolf Luque         R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Frank Miller       R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Art Nehf           L  11   1   0   0   0   0   0   3   0   0   0  .091  .091  .091 
+Joe Oeschger       R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Sherry Smith       L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Jimmy Zinn         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

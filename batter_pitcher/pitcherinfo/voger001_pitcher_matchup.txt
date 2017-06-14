@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Trevor Cahill      R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Jhoulys Chacin     R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Matt Clement       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Doug Davis         L   7   3   0   0   0   0   0   2   0   1   0  .429  .429  .429 
+R.A. Dickey        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dana Eveland       L   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Scott Feldman      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Ian Kennedy        R   6   2   0   0   0   0   0   2   0   3   0  .333  .333  .333 
+Clayton Kershaw    L  10   1   0   0   0   0   0   4   0   1   0  .100  .100  .100 
+Mat Latos          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jason Marquis      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wade Miley         L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jeff Samardzija    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Anibal Sanchez     R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Victor Santos      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+S. Strasburg       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Julio Teheran      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

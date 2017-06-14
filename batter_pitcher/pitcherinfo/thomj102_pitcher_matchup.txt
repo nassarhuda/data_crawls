@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Boom-Boom Beck     R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Bob Bowman         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bob Carpenter      R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Hugh Casey         R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Curt Davis         R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 
+Paul Dean          R   2   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Dick Errickson     R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Harry Gumbert      R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+Luke Hamlin        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Kirby Higbe        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Newt Kimball       R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Johnny Lanning     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bill Lohrman       R  15   3   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bill McGee         R  10   3   0   0   0   0   0   2   0   0   0  .300  .300  .300 
+Hugh Mulcahy       R   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Claude Passeau     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Johnny Podgajny    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Charlie Root       R   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 
+Rip Sewell         R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Whit Wyatt         R   8   2   1   0   0   0   0   3   0   0   0  .250  .250  .375

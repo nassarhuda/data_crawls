@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Beazley     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Hi Bithorn         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Mort Cooper        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Curt Davis         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Larry French       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Kirby Higbe        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Hank Leiber        R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Bill Lohrman       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bobo Newsom        R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Elmer Riddle       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Hal Schumacher     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

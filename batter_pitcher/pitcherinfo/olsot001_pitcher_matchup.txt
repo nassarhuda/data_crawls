@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kazuhisa Ishii     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Odalis Perez       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+David Wells        L   5   2   0   0   1   1   0   1   0   0   0  .400  .500 1.000

@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+R. Aitchison       L   8   2   1   0   0   1   0   1   0   0   0  .250  .333  .375 i
+Frank Allen        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Rube Benton        L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 i
+Al Demaree         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rube Marquard      L   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+C. Mathewson       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Hank Robinson      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Hippo Vaughn       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Earl Yingling      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

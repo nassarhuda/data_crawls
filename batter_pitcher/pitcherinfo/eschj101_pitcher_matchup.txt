@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Gallia        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Walter Johnson     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Tom Knowlson       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Weldon Wyckoff     R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000

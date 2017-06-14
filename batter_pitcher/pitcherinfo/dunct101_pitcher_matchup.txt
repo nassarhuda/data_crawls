@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Aase           R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Glenn Abbott       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Mike Caldwell      L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Clancy         R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Steve Comer        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Dennis Eckersley   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Erickson     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mike Flanagan      L  10   3   1   0   0   0   0   1   0   0   0  .300  .300  .400 
+Rich Gale          R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Jerry Garvin       L   6   4   1   1   0   0   0   1   0   0   0  .667  .667 1.167 
+Dave Goltz         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ron Guidry         L  14   3   1   0   0   1   0   1   0   0   0  .214  .267  .286 
+Larry Gura         L   9   1   0   0   0   0   0   0   0   1   0  .111  .111  .111 
+Paul Hartzell      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Andy Hassler       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Catfish Hunter     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Darrell Jackson    L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Fergie Jenkins     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ken Kravec         L   8   4   0   0   0   3   0   0   0   0   0  .500  .636  .500 
+Bill Lee           L   6   4   2   0   1   0   0   0   0   0   0  .667  .667 1.500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Leonard     R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Mike Marshall      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jon Matlack        L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Scott McGregor     L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Mitchell      R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Balor Moore        L   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Jim Palmer         R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Parrott       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Marty Pattin       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Shane Rawley       L   3   2   0   0   0   0   0   0   0   0   1  .667  .500  .667 
+Dave Rozema        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Nolan Ryan         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Gary Serum         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Slaton         R   2   0   0   0   0   1   0   0   0   0   1  .000  .250  .000 
+Paul Splittorff    L   9   4   2   0   1   0   0   1   0   0   0  .444  .444 1.000 
+Frank Tanana       L   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Jim Todd           R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mike Torrez        R   9   4   0   0   0   0   0   2   0   0   0  .444  .444  .444 
+Bill Travers       L   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Steve Trout        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Underwood      L   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Rick Wise          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kip Young          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Geoff Zahn         L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500

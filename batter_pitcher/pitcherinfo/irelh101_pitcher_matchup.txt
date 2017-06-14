@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rube Benton        L   3   1   1   0   0   2   0   0   0   0   0  .333  .600  .667 i
+Gene Cocreham      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Phil Douglas       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Bob Harmon         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bert Humphries     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill James         R  12   3   1   0   1   2   0   1   0   0   0  .250  .357  .583 i
+King Lear          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George McQuillan   R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pol Perritt        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jeff Pfeffer       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Ed Reulbach        R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Dick Rudolph       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 i
+Hippo Vaughn       L   9   2   0   0   0   1   0   2   0   0   0  .222  .300  .222 
+Earl Yingling      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

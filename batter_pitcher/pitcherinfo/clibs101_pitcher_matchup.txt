@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Clancy         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Richard Dotson     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Trout        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200

@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Babich      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+F. Fitzsimmons     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Frank Gabler       R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Carl Hubbell       L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Hal Kelleher       R   4   1   1   0   0   0   0   0   1   0   0  .250  .400  .500 
+Roy Parmelee       R   3   0   0   0   0   3   0   1   0   0   0  .000  .500  .000 
+Bobby Reis         R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Al Smith           L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

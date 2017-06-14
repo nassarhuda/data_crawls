@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Fowler        R   4   2   0   0   0   1   0   0   0   1   0  .500  .600  .500 
+Fred Hutchinson    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Eddie Lopat        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Scarborough    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

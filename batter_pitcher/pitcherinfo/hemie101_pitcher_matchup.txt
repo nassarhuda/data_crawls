@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Ames           R   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Ralph Comstock     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Wilbur Cooper      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill Doak          R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Hod Eller          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Marv Goodwin       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Claude Hendrix     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lee Meadows        R   6   0   0   0   0   1   0   0   0   1   0  .000  .143  .000 i
+Joe Oeschger       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Gene Packard       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Mike Regan         R   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 i
+Jimmy Ring         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Dutch Ruether      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pete Schneider     R   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 i
+Cy Slapnicka       R   4   0   0   0   0   0   0   0   1   1   0  .000  .200  .000 
+Lefty Tyler        L  15   5   1   0   0   0   0   1   0   1   0  .333  .333  .400 
+Hippo Vaughn       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i

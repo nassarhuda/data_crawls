@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bunning        R  12   1   0   0   0   0   0   5   0   0   0  .083  .083  .083 
+Lew Burdette       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Cardwell       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tony Cloninger     R   9   5   2   0   1   1   0   1   0   0   0  .556  .600 1.111 
+Roger Craig        R  11   1   0   0   0   1   0   1   0   0   0  .091  .167  .091 
+Ray Daviault       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Don Drysdale       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hank Fischer       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jack Fisher        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Gibson         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Glen Hobbie        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jay Hook           R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Larry Jackson      R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Sandy Koufax       L   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Vern Law           R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jim Maloney        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Juan Marichal      R   9   4   1   0   0   1   0   2   0   0   0  .444  .500  .556 
+Stu Miller         R   3   0   0   0   0   2   0   2   1   0   0  .000  .500  .000 
+Joe Nuxhall        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Gaylord Perry      R   6   2   0   0   0   0   0   1   0   0   1  .333  .286  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Short        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Simmons       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ron Taylor         R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+John Tsitouris     R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Ray Washburn       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333

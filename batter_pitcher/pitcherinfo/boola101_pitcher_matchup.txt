@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   9   1   0   0   0   2   0   2   0   0   0  .111  .273  .111 i
+Guy Bush           R  12   3   0   1   0   1   0   0   0   0   0  .250  .308  .417 
+Ben Cantwell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Watty Clark        L   6   2   1   0   0   3   2   1   0   0   0  .333  .556  .500 
+Phil Collins       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Clise Dudley       R   9   3   0   0   0   1   0   1   0   0   0  .333  .400  .333 
+Hal Elliott        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Jumbo Elliott      L   7   2   0   0   1   1   0   0   0   0   0  .286  .375  .714 
+F. Fitzsimmons     R   8   2   2   0   0   1   0   2   0   0   0  .250  .333  .500 
+Benny Frey         R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Burleigh Grimes    R   6   2   0   1   0   1   1   0   0   0   0  .333  .429  .667 
+Jesse Haines       R   7   2   0   0   0   1   0   3   0   0   0  .286  .375  .286 
+Snipe Hansen       L   8   3   0   0   1   0   0   1   0   0   0  .375  .375  .750 
+Joe Heving         R   5   2   1   1   0   1   0   1   0   0   0  .400  .500 1.000 
+Carl Hubbell       L  11   2   0   0   0   1   0   3   0   0   0  .182  .250  .182 
+Red Lucas          R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Pat Malone         R   8   1   1   0   0   0   0   2   0   0   0  .125  .125  .250 
+Heinie Meine       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+C. Mitchell        L   8   2   0   0   0   2   1   0   0   0   0  .250  .400  .250 
+Johnny Morrison    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chet Nichols       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Bob Osborn         R   8   2   0   0   1   1   0   1   0   0   0  .250  .333  .625 
+Roy Parmelee       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Hub Pruett         L   5   2   0   0   1   1   0   0   0   0   0  .400  .500 1.000 
+Socks Seibold      R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Sherdel       L   4   1   1   0   0   1   1   0   0   0   0  .250  .400  .500 
+Bob Smith          R   3   1   0   0   0   1   1   0   0   1   0  .333  .500  .333 
+Glenn Spencer      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Les Sweetland      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bud Teachout       L   5   2   1   0   1   1   0   1   0   0   0  .400  .500 1.200 i
+Sloppy Thurston    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dazzy Vance        R   3   1   1   0   0   1   0   2   0   0   0  .333  .500  .667 
+Bill Walker        L  16   3   1   0   0   2   1   1   0   0   0  .188  .278  .250 
+Lon Warneke        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Zachary        L  10   2   0   0   1   1   1   2   0   0   0  .200  .273  .500

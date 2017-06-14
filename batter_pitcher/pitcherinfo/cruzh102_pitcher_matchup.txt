@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Barr           R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Burris         R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Buzz Capra         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Dock Ellis         R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Ken Forsch         R   3   2   0   0   0   1   1   0   0   0   0  .667  .750  .667 
+Dave Freisleben    R  10   3   1   0   0   1   1   0   0   0   0  .300  .364  .400 
+Danny Frisella     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Halicki         R  10   1   0   0   0   0   0   3   0   0   0  .100  .100  .100 
+Chris Knapp        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Lonborg        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe McIntosh       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Doc Medich         R   9   3   0   0   0   1   0   0   0   0   0  .333  .400  .333 
+Randy Moffitt      R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+John Montefusco    R   7   2   2   0   0   0   0   1   0   0   0  .286  .286  .571 
+Carl Morton        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Phil Niekro        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Gary Nolan         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Eric Rasmussen     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Steve Renko        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+J.R. Richard       R   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Enrique Romo       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Nolan Ryan         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Lary Sorensen      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Don Stanhouse      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Charlie Williams   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Alan Wirth         R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600

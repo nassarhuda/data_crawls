@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Lemon          R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Bob Wiesler        L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Bill Wight         L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250

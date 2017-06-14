@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Alan Benes         R   2   0   0   0   0   1   0   2   0   2   0  .000  .333  .000 
+Kevin Brown        R   4   3   0   0   0   0   0   0   0   1   0  .750  .750  .750 
+Jim Bullinger      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Omar Daal          L   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Ryan Dempster      R   5   2   2   0   0   0   0   2   0   0   0  .400  .400  .800 
+Darren Dreifort    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+O. Fernandez       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Tom Glavine        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Joey Hamilton      R   2   0   0   0   0   2   0   1   0   1   0  .000  .500  .000 
+Mike Hampton       L   9   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Aaron Harang       R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Pete Harnisch      R   6   0   0   0   0   2   0   3   0   0   0  .000  .250  .000 
+Dustin Hermanson   R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Livan Hernandez    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Orel Hershiser     R   6   1   0   1   0   0   0   1   0   0   0  .167  .167  .500 
+Chris Holt         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tim Hudson         R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Mike Johnson       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jon Lieber         R   7   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Esteban Loaiza     R   5   1   0   0   0   0   0   4   0   2   0  .200  .200  .200 
+Greg Maddux        R   6   3   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Jason Marquis      R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Eric Milton        L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dave Mlicki        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brett Myers        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chan Ho Park       R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Steve Parris       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carl Pavano        R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Jake Peavy         R   3   2   1   0   0   0   0   1   0   1   0  .667  .667 1.000 
+Bill Pulsipher     L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Shane Reynolds     R   3   1   1   0   0   0   0   2   0   1   0  .333  .333  .667 
+Wandy Rodriguez    L   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 
+Kirk Rueter        L   7   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dennis Springer    R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Kevin Tapani       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Brian Tollberg     R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Steve Trachsel     R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ismael Valdez      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Claudio Vargas     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kip Wells          R   6   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Don Wengert        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Woody Williams     R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+Carlos Zambrano    R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ernie Broglio      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bob Bruce          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Buhl           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Bunning        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tony Cloninger     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Culp           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Cumberland    L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Larry Dierker      R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Don Drysdale       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sammy Ellis        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jack Fisher        R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Bob Gibson         R   8   0   0   0   0   0   0   7   0   1   0  .000  .000  .000 
+Larry Jackson      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ken Johnson        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Denny Lemaster     L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Billy McCool       L   3   1   1   0   0   1   0   2   0   0   0  .333  .500  .667 
+Jim O'Toole        L   4   0   0   0   0   1   0   3   0   1   0  .000  .200  .000 
+Bob Veale          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

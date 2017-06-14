@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R   4   1   1   0   0   1   0   0   0   0   1  .250  .333  .500 
+Brett Anderson     L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jake Arrieta       R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+M. Bumgarner       L   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Chris Carpenter    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Alex Cobb          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Delabar      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Jorge de la Rosa   L   7   3   2   0   0   0   0   2   0   0   0  .429  .429  .714 
+Doug Fister        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Gio Gonzalez       L   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Zack Greinke       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeremy Guthrie     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Cole Hamels        L   5   1   0   0   0   1   1   1   0   0   0  .200  .333  .200 
+J. Hellickson      R   6   4   0   0   0   0   0   1   0   0   0  .667  .667  .667 
+Pedro Hernandez    L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Derek Holland      L  10   3   0   0   0   0   0   3   0   0   0  .300  .300  .300 
+Phil Hughes        R   9   4   2   0   0   0   0   0   0   0   0  .444  .444  .667 
+Kevin Jepsen       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ubaldo Jimenez     R   5   2   1   0   0   0   0   0   0   0   1  .400  .333  .600 
+Clayton Kershaw    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hiroki Kuroda      R  12   3   2   0   0   0   0   2   0   1   0  .250  .250  .417 
+John Lackey        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Aaron Laffey       L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Cliff Lee          L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jon Lester         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Zach McAllister    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Wade Miley         L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Ricky Nolasco      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+David Phelps       R   9   4   0   0   0   0   0   1   0   0   0  .444  .444  .444 
+David Price        L  10   1   0   0   0   0   0   5   0   0   0  .100  .100  .100 
+Jose Quintana      L   9   3   0   1   0   0   0   1   0   0   0  .333  .333  .556 
+Garrett Richards   R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Andre Rienzo       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+CC Sabathia        L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Max Scherzer       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Will Smith         L   3   2   0   0   1   0   0   0   1   0   0  .667  .750 1.667 
+Chris Tillman      R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 
+C. Villanueva      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Jered Weaver       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+C.J. Wilson        L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200

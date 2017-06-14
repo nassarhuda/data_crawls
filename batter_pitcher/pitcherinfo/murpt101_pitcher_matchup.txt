@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R  11   1   0   0   0   0   0   3   0   0   0  .091  .091  .091 
+Bert Blyleven      R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Gene Brabender     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Wally Bunker       R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Bill Butler        L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Les Cain           L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Joe Coleman        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Casey Cox          R   2   0   0   0   0   0   0   0   0   1   1  .000  .000  .000 
+Ray Culp           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Drago         R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Steve Hargan       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Joe Horlen         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tommy John         L  10   0   0   0   0   1   0   5   0   0   0  .000  .091  .000 
+Jim Kaat           L   9   2   0   0   0   0   0   2   0   1   0  .222  .222  .222 
+Mike Kekich        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Lew Krausse        R   7   3   0   0   1   0   0   2   0   1   0  .429  .429  .857 
+Jim Lonborg        R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Sam McDowell       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Denny McLain       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave McNally       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Blue Moon Odom     R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Claude Osteen      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Palmer         R   5   1   0   0   0   0   0   1   0   2   0  .200  .200  .200 
+Milt Pappas        R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Marty Pattin       R  14   2   0   0   0   0   0   7   0   1   0  .143  .143  .143 
+Jim Perry          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Rooker         L   2   1   0   0   0   2   0   0   0   1   0  .500  .750  .500 
+Sonny Siebert      R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250

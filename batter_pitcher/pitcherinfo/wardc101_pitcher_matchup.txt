@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Barr           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jack Billingham    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Dennis Blair       R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Pedro Borbon       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Freisleben    R   8   3   1   0   1   1   0   0   0   0   0  .375  .444  .875 
+Gene Garber        R   0   0   0   0   0   4   1   0   0   0   0     - 1.000     - 
+Bruce Kison        R   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Steve Renko        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Seaver         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Sonny Siebert      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dan Spillner       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Don Sutton         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chuck Taylor       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Walker         R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000

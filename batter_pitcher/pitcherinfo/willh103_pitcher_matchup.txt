@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+G. Baumgardner     R   5   2   1   0   0   0   0   0   0   3   0  .400  .400  .600 i
+Hugh Bedient       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Joe Benz           R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+George Boehler     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Joe Boehling       L   8   0   0   0   0   2   0   2   0   0   0  .000  .200  .000 i
+Eddie Cicotte      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Harry Coveleski    L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Hooks Dauss        R   5   1   1   0   0   2   0   0   2   0   0  .200  .556  .400 
+Jean Dubuc         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Rube Foster        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rip Hagerman       R   2   0   0   0   0   1   0   0   1   0   0  .000  .500  .000 i
+Earl Hamilton      L   8   4   1   0   0   1   0   0   0   0   0  .500  .556  .625 
+Walter Johnson     R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 i
+Dutch Leonard      L   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Roy Mitchell       R   4   1   0   0   0   2   0   0   0   1   0  .250  .500  .250 i
+Jim Scott          R   9   0   0   0   0   1   0   2   0   0   0  .000  .100  .000 i
+Jim Shaw           R   8   3   0   1   0   0   0   1   0   0   0  .375  .375  .625 i
+Bob Shawkey        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bill Steen         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Willett         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750

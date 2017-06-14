@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Bosio        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Cowley         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jose DeLeon        R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Richard Dotson     R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Mark Gubicza       R  12   3   1   0   1   0   0   0   0   1   0  .250  .250  .583 
+Charlie Hough      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doug Jones         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Long          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mike Moore         R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Jack Morris        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Dan Petry          R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Jerry Reed         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bret Saberhagen    R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Dave J. Schmidt    R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+John Smoltz        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Stanley        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walt Terrell       R   8   1   0   0   0   1   1   3   0   0   0  .125  .222  .125 
+Bob Tewksbury      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rich Yett          R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429

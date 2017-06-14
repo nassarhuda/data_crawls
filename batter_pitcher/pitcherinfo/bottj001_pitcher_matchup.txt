@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Erik Bedard        L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Dallas Braden      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kyle Davies        R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Lenny DiNardo      L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Scott Downs        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chad Gaudin        R   7   3   0   0   1   1   0   3   0   0   0  .429  .500  .857 
+Roy Halladay       R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Felix Hernandez    R   9   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+John Lackey        R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Ruddy Lugo         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Gil Meche          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dan Meyer          L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Joel Pineiro       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Kirk Saarloos      R   3   3   0   0   1   2   0   0   0   0   0 1.000 1.000 2.000 
+Ervin Santana      R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Joe Saunders       L   6   3   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Carlos Silva       R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Jeff Weaver        R   8   3   1   0   0   0   0   3   0   0   0  .375  .375  .500

@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Orie Arntzen       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Al Benton          R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 i
+Don Black          R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 i
+Tiny Bonham        R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Hank Borowy        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Spud Chandler      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Dietrich      R   5   1   1   0   0   1   0   0   0   1   0  .200  .333  .400 i
+Monk Dubiel        R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Dave Ferriss       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Fleming       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dick Fowler        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lefty Gomez        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Johnny Gorsica     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Steve Gromek       R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 i
+Mickey Haefner     L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Lum Harris         R  11   3   0   1   0   0   0   3   0   2   0  .273  .273  .455 i
+Sid Hudson         R   7   0   0   0   0   2   0   3   0   1   0  .000  .222  .000 i
+Tex Hughson        R  11   2   0   0   0   0   0   1   0   3   0  .182  .182  .182 i
+Fred Hutchinson    R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Larry Jansen       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Thornton Lee       L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Eddie Lopat        L   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 i
+Phil Marchildon    R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bill McCahan       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Hal Newhouser      L  15   1   0   0   0   1   0   8   0   0   0  .067  .125  .067 i
+Bobo Newsom        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Emmett O'Neill     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Frank Papish       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Marino Pieretti    R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Vic Raschi         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Mike Ryba          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Bob Savage         R   2   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Ray Scarborough    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Steve Sundra       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dizzy Trout        R  13   2   0   0   0   0   0   4   0   1   0  .154  .154  .154 i
+Woody Wheaton      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pinky Woods        R   3   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 i
+Bill Zuber         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

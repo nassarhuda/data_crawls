@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L   4   1   0   0   0   1   0   2   0   0   1  .250  .333  .250 
+Floyd Bannister    L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Tom Browning       L   3   1   0   0   0   2   1   0   0   0   0  .333  .600  .333 
+Tony Castillo      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pat Combs          L   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Tom Glavine        L   3   2   0   0   0   1   1   1   0   0   0  .667  .750  .667 
+Chris Hammond      L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bruce Hurst        L   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Tommy John         L   7   3   1   0   0   1   0   0   0   0   0  .429  .500  .571 
+Mike LaCoss        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+C. Leibrandt       L   4   0   0   0   0   1   0   1   0   0   1  .000  .167  .000 
+Rich Rodriguez     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Zane Smith         L   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Greg Swindell      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Frank Tanana       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Frank Viola        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333

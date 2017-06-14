@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Huck Betts         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jesse Haines       R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+C. Mitchell        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Art Nehf           L   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Jeff Pfeffer       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Eppa Rixey         L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jack Scott         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Mule Watson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jesse Winters      R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

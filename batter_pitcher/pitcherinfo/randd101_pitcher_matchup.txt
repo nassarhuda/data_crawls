@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Curt Barclay       R   3   2   0   0   0   1   0   0   0   3   0  .667  .750  .667 
+Lew Burdette       R   9   2   1   0   0   1   0   1   0   0   0  .222  .300  .333 
+Don Cardwell       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Crone          R   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250 
+Dick Drott         R   6   1   0   0   0   0   0   3   0   0   1  .167  .143  .167 
+Don Elston         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Warren Hacker      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Harvey Haddix      L   3   2   0   0   0   0   0   0   0   0   1  .667  .500  .667 
+Sam Jones          R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+J. Klippstein      R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Don Liddle         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Nuxhall        L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Bob Rush           R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Warren Spahn       L  12   1   0   0   1   1   0   3   0   0   0  .083  .154  .333 
+Bob Trowbridge     R   5   0   0   0   0   2   1   0   0   0   0  .000  .286  .000

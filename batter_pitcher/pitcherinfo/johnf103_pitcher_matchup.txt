@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Blass        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Bunning        R  13   4   0   0   0   0   0   3   0   0   0  .308  .308  .308 
+John Buzhardt      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tony Cloninger     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Danny Coombs       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mike Cuellar       L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+George Culver      R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Larry Dierker      R   4   2   0   0   0   2   1   0   0   0   0  .500  .667  .500 
+Rich Folkers       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Danny Frisella     R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Woodie Fryman      L   8   0   0   0   0   1   0   0   0   0   0  .000  .111  .000 
+Bob Gibson         R   9   0   0   0   0   1   0   5   0   0   0  .000  .100  .000 
+Dave Giusti        R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Fred Gladding      R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Tom Griffin        R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Bill Hands         R   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Ken Holtzman       L  10   1   0   0   0   2   0   1   0   0   0  .100  .250  .100 
+Al Jackson         L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Larry Jackson      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Pat Jarvis         R   8   4   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fergie Jenkins     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Cal Koonce         R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Jerry Koosman      L  21   1   1   0   0   2   1   5   1   0   0  .048  .167  .095 
+Denny Lemaster     L  11   3   1   0   0   1   0   1   0   0   0  .273  .333  .364 
+Jim McAndrew       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Joe Moeller        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Carl Morton        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Phil Niekro        R  16   5   0   1   0   0   0   2   0   0   0  .313  .313  .438 
+Claude Osteen      L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Phil Regan         R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Nolan Ryan         R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Tom Seaver         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Short        L  12   2   0   0   0   2   0   2   0   0   0  .167  .286  .167 
+Curt Simmons       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Stone       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Don Sutton         R  11   2   0   0   0   1   0   0   0   0   0  .182  .250  .182 
+Sandy Vance        R   8   2   0   0   1   0   0   1   0   0   0  .250  .250  .625 
+Bob Veale          L  13   1   0   0   0   0   0   3   0   0   0  .077  .077  .077 
+Gary Wagner        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Wilson         R   9   2   0   0   0   1   1   1   0   0   0  .222  .300  .222 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Wise          R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200

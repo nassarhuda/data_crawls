@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Lloyd Brown        L   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Sugar Cain         R   9   1   0   0   0   1   0   3   0   1   0  .111  .200  .111 i
+George Caster      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Dietrich      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Harry Eisenstat    L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Lefty Grove        L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bump Hadley        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Mel Harder         R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Heving         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Oral Hildebrand    R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Willis Hudlin      R   4   3   0   0   0   0   0   0   1   0   0  .750  .800  .750 
+Harry Kelley       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Thornton Lee       L   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Hod Lisenbee       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ted Lyons          R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Al Milnar          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+F. Ostermueller    L   7   1   0   0   0   1   0   0   0   1   0  .143  .250  .143 i
+Buck Ross          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Schoolboy Rowe     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Les Tietje         R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Russ Van Atta      L   6   1   0   1   0   1   0   3   0   0   0  .167  .286  .500 i
+Jake Wade          L   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Earl Whitehill     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Wilson        R   9   3   0   0   0   3   0   0   0   2   0  .333  .500  .333 i

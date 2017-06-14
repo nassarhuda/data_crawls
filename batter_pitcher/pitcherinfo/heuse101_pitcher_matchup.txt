@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Nate Andrews       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Bahr            R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Red Barrett        R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Dick Barrett       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Harry Brecheen     L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ken Burkhart       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Max Butcher        R   7   2   0   1   0   0   0   0   0   2   0  .286  .286  .571 
+Watty Clark        L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Curt Davis         R  15   1   0   0   0   0   0   7   0   0   0  .067  .067  .067 i
+Harry Feldman      R   6   1   0   0   0   0   0   4   0   2   0  .167  .167  .167 
+Hal Gregg          R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jack Hallett       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Art Herring        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Carl Hubbell       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bill Lee           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Van Mungo          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Claude Passeau     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Charley Schanz     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Rip Sewell         R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eddie Smith        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Ray Starr          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Nick Strincevich   R  13   4   0   0   1   1   0   1   0   0   0  .308  .357  .538 
+Les Webber         R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Ted Wilks          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Wright          R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Hank Wyse          R  14   6   3   0   0   0   0   3   0   0   0  .429  .429  .643

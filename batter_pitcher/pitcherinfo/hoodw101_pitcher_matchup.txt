@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dana Fillingim     R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Buck Freeman       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rube Marquard      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Speed Martin       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Hugh McQuillan     R   4   1   0   0   1   3   0   0   0   0   0  .250  .571 1.000 
+Joe Oeschger       R  10   4   1   0   0   1   0   1   1   1   0  .400  .500  .500 
+Jimmy Ring         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Eppa Rixey         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dutch Ruether      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mule Watson        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

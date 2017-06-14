@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Shawn Chacon       R   5   2   1   0   1   0   0   1   0   1   0  .400  .400 1.200 
+Phil Dumatrait     L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Tom Gorzelanny     L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+John Lannan        L   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Jon Lester         L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ted Lilly          L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Paul Maholm        L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Manny Parra        L   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Odalis Perez       L   4   2   1   0   0   0   0   0   1   0   0  .500  .600  .750 
+Nate Robertson     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wandy Rodriguez    L   3   2   0   0   0   1   0   0   0   0   1  .667  .600  .667

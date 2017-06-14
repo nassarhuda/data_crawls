@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Joe Dobson         R  12   3   1   0   0   0   0   4   0   0   0  .250  .250  .333 
+Cliff Fannin       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Feller         R   9   5   1   0   0   1   0   0   0   0   0  .556  .600  .667 
+Dave Ferriss       R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Denny Galehouse    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Mike Garcia        R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ned Garver         R   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Ted Gray           L   4   2   0   0   1   1   0   0   0   0   0  .500  .600 1.250 
+Steve Gromek       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Randy Gumpert      R  23   6   0   1   0   0   0   3   0   0   0  .261  .261  .348 
+Art Houtteman      R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Sid Hudson         R   8   4   1   0   0   0   0   1   0   0   0  .500  .500  .625 
+Fred Hutchinson    R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Howie Judson       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ellis Kinder       R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bob Lemon          R  19   5   1   0   0   1   0   4   0   0   0  .263  .300  .316 
+Eddie Lopat        L   9   2   1   0   0   0   0   1   1   0   0  .222  .300  .333 
+Julio Moreno       R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Hal Newhouser      L  11   3   0   0   0   0   0   2   0   0   0  .273  .273  .273 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willard Nixon      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Joe Ostrowski      L   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+Stubby Overmire    L   8   3   0   0   1   0   0   0   0   0   0  .375  .375  .750 
+Joe Page           L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Satchel Paige      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Frank Papish       L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Mel Parnell        L  13   0   0   0   0   1   1   2   0   0   0  .000  .071  .000 
+Vic Raschi         R  13   6   0   1   0   1   0   1   0   0   0  .462  .500  .615 
+Allie Reynolds     R   7   3   0   1   0   0   0   1   0   0   0  .429  .429  .714 
+Saul Rogovin       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Scarborough    R  10   3   0   0   0   1   0   1   0   1   0  .300  .364  .300 
+Chuck Stobbs       L  11   5   0   0   0   0   0   0   0   0   0  .455  .455  .455 
+Marlin Stuart      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dizzy Trout        R  26   6   0   0   0   0   0   5   0   0   0  .231  .231  .231 
+Virgil Trucks      R   9   0   0   0   0   1   0   1   0   0   0  .000  .100  .000 
+Dick Weik          R   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Dick Welteroth     R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Hal White          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Widmar          R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Bill Wight         L   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Early Wynn         R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Win Ballou         R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 i
+Clint Brown        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Lloyd Brown        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bullet Joe Bush    R   7   2   0   0   0   2   0   2   0   0   0  .286  .444  .286 
+Rip Collins        R   9   2   1   0   0   1   0   0   0   0   0  .222  .300  .333 i
+General Crowder    R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Hooks Dauss        R  10   3   0   0   0   1   0   1   1   0   0  .300  .417  .300 i
+Dixie Davis        R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 i
+Howard Ehmke       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Wes Ferrell        R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Milt Gaston        R   9   2   0   0   0   0   0   1   0   2   0  .222  .222  .222 i
+Sam Gibson         R   8   3   0   1   0   0   0   0   0   0   0  .375  .375  .625 
+Lefty Grove        L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Bump Hadley        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Slim Harriss       R   9   1   0   0   0   0   0   0   0   1   0  .111  .111  .111 i
+Waite Hoyt         R  19   5   1   0   0   0   0   2   0   0   0  .263  .263  .316 
+Willis Hudlin      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walter Johnson     R  10   2   0   0   0   1   0   1   0   0   0  .200  .273  .200 
+Sad Sam Jones      R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Benn Karr          R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny MacFayden    R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+George Murray      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jack Quinn         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Jack Russell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Urban Shocker      R  10   2   0   0   0   1   0   0   0   1   0  .200  .273  .200 
+Sherry Smith       L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+George Uhle        R   9   1   0   0   0   2   0   2   0   1   0  .111  .273  .111 i
+Elam Vangilder     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

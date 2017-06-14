@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Beene         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vida Blue          L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Tom Bradley        R  10   2   0   0   0   0   0   5   0   0   0  .200  .200  .200 
+Ken Brett          L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Pete Broberg       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+David Clyde        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Coleman        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Cuellar       L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+John Curtis        L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Dick Drago         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Al Fitzmorris      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dave Hamilton      L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Catfish Hunter     R   4   0   0   0   0   0   0   1   1   0   0  .000  .200  .000 
+Jim Kaat           L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Steve Kealey       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Kekich        L   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Bill Lee           L   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Mickey Lolich      L  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Blue Moon Odom     R  11   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Bill Parsons       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Marty Pattin       R   4   2   0   0   1   1   0   0   0   0   0  .500  .600 1.250 
+Mike Paul          L   6   3   1   0   0   1   1   2   0   0   0  .500  .571  .667 
+Gaylord Perry      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Perry          R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 
+Fritz Peterson     L   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Gary Ryerson       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ken Sanders        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Paul Splittorff    L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Milt Wilcox        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wilbur Wood        L  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Geoff Zahn         L   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600

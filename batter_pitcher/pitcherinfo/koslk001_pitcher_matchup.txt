@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Blyleven      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brian Bohanon      L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Kevin Brown        R   2   1   0   0   0   1   0   0   1   0   0  .500  .750  .500 
+Jason Grimsley     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Gullickson    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Eric King          R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Tim Leary          R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Felipe Lira        R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Jack McDowell      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jose Mesa          R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Alan Mills         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Jack Morris        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Mussina       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Omar Olivares      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Roger Pavlik       R   7   2   0   0   0   0   0   4   0   1   0  .286  .286  .286 
+Melido Perez       R   5   2   0   0   1   1   0   2   0   0   0  .400  .500 1.000 
+Nolan Ryan         R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Rick Sutcliffe     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bob Welch          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Wickman        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333

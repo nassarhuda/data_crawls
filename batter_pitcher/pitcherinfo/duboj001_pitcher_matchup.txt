@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brandon Backe      R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Chris Capuano      L   9   2   1   0   0   0   0   5   0   0   0  .222  .222  .333 
+Roger Clemens      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Doug Davis         L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Gil Meche          R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Oliver Perez       L   7   1   0   0   1   0   0   4   0   0   0  .143  .143  .571 
+Horacio Ramirez    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Redman        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Aaron Sele         R   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Dontrelle Willis   L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500

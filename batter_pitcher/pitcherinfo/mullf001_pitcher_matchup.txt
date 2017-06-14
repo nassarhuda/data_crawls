@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fernando Arroyo    R   4   0   0   0   0   1   0   0   0   0   1  .000  .167  .000 
+Bruce Berenyi      R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Doug Corbett       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rob Dressler       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Orel Hershiser     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Brian Kingman      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jerry Koosman      L   5   2   2   0   0   1   0   1   0   0   0  .400  .500  .800 
+Rick Langford      R   8   4   1   0   0   0   0   0   0   0   0  .500  .500  .625 
+Mark Langston      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Charlie Lea        R   6   2   0   0   1   1   0   1   0   0   0  .333  .429  .833 
+Alfredo Martinez   R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Mike Norris        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jeff Russell       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Witt          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Geoff Zahn         L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500

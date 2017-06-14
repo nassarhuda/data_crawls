@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Brown          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sandy Consuegra    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Walt Craddock      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dick Donovan       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Whitey Ford        L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Fornieles     R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Paul Foytack       R   5   1   0   1   0   0   0   2   0   0   0  .200  .200  .600 
+Mike Garcia        R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Jack Harshman      L   5   2   0   0   0   0   0   1   0   0   1  .400  .333  .400 
+Billy Hoeft        L   7   1   1   0   0   1   0   1   0   0   0  .143  .250  .286 
+Connie Johnson     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bob Keegan         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Alex Kellner       L   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Johnny Kucks       R   6   3   2   0   0   0   0   0   0   0   0  .500  .500  .833 
+Bob Lemon          R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Ray Moore          R   7   2   1   0   0   2   0   0   0   0   0  .286  .444  .429 
+Herb Score         L   8   0   0   0   0   1   0   7   0   0   0  .000  .111  .000 
+Gerry Staley       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Bob Turley         R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Bill Wight         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eddie Cicotte      R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Fritz Coumbe       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hooks Dauss        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ernie Koob         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Dutch Leonard      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Elmer Myers        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Eddie Plank        L   7   2   0   0   0   2   0   1   0   0   0  .286  .444  .286 
+Babe Ruth          L   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Tom Sheehan        R   3   3   0   0   0   1   0   0   0   0   0 1.000 1.000 1.000

@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jon Garland        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jeff Karstens      R   4   2   0   0   0   2   0   2   0   0   0  .500  .667  .500 
+Paul Maholm        L   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Jason Marquis      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000

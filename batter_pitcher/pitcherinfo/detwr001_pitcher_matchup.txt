@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Cueto       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Cole Hamels        L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike Leake         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Cliff Lee          L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Kris Medlen        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jeff Samardzija    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Cicotte      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+G. Cunningham      R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Hooks Dauss        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Davenport     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Red Faber          R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Rube Foster        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bill James         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walter Johnson     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

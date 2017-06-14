@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bruce Berenyi      R   5   2   0   0   0   1   1   1   0   0   0  .400  .500  .400 
+Tim Lollar         L   5   1   0   0   0   0   0   2   1   0   0  .200  .333  .200 
+Joe Niekro         R   4   4   2   0   0   2   0   0   0   0   0 1.000 1.000 1.500 
+Nolan Ryan         R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Mario Soto         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Whitson         R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000

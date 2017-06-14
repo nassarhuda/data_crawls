@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Ankiel        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Darren Dreifort    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Matt Herges        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Livan Hernandez    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Langston      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Nathan         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Armando Reynoso    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Todd Ritchie       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667

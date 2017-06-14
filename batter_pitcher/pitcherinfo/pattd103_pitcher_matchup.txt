@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Bechtel     U   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Asa Brainard       R  25   9   0   0   0   0   0   0   0   0   0  .360  .360  .360 
+Jim Britt          U   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Cherokee Fisher    R  21   1   0   0   0   0   0   1   0   0   0  .048  .048  .048 i
+Bobby Mathews      R  20   3   1   0   0   0   0   0   0   0   0  .150  .150  .200 i
+Dick McBride       R  21   6   1   0   0   0   0   0   0   0   0  .286  .286  .333 i
+John McMullin      L  18   7   0   0   0   1   0   0   0   0   0  .389  .421  .389 i
+Al Pratt           R  17   3   1   0   0   0   0   0   0   0   0  .176  .176  .235 
+Al Spalding        R  20   3   0   0   0   0   0   0   0   0   0  .150  .150  .150 i
+George Zettlein    R  18   1   0   0   0   0   0   0   0   0   0  .056  .056  .056 i

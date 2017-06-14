@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Mordecai Brown     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Chief Johnson      R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+G. Kaiserling      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Gene Krapp         R   7   3   0   1   0   0   0   1   0   0   0  .429  .429  .714 
+Alex Main          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

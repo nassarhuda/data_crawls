@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jhoulys Chacin     R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Matt Chico         L   3   0   0   0   0   2   0   3   0   0   0  .000  .400  .000 
+R.A. Dickey        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Roy Halladay       R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Cole Hamels        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+J.A. Happ          L   6   1   0   1   0   0   0   5   0   0   0  .167  .167  .500 
+Livan Hernandez    R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Tim Hudson         R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jeff Karstens      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kenshin Kawakami   R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Joe Kelly          R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Kyle Kendrick      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Ian Kennedy        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+John Maine         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jason Marquis      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jamie Moyer        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+S. Strasburg       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ryan Vogelsong     R   6   0   0   0   0   1   0   4   0   1   0  .000  .143  .000 
+J. Zimmermann      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

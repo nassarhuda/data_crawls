@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andrew Cashner     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Josh Collmenter    R   2   1   0   0   0   2   1   0   0   0   0  .500  .750  .500 
+Jarred Cosart      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Zack Greinke       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Jon Lester         L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Michael Lorenzen   R   3   1   0   0   1   1   1   0   0   0   0  .333  .500 1.333 
+Carlos Martinez    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Michael Pineda     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Max Scherzer       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Matt Wisler        R   5   2   0   0   0   0   0   1   1   0   0  .400  .500  .400 
+J. Zimmermann      R   4   2   0   0   0   2   0   1   0   0   0  .500  .667  .500

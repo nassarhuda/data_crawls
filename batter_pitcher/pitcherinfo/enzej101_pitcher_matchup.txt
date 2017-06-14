@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bluejacket     R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Doc Crandall       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Claude Hendrix     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+G. Kaiserling      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Harry Moran        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Earl Moseley       R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 i
+George Mullin      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Doc Watson         L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i

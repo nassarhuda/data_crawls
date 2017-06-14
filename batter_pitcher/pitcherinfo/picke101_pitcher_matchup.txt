@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   4   1   0   0   1   2   0   1   0   0   0  .250  .500 1.000 i
+Pete Alexander     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Virgil Barnes      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Larry Benton       R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 i
+Bill Clarkson      R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Pete Donohue       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Alex Ferguson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+F. Fitzsimmons     R  10   2   1   0   0   2   0   1   0   0   0  .200  .333  .300 
+Joe Genewich       R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Burleigh Grimes    R   6   1   1   0   0   1   0   0   0   0   0  .167  .286  .333 
+Jesse Haines       R  11   2   0   0   0   0   0   2   0   2   0  .182  .182  .182 
+Dutch Henry        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Carmen Hill        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Red Lucas          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dolf Luque         R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jakie May          L   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lee Meadows        R  14   1   0   0   0   2   0   2   0   1   0  .071  .188  .071 
+C. Mitchell        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Morrison    R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Jesse Petty        L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hub Pruett         L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Flint Rhem         R   8   4   0   1   0   0   0   0   0   0   0  .500  .500  .750 
+Eppa Rixey         L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+C. Robertson       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bob Smith          R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Dutch Ulrich       R   7   2   0   0   0   1   0   0   0   1   0  .286  .375  .286 
+Johnny Wertz       R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000

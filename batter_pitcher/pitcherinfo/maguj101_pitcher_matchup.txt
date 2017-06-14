@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Brecheen     L   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Sandy Consuegra    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bob Feller         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Mike Garcia        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ted Gray           L   3   2   0   0   0   2   0   1   0   0   0  .667  .800  .667 
+Ken Heintzelman    L   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Sid Hudson         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Don Johnson        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Alex Kellner       L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Ellis Kinder       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+J. Klippstein      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bob Kuzava         L   6   2   0   1   0   1   0   2   0   0   0  .333  .429  .667 
+Max Lanier         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Eddie Lopat        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Connie Marrero     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Morrie Martin      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Tom Morgan         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Porterfield    R   6   4   0   0   0   1   0   0   0   0   0  .667  .714  .667 
+Vic Raschi         R   7   1   0   0   0   1   0   1   0   1   0  .143  .250  .143 
+Allie Reynolds     R   8   0   0   0   0   1   0   1   0   0   0  .000  .111  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Sanford       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Ray Scarborough    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Warren Spahn       L  10   1   0   0   1   1   0   1   0   1   0  .100  .182  .400 
+Chuck Stobbs       L   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Virgil Trucks      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Werle         L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667

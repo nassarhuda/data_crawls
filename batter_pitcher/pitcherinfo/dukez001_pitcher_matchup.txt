@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Cain          R   4   1   1   0   0   0   0   0   0   2   0  .250  .250  .500 
+Chris Capuano      L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Carpenter    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Aaron Cook         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Johnny Cueto       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Danks         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Doug Davis         L   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Ryan Dempster      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Yovani Gallardo    R   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500 
+Angel Guzman       R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Roy Halladay       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Livan Hernandez    R   2   1   1   0   0   0   0   1   0   2   0  .500  .500 1.000 
+Rich Hill          L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Hiroki Kuroda      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Greg Maddux        R   5   2   0   0   0   0   0   1   0   0   1  .400  .333  .400 
+Pedro Martinez     R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Bud Norris         R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Scott Olsen        L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Roy Oswalt         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Odalis Perez       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jonathan Sanchez   L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Johan Santana      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Victor Santos      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jeff Suppan        R   4   2   0   0   0   0   0   2   0   2   0  .500  .500  .500 
+Javier Vazquez     R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Adam Wainwright    R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Todd Wellemeyer    R   6   1   0   0   0   0   0   4   0   3   0  .167  .167  .167 
+Randy Wolf         L  11   3   0   0   0   0   0   3   0   0   0  .273  .273  .273 
+Carlos Zambrano    R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200

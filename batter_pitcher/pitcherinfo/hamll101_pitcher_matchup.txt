@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Russ Bauers        R   4   0   0   0   0   1   0   2   0   2   0  .000  .200  .000 i
+Boom-Boom Beck     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Tiny Bonham        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Max Butcher        R  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 
+Tex Carleton       R   6   4   0   0   0   0   0   1   0   0   0  .667  .667  .667 
+Mort Cooper        R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 i
+Curt Davis         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Paul Derringer     R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 
+Paul Erickson      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dick Errickson     R   8   3   0   0   0   0   0   2   0   2   0  .375  .375  .375 i
+Larry French       L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Harry Gumbert      R  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 i
+Jesse Haines       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Ken Heintzelman    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kirby Higbe        R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Carl Hubbell       L   4   0   0   0   0   1   0   4   0   1   0  .000  .200  .000 
+Bill Lee           R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bill Lohrman       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Danny MacFayden    R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Roy Mahaffey       R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill McGee         R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 i
+Cliff Melton       L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 i
+Vern Olsen         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Emmett O'Neill     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Vance Page         R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Claude Passeau     R  15   2   0   0   0   0   0   4   0   1   0  .133  .133  .133 i
+Ike Pearson        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Monte Pearson      R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Bill Posedel       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Tot Pressnell      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Charlie Root       R  11   1   0   0   0   0   0   2   0   0   0  .091  .091  .091 
+Hal Schumacher     R  11   1   0   0   0   0   0   1   0   0   0  .091  .091  .091 i
+Rip Sewell         R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Clyde Shoun        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Junior Thompson    R   7   2   1   0   0   0   0   2   0   1   0  .286  .286  .429 
+Jim Tobin          R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jim Turner         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bucky Walters      R  17   1   0   0   0   0   0   5   0   0   0  .059  .059  .059 
+Bob Weiland        L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ernie White        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

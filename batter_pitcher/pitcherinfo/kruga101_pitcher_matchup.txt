@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L  13   4   1   0   0   0   0   1   0   0   0  .308  .308  .385 i
+Fred Anderson      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Bailey        L  12   5   1   0   0   0   0   1   0   0   0  .417  .417  .500 i
+Cy Barger          R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 i
+Hugh Bedient       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Dave Black         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jim Bluejacket     R  13   2   1   0   0   0   0   0   0   0   0  .154  .154  .231 i
+Mordecai Brown     R   6   2   0   0   0   1   0   0   0   1   0  .333  .429  .333 i
+Howie Camnitz      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Chappelle     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Doc Crandall       R  10   3   0   0   1   0   0   0   0   0   0  .300  .300  .600 i
+Dave Davenport     R  10   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Walt Dickson       R   9   2   0   0   0   1   0   0   0   1   0  .222  .300  .222 i
+Cy Falkenberg      R   9   4   2   0   0   0   0   0   0   0   0  .444  .444  .667 i
+Happy Finneran     R  11   4   0   0   0   1   0   0   0   0   0  .364  .417  .364 i
+Russ Ford          R   5   0   0   0   0   2   0   0   0   1   0  .000  .286  .000 i
+Bob Groom          R  13   2   1   0   0   0   0   0   0   0   0  .154  .154  .231 i
+Claude Hendrix     R  22   1   0   0   0   2   0   4   0   0   0  .045  .125  .045 i
+Rankin Johnson     R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 i
+G. Kaiserling      R  19   7   3   0   1   0   0   0   1   1   0  .368  .400  .684 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elmer Knetzer      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Gene Krapp         R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Ed Lafitte         R  13   3   2   0   0   0   0   0   0   0   0  .231  .231  .385 i
+Dan Marion         R  15   1   0   0   0   0   0   1   0   0   0  .067  .067  .067 i
+George McConnell   R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tom McGuire        R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 i
+Harry Moran        L  11   4   1   0   0   0   0   0   0   0   0  .364  .364  .455 i
+Earl Moseley       R  10   2   1   0   0   1   0   1   0   1   0  .200  .273  .300 i
+George Mullin      R   7   2   0   0   0   1   0   0   0   1   0  .286  .375  .286 i
+Eddie Plank        L   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Jack Quinn         R  12   4   1   0   0   0   0   1   0   2   0  .333  .333  .417 i
+Ed Reulbach        R   7   1   0   0   0   1   0   0   0   1   0  .143  .250  .143 i
+Al Schulz          L  11   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Tom Seaton         R  15   5   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Frank Smith        R  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 i
+George Suggs       R  10   1   0   1   0   0   0   1   0   0   0  .100  .100  .300 i
+M. Walker          R   5   1   1   0   0   1   0   0   0   1   0  .200  .333  .400 i
+Doc Watson         L  12   5   2   0   0   0   0   0   0   0   0  .417  .417  .583 i
+C. Whitehouse      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Fin Wilson         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

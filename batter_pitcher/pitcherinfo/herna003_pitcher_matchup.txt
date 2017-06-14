@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Blanton        R  12   2   1   0   0   1   0   4   0   0   0  .167  .231  .250 
+Matt Cain          R   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Aaron Cook         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jorge de la Rosa   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ryan Dempster      R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Chad Durbin        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jeff Fulchino      R   2   2   0   0   0   1   0   0   0   1   0 1.000 1.000 1.000 
+Cole Hamels        L  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tommy Hanson       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+J.A. Happ          L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Rich Harden        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Livan Hernandez    R  10   1   0   0   0   0   0   3   0   0   0  .100  .100  .100 
+Josh Johnson       R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jair Jurrjens      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jeff Karstens      R   5   3   1   1   0   0   0   1   0   0   0  .600  .600 1.200 
+Kenshin Kawakami   R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kyle Kendrick      R   9   3   1   0   1   0   0   1   0   0   0  .333  .333  .778 
+Jon Lester         L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Brad Lidge         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Derek Lowe         R   6   2   0   1   0   1   0   1   0   0   0  .333  .429  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ryan Madson        R   9   4   1   0   0   0   0   1   0   0   0  .444  .444  .556 
+John Maine         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Sean Marshall      L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+C. Martinez        R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Pedro Martinez     R   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 
+Brian Moehler      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jamie Moyer        L  16   5   1   0   0   0   0   3   0   0   0  .313  .313  .375 
+Brett Myers        R   9   5   1   0   0   0   0   1   0   0   0  .556  .556  .667 
+Jon Niese          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ricky Nolasco      R  11   1   0   0   0   0   0   3   0   0   0  .091  .091  .091 
+Tomo Ohka          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Scott Olsen        L   7   3   1   0   1   2   0   0   0   0   0  .429  .556 1.000 
+Ramon Ortiz        R   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 
+Mike Pelfrey       R   8   1   0   0   0   2   0   0   0   0   0  .125  .300  .125 
+Jo-Jo Reyes        L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Johan Santana      L   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Jack Taschner      L   4   4   2   0   0   0   0   0   0   0   0 1.000 1.000 1.500 
+Chris Volstad      R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Randy Wells        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Sean West          L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carlos Zambrano    R   6   1   0   1   0   1   0   0   0   0   0  .167  .286  .500

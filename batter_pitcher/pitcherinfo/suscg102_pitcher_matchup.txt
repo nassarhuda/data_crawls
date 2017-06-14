@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Babich      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Boom-Boom Beck     R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500 i
+Herman Besse       L   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 
+Hank Borowy        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tommy Bridges      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Caster      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dizzy Dean         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bill Dietrich      R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Dick Errickson     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Denny Galehouse    R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Johnny Gorsica     R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Mel Harder         R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Sid Hudson         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Tex Hughson        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dutch Leonard      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Milnar          L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Johnny Niggeling   R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Stubby Overmire    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Marius Russo       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Eddie Smith        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Junior Thompson    R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Jim Turner         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bucky Walters      R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Bob Weiland        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Wolff        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

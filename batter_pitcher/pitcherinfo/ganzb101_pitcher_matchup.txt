@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Milt Gaston        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Slim Harriss       R   2   1   1   0   0   1   0   0   0   1   0  .500  .667 1.000 
+Sad Sam Jones      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Herb Pennock       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Elam Vangilder     R   4   4   1   1   0   1   0   0   0   0   0 1.000 1.000 1.750 i
+Rube Walberg       L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+John Wilson        R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Hal Wiltse         L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i

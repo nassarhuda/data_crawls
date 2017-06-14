@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Bob Knepper        L  10   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+C. Leibrandt       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Rick Mahler        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vern Ruhle         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Nolan Ryan         R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Scott Sanderson    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Shirley        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

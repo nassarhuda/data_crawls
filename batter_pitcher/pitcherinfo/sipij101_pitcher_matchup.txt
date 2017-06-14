@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Billingham    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Steve Blass        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bobby Bolin        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Britton        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Bill Champion      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tony Cloninger     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+George Culver      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Larry Dierker      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Drysdale       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Woodie Fryman      L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Gary Gentry        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Gibson         R   5   2   1   0   0   0   0   2   1   1   0  .400  .500  .600 
+Tom Griffin        R   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Bill Hands         R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Ken Holtzman       L   4   2   0   2   0   1   0   1   0   0   0  .500  .600 1.500 
+Pat Jarvis         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Fergie Jenkins     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerry Johnson      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jerry Koosman      L   8   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Denny Lemaster     L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Juan Marichal      R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike McCormick     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Merritt        L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Phil Niekro        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Gaylord Perry      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jim Ray            R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Ron Reed           R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jerry Robertson    R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Tom Seaver         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+George Stone       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Don Sutton         R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Mike Wegener       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rick Wise          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

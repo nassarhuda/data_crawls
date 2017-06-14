@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Mordecai Brown     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Howie Camnitz      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Doc Crandall       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Max Fiske          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Russ Ford          R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 i
+Claude Hendrix     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Byron Houck        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+G. Kaiserling      R   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 i
+Gene Krapp         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Erv Lange          R   2   1   0   0   0   0   0   1   0   2   0  .500  .500  .500 i
+Earl Moseley       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Jack Quinn         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tom Seaton         R  13   1   1   0   0   0   0   5   0   0   0  .077  .077  .154 i
+George Suggs       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

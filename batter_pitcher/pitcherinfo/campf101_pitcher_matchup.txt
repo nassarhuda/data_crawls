@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+James Atkins       R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Bob Feller         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Mike Garcia        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ned Garver         R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Ted Gray           L   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 
+Ken Holcombe       R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Art Houtteman      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ellis Kinder       R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Bob Lemon          R  14   3   0   0   0   0   0   1   1   0   0  .214  .267  .214 
+Bob Mahoney        R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+Satchel Paige      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Allie Reynolds     R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Chuck Stobbs       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Early Wynn         R  10   2   1   0   0   1   0   1   0   0   0  .200  .273  .300

@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Terry Adams        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Brian Anderson     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Andy Benes         R   3   1   1   0   0   1   0   2   0   0   0  .333  .500  .667 
+Shawn Chacon       R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Casey Daigle       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Geraldo Guzman     R   3   2   0   0   2   1   0   0   0   0   0  .667  .750 2.667 
+Roy Halladay       R   5   3   1   0   1   1   0   1   0   0   0  .600  .667 1.400 
+Mike Hampton       L  11   4   1   0   1   1   0   0   0   0   1  .364  .385  .727 
+Tim Hudson         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Todd Jones         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Byung-Hyun Kim     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Matt Morris        R  13   4   0   0   0   1   0   5   0   0   0  .308  .357  .308 
+Hideo Nomo         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Sidney Ponson      R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Curt Schilling     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Sparks       R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Mike Timlin        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

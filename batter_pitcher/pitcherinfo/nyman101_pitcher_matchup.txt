@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Bibby          R   8   0   0   0   0   1   0   0   0   0   0  .000  .111  .000 
+Vida Blue          L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bert Blyleven      R  15   3   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dick Bosman        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Nelson Briles      R   3   1   0   1   0   0   0   0   1   0   0  .333  .500 1.000 
+Pete Broberg       R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 
+Tom Burgmeier      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Steve Busby        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bill Campbell      R  11   1   1   0   0   0   0   2   0   0   0  .091  .091  .182 
+Ray Corbin         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bruce Dal Canton   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chuck Dobson       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pat Dobson         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dennis Eckersley   R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Figueroa        R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rollie Fingers     R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Al Fitzmorris      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Steve Foucault     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dave Goltz         R  12   4   1   0   0   0   0   1   0   0   0  .333  .333  .417 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Hargan       R   7   4   0   1   0   1   0   1   0   0   0  .571  .625  .857 
+Andy Hassler       L   9   3   1   0   0   2   0   3   1   0   0  .333  .500  .444 
+Chuck Hockenbery   R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Ken Holtzman       L  11   5   2   0   0   1   0   1   0   0   1  .455  .462  .636 
+Jim Hughes         R   8   2   1   0   1   0   0   2   0   0   0  .250  .250  .750 
+Fergie Jenkins     R  16   3   1   0   0   1   0   0   0   0   0  .188  .235  .250 
+Don Kirkwood       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Lerrin LaGrow      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dennis Leonard     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Paul Lindblad      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lindy McDaniel     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Norris        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Palmer         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Marty Pattin       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gaylord Perry      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Nolan Ryan         R  13   4   0   1   0   0   0   1   0   0   0  .308  .308  .462 
+Mickey Scott       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Singer        R  11   1   0   0   0   1   0   2   0   0   0  .091  .167  .091 
+Jim Slaton         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Splittorff    L   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Tanana       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Stan Thomas        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jim Todd           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Torrez        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Umbarger       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Clyde Wright       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

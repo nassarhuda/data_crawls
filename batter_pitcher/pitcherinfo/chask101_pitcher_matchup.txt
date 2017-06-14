@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Elden Auker        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Bill Beckmann      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hank Borowy        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Marv Breuer        R   6   2   0   1   0   0   0   2   0   1   0  .333  .333  .667 
+Tommy Bridges      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+George Caster      R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Spud Chandler      R  10   1   0   0   0   0   0   2   0   1   0  .100  .100  .100 
+Chubby Dean        L   7   1   1   0   0   0   0   4   0   2   0  .143  .143  .286 
+Atley Donald       R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Harry Eisenstat    L   4   1   1   0   0   0   0   2   0   1   0  .250  .250  .500 i
+Bob Feller         R  17   3   0   0   0   1   0   2   0   0   0  .176  .222  .176 i
+Tom Ferrick        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Lefty Gomez        L  13   2   0   0   0   0   0   7   0   0   0  .154  .154  .154 
+Mel Harder         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Willis Hudlin      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Earl Johnson       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Vern Kennedy       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Jack Kraus         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roxie Lawson       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Lyons          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Phil Marchildon    R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 i
+Al Milnar          L  10   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bobo Newsom        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Nels Potter        R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Johnny Rigney      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Red Ruffing        R  16   2   0   0   0   0   0   8   0   0   0  .125  .125  .125 i
+Rip Sewell         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Al Smith           L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eddie Smith        L  10   2   0   0   0   0   0   4   1   0   0  .200  .273  .200 i
+Monty Stratton     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bud Thomas         R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Jim Tobin          R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Earl Whitehill     L  14   4   0   0   0   2   0   4   0   0   0  .286  .375  .286

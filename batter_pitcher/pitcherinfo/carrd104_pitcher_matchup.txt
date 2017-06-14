@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bonham        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+John Candelaria    L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Ed Halicki         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Burt Hooton        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jerry Koosman      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Andy Messersmith   R   6   1   0   1   0   0   0   2   0   0   0  .167  .167  .500 
+Phil Niekro        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Fred Norman        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Tom Phoebus        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Rick Reuschel      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Roberts       L   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250

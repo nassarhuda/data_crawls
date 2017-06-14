@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   3   1   0   0   1   2   2   0   0   0   0  .333  .600 1.333 i
+Johnny Allen       R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Harry Brecheen     L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Arnold Carter      L  10   5   1   0   0   1   0   1   0   0   0  .500  .545  .600 
+Mort Cooper        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Harry Feldman      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Wes Ferrell        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carl Fischer       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Al Gerheauser      L   8   1   0   0   0   1   1   0   0   0   0  .125  .222  .125 
+Lefty Gomez        L  12   2   1   0   0   0   0   2   0   0   0  .167  .167  .250 
+Lefty Grove        L  10   5   2   0   0   2   0   0   0   1   0  .500  .583  .700 
+Harry Gumbert      R   6   1   1   0   0   2   0   2   0   0   0  .167  .375  .333 
+Chief Hogsett      L   3   1   1   0   0   2   0   0   0   0   0  .333  .600  .667 i
+Jack Knott         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jim Konstanty      R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Dick Lanahan       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Red Lynn           R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Cliff Melton       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Rube Melton        R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+F. Ostermueller    L  16   1   0   0   0   1   0   3   0   0   0  .063  .118  .063 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Claude Passeau     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Leon Pettit        L   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 
+Ewald Pyle         L   7   3   2   0   1   1   0   1   0   0   0  .429  .500 1.143 i
+Red Ruffing        R  10   1   1   0   0   0   0   3   0   0   0  .100  .100  .200 
+Rip Sewell         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Ray Starr          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Joe Sullivan       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vito Tamulis       L  18   7   2   0   0   0   0   1   1   0   0  .389  .421  .500 
+G. Turbeville      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Russ Van Atta      L   7   0   0   0   0   1   0   2   0   2   0  .000  .125  .000 
+Bill Voiselle      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Rube Walberg       L   7   2   0   0   1   0   0   0   0   0   0  .286  .286  .714 
+Bucky Walters      R   9   3   3   0   0   0   0   2   0   0   0  .333  .333  .667 
+Earl Whitehill     L  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Ted Wilks          R   8   3   0   0   1   0   0   1   0   0   0  .375  .375  .750 i

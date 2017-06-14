@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Matt Cain          R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dan Haren          R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Ubaldo Jimenez     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Josh Johnson       R   6   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Jamie Moyer        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jon Niese          L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ramon Ortiz        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Manny Parra        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Felipe Paulino     R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jake Peavy         R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tyson Ross         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Adam Wainwright    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Todd Wellemeyer    R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000

@@ -1,0 +1,41 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Red Ames           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Fred Anderson      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Bell        R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Rube Benton        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Buster Brown       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Mordecai Brown     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Howie Camnitz      R  23   1   0   0   0   2   0   7   0   0   0  .043  .120  .043 i
+King Cole          R  10   0   0   0   0   1   0   1   0   0   0  .000  .091  .000 i
+Snipe Conley       R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Doc Crandall       R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 i
+Nick Cullop        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Jack Ferry         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Harry Gardner      R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Bob Groom          R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+Bob Harmon         R   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 i
+Claude Hendrix     R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Bobby Keefe        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Elmer Knetzer      R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 i
+Gene Krapp         R   7   0   0   0   0   3   0   0   0   0   0  .000  .300  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George LeClair     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Lefty Leifield     L  11   3   1   0   0   0   0   3   0   0   0  .273  .273  .364 i
+Rube Marquard      L  16   4   0   0   0   0   0   5   0   0   0  .250  .250  .250 i
+C. Mathewson       R   9   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Bert Maxwell       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Gene Packard       L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Jack Quinn         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ed Reulbach        R  11   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lew Richie         R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Nap Rucker         L   8   4   0   0   1   0   0   2   0   0   0  .500  .500  .875 i
+Slim Sallee        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Schardt       R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 i
+Al Schulz          L   6   1   0   0   0   3   0   0   0   0   0  .167  .444  .167 i
+Tom Seaton         R  10   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Elmer Steele       R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Bill Steele        R  10   3   1   0   0   1   0   1   0   1   0  .300  .364  .400 i
+George Suggs       R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 i
+M. Walker          R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 i
+Kaiser Wilhelm     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

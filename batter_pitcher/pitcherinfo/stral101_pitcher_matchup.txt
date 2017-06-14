@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Bluejacket     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ad Brennan         L   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doc Crandall       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Nick Cullop        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dave Davenport     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Happy Finneran     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Elmer Knetzer      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Gene Packard       L   4   3   1   0   1   0   0   0   0   0   0  .750  .750 1.750 
+Eddie Plank        L   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500 i
+Al Schulz          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

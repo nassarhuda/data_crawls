@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Glenn Abbott       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Len Barker         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bert Blyleven      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tommy Boggs        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Clancy         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Reggie Cleveland   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Colborn        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roger Erickson     R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ed Figueroa        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Wayne Garland      R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Bart Johnson       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Dennis Leonard     R   7   3   0   0   0   1   0   1   0   1   0  .429  .500  .429 
+Jack Morris        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gaylord Perry      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dave Roberts       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Milt Wilcox        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rick Wise          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

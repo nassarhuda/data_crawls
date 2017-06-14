@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chase Anderson     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Fausto Carmona     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jorge de la Rosa   L   6   4   0   0   0   0   0   2   0   0   0  .667  .667  .667 
+Yohan Flande       L   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Clayton Kershaw    L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Tyler Matzek       L   9   2   0   0   1   0   0   4   0   0   0  .222  .222  .556 
+Vidal Nuno         L   5   0   0   0   0   0   0   0   1   0   0  .000  .167  .000

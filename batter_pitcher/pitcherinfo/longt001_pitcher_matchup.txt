@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Pedro Astacio      R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Steve Avery        L   1   0   0   0   0   2   0   0   0   0   1  .000  .500  .000 
+Jim Bullinger      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Burkett       R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Tom Candiotti      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Steve Cooke        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Gross        R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Gil Heredia        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ken Hill           R   4   3   1   0   0   0   0   0   0   0   1  .750  .600 1.000 
+Bobby Jones        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Darryl Kile        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Greg Maddux        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Morgan        R   5   1   1   0   0   1   0   2   0   0   1  .200  .286  .400 
+Mark Portugal      R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 
+Bret Saberhagen    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Scott Sanders      R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+John Smoltz        R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Steve Trachsel     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+David Weathers     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Todd Worrell       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

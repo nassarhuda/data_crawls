@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+M. Bumgarner       L  12   1   1   0   0   0   0   5   0   0   0  .083  .083  .167 
+A.J. Burnett       R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Chris Capuano      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Aroldis Chapman    L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Wei-Yin Chen       L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Bartolo Colon      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Patrick Corbin     L   8   1   1   0   0   0   0   3   0   0   0  .125  .125  .250 
+Johnny Cueto       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+R.A. Dickey        R   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+Jake Diekman       L   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Michael Dunn       L   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Nathan Eovaldi     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jose Fernandez     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Francis       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dillon Gee         R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Cole Hamels        L   7   0   0   0   0   1   1   4   0   0   0  .000  .125  .000 
+Jason Hammel       R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Brad Hand          L   8   3   0   0   2   1   0   3   0   0   0  .375  .444 1.125 
+Kyle Hendricks     R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kyle Kendrick      R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Clayton Kershaw    L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Cliff Lee          L  12   6   3   0   2   0   0   2   0   0   0  .500  .500 1.250 
+Jon Lester         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+F. Liriano         L   4   2   0   0   0   4   0   0   0   0   0  .500  .750  .500 
+Jeff Locke         L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Paul Maholm        L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Wade Miley         L   9   3   0   0   1   0   0   0   0   0   0  .333  .333  .667 
+Mike Minor         L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Bryan Morris       R   6   3   0   0   1   0   0   2   0   0   0  .500  .500 1.000 
+Jon Niese          L  11   4   0   0   1   0   0   1   0   0   0  .364  .364  .636 
+Darren O'Day       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+A.J. Ramos         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Josh Roenicke      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Chris Rusin        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Chris Tillman      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Carlos Torres      R   6   1   0   0   1   0   0   2   0   0   0  .167  .167  .667 
+Anthony Varvaro    R   5   3   0   0   0   0   0   2   0   0   0  .600  .600  .600 
+Ryan Webb          R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Zack Wheeler       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alex Wood          L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Travis Wood        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

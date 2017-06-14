@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rex Barney         R   6   2   0   0   1   1   0   1   0   0   0  .333  .429  .833 
+Red Barrett        R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Joe Beggs          R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ewell Blackwell    R  21   3   2   0   0   2   0   8   0   0   0  .143  .217  .238 
+Hank Borowy        R  11   3   1   1   0   1   0   0   0   0   0  .273  .333  .545 
+Ralph Branca       R  11   3   1   0   0   2   0   1   0   0   0  .273  .385  .364 
+Ken Burkhart       R   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 
+Hugh Casey         R   6   2   1   0   0   0   0   3   0   0   0  .333  .333  .500 
+Mort Cooper        R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+Paul Derringer     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Murry Dickson      R  13   3   0   0   0   4   0   4   0   0   0  .231  .412  .231 i
+Tom Earley         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Paul Erickson      R  15   5   1   0   0   3   0   1   0   0   0  .333  .444  .400 i
+Hal Gregg          R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Harry Gumbert      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Clint Hartung      R   7   2   0   0   0   3   0   1   0   0   0  .286  .500  .286 
+Jim Hearn          R   9   3   0   0   1   1   0   1   0   0   0  .333  .400  .667 
+Tommy Hughes       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Larry Jansen       R   9   5   1   0   0   3   0   0   0   0   0  .556  .667  .667 
+Si Johnson         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sheldon Jones      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Andy Karl          R   2   1   0   0   1   2   0   0   0   0   0  .500  .750 2.000 
+Clyde King         R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Emil Kush          R   2   1   0   1   0   2   0   1   0   0   0  .500  .750 1.500 
+Doyle Lade         R  14   4   0   0   0   2   0   1   0   0   0  .286  .375  .286 
+Dutch Leonard      R  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Russ Meyer         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Red Munger         R  15   3   0   1   0   0   0   4   0   0   0  .200  .200  .333 
+Claude Passeau     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Elmer Riddle       R  10   3   1   0   0   0   0   0   0   0   0  .300  .300  .400 
+Schoolboy Rowe     R  13   2   0   1   0   1   0   0   0   0   0  .154  .214  .308 
+Johnny Sain        R  14   2   1   0   0   0   0   3   0   0   0  .143  .143  .214 
+Gerry Staley       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Harry Taylor       R  10   2   0   0   0   2   0   0   0   0   0  .200  .333  .200 
+Junior Thompson    R   2   1   0   0   0   3   1   1   0   0   0  .500  .800  .500 
+Ken Trinkle        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Bill Voiselle      R   4   2   0   0   0   0   0   1   1   0   0  .500  .600  .500 
+Bucky Walters      R  17   2   0   0   0   5   1   2   0   0   0  .118  .318  .118 
+Ed Wright          R   2   1   0   0   0   3   0   0   0   0   0  .500  .800  .500 
+Whit Wyatt         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Wyse          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

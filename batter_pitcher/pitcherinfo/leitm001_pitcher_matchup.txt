@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Burkett       R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Frank Castillo     R   5   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Tom Glavine        L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Tyler Green        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joey Hamilton      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Darryl Kile        R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Greg Maddux        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Hideo Nomo         R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Armando Reynoso    R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Roger Salkeld      R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Pete Schourek      L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Ismael Valdez      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Andy Ashby         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Clement       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Randy Johnson      L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bobby Jones        L   4   3   0   0   2   0   0   0   0   0   0  .750  .750 2.250 
+Todd Ritchie       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kirk Rueter        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Julian Tavarez     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

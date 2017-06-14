@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bill Bevens        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pete Center        R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Spud Chandler      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Russ Christopher   R   8   4   1   0   1   1   0   1   0   0   0  .500  .556 1.000 
+Bill Dietrich      R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Monk Dubiel        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Feller         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jesse Flores       R   7   5   1   1   1   0   0   0   0   1   0  .714  .714 1.571 
+Charlie Gassaway   L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Orval Grove        R   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Wally Holborow     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Al Hollingsworth   L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Johnny Humphries   R   7   2   0   1   0   1   0   0   0   0   0  .286  .375  .571 
+Lou Knerr          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Thornton Lee       L   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Dutch Leonard      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Eddie Lopat        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ox Miller          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Muncrief       R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Newhouser      L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Bobo Newsom        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Stubby Overmire    L   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Joe Page           L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Frank Papish       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Nels Potter        R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Allie Reynolds     R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Al Smith           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dizzy Trout        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Sandy Ullrich      R   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 
+Roger Wolff        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sam Zoldak         L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Zuber         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Curt Davis         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Tom Earley         R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Harry Feldman      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Al Gerheauser      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hal Gregg          R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Johnny Hutchings   R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Al Javery          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rip Sewell         R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Jim Tobin          R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Bill Voiselle      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

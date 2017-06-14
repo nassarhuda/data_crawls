@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Nate Andrews       R   8   0   0   0   0   1   1   0   0   0   0  .000  .111  .000 
+Red Barrett        R   8   3   2   0   0   2   1   1   0   0   0  .375  .500  .625 i
+Dick Barrett       R   7   0   0   0   0   2   1   0   0   0   0  .000  .222  .000 
+Joe Bowman         R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Ralph Branca       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Burkhart       R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Max Butcher        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Ben Chapman        R   4   2   0   0   0   0   0   0   1   0   0  .500  .600  .500 
+Mort Cooper        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Davis         R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Paul Derringer     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Earley         R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Slim Emmerich      R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Harry Feldman      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Howie Fox          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hal Gregg          R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Harry Gumbert      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Art Herring        R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Ed Heusser         R  15   2   0   0   0   2   2   0   0   0   0  .133  .235  .133 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Javery          R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Andy Karl          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Vern Kennedy       R   5   2   0   0   0   0   0   0   1   0   0  .400  .500  .400 
+Bill Lee           R   8   3   0   0   0   2   0   2   0   0   0  .375  .500  .375 
+Van Mungo          R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Rip Sewell         R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Jim Tobin          R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Bill Voiselle      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i

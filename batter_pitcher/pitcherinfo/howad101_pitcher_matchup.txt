@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Albury         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ray Bare           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vida Blue          L   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Steve Busby        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Terry Forster      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dave Goltz         R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Larry Gura         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Holtzman       L   7   1   0   0   0   0   0   2   0   0   1  .143  .125  .143 
+Catfish Hunter     R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Jackson       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Kaat           L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Jerry Koosman      L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Mickey Lolich      L   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Rudy May           L   6   1   0   1   0   1   0   1   0   0   0  .167  .286  .500 
+Mike Paul          L   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+Fred Scherman      L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Wayne Simpson      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Paul Splittorff    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Tanana       L   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 
+Luis Tiant         R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Travers       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Milt Wilcox        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

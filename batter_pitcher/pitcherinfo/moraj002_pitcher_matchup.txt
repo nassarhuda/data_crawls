@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+D.J. Carrasco      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jose Contreras     R   4   4   2   0   0   1   0   0   0   0   0 1.000 1.000 1.500 
+Zack Greinke       R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Roy Halladay       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Aaron Laffey       L   7   6   3   0   0   0   0   0   0   0   0  .857  .857 1.286 
+Shaun Marcum       R   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+Rick Porcello      R  10   2   0   0   0   1   0   4   0   0   0  .200  .273  .200 
+Justin Verlander   R   8   4   0   0   0   1   0   2   0   0   0  .500  .556  .500

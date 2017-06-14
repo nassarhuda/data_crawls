@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cole Hamels        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Josh Johnson       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Clayton Kershaw    L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Anibal Sanchez     R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Johan Santana      L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000

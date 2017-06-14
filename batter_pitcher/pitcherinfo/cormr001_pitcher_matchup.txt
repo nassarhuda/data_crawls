@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tim Belcher        R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Brad Brink         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+John Burkett       R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mark Gardner       R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Dwight Gooden      R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Orel Hershiser     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Danny Jackson      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Darryl Kile        R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Terry Mulholland   L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pat Rapp           R   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+Pete Schourek      L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Wally Whitehurst   R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Trevor Wilson      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

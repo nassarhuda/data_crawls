@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Garber        R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Craig Lefferts     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Reardon       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

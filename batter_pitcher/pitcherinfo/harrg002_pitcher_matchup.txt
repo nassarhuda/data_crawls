@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Andersen     R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Tim Belcher        R   6   1   0   0   0   1   0   4   0   1   0  .167  .286  .167 
+Ryan Bowen         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Burkett       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Ron Darling        R   3   0   0   0   0   0   0   0   1   1   0  .000  .250  .000 
+Doug Drabek        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Kevin Gross        R   3   0   0   0   0   3   0   2   0   0   0  .000  .500  .000 
+Chris Hammond      L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Pete Harnisch      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Orel Hershiser     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Jackson      L   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Dennis Martinez    R   9   2   0   0   0   0   0   3   0   1   1  .222  .200  .222 
+Ramon Martinez     R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Kent Mercker       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Morgan        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jose Rijo          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+John Roper         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bruce Ruffin       L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+John Smoltz        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Randy Tomlin       L   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Walk           R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

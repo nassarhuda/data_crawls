@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Erik Bedard        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jesse Chavez       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Wei-Yin Chen       L   9   3   0   0   1   1   0   4   0   0   1  .333  .364  .667 
+John Danks         L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Danny Duffy        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Scott Kazmir       L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Dallas Keuchel     L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+E. Rodriguez       L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Chris Sale         L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+C.J. Wilson        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Steven Wright      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400

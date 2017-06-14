@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Barr           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Billingham    R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Nelson Briles      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Steve Carlton      L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bill Champion      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Larry Dierker      R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Ken Forsch         R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Gary Gentry        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ross Grimsley      L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Roric Harrison     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tommy John         L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Bruce Kison        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Jerry Koosman      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Juan Marichal      R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sam McDowell       L   3   1   1   0   0   1   0   1   0   1   0  .333  .500  .667 
+Balor Moore        L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Bob Moose          R   4   0   0   0   0   1   0   3   0   2   0  .000  .200  .000 
+Phil Niekro        R  12   1   0   0   0   0   0   4   0   0   0  .083  .083  .083 
+Claude Osteen      L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Milt Pappas        R   5   2   0   1   0   1   0   0   0   0   0  .400  .500  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Reberger     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ron Reed           R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Jerry Reuss        L   4   0   0   0   0   2   0   0   0   1   0  .000  .333  .000 
+Tom Seaver         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Ed Sprague         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+George Stone       L   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Don Wilson         R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Bickford      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ewell Blackwell    R   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Lew Burdette       R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Bubba Church       R   9   4   0   0   0   3   1   1   0   0   0  .444  .583  .444 
+Murry Dickson      R   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400 
+Karl Drews         R   6   0   0   0   0   1   0   1   1   0   0  .000  .250  .000 
+Monk Dubiel        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Warren Hacker      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Hearn          R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Johnny Hetki       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Frank Hiller       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Cal Hogue          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ernie Johnson      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Sheldon Jones      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Bob Kelly          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Clyde King         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+J. Klippstein      R   6   2   1   0   0   2   0   0   0   0   0  .333  .500  .500 
+Jim Konstanty      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Johnny Lindell     R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Turk Lown          R  12   1   0   0   0   3   0   2   0   0   0  .083  .267  .083 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sal Maglie         R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Miller         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Stu Miller         R   6   2   0   0   1   1   0   2   0   0   0  .333  .429  .833 
+Paul Minner        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bud Podbielan      R   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500 
+Joe Presko         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Willie Ramsdell    R   4   0   0   0   0   0   0   1   1   0   0  .000  .200  .000 
+Steve Ridzik       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Robin Roberts      R  26   7   1   0   0   1   1   2   0   0   0  .269  .296  .308 
+Bob Rush           R   5   0   0   0   0   3   0   0   0   0   0  .000  .375  .000 
+Frank Smith        R   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+George Spencer     R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Gerry Staley       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Max Surkont        R  10   4   1   0   0   1   0   0   0   0   0  .400  .455  .500 
+Herm Wehmeier      R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000

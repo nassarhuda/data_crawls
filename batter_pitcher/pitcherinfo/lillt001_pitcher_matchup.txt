@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chad Billingsley   R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+David Bush         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Matt Cain          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Correia      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Doug Davis         L   7   1   0   0   0   0   0   6   0   0   0  .143  .143  .143 
+Tom Glavine        L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Tim Hudson         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ubaldo Jimenez     R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Jeff Karstens      R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Wade LeBlanc       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Cliff Lee          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kyle Lohse         R   6   1   1   0   0   0   0   4   0   1   0  .167  .167  .333 
+Braden Looper      R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Rodrigo Lopez      R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+Derek Lowe         R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Paul Maholm        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Millwood     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Brian Moehler      R   8   3   0   1   0   0   0   2   0   1   0  .375  .375  .625 
+Charlie Morton     R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Myers        R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 
+Ross Ohlendorf     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jake Peavy         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joel Pineiro       R   7   1   1   0   0   0   0   5   0   1   0  .143  .143  .286 
+Esmil Rogers       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jonathan Sanchez   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Saunders       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Tim Stauffer       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+David Wells        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dontrelle Willis   L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Young        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Barry Zito         L   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000

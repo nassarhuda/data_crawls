@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 i
+Cy Barger          R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 i
+Hugh Bedient       R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Jim Bluejacket     R   7   2   0   1   0   1   0   1   0   0   0  .286  .375  .571 i
+Chick Brandom      R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Mordecai Brown     R   8   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 i
+Sandy Burk         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Howie Camnitz      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Doc Crandall       R  15   2   1   0   0   1   0   1   1   0   0  .133  .235  .200 i
+Nick Cullop        L   9   2   0   0   1   0   0   4   0   0   0  .222  .222  .556 i
+Dave Davenport     R  10   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Walt Dickson       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Cy Falkenberg      R   7   2   0   0   0   1   0   1   0   1   0  .286  .375  .286 i
+Happy Finneran     R   4   1   0   1   0   0   0   1   0   1   0  .250  .250  .750 i
+Russ Ford          R   9   3   0   0   0   1   0   1   0   0   0  .333  .400  .333 i
+Bunny Hearn        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Claude Hendrix     R  16   2   0   0   0   2   0   3   0   0   0  .125  .222  .125 i
+Pete Henning       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Chief Johnson      R   6   2   0   0   0   2   0   0   0   0   0  .333  .500  .333 i
+G. Kaiserling      R  11   3   1   0   0   2   0   0   1   1   0  .273  .429  .364 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elmer Knetzer      R  15   4   0   0   0   3   0   4   0   0   0  .267  .389  .267 i
+Gene Krapp         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Ed Lafitte         R   9   0   0   0   0   1   0   1   0   0   0  .000  .100  .000 
+George LeClair     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Rube Marshall      R   5   3   1   1   0   0   0   1   0   0   0  .600  .600 1.200 
+Earl Moseley       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Gene Packard       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Eddie Plank        L   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Mike Prendergast   R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Ed Reulbach        R  16   2   1   0   0   1   0   5   1   0   0  .125  .222  .188 
+Clint Rogge        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Al Schulz          L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Tom Seaton         R  13   1   0   0   0   2   0   3   0   0   0  .077  .200  .077 i
+Frank Smith        R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 i
+M. Walker          R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 i
+Fin Wilson         L   3   0   0   0   0   1   0   1   1   0   0  .000  .400  .000

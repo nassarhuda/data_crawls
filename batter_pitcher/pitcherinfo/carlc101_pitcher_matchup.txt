@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Josh Billings      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Ted Blankenship    R   6   2   1   0   0   1   0   0   0   1   0  .333  .429  .500 
+Guy Cantrell       R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Ownie Carroll      R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 i
+Rip Collins        R   8   1   0   1   0   0   0   0   0   0   0  .125  .125  .375 i
+Sarge Connally     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+General Crowder    R   6   0   0   0   0   2   0   1   0   0   0  .000  .250  .000 
+Howard Ehmke       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Red Faber          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Milt Gaston        R  13   2   0   0   0   0   0   3   0   0   0  .154  .154  .154 
+Sam Gibson         R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+George Grant       R   6   4   2   0   0   1   0   0   0   1   0  .667  .714 1.000 
+Sam Gray           R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bump Hadley        R   4   1   0   1   0   0   0   2   0   1   0  .250  .250  .750 i
+Waite Hoyt         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Willis Hudlin      R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Elmer Jacobs       R   7   1   0   0   0   0   0   0   0   1   0  .143  .143  .143 
+Jing Johnson       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Sad Sam Jones      R   9   3   0   1   0   2   0   0   0   0   0  .333  .455  .556 i
+Hod Lisenbee       R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Lyons          R  15   4   1   0   0   2   0   0   0   0   0  .267  .353  .333 
+Wilcy Moore        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jack Quinn         R   7   2   1   0   0   0   0   0   0   1   0  .286  .286  .429 i
+Eddie Rommel       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Joe Shaute         L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Urban Shocker      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Lefty Stewart      L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Lil Stoner         R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Tommy Thomas       R  14   4   1   0   0   1   0   1   0   0   0  .286  .333  .357 
+Myles Thomas       R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Sloppy Thurston    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Uhle        R   7   2   0   1   0   0   0   1   0   0   0  .286  .286  .571 
+Elam Vangilder     R  14   4   1   0   1   2   0   0   0   1   0  .286  .375  .571 
+Earl Whitehill     L   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167

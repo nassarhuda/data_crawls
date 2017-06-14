@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Abbott        R   4   2   0   0   1   1   0   0   1   0   0  .500  .667 1.250 
+Jeremy Affeldt     L   5   1   1   0   0   2   0   0   0   0   0  .200  .429  .400 
+Brian Anderson     L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Erik Bedard        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jon Garland        R   9   1   1   0   0   0   0   4   0   0   0  .111  .111  .222 
+Chad Gaudin        R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Tom Glavine        L   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Jimmy Gobble       L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mark Hendrickson   L   5   2   0   0   2   0   0   2   0   0   0  .400  .400 1.600 
+Chuck James        L   3   0   0   0   0   1   0   2   0   0   1  .000  .200  .000 
+Joe Kennedy        L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Kyle Lohse         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Rodrigo Lopez      R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Derek Lowe         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Damaso Marte       L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Pedro Martinez     R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Darrell May        L   4   2   0   0   1   0   0   2   0   0   0  .500  .500 1.250 
+Randy Messenger    R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Carl Pavano        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nate Robertson     L   6   2   0   0   1   3   0   1   0   0   0  .333  .556  .833 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kenny Rogers       L   6   3   0   0   0   0   0   2   1   0   0  .500  .571  .500 
+Anibal Sanchez     R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Johan Santana      L   7   2   1   0   0   1   0   3   0   0   0  .286  .375  .429 
+S. Schoeneweis     L   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Jorge Sosa         R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Doug Waechter      R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Dontrelle Willis   L   6   3   0   0   0   0   0   1   0   0   1  .500  .429  .500

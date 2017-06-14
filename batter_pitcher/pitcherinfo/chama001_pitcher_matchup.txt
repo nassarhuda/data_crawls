@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Blyleven      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bobby Castillo     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Danny Darwin       R   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 
+Richard Dotson     R   6   0   0   0   0   2   0   3   0   0   0  .000  .250  .000 
+Dennis Eckersley   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ken Forsch         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Moose Haas         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+LaMarr Hoyt        R   7   1   0   0   1   1   0   2   0   0   0  .143  .250  .571 
+Luis Leal          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chuck Porter       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Rozema        R   3   1   0   0   0   1   1   1   0   0   0  .333  .500  .333 
+Ken Schrom         R   4   2   2   0   0   2   0   2   0   0   0  .500  .667 1.000 
+Dave Stieb         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Witt          R   3   1   1   0   0   3   0   2   0   0   0  .333  .667  .667

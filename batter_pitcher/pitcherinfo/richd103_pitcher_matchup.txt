@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Spud Chandler      R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 
+Atley Donald       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cliff Fannin       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bob Feller         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Orval Grove        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Mickey Haefner     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mickey Harris      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Frank Hiller       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Johnson        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ellis Kinder       R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bob Lemon          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dutch Leonard      R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Eddie Lopat        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sal Maglie         R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Hal Newhouser      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dick Newsome       R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+Vic Raschi         R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Red Ruffing        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bob Rush           R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Schultz        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Virgil Trucks      R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Herm Wehmeier      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roger Wolff        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Early Wynn         R   7   1   0   0   0   1   0   0   0   1   0  .143  .250  .143

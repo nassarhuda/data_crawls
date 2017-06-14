@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Doc Ayers          R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 i
+Joe Boehling       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Eddie Cicotte      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Hooks Dauss        R  12   5   1   0   0   0   0   0   0   1   0  .417  .417  .500 i
+Eric Erickson      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Bert Gallia        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Vean Gregg         L  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 i
+Harry Harper       L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Walter Johnson     R   9   1   0   0   0   1   0   1   0   1   0  .111  .200  .111 i
+Rudy Kallio        R   2   1   1   0   0   0   0   0   0   2   0  .500  .500 1.000 i
+Lefty Leifield     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Slim Love          L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+George Mogridge    L  12   4   1   0   1   0   0   0   0   0   0  .333  .333  .667 i
+Guy Morton         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Scott Perry        R   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Allen Russell      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Reb Russell        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Scott          R   3   3   3   0   0   1   0   0   0   0   0 1.000 1.000 2.000 
+Urban Shocker      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Thormahlen    L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Mule Watson        R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 i
+Ed Willett         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Lefty Williams     L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000

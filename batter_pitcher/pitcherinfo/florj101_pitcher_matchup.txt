@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Bonham        R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Hank Borowy        R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Joe Bowman         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Spud Chandler      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Monk Dubiel        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Ferriss       R   4   2   0   0   0   1   0   0   1   0   0  .500  .667  .500 
+Al Gettel          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Steve Gromek       R   7   1   0   0   0   0   0   0   0   1   0  .143  .143  .143 
+Orval Grove        R   9   2   1   0   0   0   0   3   0   0   0  .222  .222  .333 
+Randy Gumpert      R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Mickey Haefner     L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Mel Harder         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Haynes         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Sid Hudson         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Johnny Humphries   R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Thornton Lee       L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dutch Leonard      R  16   7   1   0   0   0   0   0   0   2   0  .438  .438  .500 
+Eddie Lopat        L   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Stubby Overmire    L   7   2   0   1   0   0   0   1   0   0   0  .286  .286  .571 
+Frank Papish       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Marino Pieretti    R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Allie Reynolds     R   4   1   0   0   0   2   0   0   0   1   0  .250  .500  .250 
+Mike Ryba          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Ray Scarborough    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Al Smith           L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Smith        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dizzy Trout        R   9   2   0   0   0   2   0   0   0   1   0  .222  .364  .222 i
+Pinky Woods        R   5   0   0   0   0   1   0   0   0   1   0  .000  .167  .000 i
+Early Wynn         R  12   2   0   0   0   1   0   3   0   0   0  .167  .231  .167 i

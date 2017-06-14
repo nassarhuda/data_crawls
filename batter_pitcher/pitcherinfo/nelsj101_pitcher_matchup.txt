@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Buddy Black        L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Mike Brown         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Caldwell      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tim Conroy         L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Shane Rawley       L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Lary Sorensen      R   3   1   0   0   0   2   1   0   0   0   0  .333  .600  .333 
+Mike Witt          R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500

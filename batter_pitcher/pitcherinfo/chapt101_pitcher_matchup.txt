@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hap Collard        R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Paul Derringer     R   7   2   0   0   0   0   0   2   0   1   0  .286  .286  .286 
+George Earnshaw    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Benny Frey         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Heusser         R   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 
+Pat Malone         R   5   1   0   0   1   1   0   2   0   0   0  .200  .333  .800 
+Roy Parmelee       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hal Schumacher     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bill Swift         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bucky Walters      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Weaver         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Zachary        L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500

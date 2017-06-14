@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Abernathy      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Gerry Arrigo       L  13   7   1   0   0   0   0   2   0   0   0  .538  .538  .615 
+Steve Carlton      L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Dock Ellis         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Woodie Fryman      L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Bob Gibson         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bill Hands         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ken Holtzman       L   7   1   1   0   0   1   0   1   0   0   0  .143  .250  .286 
+Grant Jackson      L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Fergie Jenkins     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Mike Kekich        L   3   1   1   0   0   1   0   0   0   1   0  .333  .500  .667 
+Jerry Koosman      L  11   3   0   0   0   0   0   0   0   1   0  .273  .273  .273 
+Denny Lemaster     L   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 
+Jim Maloney        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Juan Marichal      R   5   2   1   0   0   0   0   1   0   1   0  .400  .400  .600 
+Jim Merritt        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Bob Moose          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Niekro         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Claude Osteen      L  13   4   0   0   0   0   0   0   0   0   0  .308  .308  .308 
+Ray Sadecki        L  14   5   0   0   0   0   0   2   0   0   0  .357  .357  .357 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Selma         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Stone       L   6   3   0   0   2   0   0   1   0   0   0  .500  .500 1.500 
+Bob Veale          L  10   2   1   0   0   1   0   1   0   0   0  .200  .273  .300 
+Luke Walker        L  10   2   0   0   0   0   0   3   0   0   0  .200  .200  .200

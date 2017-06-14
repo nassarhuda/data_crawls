@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 i
+Al Benton          R  12   0   0   0   0   0   0   9   0   2   0  .000  .000  .000 i
+Hank Borowy        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Tommy Bridges      R  10   0   0   0   0   2   0   8   0   1   0  .000  .167  .000 i
+Clint Brown        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 i
+Lloyd Brown        L   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+George Caster      R   9   3   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Joe Dobson         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+George Earnshaw    R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Carl Fischer       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Lefty Gomez        L   6   1   0   0   0   0   0   1   0   2   0  .167  .167  .167 
+Lefty Grove        L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Mel Harder         R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Willis Hudlin      R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Harry Kelley       R  12   1   0   0   0   0   0   5   0   0   0  .083  .083  .083 i
+Vern Kennedy       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ed Linke           R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Ted Lyons          R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 i
+Roy Mahaffey       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Johnny Marcum      R   6   1   0   0   0   0   0   5   0   2   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Newsome       R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Monte Pearson      R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Nels Potter        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Jim Reninger       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Gordon Rhodes      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Buck Ross          R   9   1   0   0   0   1   0   6   0   1   0  .111  .200  .111 i
+Red Ruffing        R  10   1   0   0   0   0   0   8   0   1   0  .100  .100  .100 
+Monty Stratton     R  11   1   0   0   0   0   0   5   0   1   0  .091  .091  .091 
+Les Tietje         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jake Wade          L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Rube Walberg       L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Earl Whitehill     L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Jack Wilson        R  12   2   0   0   0   0   0   5   0   2   0  .167  .167  .167 i
+Early Wynn         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200

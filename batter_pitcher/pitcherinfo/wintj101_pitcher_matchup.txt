@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Donohue       R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Whitey Glazner     R   7   2   1   0   0   0   0   3   0   0   0  .286  .286  .429 
+Burleigh Grimes    R  15   2   0   0   0   0   0   4   0   0   0  .133  .133  .133 
+Rube Marquard      L  13   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Bill Pertica       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Elmer Ponder       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i

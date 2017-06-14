@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Blanton        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Trevor Cahill      R   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Jhoulys Chacin     R   7   2   0   0   1   1   0   1   0   0   0  .286  .375  .714 
+Aaron Cook         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Patrick Corbin     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Johnny Cueto       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jorge de la Rosa   L   4   2   0   0   1   1   0   1   0   2   1  .500  .500 1.250 
+Rubby de la Rosa   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Zack Greinke       R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Cole Hamels        L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Tim Hudson         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ian Kennedy        R   8   0   0   0   0   1   0   1   0   2   0  .000  .111  .000 
+Clayton Kershaw    L  14   2   0   0   1   0   0   8   0   1   0  .143  .143  .357 
+Paul Maholm        L   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 
+Jason Marquis      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+James McDonald     R   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 
+Franklin Morales   L   7   2   1   0   1   0   0   4   0   0   0  .286  .286  .857 
+Clayton Richard    L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tyson Ross         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hyun-Jin Ryu       L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Stauffer       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Julio Teheran      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Edinson Volquez    R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Adam Wainwright    R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Alex White         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Randy Wolf         L   9   2   1   0   0   0   0   5   0   1   0  .222  .222  .333

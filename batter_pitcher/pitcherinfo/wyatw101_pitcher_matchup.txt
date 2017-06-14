@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Mace Brown         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Max Butcher        R   6   4   1   0   0   0   0   0   0   0   0  .667  .667  .833 
+Mort Cooper        R  21   3   1   0   0   0   0   6   0   1   0  .143  .143  .190 
+Paul Derringer     R  20   7   2   0   1   0   0   1   0   2   0  .350  .350  .600 
+Tom Earley         R   9   2   0   0   1   0   0   2   0   0   0  .222  .222  .556 
+George Earnshaw    R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Dick Errickson     R  11   1   0   0   0   0   0   1   0   0   0  .091  .091  .091 
+Harry Feldman      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Rube Fischer       R   3   3   1   0   0   1   0   0   0   1   0 1.000 1.000 1.333 
+Milt Gaston        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Sam Gray           R   9   3   0   1   0   0   0   1   0   1   0  .333  .333  .556 i
+Lefty Grove        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Harry Gumbert      R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Ken Heintzelman    L   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 
+Lefty Hoerst       L   5   1   1   0   0   2   0   0   0   0   0  .200  .429  .400 
+Willis Hudlin      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tommy Hughes       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Johnny Hutchings   R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Bob Klinger        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Max Lanier         L  11   4   1   0   0   0   0   1   0   1   0  .364  .364  .455 
+Johnny Lanning     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Bill Lee           R  11   2   1   0   0   0   0   3   0   1   0  .182  .182  .273 
+Bill McGee         R  10   3   0   0   0   0   0   4   0   2   0  .300  .300  .300 
+Cliff Melton       L   9   2   0   0   0   1   0   1   0   1   0  .222  .300  .222 i
+Jake Mooty         R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Hugh Mulcahy       R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Vern Olsen         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Claude Passeau     R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Ike Pearson        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Monte Pearson      R   5   3   0   0   1   0   0   2   0   0   0  .600  .600 1.200 
+Johnny Podgajny    R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Howie Pollet       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Gordon Rhodes      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Elmer Riddle       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Red Ruffing        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Russell       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Manny Salvo        R   8   2   1   0   0   0   0   1   1   1   0  .250  .333  .375 i
+Hal Schumacher     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rip Sewell         R   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Shores        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Eddie Smith        L   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Rollie Stiles      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Junior Thompson    R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jim Tobin          R  20   3   1   0   0   0   0   1   0   1   0  .150  .150  .200 
+J. Vander Meer     L   9   2   1   0   0   1   0   2   0   0   0  .222  .300  .333 
+Bucky Walters      R  12   5   0   0   0   0   0   1   0   1   0  .417  .417  .417 
+Monte Weaver       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ernie White        L   5   1   1   0   0   0   0   0   0   1   0  .200  .200  .400 
+Earl Whitehill     L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143

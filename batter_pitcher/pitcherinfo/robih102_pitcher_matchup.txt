@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Frank Allen        L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 i
+Jimmy Lavender     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hub Perdue         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Eppa Rixey         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Tyler        L   9   2   0   0   0   0   0   1   0   1   0  .222  .222  .222 i
+Earl Yingling      L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i

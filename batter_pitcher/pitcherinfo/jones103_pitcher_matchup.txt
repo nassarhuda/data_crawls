@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dewey Adkins       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Banta         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rex Barney         R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Vern Bickford      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ewell Blackwell    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Hank Borowy        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ralph Branca       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Harry Brecheen     L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Chipman        L   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Murry Dickson      R   3   1   0   1   0   0   0   1   0   1   0  .333  .333 1.000 
+Monk Dubiel        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+J. Klippstein      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Koecher       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dutch Leonard      R  10   1   0   0   0   0   0   0   0   0   0  .100  .100  .100 
+Vic Lombardi       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Russ Meyer         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Minner        L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Red Munger         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Howie Pollet       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mel Queen          R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elmer Riddle       R   6   1   0   1   0   0   0   0   0   0   0  .167  .167  .500 
+Robin Roberts      R  11   1   0   0   0   1   0   5   0   2   0  .091  .167  .091 
+Preacher Roe       L  11   1   0   0   0   1   0   8   0   1   0  .091  .167  .091 
+Bob Rush           R   5   2   1   0   0   0   0   1   0   1   0  .400  .400  .600 
+Johnny Sain        R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Johnny Schmitz     L   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+Rip Sewell         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Warren Spahn       L   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Gerry Staley       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+J. Vander Meer     L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bill Werle         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167

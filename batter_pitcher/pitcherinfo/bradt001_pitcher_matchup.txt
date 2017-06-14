@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Castillo     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Foster       R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jon Lieber         R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Pedro Martinez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick White         R   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667

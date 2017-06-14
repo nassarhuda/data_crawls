@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Brissie        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Dobson         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dick Fowler        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Steve Gromek       R   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+Ellis Kinder       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Willard Nixon      R   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+Vic Raschi         R   1   0   0   0   0   1   0   0   0   2   0  .000  .500  .000 
+Carl Scheib        R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Chuck Stobbs       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Virgil Trucks      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Early Wynn         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

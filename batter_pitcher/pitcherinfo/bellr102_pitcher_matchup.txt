@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Santo Alcala       R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Ray Burris         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Candelaria    L   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Larry Demery       R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+John Denny         R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Larry Dierker      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Forsch         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Don Gullett        L   3   0   0   0   0   2   0   0   0   1   0  .000  .400  .000 
+Bruce Kison        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Lynn McGlothen     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Gary Nolan         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Eric Rasmussen     R   4   1   0   1   0   0   0   0   0   1   0  .250  .250  .750 
+Ron Reed           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Rooker         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

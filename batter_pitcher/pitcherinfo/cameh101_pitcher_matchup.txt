@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Barrett       R   6   3   0   1   0   0   0   0   0   0   0  .500  .500  .833 i
+Joe Beggs          R   9   1   0   0   0   1   1   0   0   0   0  .111  .200  .111 
+Hank Behrman       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ralph Branca       R   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Harry Brecheen     L  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bob Chipman        L   6   3   0   0   0   1   0   0   0   0   0  .500  .571  .500 i
+Mort Cooper        R   8   2   1   1   0   0   0   0   0   0   0  .250  .250  .625 
+Paul Derringer     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Hal Gregg          R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 
+Harry Gumbert      R   4   2   1   0   0   0   0   0   0   2   0  .500  .500  .750 
+Andy Hansen        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Joe Hatten         L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Ken Heintzelman    L   3   0   0   0   0   2   1   0   0   0   0  .000  .400  .000 
+Ed Heusser         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Kirby Higbe        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tommy Hughes       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Larry Jansen       R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Oscar Judd         L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Al Jurisich        R   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 i
+Monty Kennedy      L   3   0   0   0   0   2   1   0   0   0   0  .000  .400  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Koslo         L  11   2   0   0   0   1   0   2   0   0   0  .182  .250  .182 
+Doyle Lade         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vic Lombardi       L  11   0   0   0   0   3   2   1   0   0   0  .000  .214  .000 
+Roger McKee        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Cliff Melton       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rube Melton        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+F. Ostermueller    L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+K. Raffensberger   L  11   2   0   0   0   1   1   2   0   0   0  .182  .250  .182 
+Preacher Roe       L   5   2   0   0   1   2   1   0   0   0   0  .400  .571 1.000 
+Schoolboy Rowe     R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Johnny Sain        R   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Charley Schanz     R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 i
+Freddy Schmidt     R   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 i
+Johnny Schmitz     L   6   1   0   1   0   0   0   1   0   0   0  .167  .167  .500 
+Elmer Singleton    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+J. Vander Meer     L   9   3   3   0   0   2   1   1   0   0   0  .333  .455  .667 
+Bill Voiselle      R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Bucky Walters      R  13   4   0   0   1   0   0   2   0   0   0  .308  .308  .538 
+Les Webber         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ted Wilks          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

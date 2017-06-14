@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pete Alexander     R   9   3   1   0   0   1   0   1   0   0   0  .333  .400  .444 i
+Red Ames           R   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 i
+Rube Benton        L  14   5   0   0   0   1   0   2   0   1   0  .357  .400  .357 i
+Ray Boyd           R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ad Brennan         L   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Larry Cheney       R  16   1   0   0   0   1   0   2   0   0   0  .063  .118  .063 
+Walt Dickson       R  11   4   0   1   0   0   0   0   0   0   0  .364  .364  .545 
+Ed Donnelly        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Art Fromme         R  16   4   1   0   0   3   0   0   0   0   0  .250  .368  .313 i
+Bob Harmon         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Claude Hendrix     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Otto Hess          L  13   2   1   0   0   1   0   1   0   0   0  .154  .214  .231 
+Bert Humphries     R   8   2   0   1   0   1   0   0   0   0   0  .250  .333  .500 i
+Jimmy Lavender     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lefty Leifield     L  12   2   0   0   0   0   0   4   0   1   0  .167  .167  .167 i
+Lou Lowdermilk     L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Rube Marquard      L  12   4   2   0   0   0   0   1   0   0   0  .333  .333  .500 i
+C. Mathewson       R  16   8   1   0   0   0   0   3   0   0   0  .500  .500  .563 i
+Bert Maxwell       R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Moroney        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Hub Perdue         R   5   3   0   1   0   0   0   0   0   0   0  .600  .600 1.000 i
+Ed Reulbach        R   9   2   1   0   1   0   0   1   0   0   0  .222  .222  .667 i
+Lew Richie         R   8   2   1   0   0   1   0   0   0   0   0  .250  .333  .375 
+Hank Robinson      L   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000 i
+Slim Sallee        L  12   3   1   0   0   0   0   0   0   0   0  .250  .250  .333 i
+Tom Seaton         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bill Steele        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+George Suggs       R   7   3   1   0   0   1   0   1   0   1   0  .429  .500  .571 i
+Jeff Tesreau       R  10   3   1   0   1   1   0   1   1   1   0  .300  .417  .700 i
+Lefty Tyler        L   8   6   1   1   0   1   0   0   0   0   0  .750  .778 1.125 i
+Joe Willis         L   2   1   0   1   0   2   0   0   0   0   0  .500  .750 1.500 i
+Hooks Wiltse       L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Beggs          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Chase          L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Harry Gumbert      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Wally Hebert       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Al Jurisich        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Howie Krist        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Van Mungo          R   2   1   0   0   0   0   0   1   0   2   0  .500  .500  .500

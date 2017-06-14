@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Fred Anderson      R  13   4   1   1   0   0   0   1   0   0   0  .308  .308  .538 i
+Cy Barger          R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 i
+Chief Bender       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Chappelle     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Walt Dickson       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Cy Falkenberg      R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Happy Finneran     R   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 i
+Russ Ford          R   8   3   0   0   0   1   0   1   0   0   0  .375  .444  .375 i
+Claude Hendrix     R  12   3   0   0   0   1   0   1   0   0   0  .250  .308  .250 i
+Rankin Johnson     R  12   3   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Chief Johnson      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Katsy Keifer       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Elmer Knetzer      R  16   3   2   0   0   2   0   2   0   1   0  .188  .278  .313 i
+Gene Krapp         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ed Lafitte         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Erv Lange          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+George McConnell   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Earl Moore         R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 i
+Harry Moran        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Earl Moseley       R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 i
+Jack Quinn         R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Ed Reulbach        R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Clint Rogge        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Al Schulz          L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+Tom Seaton         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Dwight Stone       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+George Suggs       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Fin Wilson         L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i

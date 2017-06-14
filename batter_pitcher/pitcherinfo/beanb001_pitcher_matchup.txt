@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allan Anderson     L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Floyd Bannister    L   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Tom Candiotti      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Cerutti       L   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Joe Cowley         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jose DeLeon        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Richard Dotson     R   8   5   1   0   1   0   0   2   0   0   0  .625  .625 1.125 
+Mike Flanagan      L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Paul Gibson        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Gubicza       R  10   4   1   0   0   0   0   3   0   0   0  .400  .400  .500 
+Teddy Higuera      L   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Charlie Hough      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bruce Hurst        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Tommy John         L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jimmy Key          L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Mark Langston      L   8   5   1   0   0   0   0   2   0   0   0  .625  .625  .750 
+Mike Mason         L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mike Morgan        R   4   1   1   0   0   1   0   3   0   0   0  .250  .400  .500 
+Juan Nieves        L   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dan Plesac         L   5   3   1   0   0   0   0   2   0   0   0  .600  .600  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Rasmussen   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Stewart       R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Greg Swindell      L   9   6   1   0   0   0   0   2   0   0   0  .667  .667  .778 
+Frank Tanana       L  12   1   0   0   0   0   0   2   0   0   1  .083  .077  .083

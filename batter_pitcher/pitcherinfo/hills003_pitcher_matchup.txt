@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cole Hamels        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+O. Hernandez       R   2   0   0   0   0   0   0   2   1   2   0  .000  .333  .000 
+Scott Olsen        L   8   2   0   0   0   1   0   4   0   2   0  .250  .333  .250

@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Assenmacher   L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Steve Avery        L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Brian Barnes       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Buddy Black        L   7   2   2   0   0   2   0   3   0   0   0  .286  .444  .571 
+Willie Blair       R   3   2   1   0   0   0   0   1   1   0   0  .667  .750 1.000 
+Joe Boever         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Tom Browning       L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Kelly Downs        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Sid Fernandez      L   6   0   0   0   0   1   0   4   0   0   0  .000  .143  .000 
+Steve Foster       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Marvin Freeman     R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+Tom Glavine        L   4   1   0   1   0   2   0   0   0   0   0  .250  .500  .750 
+Kevin Gross        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bryan Hickerson    L   5   1   0   0   1   2   0   2   0   0   0  .200  .429  .800 
+Danny Jackson      L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Michael Jackson    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+C. Leibrandt       L  14   5   0   0   0   1   0   6   0   0   0  .357  .400  .357 
+Dennis Martinez    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Roger McDowell     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck McElroy      L   4   2   1   1   0   0   0   2   0   0   0  .500  .500 1.250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gino Minutelli     L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Terry Mulholland   L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Nabholz      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Donovan Osborne    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Al Osuna           L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Righetti      L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Zane Smith         L   7   4   1   0   1   0   0   0   0   0   0  .571  .571 1.143 
+Randy Tomlin       L  12   5   0   0   2   1   0   4   0   0   0  .417  .462  .917 
+Trevor Wilson      L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000

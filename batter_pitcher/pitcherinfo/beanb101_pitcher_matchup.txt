@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chief Hogsett      L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Roy Mahaffey       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Herb Pennock       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

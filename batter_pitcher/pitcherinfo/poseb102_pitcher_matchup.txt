@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boom-Boom Beck     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Clay Bryant        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tex Carleton       R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Mort Cooper        R   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 i
+Curt Davis         R  14   3   0   0   0   0   0   1   0   1   0  .214  .214  .214 i
+Paul Derringer     R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Harry Gumbert      R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Ray Harrell        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Syl Johnson        R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Bob Klinger        R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 i
+Cliff Melton       L   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 
+Jake Mooty         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Clyde Shoun        L   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 i
+Bucky Walters      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Lon Warneke        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

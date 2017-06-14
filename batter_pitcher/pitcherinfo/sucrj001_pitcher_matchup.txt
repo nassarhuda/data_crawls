@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Bassitt      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jesse Chavez       R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+John Danks         L   8   3   0   0   0   1   0   0   0   1   0  .375  .444  .375 
+Kyle Gibson        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Sonny Gray         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Cole Hamels        L   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Derek Holland      L   5   3   3   0   0   1   0   0   0   1   0  .600  .667 1.200 
+Scott Kazmir       L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Lance McCullers    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sean Nolin         L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mike Pelfrey       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

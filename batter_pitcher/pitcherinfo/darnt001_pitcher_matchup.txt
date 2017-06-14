@@ -1,0 +1,56 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R  15   4   0   0   0   1   0   1   0   0   0  .267  .313  .267 
+Phillippe Aumont   R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+C. Bergman         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+David Buchanan     R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+M. Bumgarner       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+A.J. Burnett       R   9   5   1   0   2   0   0   2   0   0   0  .556  .556 1.333 
+Fausto Carmona     R   4   2   0   0   0   1   1   1   0   0   0  .500  .600  .500 
+David Carpenter    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Adam Conley        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jarred Cosart      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Johnny Cueto       R   5   3   2   0   0   1   0   1   0   0   0  .600  .667 1.000 
+Brandon Cunniff    R   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Justin De Fratus   R   6   3   2   0   0   2   0   1   0   0   0  .500  .625  .833 
+Jorge de la Rosa   L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+A. DeSclafani      R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Jake Diekman       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Michael Dunn       L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Nathan Eovaldi     R   4   1   1   0   0   2   0   2   0   0   0  .250  .500  .500 
+Doug Fister        R  12   1   1   0   0   0   0   0   0   0   0  .083  .083  .167 
+Yovani Gallardo    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Giles          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeanmar Gomez      R   1   0   0   0   0   2   0   0   0   0   1  .000  .500  .000 
+Gio Gonzalez       L  14   3   3   0   0   1   0   3   0   0   0  .214  .267  .429 
+David Hale         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cole Hamels        L  14   1   0   0   0   4   2   4   0   0   0  .071  .278  .071 
+Brad Hand          L   6   2   0   0   1   1   0   0   0   0   0  .333  .429  .833 
+Aaron Harang       R  14   3   0   0   1   2   0   0   0   0   0  .214  .313  .429 
+Dan Haren          R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Mario Hollands     L   6   0   0   0   0   1   1   2   0   0   0  .000  .143  .000 
+Tim Hudson         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Scott Kazmir       L   7   2   0   0   2   0   0   2   0   0   0  .286  .286 1.143 
+Kyle Kendrick      R   9   2   0   0   1   1   0   0   0   0   1  .222  .273  .556 
+Tom Koehler        R  15   6   2   0   0   4   0   1   0   0   0  .400  .526  .533 
+Mike Leake         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shelby Miller      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Mike Minor         L   9   2   2   0   0   0   0   3   0   0   0  .222  .222  .444 
+Hector Neris       R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Williams Perez     R   9   6   0   0   1   0   0   0   0   0   0  .667  .667 1.000 
+A.J. Ramos         R   4   2   1   0   0   0   0   1   1   0   0  .500  .600  .750 
+Tanner Roark       R  10   1   0   0   0   2   0   4   0   0   0  .100  .250  .100 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Rusin        L   5   3   2   0   0   0   0   0   0   0   0  .600  .600 1.000 
+Ervin Santana      R   9   2   0   0   1   0   0   1   0   0   0  .222  .222  .556 
+Max Scherzer       R   5   1   0   1   0   0   0   1   0   0   1  .200  .167  .600 
+Alfredo Simon      R   7   2   0   0   1   0   0   0   0   0   0  .286  .286  .714 
+S. Strasburg       R  10   4   0   0   1   2   0   3   0   0   0  .400  .500  .700 
+Eric Stults        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Julio Teheran      R  12   1   0   0   0   1   0   0   1   0   0  .083  .214  .083 
+Edinson Volquez    R   4   0   0   0   0   2   1   0   0   0   0  .000  .333  .000 
+Jordan Walden      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jerome Williams    R   9   3   0   0   1   0   0   1   0   0   0  .333  .333  .667 
+Alex Wood          L   5   3   2   0   0   0   0   0   0   0   0  .600  .600 1.000 
+Travis Wood        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+J. Zimmermann      R  12   5   1   0   0   0   0   1   0   0   0  .417  .417  .500

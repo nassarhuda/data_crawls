@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  10   0   0   0   0   1   0   6   0   1   0  .000  .091  .000 i
+Frank Allen        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Rube Benton        L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 i
+Buster Brown       R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Howie Camnitz      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Larry Cheney       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wilbur Cooper      L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Dick Crutcher      R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Art Fromme         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bob Harmon         R   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 i
+Claude Hendrix     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill James         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Elmer Knetzer      R   7   0   0   0   0   1   0   4   0   0   0  .000  .125  .000 i
+Jimmy Lavender     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Al Mamaux          R   5   1   0   1   0   0   0   3   0   1   0  .200  .200  .600 i
+Rube Marquard      L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+C. Mathewson       R  12   1   0   0   0   0   0   6   0   0   0  .083  .083  .083 i
+Erskine Mayer      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Marty O'Toole      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Gene Packard       L   7   2   0   0   0   1   0   1   0   1   0  .286  .375  .286 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Prendergast   R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jack Quinn         R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Nap Rucker         L   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 i
+George Suggs       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jeff Tesreau       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Hippo Vaughn       L   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 i
+Charlie Young      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

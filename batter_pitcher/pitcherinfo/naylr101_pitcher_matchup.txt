@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bill Bayne         L   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 i
+Bullet Joe Bush    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Harry Courtney     L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Stan Coveleski     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Hooks Dauss        R  17   0   0   0   0   0   0   9   0   0   0  .000  .000  .000 i
+Red Faber          R  17   3   0   0   0   1   0   7   0   0   0  .176  .222  .176 i
+Alex Ferguson      R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i
+Bert Gallia        R   5   1   0   0   0   0   0   4   0   1   0  .200  .200  .200 i
+Harry Harper       L   5   0   0   0   0   1   0   3   0   1   0  .000  .167  .000 
+Sad Sam Jones      R  12   4   1   0   0   0   0   1   0   0   0  .333  .333  .417 
+Dutch Leonard      L   9   1   0   0   0   0   0   7   0   0   0  .111  .111  .111 i
+Guy Morton         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Herb Pennock       L  11   1   0   0   0   1   0   4   0   0   0  .091  .167  .091 i
+Bill Piercy        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jack Quinn         R   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 i
+Jim Shaw           R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i
+Bob Shawkey        R  10   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 i
+George Uhle        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Carl Weilman       L   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Williams     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

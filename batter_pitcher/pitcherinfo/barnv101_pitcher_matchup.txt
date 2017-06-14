@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R  13   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Alexander     R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jesse Barnes       R   8   1   0   0   0   0   0   5   0   0   0  .125  .125  .125 
+Sheriff Blake      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Hal Carlson        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Johnny Couch       R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 i
+Leo Dickerman      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Pete Donohue       R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Alex Ferguson      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joe Genewich       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Burleigh Grimes    R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Jesse Haines       R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Bill Hubbell       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Lucas          R   9   2   0   0   0   0   0   2   0   1   0  .222  .222  .222 i
+Dolf Luque         R  10   2   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Duster Mails       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lee Meadows        R  10   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 i
+John Milligan      L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+C. Mitchell        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Joe Oeschger       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Osborne       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jesse Petty        L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jimmy Ring         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Eppa Rixey         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Charlie Root       R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill Sherdel       L   8   1   0   0   0   0   0   3   0   1   0  .125  .125  .125 i
+Bob Smith          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Dazzy Vance        R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i

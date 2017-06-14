@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cloyd Boyer        R   4   1   0   0   0   1   0   0   1   0   0  .250  .500  .250 
+Tom Brewer         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Tommy Byrne        L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Art Ceccarelli     L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dick Donovan       R   6   0   0   0   0   0   0   2   1   0   0  .000  .143  .000 
+Mike Garcia        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Bob Keegan         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Alex Kellner       L   5   2   1   0   0   1   1   0   0   0   0  .400  .500  .600 
+Johnny Kucks       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bob Lemon          R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Erv Palica         R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Vic Raschi         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Herb Score         L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000

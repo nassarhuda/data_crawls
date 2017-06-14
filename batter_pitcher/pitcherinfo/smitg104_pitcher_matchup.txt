@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   9   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 i
+Rube Benton        L   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Leon Cadore        R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Virgil Cheeves     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wilbur Cooper      L  16   1   0   0   0   1   0   7   0   0   0  .063  .118  .063 
+Dana Fillingim     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   8   0   0   0   0   1   0   1   0   2   0  .000  .111  .000 i
+Dan Griner         R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Jesse Haines       R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Bill Hubbell       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Dolf Luque         R   8   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Erskine Mayer      R   8   2   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Lee Meadows        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Johnny Miljus      R   7   0   0   0   0   1   0   4   0   0   0  .000  .125  .000 i
+Johnny Morrison    R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Joe Oeschger       R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 i
+Jeff Pfeffer       R   6   1   0   0   0   0   0   2   0   3   0  .167  .167  .167 i
+Jimmy Ring         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Eppa Rixey         L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dutch Ruether      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ferdie Schupp      L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Jack Scott         R  11   0   0   0   0   1   0   7   0   0   0  .000  .083  .000 i
+George Stueland    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lefty Tyler        L   8   0   0   0   0   1   0   5   0   1   0  .000  .111  .000

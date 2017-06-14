@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Tiny Bonham        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Caster      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Spud Chandler      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Russ Christopher   R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Joe Dobson         R   9   1   0   0   0   1   0   1   0   0   0  .111  .200  .111 i
+Atley Donald       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Blix Donnelly      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Bob Feller         R   8   2   0   0   0   0   0   5   0   0   0  .250  .250  .250 i
+Dick Fowler        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Mel Harder         R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Lum Harris         R   5   1   0   0   0   1   0   0   0   2   0  .200  .333  .200 i
+Mickey Harris      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Ken Heintzelman    L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Al Hollingsworth   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sid Hudson         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tex Hughson        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Oscar Judd         L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Thornton Lee       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Eddie Lopat        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Milnar          L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Hal Newhouser      L   9   0   0   0   0   1   0   4   0   0   0  .000  .100  .000 i
+Emmett O'Neill     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Howie Pollet       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Nels Potter        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Red Ruffing        R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Mike Ryba          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Tex Shirley        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Al Smith           L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Dizzy Trout        R   9   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Charlie Wagner     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Butch Wensloff     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Wilson         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

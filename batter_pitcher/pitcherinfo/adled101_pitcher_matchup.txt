@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Cardwell       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Carlton      L   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Tony Cloninger     R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Don Drysdale       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Woodie Fryman      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Joe Gibbon         L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Bob Gibson         R   7   3   0   0   0   0   0   1   0   1   0  .429  .429  .429 
+Bill Hands         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Ken Holtzman       L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Dick Hughes        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Larry Jackson      R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jerry Koosman      L   4   0   0   0   0   2   1   1   0   0   0  .000  .333  .000 
+Vern Law           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Maloney        R   6   1   0   0   0   1   1   4   0   0   0  .167  .286  .167 
+Juan Marichal      R  11   1   0   0   0   0   0   1   0   0   0  .091  .091  .091 
+Mike McCormick     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tug McGraw         L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Phil Niekro        R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Claude Osteen      L   7   3   0   0   0   0   0   2   0   0   1  .429  .375  .429 
+Milt Pappas        R  12   2   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Sadecki        L   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Tom Seaver         R   7   0   0   0   0   0   0   5   1   0   0  .000  .125  .000 
+Dick Selma         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Shaw           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Short        L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Curt Simmons       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tommie Sisk        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Don Sutton         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Veale          L   5   0   0   0   0   1   0   3   0   1   0  .000  .167  .000

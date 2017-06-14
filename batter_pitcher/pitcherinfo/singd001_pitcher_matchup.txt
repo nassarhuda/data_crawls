@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Belcher        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Alex Fernandez     R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jimmy Haynes       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dennis Martinez    R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kirk McCaskill     R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Jack McDowell      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Charles Nagy       R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Kevin Tapani       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Wakefield      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

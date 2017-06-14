@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Fausto Carmona     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Scott Carroll      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Yu Darvish         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+R.A. Dickey        R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Marco Estrada      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Felix Hernandez    R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Derek Holland      L   4   1   1   0   0   0   0   2   0   0   1  .250  .200  .500 
+Dallas Keuchel     L   7   1   0   0   0   0   0   1   0   0   1  .143  .125  .143 
+Jon Lester         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+B. Oberholtzer     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+David Price        L   9   4   0   0   0   1   1   2   0   0   0  .444  .500  .444

@@ -1,0 +1,56 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Al Benton          R   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Bevens        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Tiny Bonham        R  13   4   0   1   0   0   0   0   0   0   0  .308  .308  .462 
+Hank Borowy        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Marv Breuer        R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Spud Chandler      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Chubby Dean        L  15   4   1   0   0   0   0   0   0   0   0  .267  .267  .333 i
+Bill Dietrich      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Joe Dobson         R   8   3   0   0   0   1   0   1   0   0   0  .375  .444  .375 i
+Atley Donald       R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Clem Dreisewerd    L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Red Embree         R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Bob Feller         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Dave Ferriss       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dick Fowler        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Charlie Fuchs      R   4   2   0   1   0   1   0   0   0   0   0  .500  .600 1.000 i
+George Gill        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bump Hadley        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mickey Haefner     L  10   5   1   0   0   1   0   0   0   0   0  .500  .545  .600 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mel Harder         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Lum Harris         R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Mickey Harris      L   9   2   2   0   0   0   0   0   0   1   0  .222  .222  .444 
+Art Houtteman      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sid Hudson         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Tex Hughson        R  10   4   1   0   0   0   0   2   0   0   0  .400  .400  .500 i
+Johnny Humphries   R   6   3   2   0   0   0   0   0   0   0   0  .500  .500  .833 i
+Oscar Judd         L  14   4   0   1   0   0   0   0   0   0   0  .286  .286  .429 i
+Jack Knott         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Joe Krakauskas     L   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 i
+Lou Kretlow        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dutch Leonard      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Lopat        L  20   6   0   1   1   1   0   1   0   1   0  .300  .333  .550 
+Ted Lyons          R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Phil Marchildon    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Al Milnar          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Hal Newhouser      L  15   6   1   0   0   0   0   3   0   0   0  .400  .400  .467 i
+Joe Page           L   9   3   0   0   0   1   0   1   0   0   0  .333  .400  .333 
+Frank Papish       L   6   2   0   0   0   1   0   0   0   1   0  .333  .429  .333 
+Allie Reynolds     R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Rigney      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Red Ruffing        R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ray Scarborough    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Al Smith           L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Eddie Smith        L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Monty Stratton     R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Dizzy Trout        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Virgil Trucks      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Monte Weaver       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Hal White          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Earl Whitehill     L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roger Wolff        R   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500 i
+Early Wynn         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Len Barker         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Bert Blyleven      R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Jim Clancy         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Danny Darwin       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Storm Davis        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Rich Gale          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Gott           R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Larry Gura         L   5   1   0   1   0   0   0   0   0   0   1  .200  .167  .600 
+Charlie Hough      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+LaMarr Hoyt        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Matt Keough        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bruce Kison        R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Dennis Lamp        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Rick Langford      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Aurelio Lopez      R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Morgan        R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Jack Morris        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Gaylord Perry      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dan Petry          R  12   1   0   0   0   0   0   0   0   0   0  .083  .083  .083 
+Chuck Rainey       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Renko        R   9   1   0   0   1   0   0   0   0   0   0  .111  .111  .444 
+Lary Sorensen      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Stieb         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Rick Sutcliffe     R   6   3   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Dave Tobik         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Mike Torrez        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ed Whitson         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Milt Wilcox        R  15   6   0   0   0   2   0   0   0   0   0  .400  .471  .400

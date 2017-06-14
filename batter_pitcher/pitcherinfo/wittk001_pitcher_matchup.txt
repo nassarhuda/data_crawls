@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+James Baldwin      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Kevin Brown        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+John Burkett       R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Shawn Chacon       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Roger Clemens      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bartolo Colon      R   5   4   0   0   0   1   0   0   0   0   0  .800  .833  .800 
+Jose Contreras     R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Jason Davis        R   7   1   0   0   1   0   0   1   0   0   0  .143  .143  .571 
+R.A. Dickey        R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Scott Elarton      R   6   4   1   0   1   0   0   0   0   0   0  .667  .667 1.333 
+Freddy Garcia      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jon Garland        R  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Roy Halladay       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Felix Hernandez    R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Jason Jennings     R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Todd Jones         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jose Lima          R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Esteban Loaiza     R  15   2   0   0   0   1   0   7   0   0   0  .133  .188  .133 
+Derek Lowe         R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Mike MacDougal     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Martinez     R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Gil Meche          R   6   3   0   0   1   0   0   2   0   0   0  .500  .500 1.000 
+Jamie Moyer        L   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Ramon Ortiz        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Brad Radke         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jason Schmidt      R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Aaron Sele         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Josh Towers        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Tim Wakefield      R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Jeff Weaver        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brandon Webb       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jake Westbrook     R  10   3   0   0   0   0   0   2   1   0   0  .300  .364  .300

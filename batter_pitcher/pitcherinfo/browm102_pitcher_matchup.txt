@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Pete Alexander     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Cy Barger          R   9   3   0   0   0   1   0   1   0   0   0  .333  .400  .333 i
+Bill Burns         L   9   3   2   0   0   0   0   3   0   0   0  .333  .333  .556 i
+Howie Camnitz      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Larry Cheney       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Dave Davenport     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bob Harmon         R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 i
+Claude Hendrix     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Pete Henning       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Gene Krapp         R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 i
+C. Mathewson       R  17   3   0   0   0   0   0   1   0   0   0  .176  .176  .176 i
+Earl Moore         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Earl Moseley       R   6   2   0   0   0   1   0   3   0   0   0  .333  .429  .333 i
+Slim Sallee        L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Tom Seaton         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+George Suggs       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i

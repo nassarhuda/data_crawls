@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mickey Haefner     L   6   3   0   0   0   1   0   0   0   0   0  .500  .571  .500 
+Dutch Leonard      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Marino Pieretti    R   8   2   0   1   0   0   0   0   0   0   0  .250  .250  .500 
+Sandy Ullrich      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roger Wolff        R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286

@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Baker        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bobby Castillo     R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Ken Forsch         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Matt Keough        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rick Langford      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Steve Renko        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,67 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   6   3   1   0   0   0   0   0   0   1   0  .500  .500  .667 
+Pete Appleton      R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+G. Blaeholder      R  19  10   2   0   1   1   0   3   0   0   0  .526  .550  .789 
+Garland Braxton    L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tommy Bridges      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Clint Brown        R  12   3   2   0   0   0   0   1   0   0   0  .250  .250  .417 i
+Lloyd Brown        L  19   4   0   0   0   1   0   3   0   0   0  .211  .250  .211 i
+Jumbo Brown        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Bobby Burke        L   9   2   0   0   0   3   0   0   0   0   0  .222  .417  .222 i
+Sugar Cain         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Pat Caraway        L   5   2   1   1   0   0   0   0   0   0   0  .400  .400 1.000 i
+Dick Coffman       R   8   1   0   0   0   2   0   0   0   0   0  .125  .300  .125 i
+Rip Collins        R  15   3   0   0   0   2   0   2   0   0   0  .200  .294  .200 i
+Sarge Connally     R  13   7   0   1   0   1   0   0   0   0   0  .538  .571  .692 
+Bob Cooney         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+General Crowder    R  18   4   1   0   0   0   0   1   0   0   0  .222  .222  .278 i
+Charlie Devens     R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+George Earnshaw    R  25   4   0   0   2   3   0   7   0   0   0  .160  .250  .400 
+Red Faber          R  12   2   1   0   0   1   1   0   0   0   0  .167  .231  .250 i
+Wes Ferrell        R  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carl Fischer       L  12   2   1   0   0   2   0   2   0   0   0  .167  .286  .250 i
+Vic Frazier        R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 i
+Tony Freitas       L   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Milt Gaston        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Lefty Gomez        L   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Sam Gray           R   9   5   1   0   0   1   0   1   0   0   0  .556  .600  .667 i
+Paul Gregory       R   6   3   2   0   0   1   0   0   0   0   0  .500  .571  .833 i
+Lefty Grove        L  22   3   0   0   0   1   0   8   0   0   0  .136  .174  .136 
+Bump Hadley        R  16   2   0   0   0   3   0   3   0   1   0  .125  .263  .125 i
+Mel Harder         R  18   3   1   0   0   0   0   4   0   0   0  .167  .167  .222 i
+Wally Hebert       L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Art Herring        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Oral Hildebrand    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Chief Hogsett      L   8   5   2   0   0   0   0   0   0   0   0  .625  .625  .875 i
+Waite Hoyt         R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Willis Hudlin      R  22   5   2   0   0   0   0   5   0   0   0  .227  .227  .318 
+Hank Johnson       R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Sad Sam Jones      R   8   3   2   0   0   0   0   1   0   0   0  .375  .375  .625 i
+Chad Kimsey        R   7   0   0   0   0   1   0   2   0   1   0  .000  .125  .000 
+Lew Krausse        R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Lyons          R  22   7   1   0   1   0   0   1   0   0   0  .318  .318  .500 
+Danny MacFayden    R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Roy Mahaffey       R  17   1   0   0   0   4   0   4   0   0   0  .059  .238  .059 
+Firpo Marberry     R  14   2   0   1   0   1   0   1   0   0   0  .143  .200  .286 i
+Hank McDonald      R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Jim Moore          R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+Herb Pennock       L  14   6   1   0   1   2   0   0   0   0   0  .429  .500  .714 
+George Pipgras     R  15   2   2   0   0   1   0   7   0   0   0  .133  .188  .267 i
+Gordon Rhodes      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eddie Rommel       R   8   2   0   0   1   0   0   0   0   0   0  .250  .250  .625 
+Red Ruffing        R  17   4   0   0   1   3   0   4   0   0   0  .235  .350  .412 
+Roy Sherid         R  12   0   0   0   0   2   0   2   0   0   0  .000  .143  .000 
+Vic Sorrell        R   6   1   0   0   0   1   0   2   0   1   0  .167  .286  .167 i
+Lefty Stewart      L  18   4   1   0   2   3   0   3   0   0   0  .222  .333  .611 
+Tommy Thomas       R  22   5   1   2   0   0   0   4   0   0   0  .227  .227  .455 
+Fay Thomas         R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+George Uhle        R   9   2   1   0   0   1   0   2   0   0   0  .222  .300  .333 i
+Rube Walberg       L  14   3   1   0   0   0   0   2   0   0   0  .214  .214  .286 
+Jim Weaver         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Monte Weaver       R   8   1   0   0   0   3   0   0   0   0   0  .125  .364  .125 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Wells           L   5   4   2   1   0   0   0   0   0   0   0  .800  .800 1.600 
+Earl Whitehill     L  10   4   0   1   0   3   0   3   0   1   0  .400  .538  .600 
+Whit Wyatt         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i

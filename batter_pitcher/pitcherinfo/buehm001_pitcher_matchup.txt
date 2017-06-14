@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Cueto       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+R.A. Dickey        R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Aaron Harang       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Minor         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carlos Silva       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

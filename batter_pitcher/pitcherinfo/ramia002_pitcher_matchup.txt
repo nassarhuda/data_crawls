@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rick Ankiel        L   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+James Baldwin      R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Willie Blair       R   7   2   0   1   1   0   0   3   0   0   0  .286  .286 1.000 
+Brian Bohanon      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Elmer Dessens      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cal Eldred         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Shawn Estes        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Halama        L   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+LaTroy Hawkins     R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Chris Holt         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Darryl Kile        R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500 
+Eric Milton        L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jamie Moyer        L   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Denny Neagle       L   7   4   2   0   0   0   0   0   0   0   0  .571  .571  .857 
+C.J. Nitkowski     L   6   4   0   0   1   0   0   0   0   0   0  .667  .667 1.167 
+Russ Ortiz         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Parque         L   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Carlos Perez       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Andy Pettitte      L   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Portugal      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Quantrill     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Mark Redman        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kirk Rueter        L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Mike Sirotka       L   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ron Villone        L   7   3   1   1   0   0   0   0   0   0   0  .429  .429  .857 
+David Wells        L   8   3   1   0   0   0   0   2   0   0   0  .375  .375  .500 
+Jay Witasick       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

@@ -1,0 +1,52 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rex Barney         R  10   2   0   0   0   1   0   3   0   1   0  .200  .273  .200 
+Red Barrett        R   8   1   0   0   1   0   0   3   0   0   0  .125  .125  .500 
+Vern Bickford      R  11   3   1   0   0   0   0   2   0   0   0  .273  .273  .364 
+Hank Borowy        R   7   1   1   0   0   0   0   2   0   1   0  .143  .143  .286 
+Al Brazle          L  12   5   2   1   0   2   1   1   0   0   0  .417  .500  .750 
+Harry Brecheen     L  15   4   0   0   0   1   0   4   0   0   0  .267  .313  .267 
+Ken Burkhart       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Cliff Chambers     L   9   3   1   1   0   0   0   0   0   0   0  .333  .333  .667 
+Bob Chesnes        R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Murry Dickson      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jess Dobernic      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Carl Erskine       R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Howie Fox          R  11   4   0   0   1   0   0   1   0   0   0  .364  .364  .636 
+Harry Gumbert      R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Andy Hansen        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Clint Hartung      R  14   3   1   0   0   1   0   1   0   1   0  .214  .267  .286 
+Joe Hatten         L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Jim Hearn          R   8   3   0   0   1   0   0   1   0   0   0  .375  .375  .750 
+Kirby Higbe        R  10   2   0   0   0   1   0   3   0   0   0  .200  .273  .200 
+Bobby Hogue        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Jansen       R  17   5   0   0   0   0   0   4   1   1   0  .294  .333  .294 
+Sheldon Jones      R   9   1   0   1   0   3   2   0   0   0   0  .111  .333  .333 
+Monty Kennedy      L   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Dave Koslo         L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Emil Kush          R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Thornton Lee       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dutch McCall       L   8   2   0   0   0   2   0   3   0   0   0  .250  .400  .250 
+Russ Meyer         R   9   3   1   0   0   1   0   1   0   0   0  .333  .400  .444 
+Red Munger         R   8   6   1   0   1   1   0   0   0   0   0  .750  .778 1.250 
+Erv Palica         R   7   0   0   0   0   2   0   3   0   0   0  .000  .222  .000 
+Kent Peterson      L   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+Howie Pollet       L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Mel Queen          R   4   0   0   0   0   0   0   2   1   0   0  .000  .200  .000 
+K. Raffensberger   L   9   2   0   0   1   3   0   1   0   0   0  .222  .417  .556 
+Elmer Riddle       R  17   2   2   0   0   2   0   4   0   0   0  .118  .211  .235 
+Preacher Roe       L   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Rush           R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Johnny Sain        R   7   2   0   0   0   1   0   3   0   0   0  .286  .375  .286 
+Johnny Schmitz     L  18   8   3   1   1   0   0   1   0   0   0  .444  .444  .889 
+Rip Sewell         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Warren Spahn       L  21   2   1   0   0   0   0   6   0   0   0  .095  .095  .143 
+Gerry Staley       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Ken Trinkle        R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+J. Vander Meer     L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Bill Voiselle      R   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500 
+Bucky Walters      R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Herm Wehmeier      R   6   3   2   0   0   0   0   0   0   0   0  .500  .500  .833 
+Bill Werle         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Wilks          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Homer Bailey       R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Chad Bettis        R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Michael Fiers      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Yovani Gallardo    R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Kyle Lohse         R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Michael Lorenzen   R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Tyler Matzek       L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Chris Rusin        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Julio Teheran      R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Adam Wainwright    R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286

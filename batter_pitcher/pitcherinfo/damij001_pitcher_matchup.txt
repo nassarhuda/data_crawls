@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rob Bell           R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Kris Benson        R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kevin Brown        R   1   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Adam Eaton         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Tom Glavine        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Darryl Kile        R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Wade Miller        R   6   2   0   0   0   1   0   3   0   0   0  .333  .429  .333 
+Kevin Millwood     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Matt Morris        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Terry Mulholland   L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tomo Ohka          R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dan Serafini       L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Ben Sheets         R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Ismael Valdez      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Aguilera      R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Tom Browning       L   5   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Danny Cox          R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Dave Dravecky      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Sid Fernandez      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bob Forsch         R   6   2   1   0   0   0   0   2   0   1   0  .333  .333  .500 
+Dwight Gooden      R  10   1   0   0   0   0   0   8   0   3   0  .100  .100  .100 
+Rick Honeycutt     L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Kurt Kepshire      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rick Mahler        R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Andy McGaffigan    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+David Palmer       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Alejandro Pena     R   5   1   0   0   0   0   0   2   0   2   0  .200  .200  .200 
+Ted Power          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Rick Reuschel      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jerry Reuss        L   7   4   1   0   0   0   0   2   0   0   0  .571  .571  .714 
+Rick Rhoden        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Scott Sanderson    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Scott         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Sebra          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bryn Smith         R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Zane Smith         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rick Sutcliffe     R  10   2   0   0   0   1   0   6   0   4   0  .200  .273  .200 
+John Tudor         L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Lee Tunnell        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Bob Welch          R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ed Whitson         R   3   2   1   0   0   0   0   0   0   2   0  .667  .667 1.000 
+Floyd Youmans      R   5   1   0   0   0   3   0   2   0   2   0  .200  .500  .200

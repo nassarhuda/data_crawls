@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vida Blue          L   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Dennis Eckersley   R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Dwight Gooden      R  12   3   1   0   0   1   0   3   0   0   0  .250  .308  .333 
+Andy Hawkins       R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Bob Knepper        L   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Mike Krukow        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shane Rawley       L   7   0   0   0   0   1   0   1   0   0   1  .000  .111  .000 
+Rick Reuschel      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Nolan Ryan         R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mario Soto         R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Rick Sutcliffe     R   6   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 
+John Tudor         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Welch          R   6   2   0   0   0   0   0   4   0   0   0  .333  .333  .333

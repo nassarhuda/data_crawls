@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Pat Caraway        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Coffman       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+General Crowder    R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Earnshaw    R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Vic Frazier        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Fullerton     R   2   1   0   0   0   1   0   1   0   1   0  .500  .667  .500 
+Lefty Grove        L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Bump Hadley        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Mel Harder         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Art Herring        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 i
+Ted Lyons          R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Roy Mahaffey       R   8   2   0   0   0   0   0   0   0   2   0  .250  .250  .250 
+Firpo Marberry     R   7   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 i
+George Pipgras     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Roy Sherid         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Vic Sorrell        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+George Uhle        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Rube Walberg       L   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Earl Whitehill     L   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 i

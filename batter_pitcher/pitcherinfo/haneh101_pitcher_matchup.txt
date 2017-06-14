@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Blaylock      R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+John Briggs        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Ernie Broglio      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jim Brosnan        R  12   3   0   0   0   1   0   4   0   0   0  .250  .308  .250 
+Lew Burdette       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bubba Church       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Moe Drabowsky      R   7   2   0   0   1   1   1   0   0   1   0  .286  .375  .714 
+Dick Drott         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Don Drysdale       R  13   4   0   0   0   2   0   2   0   0   0  .308  .400  .308 
+Don Elston         R   8   1   0   1   0   0   0   1   0   0   0  .125  .125  .375 
+Carl Erskine       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Friend         R  10   2   1   0   0   0   0   0   0   0   0  .200  .200  .300 
+Ruben Gomez        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Marv Grissom       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Warren Hacker      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Glen Hobbie        R  10   1   0   0   0   0   0   0   1   0   0  .100  .182  .100 
+Larry Jackson      R   7   1   0   0   0   1   1   1   0   1   0  .143  .250  .143 
+Larry Jansen       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sam Jones          R  10   2   0   0   0   2   0   2   0   0   0  .200  .333  .200 
+Ron Kline          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Klippstein      R   8   3   0   0   0   2   0   1   0   0   0  .375  .500  .375 
+Clem Labine        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Vern Law           R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brooks Lawrence    R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Billy Loes         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Turk Lown          R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Lindy McDaniel     R   6   4   1   0   1   0   0   0   0   0   0  .667  .667 1.333 
+Stu Miller         R   9   0   0   0   0   1   0   2   0   1   0  .000  .100  .000 
+Don Newcombe       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bud Podbielan      R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Bob Purkey         R  12   2   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Robin Roberts      R  14   2   0   0   2   0   0   1   0   0   0  .143  .143  .571 
+Jack Sanford       R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Gerry Staley       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carl Willey        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

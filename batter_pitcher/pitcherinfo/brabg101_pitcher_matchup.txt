@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Butler        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Joe Coleman        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Ray Culp           R   6   0   0   0   0   0   0   6   0   2   0  .000  .000  .000 
+Chuck Dobson       R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tom Hall           L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Joe Horlen         R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Gerry Janeski      R   5   2   2   0   0   0   0   2   0   0   0  .400  .400  .800 
+Mickey Lolich      L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Rudy May           L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Sam McDowell       L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Tom Murphy         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Gary Peters        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Fritz Peterson     L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Phoebus        R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Sonny Siebert      R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Mel Stottlemyre    R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Earl Wilson        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

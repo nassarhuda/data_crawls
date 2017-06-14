@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Baumann      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tom Brewer         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Jim Bunning        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bud Daley          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Art Ditmar         R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Dick Donovan       R  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Ryne Duren         R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Whitey Ford        L   9   3   1   0   0   1   0   0   1   0   0  .333  .455  .444 
+Mike Fornieles     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ned Garver         R   6   2   0   0   1   1   0   1   0   0   0  .333  .429  .833 
+Tom Gorman         R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Jack Harshman      L  10   1   0   0   0   3   0   3   0   0   0  .100  .308  .100 
+Ray Herbert        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Billy Hoeft        L  12   3   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Connie Johnson     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Russ Kemmerer      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Johnny Kucks       R   4   1   0   0   0   1   1   1   0   0   0  .250  .400  .250 
+Frank Lary         R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Barry Latman       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Billy Loes         R   4   2   0   0   1   1   0   0   0   0   0  .500  .600 1.250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Duke Maas          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Miller         L   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Tom Morgan         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Billy O'Dell       L   6   2   0   0   0   1   1   1   0   0   0  .333  .429  .333 
+Milt Pappas        R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Billy Pierce       L  26   7   2   0   0   1   0   4   0   0   0  .269  .296  .346 
+A. Portocarrero    R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pedro Ramos        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bob Shaw           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Sisler        R   8   3   0   0   1   2   0   0   0   0   0  .375  .500  .750 
+Bob Smith          L   6   0   0   0   0   2   0   1   0   0   0  .000  .250  .000 
+Gerry Staley       R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 
+Chuck Stobbs       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Tom Sturdivant     R   7   1   0   0   1   0   0   3   0   0   0  .143  .143  .571 
+Frank Sullivan     R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Ralph Terry        R   7   3   0   1   0   0   0   0   0   0   0  .429  .429  .714 
+Virgil Trucks      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bob Turley         R   7   1   0   0   0   2   0   1   0   0   1  .143  .300  .143 
+V. Valentinetti    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Murray Wall        R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Wilson         R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Early Wynn         R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000

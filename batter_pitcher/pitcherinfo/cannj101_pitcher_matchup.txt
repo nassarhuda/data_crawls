@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ron Davis          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Frost         R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Ed Halicki         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Burt Hooton        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Charlie Hough      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Knapp        R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Rick Langford      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Steve McCatty      R   8   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mike Norris        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jim Palmer         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Parrott       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Gaylord Perry      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Proly         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Chuck Rainey       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Steve Renko        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nolan Ryan         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Stone        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Luis Tiant         R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Mike Torrez        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

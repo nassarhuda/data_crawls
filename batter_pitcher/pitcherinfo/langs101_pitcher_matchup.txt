@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boom-Boom Beck     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Josh Billings      R  11   2   1   0   0   0   0   0   0   0   0  .182  .182  .273 i
+G. Blaeholder      R  11   3   2   0   0   1   0   0   0   0   0  .273  .333  .455 i
+Garland Braxton    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Guy Cantrell       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+George Earnshaw    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Howard Ehmke       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Milt Gaston        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Sam Gibson         R   7   2   0   0   0   1   0   0   0   2   0  .286  .375  .286 i
+Sam Gray           R  21   5   1   2   0   0   0   5   0   0   0  .238  .238  .476 i
+Lefty Grove        L   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 i
+Bump Hadley        R  10   1   1   0   0   1   0   0   0   0   0  .100  .182  .200 i
+Slim Harriss       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Fred Heimach       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Waite Hoyt         R   8   4   1   0   0   0   0   1   0   0   0  .500  .500  .625 i
+Hank Johnson       R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 i
+Sad Sam Jones      R   7   1   0   0   0   1   0   1   0   1   0  .143  .250  .143 i
+Hod Lisenbee       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Del Lundgren       R   3   2   1   0   0   0   0   0   1   1   0  .667  .750 1.000 
+Ted Lyons          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny MacFayden    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Ed Morris          R   9   1   1   0   0   0   0   1   0   0   0  .111  .111  .222 i
+Jack Ogden         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Herb Pennock       L  11   4   0   0   0   0   0   0   0   0   0  .364  .364  .364 i
+George Pipgras     R  20   8   0   0   0   1   0   4   0   0   0  .400  .429  .400 i
+Jack Quinn         R  16   6   2   0   0   0   0   0   1   0   0  .375  .412  .500 
+Eddie Rommel       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Red Ruffing        R  16   3   1   0   0   1   0   0   0   0   0  .188  .235  .250 i
+Al Shealy          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Rufus Smith        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vic Sorrell        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Tommy Thomas       R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Rube Walberg       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Earl Whitehill     L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Wright         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Zachary        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

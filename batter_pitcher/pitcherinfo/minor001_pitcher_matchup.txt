@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willie Blair       R   5   4   2   0   0   0   0   0   0   0   0  .800  .800 1.200 
+Omar Daal          L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+LaTroy Hawkins     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Leiter          L  10   3   2   0   0   0   0   2   0   0   0  .300  .300  .500 
+Ramon Martinez     R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Michalak     L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Brian Moehler      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Omar Olivares      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mike Oquist        R   4   3   2   0   0   0   0   1   0   0   0  .750  .750 1.250 
+Dan Reichert       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Glendon Rusch      L   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Mike Sirotka       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Blake Stein        R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Mac Suzuki         R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tim Wakefield      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jeff Weaver        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jay Witasick       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bunning        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Wally Burnette     R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Harry Byrd         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Chakales       R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Paul Foytack       R   4   2   0   0   1   0   0   0   0   1   0  .500  .500 1.250 
+Tom Gorman         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jack Harshman      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Herbert        R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Billy Hoeft        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Art Houtteman      R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+Sid Hudson         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Alex Kellner       L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Don Lee            R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Eddie Lopat        L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Duke Maas          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Moore          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Billy O'Dell       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Mel Parnell        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Camilo Pascual     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Billy Pierce       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Porterfield    R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+A. Portocarrero    R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pedro Ramos        R  10   1   0   0   0   0   0   4   0   0   0  .100  .100  .100 
+Dave Sisler        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Chuck Stobbs       L   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Wes Stock          R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jim Wilson         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Early Wynn         R   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+George Zuverink    R   4   1   0   0   0   0   0   0   0   2   0  .250  .250  .250

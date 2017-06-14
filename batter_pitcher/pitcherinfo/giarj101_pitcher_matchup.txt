@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Howard Ehmke       R   7   0   0   0   0   1   0   3   0   1   0  .000  .125  .000 
+Waite Hoyt         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Walter Johnson     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jake Miller        L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jack Quinn         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Joe Shaute         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Urban Shocker      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

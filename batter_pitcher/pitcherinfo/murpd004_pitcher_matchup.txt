@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Miguel Batista     R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 
+Brandon Beachy     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mark Buehrle       L  15   3   2   0   0   0   0   4   0   0   0  .200  .200  .333 
+Tyler Clippard     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jorge de la Rosa   L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Randall Delgado    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ross Detwiler      L   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+R.A. Dickey        R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Chad Durbin        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Marco Estrada      R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Kason Gabbard      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jon Garland        R   6   1   0   0   1   1   0   1   1   0   0  .167  .375  .667 
+Sonny Gray         R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Zack Greinke       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Dan Haren          R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Mark Hendrickson   L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Livan Hernandez    R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Felix Hernandez    R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Tim Hudson         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Phil Hughes        R   5   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Kelly          R   8   2   0   0   0   0   0   2   1   0   0  .250  .333  .250 
+Kyle Kendrick      R   9   4   0   0   1   0   0   0   0   0   0  .444  .444  .778 
+Clayton Kershaw    L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+John Lackey        R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Cliff Lee          L  18   2   1   0   0   0   0   8   0   0   0  .111  .111  .167 
+F. Liriano         L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jeff Locke         L   4   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Lance Lynn         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+C. Martinez        R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Kevin Millwood     R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Tom Milone         L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Zach Miner         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dustin Moseley     R   4   0   0   0   0   0   0   2   1   0   0  .000  .200  .000 
+Jamie Moyer        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Juan Nicasio       R   3   1   1   0   0   2   1   1   0   0   0  .333  .600  .667 
+Bud Norris         R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Eric O'Flaherty    L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Drew Pomeranz      L   3   1   0   0   1   1   0   0   0   1   0  .333  .500 1.333 
+John Rheinecker    L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Tanner Roark       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Robertson     L   8   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+CC Sabathia        L  11   5   1   0   1   1   0   4   0   0   0  .455  .500  .818 
+Jonathan Sanchez   L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Joe Saunders       L  14   4   1   0   1   3   0   3   0   0   0  .286  .412  .571 
+Ben Sheets         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Craig Stammen      R   7   1   1   0   0   0   0   4   0   0   0  .143  .143  .286 
+S. Strasburg       R   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Jordan Tata        R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Justin Verlander   R   6   2   2   0   0   0   0   2   0   0   0  .333  .333  .667 
+Adam Wainwright    R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jarrod Washburn    L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jake Westbrook     R   7   4   0   0   1   0   0   2   1   0   0  .571  .625 1.000

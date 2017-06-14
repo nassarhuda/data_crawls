@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Nate Andrews       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Joe Bowman         R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 
+Max Butcher        R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Hugh Casey         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Mort Cooper        R  17   4   2   0   0   1   0   1   0   0   0  .235  .278  .353 i
+Bill Crouch        R   4   2   1   0   1   1   0   0   0   0   0  .500  .600 1.500 
+Curt Davis         R  11   6   2   0   0   1   0   0   0   0   0  .545  .583  .727 
+Paul Derringer     R  10   5   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Paul Erickson      R   2   2   1   0   0   2   0   0   0   0   0 1.000 1.000 1.500 
+Lou Fette          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+F. Fitzsimmons     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Fleming       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Harry Gumbert      R  13   4   1   0   0   1   0   0   0   0   0  .308  .357  .385 
+Luke Hamlin        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Ed Heusser         R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Jurisich        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Bob Klinger        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Lee           R   8   4   1   0   0   1   0   0   0   0   0  .500  .556  .625 i
+Bill Lohrman       R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny MacFayden    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Whitey Moore       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Claude Passeau     R  13   4   1   0   0   1   0   0   0   1   0  .308  .357  .385 i
+Bill Posedel       R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tot Pressnell      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Charlie Root       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Freddy Schmidt     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Hal Schumacher     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Rip Sewell         R  12   4   1   0   1   0   0   0   0   0   0  .333  .333  .667 i
+Bill Swift         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Junior Thompson    R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Jim Tobin          R   8   2   0   0   0   0   0   0   1   0   0  .250  .333  .250 
+Bill Voiselle      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bucky Walters      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Ted Wilks          R   7   4   1   0   1   0   0   0   0   0   0  .571  .571 1.143 
+Hank Wyse          R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429

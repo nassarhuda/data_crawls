@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bruce Berenyi      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Browning       L   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Danny Cox          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Gott           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kevin Gross        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andy Hawkins       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ramon Martinez     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Craig McMurtry     R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Alejandro Pena     R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Ted Power          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Rick Rhoden        R   8   2   0   0   0   2   1   0   0   0   0  .250  .400  .250 
+Ron Robinson       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Stuper        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+John Tudor         L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Lee Tunnell        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+F. Valenzuela      L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Bob Welch          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000

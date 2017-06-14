@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerad Eickhoff     R   8   4   1   0   1   1   0   2   0   0   0  .500  .556 1.000 
+Jeanmar Gomez      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Aaron Harang       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Tom Koehler        R   7   2   0   0   1   1   0   3   0   0   0  .286  .375  .714 
+Shelby Miller      R   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 
+Williams Perez     R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Max Scherzer       R   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Matt Wisler        R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500

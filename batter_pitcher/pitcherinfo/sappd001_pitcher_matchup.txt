@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jhoulys Chacin     R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Tony Cingrani      L   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Jorge de la Rosa   L   5   3   1   0   1   0   0   0   0   0   0  .600  .600 1.400 
+Ross Detwiler      L   7   2   1   0   0   1   0   1   0   1   0  .286  .375  .429 
+Joel Hanrahan      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Lucas Harrell      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Wade LeBlanc       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Cliff Lee          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+F. Liriano         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeff Locke         L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Rodrigo Lopez      R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Ricky Nolasco      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Henry Rodriguez    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wandy Rodriguez    L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Esmil Rogers       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Eric Stults        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Javier Vazquez     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Adam Wainwright    R   5   2   1   0   0   1   0   2   0   0   0  .400  .500  .600 
+Randy Wells        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

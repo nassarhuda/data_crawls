@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Allan Anderson     L   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Scott Bailes       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+John Cerutti       L   7   2   0   0   1   0   0   1   1   0   0  .286  .375  .714 
+Jim Clancy         R  14   1   0   0   0   1   0   3   0   0   0  .071  .133  .071 
+Roger Clemens      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Davis         R   2   1   1   0   0   2   0   1   0   0   0  .500  .750 1.000 
+Pete Filson        L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Mike Flanagan      L  10   2   0   0   0   1   0   1   0   1   0  .200  .273  .200 
+Lee Guetterman     L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Gullickson    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jose Guzman        R  10   2   0   0   0   1   0   0   0   0   0  .200  .273  .200 
+Ray Hayward        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Teddy Higuera      L   8   3   0   0   1   0   0   1   0   0   0  .375  .375  .750 
+Ricky Horton       L   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Charlie Hough      R   6   3   0   1   0   1   0   1   0   1   0  .500  .571  .833 
+Bruce Hurst        L  16   3   0   0   0   3   0   2   0   0   0  .188  .316  .188 
+Tommy John         L  15   2   0   0   0   0   0   3   0   0   0  .133  .133  .133 
+Jimmy Key          L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Paul Kilgus        L  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Langston      L  10   3   2   0   0   2   0   2   0   0   0  .300  .417  .500 
+Dave LaPoint       L   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+C. Leibrandt       L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+John Leister       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jack McDowell      R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Jack Morris        R   6   2   1   0   0   2   0   2   0   0   0  .333  .500  .500 
+Jeff Musselman     L   7   2   0   0   0   1   1   2   0   0   0  .286  .375  .286 
+Gene Nelson        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Juan Nieves        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Melido Perez       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dan Petry          R   1   0   0   0   0   2   0   1   1   0   0  .000  .750  .000 
+Ted Power          R   2   0   0   0   0   1   0   0   1   0   0  .000  .500  .000 
+Jerry Reuss        L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Rick Rhoden        R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Jeff Sellers       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Stanley        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Dave Stieb         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Frank Tanana       L  13   3   1   0   2   0   0   2   0   1   0  .231  .231  .769 
+Walt Terrell       R  11   5   1   0   0   0   0   1   0   1   0  .455  .455  .545 
+Frank Viola        L   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Witt         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rob Woodward       R   6   4   0   0   0   0   0   1   1   0   0  .667  .714  .667 
+Curt Young         L   9   5   0   0   0   1   0   2   0   0   0  .556  .600  .556

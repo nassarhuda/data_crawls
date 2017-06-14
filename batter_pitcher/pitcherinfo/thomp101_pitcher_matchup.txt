@@ -1,0 +1,51 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mack Allison       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Doc Ayers          R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Jim Bagby          R  12   2   0   0   0   2   0   1   0   2   0  .167  .286  .167 i
+G. Baumgardner     R  11   2   0   0   0   0   0   2   0   2   0  .182  .182  .182 i
+Joe Benz           R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Fred Blanding      R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 i
+Bullet Joe Bush    R  22   7   0   0   0   4   0   2   0   0   0  .318  .423  .318 i
+Ray Caldwell       R  39  12   1   0   1   3   0   4   0   1   0  .308  .357  .410 i
+Eddie Cicotte      R  14   3   0   0   0   0   0   1   0   0   0  .214  .214  .214 i
+Stan Coveleski     R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Hooks Dauss        R  40   8   1   0   0   7   0   2   1   2   0  .200  .333  .225 i
+Dave Davenport     R  13   4   0   0   0   2   0   0   0   0   0  .308  .400  .308 i
+Jean Dubuc         R   8   1   0   0   0   0   0   0   0   2   0  .125  .125  .125 i
+George Dumont      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Charlie Eckert     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Howard Ehmke       R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Red Faber          R  16   1   0   1   0   1   0   4   0   0   0  .063  .118  .188 i
+Cy Falkenberg      R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 i
+Ray Fisher         R  19   4   0   0   1   3   0   2   0   0   0  .211  .318  .368 i
+G. Hesselbacher    R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill James         R   9   0   0   0   0   1   0   1   1   0   0  .000  .182  .000 i
+Jing Johnson       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Walter Johnson     R  48  13   1   0   0   4   0   7   1   3   0  .271  .340  .292 i
+Sad Sam Jones      R   6   2   0   0   0   3   0   0   0   0   0  .333  .556  .333 i
+Ray Keating        R   9   0   0   0   0   3   0   1   0   0   0  .000  .250  .000 i
+Ed Klepfer         R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+G. Lowdermilk      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Carl Mays          R   5   0   0   0   0   1   0   0   0   1   0  .000  .167  .000 i
+Marty McHale       R  12   4   0   1   0   0   0   1   0   0   0  .333  .333  .500 i
+Jim Middleton      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Guy Morton         R   9   2   0   0   0   0   0   1   0   1   0  .222  .222  .222 i
+Elmer Myers        R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 i
+Jack Nabors        R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 i
+Win Noyes          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Scott Perry        R   6   2   1   0   0   2   0   0   0   0   0  .333  .500  .500 i
+Jim Scott          R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 i
+Socks Seibold      R   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 i
+Jim Shaw           R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Bob Shawkey        R  25   6   0   0   0   1   0   1   0   0   0  .240  .269  .240 i
+Tom Sheehan        R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Urban Shocker      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Allen Sothoron     R  14   3   1   0   0   1   0   0   0   0   0  .214  .267  .286 i
+Dan Tipple         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Roy Walker         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Walsh           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jack Warhop        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Ed Willett         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Weldon Wyckoff     R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 i

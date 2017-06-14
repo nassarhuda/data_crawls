@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Bailey        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Jesse Barnes       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Virgil Barnes      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Huck Betts         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Guy Bush           R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Hal Carlson        R   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 i
+Virgil Cheeves     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pete Donohue       R  13   4   0   0   0   0   0   2   0   1   0  .308  .308  .308 
+Rube Ehrhardt      R   6   5   0   0   1   0   0   1   0   0   0  .833  .833 1.333 
+Dana Fillingim     R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Burleigh Grimes    R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Jesse Haines       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bill Hubbell       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Dolf Luque         R   9   2   1   0   0   2   0   3   0   0   0  .222  .364  .333 i
+Lee Meadows        R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 i
+C. Mitchell        L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Bill Pertica       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Jimmy Ring         R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eppa Rixey         L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Dutch Ruether      L  11   2   0   0   0   0   0   6   0   1   0  .182  .182  .182 i
+Lefty Tyler        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Emil Yde           L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500

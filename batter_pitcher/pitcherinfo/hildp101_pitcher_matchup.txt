@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Wilbur Cooper      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+George Pierce      L   4   1   1   0   0   1   0   1   1   0   0  .250  .500  .500 
+Hank Robinson      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hippo Vaughn       L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Earl Yingling      L   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

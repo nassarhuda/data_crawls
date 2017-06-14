@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Barrett       R   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Bob Chipman        L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Al Gerheauser      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hal Gregg          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Andy Karl          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Van Mungo          R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Ewald Pyle         L   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 
+Charley Schanz     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Voiselle      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143

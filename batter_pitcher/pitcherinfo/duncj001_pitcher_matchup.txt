@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Acevedo       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Matt Clement       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+B. Duckworth       R   3   1   0   0   1   1   0   0   0   1   0  .333  .500 1.333 
+Danny Graves       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Hampton       L   4   0   0   0   0   2   1   0   0   0   0  .000  .333  .000 
+Livan Hernandez    R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Greg Maddux        R   8   2   0   1   0   1   1   1   0   0   0  .250  .333  .500 
+Kevin Millwood     R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Vicente Padilla    R   9   3   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Horacio Ramirez    L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Javier Vazquez     R   7   1   0   0   0   0   0   4   1   1   0  .143  .250  .143 
+Paul Wilson        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

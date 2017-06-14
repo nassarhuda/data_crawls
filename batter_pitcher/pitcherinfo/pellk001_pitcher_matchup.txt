@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Kazuhisa Ishii     L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Randy Johnson      L   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Odalis Perez       L   6   1   0   0   0   1   1   2   0   0   0  .167  .286  .167 
+Oliver Perez       L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Andy Pettitte      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+CC Sabathia        L   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Ismael Valdez      R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Randy Wolf         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Barry Zito         L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167

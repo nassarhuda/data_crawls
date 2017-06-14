@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bullet Joe Bush    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Caldwell       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Stan Coveleski     R   9   3   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Howard Ehmke       R   8   3   0   0   0   3   0   0   0   0   0  .375  .545  .375 
+Red Faber          R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Walter Johnson     R   8   3   0   0   0   1   0   1   0   0   0  .375  .444  .375 i
+Sad Sam Jones      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Benn Karr          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Duster Mails       L   9   1   0   0   0   3   0   1   0   0   0  .111  .333  .111 
+Carl Mays          R  16   4   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Doug McWeeny       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Dominic Mulrenan   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Elmer Myers        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Herb Pennock       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bill Piercy        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jack Quinn         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Allen Russell      R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Al Schacht         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Bob Shawkey        R   9   1   0   0   0   2   0   3   0   0   0  .111  .273  .111 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allen Sothoron     R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Roy Wilkinson      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

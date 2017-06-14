@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brandon Backe      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Matt Cain          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Josh Fogg          R   5   3   1   0   0   1   0   1   0   0   0  .600  .667  .800 
+Jeff Francis       L   6   2   1   0   0   0   0   4   0   1   0  .333  .333  .500 
+Cole Hamels        L   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Livan Hernandez    R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Cliff Lee          L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tim Lincecum       R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Derek Lowe         R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Greg Maddux        R   3   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Jason Marquis      R   7   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Matt Morris        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ricky Nolasco      R   4   2   1   1   0   0   0   2   0   1   0  .500  .500 1.250 
+Jae Weong Seo      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Randy Wolf         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+J. Zimmermann      R   6   1   1   0   0   0   0   4   0   1   0  .167  .167  .333 
+Barry Zito         L  11   3   0   0   0   0   0   3   0   2   0  .273  .273  .273

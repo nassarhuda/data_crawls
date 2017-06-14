@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Joe Benz           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ray Caldwell       R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Eddie Cicotte      R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Hooks Dauss        R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Dave Davenport     R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Howard Ehmke       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Ray Fisher         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Rube Foster        R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 i
+Bert Gallia        R   7   4   1   0   0   0   0   1   0   0   0  .571  .571  .714 i
+Harry Harper       L   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 i
+Walter Johnson     R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Dutch Leonard      L  14   2   0   0   0   1   0   2   0   0   0  .143  .200  .143 
+Cliff Markle       R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Carl Mays          R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 i
+Ed Monroe          R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Guy Morton         R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Eddie Plank        L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Reb Russell        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Babe Ruth          L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Shawkey        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Ernie Shore        R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Lefty Williams     L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i

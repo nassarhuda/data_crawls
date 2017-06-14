@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Coleman        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Red Embree         R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Bob Feller         R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Jesse Flores       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dick Fowler        R   8   1   1   0   0   1   0   2   0   0   0  .125  .222  .250 
+Mike Garcia        R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ned Garver         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ted Gray           L   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Steve Gromek       R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Joe Haynes         R   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Bob Hooper         R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Alex Kellner       L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Kuzava         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Lemon          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Madison       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Muncrief       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hal Newhouser      L  15   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 
+Bobo Newsom        R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Stubby Overmire    L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Mel Parnell        L  15   2   0   0   0   0   0   5   0   0   0  .133  .133  .133 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Raschi         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Allie Reynolds     R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Scarborough    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Carl Scheib        R  26   5   0   0   0   0   0   4   0   0   0  .192  .192  .192 
+Dick Starr         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Chuck Stobbs       L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Dick Weik          R   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 
+Al Widmar          R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Early Wynn         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Hank Wyse          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

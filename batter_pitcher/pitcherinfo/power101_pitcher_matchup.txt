@@ -1,0 +1,116 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  50   7   0   0   2   1   0   8   0   0   0  .140  .157  .260 i
+Vic Aldridge       R  25   7   2   0   0   0   0   4   0   1   0  .280  .280  .360 i
+Pete Alexander     R  77  25   5   1   1   6   0  10   0   1   0  .325  .373  .455 i
+Red Ames           R  12   4   0   1   0   0   0   2   0   1   0  .333  .333  .500 i
+Fred Anderson      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Jesse Barnes       R  54  14   2   3   1   1   0   6   1   2   0  .259  .286  .463 i
+Virgil Barnes      R   9   1   1   0   0   3   0   2   0   0   0  .111  .333  .222 i
+Stan Baumgartner   L   3   1   0   0   1   2   0   0   0   0   0  .333  .600 1.333 i
+Hi Bell            R   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333 i
+Chief Bender       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Rube Benton        L  22   4   0   1   0   2   0   4   0   0   0  .182  .250  .273 i
+Huck Betts         R  11   4   0   0   1   1   0   2   0   0   0  .364  .417  .636 i
+Clint Blume        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Rube Bressler      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Myrl Brown         R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Leon Cadore        R  74  29   2   2   0   4   0  10   1   1   0  .392  .430  .473 i
+Mike Cantwell      L   5   4   0   0   0   0   0   1   0   0   0  .800  .800  .800 i
+Hal Carlson        R  42  11   0   1   1   3   0   3   0   0   0  .262  .311  .381 i
+Paul Carter        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Causey         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Virgil Cheeves     R  13   5   2   1   0   1   0   0   0   0   0  .385  .429  .692 i
+Larry Cheney       R  14   0   0   0   0   3   0   2   0   0   0  .000  .176  .000 i
+Jack Coombs        R  10   1   0   0   0   2   0   1   0   1   0  .100  .250  .100 i
+Wilbur Cooper      L 101  28   3   3   1   3   0  13   2   4   0  .277  .311  .396 i
+Johnny Couch       R  21   7   2   0   0   1   0   1   0   0   0  .333  .364  .429 i
+Fritz Coumbe       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Mike Cvengros      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Art Delaney        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Demaree         R  12   3   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Leo Dickerman      R  17   2   0   0   0   2   0   0   0   0   0  .118  .211  .118 i
+Bill Doak          R  31   5   0   0   0   2   0   9   0   0   0  .161  .212  .161 i
+Pete Donohue       R  35  11   1   1   0   0   0   6   1   1   0  .314  .333  .400 i
+Phil Douglas       R  26   5   1   1   0   3   0   4   0   0   0  .192  .276  .308 i
+Hod Eller          R  19   9   0   3   0   3   0   3   0   0   0  .474  .545  .789 i
+Johnny Enzmann     R   4   2   1   0   1   0   0   0   0   0   0  .500  .500 1.500 i
+Bill Evans         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ray Fisher         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Buck Freeman       R   5   3   0   0   1   0   0   1   0   0   0  .600  .600 1.200 i
+Fred Fussell       L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+John Gillespie     R   3   1   0   1   0   1   0   0   0   1   0  .333  .500 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Whitey Glazner     R  39   8   1   0   0   5   0   3   0   0   0  .205  .295  .231 i
+Marv Goodwin       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Burleigh Grimes    R  61  17   1   4   1   8   0  13   0   1   0  .279  .362  .475 i
+Jesse Haines       R  22   5   1   0   0   2   0   3   0   0   0  .227  .292  .273 i
+Earl Hamilton      L  37   9   0   1   0   0   0   9   1   0   0  .243  .263  .297 i
+Claude Hendrix     R  45  14   1   1   1   3   0   7   0   0   0  .311  .354  .444 i
+Dutch Henry        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Brad Hogg          R  23   5   0   0   0   1   0   1   0   0   0  .217  .250  .217 i
+Bill Hubbell       R  36  16   2   0   1   1   0   0   0   0   0  .444  .459  .583 i
+Elmer Jacobs       R  11   3   0   1   0   2   0   0   0   0   0  .273  .385  .455 i
+Fred Johnson       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Percy Jones        L  31   5   0   0   0   3   0   4   0   0   0  .161  .235  .161 i
+Tony Kaufmann      R  24   4   1   0   1   5   0   4   0   0   0  .167  .310  .333 
+Cactus Keck        R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 i
+Jimmy Lavender     R   2   0   0   0   0   3   0   0   0   0   0  .000  .600  .000 i
+Dolf Luque         R  43  12   1   1   1   9   0   6   0   0   0  .279  .404  .419 i
+Alex Main          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Al Mamaux          R  14   4   1   1   0   3   0   4   0   0   0  .286  .412  .500 i
+Cliff Markle       R  14   3   0   0   0   0   0   2   0   0   0  .214  .214  .214 
+Rube Marquard      L  31   5   0   0   0   1   0  12   0   0   0  .161  .188  .161 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Speed Martin       R  10   3   1   0   0   3   0   2   0   1   0  .300  .462  .400 i
+Erskine Mayer      R  18   3   0   0   0   1   0   0   0   1   0  .167  .211  .167 i
+Hugh McQuillan     R  12   3   0   0   0   3   0   3   0   0   0  .250  .400  .250 i
+Lee Meadows        R  82  15   3   1   0   6   0   9   0   0   0  .183  .239  .244 i
+Johnny Miljus      R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Frank Miller       R  16   2   0   1   0   1   0   1   0   1   0  .125  .176  .250 i
+C. Mitchell        L  22   6   3   0   0   0   0   4   0   0   0  .273  .273  .409 i
+Johnny Morrison    R  29  11   3   0   0   6   0   1   0   1   0  .379  .486  .483 i
+Buddy Napier       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Art Nehf           L  50  19   3   1   0   4   0   8   0   0   0  .380  .426  .480 i
+Joe Oeschger       R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 i
+Tiny Osborne       R  14   1   1   0   0   4   0   1   0   1   0  .071  .278  .143 i
+Gene Packard       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pol Perritt        R  12   2   1   0   0   0   0   0   0   0   0  .167  .167  .250 i
+Jeff Pfeffer       R  55  14   2   0   1   3   0   3   0   0   0  .255  .293  .345 i
+Elmer Ponder       R  12   5   0   1   0   2   0   1   0   0   0  .417  .500  .583 i
+Mike Prendergast   R  11   4   2   0   0   3   0   0   0   0   0  .364  .500  .545 i
+Mike Regan         R   7   2   1   0   0   1   0   0   0   0   0  .286  .375  .429 i
+Jimmy Ring         R  48  16   1   1   1   8   0   4   0   2   0  .333  .429  .458 i
+Eppa Rixey         L  64  15   1   3   0   1   0  15   0   1   0  .234  .246  .344 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Clint Rogge        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dutch Ruether      L  39   8   1   1   0   4   0  10   1   0   0  .205  .295  .282 i
+Rosy Ryan          R  17   7   3   0   0   2   0   2   1   0   0  .412  .500  .588 i
+Slim Sallee        L  11   1   0   0   0   1   0   0   0   0   0  .091  .167  .091 i
+Roy Sanders        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Pete Schneider     R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 i
+Ferdie Schupp      L  10   1   0   0   0   1   0   2   0   0   0  .100  .182  .100 i
+Jack Scott         R   5   4   1   1   0   0   0   0   0   0   0  .800  .800 1.400 i
+Red Shea           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bill Sherdel       L  27   8   0   0   0   4   0   5   0   0   0  .296  .387  .296 i
+George Smith       R  25   7   0   0   1   2   0   0   0   2   0  .280  .333  .400 i
+Sherry Smith       L  34  12   2   2   0   3   0   3   1   1   0  .353  .421  .529 i
+Bob Steele         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Johnny Stuart      R  18   1   0   0   0   2   0   5   0   1   0  .056  .150  .056 i
+George Stueland    R   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Jeff Tesreau       R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 i
+Fred Toney         R  63  18   4   2   0   4   0   8   0   2   0  .286  .328  .413 i
+Oscar Tuero        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Lefty Tyler        L  11   1   0   0   0   1   0   1   1   0   0  .091  .231  .091 i
+Dazzy Vance        R  23   7   1   0   1   4   0   7   1   1   0  .304  .429  .478 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hippo Vaughn       L  43   5   0   0   0   1   0  12   1   1   0  .116  .156  .116 i
+Roy Walker         R   8   2   0   1   0   0   0   0   0   0   0  .250  .250  .500 i
+Mule Watson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Milt Watson        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Lefty Weinert      L  12   2   1   0   0   2   0   2   0   0   0  .167  .286  .250 i
+Jesse Winters      R  13   5   2   0   0   1   0   0   0   1   0  .385  .429  .538 i
+Frank Woodward     R  13   3   1   0   0   0   0   3   0   0   0  .231  .231  .308 i
+C. Yellow Horse    R   7   2   1   0   0   0   0   0   0   1   0  .286  .286  .429 
+Lefty York         L  12   3   0   0   0   1   0   4   0   0   0  .250  .308  .250 i
+Jimmy Zinn         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i

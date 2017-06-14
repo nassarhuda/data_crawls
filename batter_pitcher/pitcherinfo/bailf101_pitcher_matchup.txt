@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Fred Anderson      R   7   1   1   0   0   1   0   0   0   0   0  .143  .250  .286 i
+Leon Cadore        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Phil Douglas       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Hod Eller          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Erskine Mayer      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Joe Oeschger       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Mike Regan         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pete Schneider     R   4   1   0   0   0   1   0   2   0   1   0  .250  .400  .250 
+Jeff Tesreau       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Fred Toney         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167

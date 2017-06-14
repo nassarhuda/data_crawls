@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Jim Bibby          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Doug Bird          R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Vida Blue          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Steve Busby        R   9   2   0   0   0   0   0   2   0   1   0  .222  .222  .222 
+Steve Carlton      L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Joe Coleman        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Chuck Dobson       R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Ross Grimsley      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Hamilton      L   5   1   0   0   0   0   0   0   0   0   1  .200  .167  .200 
+Steve Hargan       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Andy Hassler       L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Ken Holtzman       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Fergie Jenkins     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Claude Osteen      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Nolan Ryan         R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+Paul Splittorff    L   7   2   0   1   0   0   0   2   0   0   0  .286  .286  .571 
+Frank Tanana       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Wilbur Wood        L  11   1   0   0   0   0   0   1   0   1   0  .091  .091  .091

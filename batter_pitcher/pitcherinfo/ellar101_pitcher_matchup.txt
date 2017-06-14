@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Causey         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Larry Cheney       R   1   0   0   0   0   2   0   0   1   0   0  .000  .750  .000 
+Lefty George       L   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Brad Hogg          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Rube Marquard      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Art Nehf           L  10   2   0   0   0   1   0   2   0   0   0  .200  .273  .200 
+Jake Northrop      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pol Perritt        R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 i
+Mike Prendergast   R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Dick Robertson     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dick Rudolph       R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000 
+Pete Schneider     R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Milt Watson        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250

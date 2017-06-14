@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Terry Adams        R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Brian Anderson     L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Tony Armas         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Ashby         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Miguel Batista     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Giovanni Carrara   R   6   5   1   0   1   0   0   0   0   0   0  .833  .833 1.500 
+Dave Coggin        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Jeff D'Amico       R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+B. Duckworth       R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Eric Gagne         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Glavine        L   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+John Halama        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Livan Hernandez    R   8   3   1   0   0   1   0   2   0   0   0  .375  .444  .500 
+Kevin Jarvis       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ryan Jensen        R   5   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Randy Johnson      L  12   2   2   0   0   1   0   4   0   0   0  .167  .231  .333 
+Bobby Jones        R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Brian Lawrence     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Allen Levrault     R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Jose Mercedes      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jamie Moyer        L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Russ Ortiz         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chan Ho Park       R   9   0   0   0   0   1   0   3   1   0   0  .000  .182  .000 
+Odalis Perez       L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Robert Person      R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Kirk Rueter        L   8   2   0   0   1   1   0   0   0   0   0  .250  .333  .625 
+Curt Schilling     R  13   5   1   0   1   0   0   1   0   0   0  .385  .385  .692 
+David Williams     L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Jamey Wright       R   5   0   0   0   0   1   0   2   1   0   0  .000  .286  .000

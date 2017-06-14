@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Baldschun     R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Larry Bearnarth    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ernie Broglio      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Lew Burdette       R   5   2   1   0   0   0   0   0   0   0   1  .400  .333  .600 
+Turk Farrell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Friend         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Gibson         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Hendley        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Henry         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Al Jackson         L  13   4   0   0   1   0   0   1   0   0   0  .308  .308  .538 
+Ken Johnson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Sadecki        L  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Chris Short        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Simmons       L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Warren Spahn       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Stan Williams      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

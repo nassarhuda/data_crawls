@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Appleton      R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 i
+George Caster      R   9   3   1   0   0   3   0   0   0   0   0  .333  .500  .444 
+Spud Chandler      R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Bill Cox           R   6   3   0   1   0   0   0   0   0   0   0  .500  .500  .833 i
+Emerson Dickman    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Bob Feller         R   5   1   0   0   0   3   0   1   0   0   0  .200  .500  .200 
+Wes Ferrell        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Denny Galehouse    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Lefty Gomez        L   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bump Hadley        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mel Harder         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Joe Heving         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Oral Hildebrand    R   7   2   0   0   0   1   1   0   0   0   0  .286  .375  .286 
+Willis Hudlin      R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Sad Sam Jones      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jack Knott         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ted Lyons          R   8   5   0   0   0   1   0   1   0   0   0  .625  .667  .625 i
+Lefty Mills        L  11   4   1   0   0   1   0   0   0   0   0  .364  .417  .455 
+Lynn Nelson        R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bobo Newsom        R  16   2   0   0   0   2   0   4   0   0   0  .125  .222  .125 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Monte Pearson      R  18   5   0   0   0   1   1   0   0   0   0  .278  .316  .278 
+Nels Potter        R   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 i
+Johnny Rigney      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Buck Ross          R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Red Ruffing        R   9   4   1   0   0   1   0   0   0   0   0  .444  .500  .556 
+Monty Stratton     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bud Thomas         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+John Whitehead     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Earl Whitehill     L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Jack Wilson        R   9   4   0   0   0   0   0   1   0   0   0  .444  .444  .444

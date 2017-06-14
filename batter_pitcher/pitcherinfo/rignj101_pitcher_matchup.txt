@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Pete Appleton      R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Elden Auker        R  11   2   0   0   0   1   0   1   0   1   0  .182  .250  .182 i
+Jim Bagby          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Beckmann      R  11   2   0   0   0   0   0   5   0   1   0  .182  .182  .182 
+Al Benton          R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 i
+Marv Breuer        R   9   3   1   0   0   1   0   1   0   0   0  .333  .400  .444 
+Tommy Bridges      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+George Caster      R  10   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Spud Chandler      R   8   0   0   0   0   1   0   2   0   3   0  .000  .111  .000 
+Ken Chase          L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Dave Ferriss       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Denny Galehouse    R   3   3   0   0   0   1   0   0   0   2   0 1.000 1.000 1.000 i
+Lefty Grove        L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Bump Hadley        R   8   1   1   0   0   0   0   3   0   0   0  .125  .125  .250 
+Lum Harris         R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 i
+Mickey Harris      L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Herb Hash          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Sid Hudson         R   9   0   0   0   0   1   0   6   0   0   0  .000  .100  .000 i
+Jack Kramer        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dutch Leonard      R   7   1   0   0   0   0   0   1   0   2   0  .143  .143  .143 
+Johnny Marcum      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Al Milnar          L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Bob Muncrief       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Lynn Nelson        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bobo Newsom        R  19   2   0   0   0   1   0   6   0   0   0  .105  .150  .105 i
+Monte Pearson      R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Steve Peek         R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Nels Potter        R  15   2   0   0   0   0   0   3   0   1   0  .133  .133  .133 
+Woody Rich         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Buck Ross          R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Schoolboy Rowe     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Marius Russo       L   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Al Smith           L   5   1   1   0   0   0   0   1   0   1   0  .200  .200  .400 
+Steve Sundra       R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Charlie Wagner     R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i

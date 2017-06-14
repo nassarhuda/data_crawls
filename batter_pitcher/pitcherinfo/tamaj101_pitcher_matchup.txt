@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Neil Allen         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Joaquin Andujar    R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Steve Carlton      L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+L. Christenson     R   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 
+Tom Dixon          R   7   3   1   0   0   0   0   0   0   1   0  .429  .429  .571 
+Nino Espinosa      R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Gene Garber        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ed Halicki         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tom Hausman        R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Burt Hooton        R  10   3   2   0   0   1   0   1   0   0   0  .300  .364  .500 
+Grant Jackson      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Mike Krukow        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Randy Lerch        L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Silvio Martinez    R   5   1   0   0   0   2   1   1   0   0   0  .200  .429  .200 
+Rick Matula        R   5   2   0   0   0   0   0   0   0   0   1  .400  .333  .400 
+Phil Niekro        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dickie Noles       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Gaylord Perry      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Reuschel      R   1   0   0   0   0   2   2   0   0   0   1  .000  .500  .000 
+J.R. Richard       R   2   1   0   0   0   3   0   0   0   0   0  .500  .800  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Robinson       R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Steve Rogers       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Ruthven       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Scott Sanderson    R   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000 
+Tom Seaver         R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 
+Eddie Solomon      R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+Bruce Sutter       R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Don Sutton         R   4   0   0   0   0   2   0   1   0   0   1  .000  .286  .000 
+Craig Swan         R   7   1   0   0   0   0   0   0   0   0   1  .143  .125  .143 
+Bob Welch          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

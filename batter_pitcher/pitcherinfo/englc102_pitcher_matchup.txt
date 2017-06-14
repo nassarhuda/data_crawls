@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Ash            R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Hi Bell            R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ray Benge          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Sheriff Blake      R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Guy Bush           R   9   3   1   0   0   0   0   0   0   0   0  .333  .333  .444 
+Ben Cantwell       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Watty Clark        L  14   5   1   1   0   1   0   0   0   0   0  .357  .400  .571 
+Pete Donohue       R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 i
+Clise Dudley       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jumbo Elliott      L  13   3   0   0   0   4   0   1   0   0   0  .231  .412  .231 
+Benny Frey         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Burleigh Grimes    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Jesse Haines       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Lucas          R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Pat Malone         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jakie May          L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+C. Mitchell        L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Johnny Morrison    R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Chet Nichols       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Charlie Root       R   3   2   0   0   0   1   1   1   0   0   0  .667  .750  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Socks Seibold      R   9   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bill Sherdel       L   5   3   2   0   0   0   0   0   0   0   0  .600  .600 1.000 i
+Les Sweetland      L   5   1   1   0   0   0   0   1   1   0   0  .200  .333  .400 
+Dazzy Vance        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Bill Walker        L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Zachary        L   7   2   0   0   0   1   0   0   0   1   0  .286  .375  .286

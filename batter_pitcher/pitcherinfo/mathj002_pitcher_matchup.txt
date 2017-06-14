@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Erik Bedard        L   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+M. Bumgarner       L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Jorge Campillo     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jorge de la Rosa   L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ryan Dempster      R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Jaime Garcia       L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Dillon Gee         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Gio Gonzalez       L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Tom Gorzelanny     L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Cole Hamels        L   9   5   2   0   1   0   0   1   0   0   0  .556  .556 1.111 
+Joel Hanrahan      R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Clayton Kershaw    L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ted Lilly          L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Jeff Locke         L   6   3   0   0   1   0   0   1   0   0   0  .500  .500 1.000 
+Paul Maholm        L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Sean Marshall      L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Brett Myers        R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jon Niese          L   9   3   0   0   0   1   1   1   0   0   0  .333  .400  .333 
+Scott Olsen        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Manny Parra        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Drew Pomeranz      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jo-Jo Reyes        L   2   1   1   0   0   1   0   0   0   0   1  .500  .500 1.000 
+Clayton Richard    L   4   0   0   0   0   1   1   1   0   0   0  .000  .200  .000 
+F. Rodriguez       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Wandy Rodriguez    L  16   1   1   0   0   0   0   3   0   0   0  .063  .063  .125 
+J.C. Romero        L   3   1   1   0   0   0   0   1   1   0   0  .333  .500  .667 
+Johan Santana      L   8   2   0   0   1   1   1   0   0   0   1  .250  .300  .625 
+Eric Stults        L   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Randy Wolf         L   9   1   0   0   0   2   0   3   0   0   0  .111  .273  .111

@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Butler        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Rickey Clark       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chuck Dobson       R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jim Hardin         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Catfish Hunter     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Kaat           L  11   2   0   0   0   0   0   5   0   1   0  .182  .182  .182 
+Paul Lindblad      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Mickey Lolich      L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Sam McDowell       L   7   0   0   0   0   1   0   4   0   2   0  .000  .125  .000 
+Jim Perry          R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Joe Sparma         R   4   2   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Stan Williams      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

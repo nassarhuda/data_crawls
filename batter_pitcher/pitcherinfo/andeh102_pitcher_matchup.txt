@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dick Coffman       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sarge Connally     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Wes Ferrell        R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Mel Harder         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Willis Hudlin      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lefty Stewart      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

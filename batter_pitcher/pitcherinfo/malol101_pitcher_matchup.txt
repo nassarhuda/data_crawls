@@ -1,0 +1,41 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jesse Barnes       R  10   2   0   0   0   2   0   0   0   0   0  .200  .333  .200 
+Ray Caldwell       R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 i
+Red Causey         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eddie Cicotte      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Allan Collamore    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fritz Coumbe       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Harry Coveleski    L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Hooks Dauss        R   4   0   0   0   0   2   0   3   0   0   0  .000  .333  .000 
+Phil Douglas       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Hod Eller          R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Red Faber          R   5   1   0   1   0   0   0   3   0   0   0  .200  .200  .600 
+Ray Fisher         R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Rube Foster        R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+Vean Gregg         L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Earl Hamilton      L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Harry Harper       L   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 i
+Oscar Harstad      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Elmer Jacobs       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bill James         R   7   2   0   0   0   0   0   0   1   0   0  .286  .375  .286 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Walter Johnson     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ernie Koob         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dutch Leonard      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+G. Lowdermilk      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Dolf Luque         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Willie Mitchell    L   7   3   0   1   0   1   0   2   0   1   0  .429  .500  .714 
+Guy Morton         R   9   2   0   1   0   2   0   0   0   0   0  .222  .364  .444 
+Art Nehf           L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Joe Oeschger       R   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 i
+Tom Phillips       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Sam Rice           R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Rudolph       R   8   4   0   0   0   0   0   2   0   1   0  .500  .500  .500 i
+Babe Ruth          L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Slim Sallee        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jim Scott          R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jack Scott         R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 i
+Roy Walker         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jack Warhop        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Carl Weilman       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Happy Finneran     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Rube Marshall      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Gene Packard       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Reulbach        R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333

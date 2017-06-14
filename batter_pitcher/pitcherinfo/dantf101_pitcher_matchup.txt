@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Dockins     L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Harry Feldman      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andy Karl          R   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 
+Bob Logan          L  11   2   0   0   0   1   0   0   0   0   0  .182  .250  .182 
+Art Lopatka        L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+F. Ostermueller    L   6   1   1   0   0   1   0   2   0   0   0  .167  .286  .333 
+Ray Prim           L   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Ewald Pyle         L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Preacher Roe       L  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Charlie Sproull    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Nick Strincevich   R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jim Tobin          R   7   0   0   0   0   1   0   1   0   1   0  .000  .125  .000 
+Bill Voiselle      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000

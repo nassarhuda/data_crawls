@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Henry Coppola      R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Lefty Grove        L   8   0   0   0   0   0   0   6   0   0   0  .000  .000  .000

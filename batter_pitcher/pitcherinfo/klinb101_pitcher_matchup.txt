@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hi Bithorn         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Lou Fette          R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+F. Fitzsimmons     R  13   3   0   0   0   0   0   0   0   0   0  .231  .231  .231 i
+Harry Gumbert      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Lefty Hoerst       L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 i
+Carl Hubbell       L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Howie Krist        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Bill Lee           R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Bill Lohrman       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bill McGee         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Cliff Melton       L  12   4   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Hugh Mulcahy       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Howie Pollet       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bill Posedel       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Hal Schumacher     R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Milt Shoffner      L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Ray Starr          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Tobin          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Turner         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bucky Walters      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Weiland        L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i

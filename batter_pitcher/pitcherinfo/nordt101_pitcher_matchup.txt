@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Aase           R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Ray Bare           R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Bill Campbell      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jim Colborn        R   4   2   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Wayne Garland      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ross Grimsley      L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Lerrin LaGrow      R   5   1   0   0   0   1   0   0   1   0   0  .200  .429  .200 
+Bill Lee           L   6   3   0   1   0   0   0   0   0   0   0  .500  .500  .833 
+Dennis Leonard     R   7   0   0   0   0   2   0   3   0   0   0  .000  .222  .000 
+Jim Palmer         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Paxton        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Gaylord Perry      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Nolan Ryan         R   5   2   0   0   0   3   0   2   0   1   0  .400  .625  .400 
+Rick Waits         L   3   0   0   0   0   1   0   1   0   0   1  .000  .200  .000

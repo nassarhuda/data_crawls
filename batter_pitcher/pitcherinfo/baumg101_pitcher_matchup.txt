@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Ray Caldwell       R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 i
+Eddie Cicotte      R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Roy Crabb          R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Rube Foster        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Vean Gregg         L   7   2   0   0   0   1   0   3   0   0   0  .286  .375  .286 i
+Willie Mitchell    L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+George Mullin      R  12   2   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Eddie Plank        L   7   1   1   0   0   0   0   4   0   0   0  .143  .143  .286 i
+Reb Russell        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jim Scott          R   6   0   0   0   0   1   0   4   0   0   0  .000  .143  .000 i
+Ed Walsh           R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jack Warhop        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

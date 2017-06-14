@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Oil Can Boyd       R   3   1   1   0   0   0   0   2   0   1   0  .333  .333  .667 
+Don Carman         L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+David Cone         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ron Darling        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Doug Drabek        R  12   2   0   0   1   1   0   1   0   1   0  .167  .231  .417 
+Mike Dunne         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sid Fernandez      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tom Glavine        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Orel Hershiser     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ken Hill           R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Ken Howell         R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Bruce Hurst        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Knepper        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Greg Maddux        R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Rick Mahler        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dennis Martinez    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Andy McGaffigan    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shane Rawley       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jose Rijo          R   7   1   0   0   0   0   0   3   0   2   0  .143  .143  .143 
+Don Robinson       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bruce Ruffin       L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Mike Scott         R   6   1   0   0   0   2   0   1   0   1   0  .167  .375  .167 
+Bob Sebra          R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Eric Show          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bryn Smith         R   7   1   0   0   0   0   0   3   0   3   0  .143  .143  .143 
+Zane Smith         L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+John Smoltz        R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Rick Sutcliffe     R   6   2   1   0   0   0   0   2   0   2   0  .333  .333  .500 
+Walt Terrell       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+F. Valenzuela      L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Bob Walk           R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Ed Whitson         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dan Bankhead       R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Jack Banta         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Ewell Blackwell    R   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 
+Hank Borowy        R   7   3   0   0   0   1   0   1   0   2   0  .429  .500  .429 
+Cloyd Boyer        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ralph Branca       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Al Brazle          L   4   1   0   0   0   0   0   0   0   2   0  .250  .250  .250 
+Cliff Chambers     L  12   2   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Murry Dickson      R  16   4   0   0   0   1   0   4   0   0   0  .250  .294  .250 
+Blix Donnelly      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Monk Dubiel        R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Carl Erskine       R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Bob Friend         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Hatten         L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Ken Heintzelman    L  12   2   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Larry Jansen       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+J. Klippstein      R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Dave Koslo         L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jack Kramer        R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Vern Law           R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dutch Leonard      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Vic Lombardi       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Turk Lown          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Sal Maglie         R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Fred Martin        R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Bob Miller         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Paul Minner        L  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Don Newcombe       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Erv Palica         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Perkowski    L   3   2   0   0   0   0   0   0   0   2   0  .667  .667  .667 
+Mel Queen          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+K. Raffensberger   L   9   2   0   0   0   0   0   0   0   3   0  .222  .222  .222 
+Elmer Riddle       R   3   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Robin Roberts      R  12   4   2   0   0   0   0   2   0   0   0  .333  .333  .500 
+Preacher Roe       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Rush           R  10   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Johnny Schmitz     L  10   1   0   0   0   0   0   2   0   2   0  .100  .100  .100 
+Curt Simmons       L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+George Spencer     R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Gerry Staley       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jocko Thompson     L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+J. Vander Meer     L  11   0   0   0   0   1   0   5   0   2   0  .000  .083  .000 
+Herm Wehmeier      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Ted Wilks          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

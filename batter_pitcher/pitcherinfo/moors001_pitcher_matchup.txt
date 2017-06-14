@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Clay Buchholz      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+A.J. Burnett       R  12   6   2   0   2   1   1   2   0   0   0  .500  .538 1.167 
+Trevor Cahill      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Santiago Casilla   R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Tyler Clippard     R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Kevin Correia      R   9   5   1   0   0   0   0   2   0   0   0  .556  .556  .667 
+R.A. Dickey        R   5   1   0   0   0   0   0   1   1   0   0  .200  .333  .200 
+Marco Estrada      R   9   3   0   0   1   0   0   2   0   0   0  .333  .333  .667 
+Michael Fiers      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Yovani Gallardo    R  11   2   0   0   1   2   0   4   0   0   0  .182  .308  .455 
+Matt Garza         R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Justin Germano     R   4   3   0   0   1   0   0   1   0   0   0  .750  .750 1.500 
+Roy Halladay       R  10   4   1   0   1   0   0   1   0   0   0  .400  .400  .800 
+Joel Hanrahan      R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Livan Hernandez    R   9   3   0   0   1   0   0   2   0   0   0  .333  .333  .667 
+Jeff Karstens      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+John Lackey        R   8   3   1   0   0   0   0   1   0   0   1  .375  .333  .500 
+Mike Leake         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kyle Lohse         R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lance Lynn         R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Shaun Marcum       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+James McDonald     R   5   2   0   0   1   1   0   0   0   0   0  .400  .500 1.000 
+Kevin Millwood     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brett Myers        R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Ross Ohlendorf     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+F. Rodriguez       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Edinson Volquez    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Adam Wainwright    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

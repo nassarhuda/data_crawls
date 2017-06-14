@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Livan Hernandez    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Brian Lawrence     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Brian Meadows      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roy Oswalt         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Reitsma      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Suppan        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Kerry Wood         R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500

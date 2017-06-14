@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R  10   3   0   0   0   0   0   1   0   1   0  .300  .300  .300 
+Tommy Bridges      R   6   0   0   0   0   1   0   1   0   1   0  .000  .143  .000 
+Earl Caldwell      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jimmie DeShong     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bob Feller         R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Wes Ferrell        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Gomez        L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Bump Hadley        R   5   3   2   0   0   0   0   0   0   0   0  .600  .600 1.000 i
+Mel Harder         R   8   4   1   0   0   0   0   0   0   0   0  .500  .500  .625 
+Oral Hildebrand    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jack Knott         R  16   4   1   0   0   0   0   0   0   0   0  .250  .250  .313 i
+Johnny Marcum      R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Bobo Newsom        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Schoolboy Rowe     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Walkup         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+John Whitehead     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

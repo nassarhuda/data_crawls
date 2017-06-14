@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boardwalk Brown    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jack Coombs        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Louis Drucke       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Charley Hall       R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Harmon         R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+George Kahler      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+C. Mathewson       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Jack Quinn         R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Slim Sallee        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Schardt       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Smoky Joe Wood     R   9   1   1   0   0   0   0   3   0   0   0  .111  .111  .222

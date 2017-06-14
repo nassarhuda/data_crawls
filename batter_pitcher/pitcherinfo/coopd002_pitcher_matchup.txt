@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bartolo Colon      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Yu Darvish         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wade Davis         R   7   2   2   0   0   0   0   0   0   0   0  .286  .286  .571 
+Felix Doubront     L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Freddy Garcia      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Philip Humber      R   5   1   0   0   1   1   0   0   0   0   0  .200  .333  .800 
+Tommy Hunter       R   5   3   0   0   1   0   0   1   0   0   0  .600  .600 1.200 
+John Lackey        R   2   0   0   0   0   1   0   0   1   0   0  .000  .500  .000 
+Ivan Nova          R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jake Peavy         R   5   2   0   0   0   0   0   1   1   0   0  .400  .500  .400 
+Jose Quintana      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Max Scherzer       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600

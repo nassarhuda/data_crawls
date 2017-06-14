@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Lambert       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Masterson     L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Vern Olsen         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Elmer Riddle       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Manny Salvo        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Rip Sewell         R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Ray Starr          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim Tobin          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

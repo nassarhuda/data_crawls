@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Burleigh Grimes    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Hugh McQuillan     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lee Meadows        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Frank Miller       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dazzy Vance        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mule Watson        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125

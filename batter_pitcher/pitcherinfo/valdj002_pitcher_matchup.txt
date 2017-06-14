@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+David Carpenter    R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Tyler Clippard     R   9   1   0   0   1   1   0   4   0   0   0  .111  .200  .444 
+Alex Cobb          R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Johnny Cueto       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Nathan Eovaldi     R   5   3   1   0   0   1   0   1   0   0   0  .600  .667  .800 
+Jose Fernandez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tim Hudson         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Edwin Jackson      R   9   0   0   0   0   1   0   4   0   0   0  .000  .100  .000 
+Kyle Kendrick      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Tom Koehler        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mat Latos          R   7   3   0   0   0   0   0   1   0   1   0  .429  .429  .429 
+Mike Leake         R  13   1   0   0   0   0   0   2   0   0   0  .077  .077  .077 
+Tim Lincecum       R   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Shelby Miller      R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+J. Papelbon        R   9   2   0   0   2   0   0   2   1   0   0  .222  .300  .889 
+J. Pettibone       R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+A.J. Ramos         R   4   1   0   0   1   0   0   2   1   0   0  .250  .400 1.000 
+S. Strasburg       R  11   3   1   0   0   0   0   2   0   0   0  .273  .273  .364 
+Julio Teheran      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Anthony Varvaro    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Edinson Volquez    R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Adam Wainwright    R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+J. Zimmermann      R  13   3   1   0   1   0   0   2   0   0   0  .231  .231  .538

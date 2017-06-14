@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jim Archer         L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Steve Barber       L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Gary Bell          R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Dennis Bennett     L   1   0   0   0   0   0   0   0   1   2   0  .000  .500  .000 
+Wally Bunker       R   6   2   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Bennie Daniels     R   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Al Downing         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Kaat           L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jack Kralick       L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jack Lamabe        R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Mickey Lolich      L   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Joe McClain        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sam McDowell       L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+B. Monbouquette    R   7   1   0   0   0   1   0   3   0   1   0  .143  .250  .143 
+Camilo Pascual     R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Diego Segui        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mel Stottlemyre    R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

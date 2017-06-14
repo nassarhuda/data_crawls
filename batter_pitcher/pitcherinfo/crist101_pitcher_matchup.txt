@@ -1,0 +1,41 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Johnny Allen       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Nate Andrews       R   4   0   0   0   0   1   1   0   0   0   0  .000  .200  .000 
+Red Barrett        R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Hank Borowy        R  11   4   0   0   0   0   0   1   0   0   0  .364  .364  .364 
+Jack Brewer        R   7   2   0   0   0   1   0   2   0   1   0  .286  .375  .286 
+Max Butcher        R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Spud Chandler      R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Ben Chapman        R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Russ Christopher   R   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 i
+Mort Cooper        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Davis         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Derringer     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Dobson         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Atley Donald       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Red Embree         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Harry Feldman      R   6   3   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Rube Fischer       R   7   3   0   0   0   0   0   0   0   1   0  .429  .429  .429 
+Dick Fowler        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Andy Hansen        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tex Hughson        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ira Hutchinson     R   4   2   1   0   0   2   0   0   0   0   0  .500  .667  .750 
+Al Javery          R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Al Jurisich        R   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Dutch Leonard      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Phil Marchildon    R   5   1   0   0   0   1   1   0   0   0   0  .200  .333  .200 i
+Cal McLish         R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Red Munger         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Johnny Murphy      R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Claude Passeau     R  12   3   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Xavier Rescigno    R   4   2   0   1   0   1   0   0   0   0   0  .500  .600 1.000 
+Red Ruffing        R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Charley Schanz     R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Rip Sewell         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Nick Strincevich   R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dizzy Trout        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Bill Voiselle      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ted Wilks          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Early Wynn         R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

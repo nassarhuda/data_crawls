@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pete Alexander     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Red Ames           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jesse Barnes       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Leon Cadore        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Causey         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Larry Cheney       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Ralph Comstock     R   7   0   0   0   0   0   0   3   1   0   0  .000  .125  .000 i
+Jack Coombs        R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 i
+Wilbur Cooper      L  13   2   0   0   0   0   0   2   0   0   0  .154  .154  .154 
+Al Demaree         R  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 i
+Bill Doak          R   7   4   1   0   0   0   0   0   0   0   0  .571  .571  .714 
+Phil Douglas       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hod Eller          R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Burleigh Grimes    R  27   4   0   0   0   2   0   5   0   0   0  .148  .207  .148 i
+Earl Hamilton      L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Claude Hendrix     R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dolf Luque         R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Al Mamaux          R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Erskine Mayer      R  12   4   0   1   0   0   0   0   0   0   0  .333  .333  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh McQuillan     R   7   2   0   1   0   0   0   0   0   0   0  .286  .286  .571 i
+Frank Miller       R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Art Nehf           L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Pol Perritt        R   7   1   0   0   0   1   0   0   1   0   0  .143  .333  .143 i
+Jeff Pfeffer       R  15   1   0   0   0   0   0   4   0   0   0  .067  .067  .067 
+Pat Ragan          R  11   2   0   1   0   0   0   3   0   2   0  .182  .182  .364 i
+Dick Rudolph       R  15   4   0   0   0   0   0   3   0   0   0  .267  .267  .267 
+Slim Sallee        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pete Schneider     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Jack Scott         R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Bill Sherdel       L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Cy Slapnicka       R   8   2   1   0   0   0   0   1   0   1   0  .250  .250  .375 
+Sherry Smith       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Fred Toney         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Oscar Tuero        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Lefty Tyler        L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Hippo Vaughn       L   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250 i

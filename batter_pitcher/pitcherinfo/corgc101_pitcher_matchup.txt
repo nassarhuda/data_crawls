@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Appleton      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Sheriff Blake      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hal Carlson        R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Johnny Cooney      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pete Donohue       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kent Greenfield    R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Burleigh Grimes    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Percy Jones        L   5   2   1   0   0   1   0   1   0   1   0  .400  .500  .600 
+Tony Kaufmann      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jakie May          L  12   4   0   1   0   0   0   1   0   0   0  .333  .333  .500 
+Ray Pierce         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eppa Rixey         L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Charlie Root       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Scott         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+C. Willoughby      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

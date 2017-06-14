@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Barnes       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Virgil Barnes      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Whitey Glazner     R   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 i
+Skinny Graham      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Burleigh Grimes    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Bill Hubbell       R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 i
+Tony Kaufmann      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Lee Meadows        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Johnny Morrison    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Sheehan        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

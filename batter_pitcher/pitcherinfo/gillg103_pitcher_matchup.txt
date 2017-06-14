@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Beckmann      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Earl Caldwell      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wes Ferrell        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Gomez        L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Bump Hadley        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Johnny Marcum      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Mills        L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 i
+Lynn Nelson        R   7   1   0   1   0   0   0   0   0   0   0  .143  .143  .429 
+Red Ruffing        R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Bud Thomas         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+John Whitehead     R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Jack Wilson        R   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Benton       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jack Berly         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ralph Birkofer     L   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 
+Sheriff Blake      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cy Blanton         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Erv Brame          R   9   5   0   0   0   1   0   0   0   0   0  .556  .600  .556 
+Ed Brandt          L  12   1   0   0   0   1   0   6   0   0   0  .083  .154  .083 
+Guy Bush           R  15   3   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Tex Carleton       R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Leon Chagnon       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Phil Collins       R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Curt Davis         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dizzy Dean         R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Paul Derringer     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+F. Fitzsimmons     R  20   6   0   0   0   2   0   1   0   0   0  .300  .364  .300 i
+Fred Frankhouse    R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 i
+Larry French       L  11   3   0   0   0   0   0   1   0   0   0  .273  .273  .273 i
+Benny Frey         R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Burleigh Grimes    R  12   2   0   0   0   1   0   1   0   0   0  .167  .231  .167 i
+Harry Gumbert      R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Haines       R  18   5   0   0   0   1   0   1   0   1   0  .278  .316  .278 i
+Bill Hallahan      L   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 i
+Carl Hubbell       L  16   3   0   0   0   0   0   2   0   3   0  .188  .188  .188 i
+Si Johnson         R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Percy Jones        L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 i
+Ray Kremer         R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Lee           R   9   1   0   0   0   1   0   1   0   0   0  .111  .200  .111 
+Red Lucas          R  15   2   0   0   0   2   0   0   0   0   0  .133  .235  .133 i
+Danny MacFayden    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Pat Malone         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Heinie Meine       R  17   4   1   0   0   2   0   2   0   1   0  .235  .316  .294 i
+C. Mitchell        L   7   1   0   0   0   0   0   1   0   1   0  .143  .143  .143 i
+Van Mungo          R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Roy Parmelee       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Flint Rhem         R  17   4   0   0   0   0   0   2   0   1   0  .235  .235  .235 i
+Eppa Rixey         L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Charlie Root       R   9   2   1   0   0   2   0   4   0   0   0  .222  .364  .333 i
+Hal Schumacher     R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Bill Sherdel       L   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Bob Smith          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Les Sweetland      L   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Bill Swift         R  13   2   0   0   0   0   0   2   0   0   0  .154  .154  .154 
+Bud Tinning        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Bill Walker        L   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Spades Wood        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Tom Zachary        L   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

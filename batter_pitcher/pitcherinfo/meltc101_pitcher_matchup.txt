@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Joe Bowman         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Mace Brown         R   7   3   0   0   0   0   0   3   0   2   0  .429  .429  .429 i
+Clay Bryant        R  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 
+Guy Bush           R  10   1   0   0   0   0   0   1   0   2   0  .100  .100  .100 
+Max Butcher        R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 i
+Tex Carleton       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hugh Casey         R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Mort Cooper        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Curt Davis         R   5   2   0   1   0   0   0   0   0   1   0  .400  .400  .800 i
+Paul Derringer     R  12   1   0   0   0   0   0   4   0   0   0  .083  .083  .083 i
+Lou Fette          R  11   1   0   0   0   0   0   1   0   2   0  .091  .091  .091 
+Larry French       L   9   1   0   0   0   0   0   3   0   2   0  .111  .111  .111 i
+Luke Hamlin        R   7   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 i
+Ken Heintzelman    L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Kirby Higbe        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Al Javery          R   3   0   0   0   0   1   0   3   0   1   0  .000  .250  .000 i
+Bob Klinger        R  10   3   0   0   0   0   0   0   0   3   0  .300  .300  .300 i
+Bill Lee           R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Bill McGee         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Mulcahy       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Claude Passeau     R  14   3   0   0   0   1   0   4   0   3   0  .214  .267  .214 i
+Bill Posedel       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Manny Salvo        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Rip Sewell         R   9   3   0   0   0   0   0   1   0   4   0  .333  .333  .333 i
+Jim Tobin          R  10   1   0   0   0   1   0   2   0   1   0  .100  .182  .100 i
+Lou Tost           L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bucky Walters      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Les Webber         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Whit Wyatt         R  10   1   0   0   0   0   0   7   0   1   0  .100  .100  .100

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Harry Brecheen     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Murry Dickson      R   5   2   1   1   0   0   0   2   0   1   0  .400  .400 1.000 
+Hooks Iott         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doyle Lade         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+J. Vander Meer     L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Herm Wehmeier      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

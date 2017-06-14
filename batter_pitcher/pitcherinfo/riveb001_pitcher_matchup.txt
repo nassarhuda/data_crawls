@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Darryl Kile        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dennis Martinez    R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Chris Nabholz      L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Bob Walk           R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

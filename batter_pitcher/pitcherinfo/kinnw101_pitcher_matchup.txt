@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bernie Boland      R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Stan Coveleski     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hooks Dauss        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Howard Ehmke       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Carl Mays          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Allen Russell      R   8   2   1   0   0   0   0   3   0   0   0  .250  .250  .375 i
+Jim Shaw           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Allen Sothoron     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i

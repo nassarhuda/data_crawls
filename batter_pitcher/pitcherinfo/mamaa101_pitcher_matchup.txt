@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Alexander     R  18   2   0   0   0   1   0   7   0   0   0  .111  .158  .111 i
+Rube Benton        L  11   2   1   0   0   1   0   2   1   1   0  .182  .308  .273 i
+Jack Coombs        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Al Demaree         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Doak          R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 i
+Phil Douglas       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hod Eller          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Charley Hall       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Elmer Jacobs       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Percy Jones        L   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 i
+Hugh McQuillan     R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 i
+Lee Meadows        R   5   1   0   0   1   4   0   1   0   0   0  .200  .556  .800 i
+C. Mitchell        L  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 i
+Art Nehf           L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pol Perritt        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jeff Pfeffer       R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 i
+Ed Reulbach        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Eppa Rixey         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Dutch Ruether      L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Tyler        L   7   1   1   0   0   1   0   0   0   0   0  .143  .250  .286 i
+Hippo Vaughn       L  12   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Mule Watson        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i

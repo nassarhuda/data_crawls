@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+John Buzhardt      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gene Conley        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bennie Daniels     R   9   2   0   1   0   0   0   0   0   0   0  .222  .222  .444 
+Ike Delock         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jack Fisher        R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+John Gabler        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mudcat Grant       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Herbert        R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Ron Kline          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Marty Kutyna       R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Frank Lary         R   3   1   0   1   0   0   0   0   0   1   0  .333  .333 1.000 
+Cal McLish         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ron Moeller        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+B. Monbouquette    R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Dan Osinski        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Milt Pappas        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Camilo Pascual     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Perry          R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Phil Regan         R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ralph Terry        R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Hoyt Wilhelm       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Early Wynn         R  10   3   0   0   1   1   0   2   0   1   0  .300  .364  .600

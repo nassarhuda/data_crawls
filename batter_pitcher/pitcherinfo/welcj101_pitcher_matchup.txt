@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+G. Blaeholder      R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Tommy Bridges      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Johnny Broaca      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sugar Cain         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Joe Cascarella     R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+George Earnshaw    R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Benny Frey         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Phil Gallivan      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Bump Hadley        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Mel Harder         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Willis Hudlin      R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Hank Johnson       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Danny MacFayden    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roy Mahaffey       R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Schoolboy Rowe     R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Red Ruffing        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Jack Russell       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Lefty Stewart      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i

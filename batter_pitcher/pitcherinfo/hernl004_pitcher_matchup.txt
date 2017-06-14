@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Blanton        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Andrew Brown       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Mark Buehrle       L   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+John Danks         L   7   4   0   0   0   0   0   1   0   1   0  .571  .571  .571 
+Jason Hammel       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Felix Hernandez    R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Scott Kazmir       L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+John Lackey        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Roy Oswalt         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Andy Pettitte      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Saunders       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+James Shields      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Carlos Silva       R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Andy Sonnanstine   R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Javier Vazquez     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jamey Wright       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

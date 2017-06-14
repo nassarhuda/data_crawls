@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Jesse Barnes       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Johnny Couch       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Bill Doak          R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Pete Donohue       R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 i
+Phil Douglas       R   5   3   0   1   0   0   0   1   0   0   0  .600  .600 1.000 
+Burleigh Grimes    R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Percy Jones        L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Rube Marquard      L   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Hugh McQuillan     R   8   4   1   0   0   0   0   0   0   1   0  .500  .500  .625 
+Art Nehf           L  11   3   1   1   0   0   0   1   0   0   0  .273  .273  .545 i
+Bill Pertica       R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jeff Pfeffer       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Eppa Rixey         L  11   1   0   0   0   0   0   2   0   2   0  .091  .091  .091 
+Rosy Ryan          R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Bill Sherdel       L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+George Smith       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mule Watson        R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200

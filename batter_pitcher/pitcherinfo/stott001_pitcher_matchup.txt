@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sean Bergman       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Kevin Brown        R   6   0   0   0   0   2   0   5   0   0   0  .000  .250  .000 
+Jim Bullinger      R   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Dave Burba         R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+A.J. Burnett       R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Mark Clark         R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Shawn Estes        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Grace         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Chris Holt         R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Bobby Jones        R   5   3   1   0   0   1   0   0   0   1   0  .600  .667  .800 
+Darryl Kile        R   4   2   0   0   0   1   0   2   0   2   0  .500  .600  .500 
+Jose Lima          R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Pedro Martinez     R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Ramon Martinez     R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Denny Neagle       L   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Russ Ortiz         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chan Ho Park       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Shane Reynolds     R  10   2   0   0   0   1   0   2   0   3   0  .200  .273  .200 
+Kirk Rueter        L   5   1   0   0   0   2   0   2   0   0   0  .200  .429  .200 
+Curt Schilling     R   4   1   0   0   0   1   0   2   0   1   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jason Schmidt      R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Steve Trachsel     R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+W. VanLandingham   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Woody Williams     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

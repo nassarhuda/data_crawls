@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hal Carlson        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+John Gillespie     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Whitey Glazner     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bill Hubbell       R   7   2   0   0   1   0   0   0   0   1   0  .286  .286  .714 i
+Percy Jones        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jimmy Ring         R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Eppa Rixey         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

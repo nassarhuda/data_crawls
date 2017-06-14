@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   9   3   1   0   0   0   0   0   0   0   0  .333  .333  .444 i
+Larry Benton       R  14   2   1   0   0   0   0   3   0   0   0  .143  .143  .214 
+Leon Chagnon       R   5   1   0   0   1   0   0   3   0   0   0  .200  .200  .800 i
+Dizzy Dean         R   4   0   0   0   0   2   0   3   0   1   0  .000  .333  .000 
+Paul Derringer     R   7   1   0   0   0   0   0   5   0   1   0  .143  .143  .143 
+F. Fitzsimmons     R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 i
+Larry French       L  16   4   1   0   0   1   0   6   1   1   0  .250  .333  .313 i
+Benny Frey         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Burleigh Grimes    R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Jesse Haines       R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 i
+Bill Hallahan      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bill Harris        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Carl Hubbell       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Si Johnson         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Syl Johnson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tony Kaufmann      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Ray Kolp           R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 i
+Ray Kremer         R  23   2   1   0   0   2   0   4   0   0   0  .087  .160  .130 i
+Red Lucas          R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pat Malone         R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lee Meadows        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Heinie Meine       R  14   5   1   0   0   0   0   4   0   0   0  .357  .357  .429 
+C. Mitchell        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Mooney         L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Roy Parmelee       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Socks Seibold      R  12   2   0   0   0   1   0   3   0   0   0  .167  .231  .167 
+Joe Shaute         L  10   2   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Bob Smith          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Glenn Spencer      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Les Sweetland      L  10   3   0   0   0   0   0   2   0   1   0  .300  .300  .300 i
+Bill Swift         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Bill Walker        L   4   1   0   0   0   2   0   3   0   0   0  .250  .500  .250 
+C. Willoughby      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 i

@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Johnny Allen       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Nate Andrews       R  13   4   0   0   0   0   0   0   0   1   0  .308  .308  .308 
+Red Barrett        R  11   2   0   0   0   0   0   1   0   1   0  .182  .182  .182 i
+Jack Brewer        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Max Butcher        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Ben Cardoni        R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Arnold Carter      L   9   5   1   0   0   0   0   0   0   0   0  .556  .556  .667 
+Ben Chapman        R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Chipman        L   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Mort Cooper        R  14   2   0   0   0   1   0   2   0   0   0  .143  .200  .143 
+Curt Davis         R  13   3   0   0   0   0   0   0   0   0   0  .231  .231  .231 
+Tommy de la Cruz   R  13   6   0   0   0   0   0   2   0   0   0  .462  .462  .462 
+Paul Derringer     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Paul Erickson      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Harry Feldman      R   7   4   0   0   0   3   0   0   0   0   0  .571  .700  .571 i
+Charlie Gassaway   L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Hal Gregg          R  11   3   0   1   0   3   0   2   0   0   0  .273  .429  .455 
+Harry Gumbert      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ed Hanyzewski      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Head            R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Art Herring        R   5   4   0   0   0   0   0   1   0   0   0  .800  .800  .800 
+Johnny Hutchings   R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Ira Hutchinson     R   9   1   0   0   0   2   0   0   0   0   0  .111  .273  .111 i
+Al Javery          R  15   4   1   0   0   1   0   0   0   0   0  .267  .313  .333 i
+Al Jurisich        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Rube Melton        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Red Munger         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Claude Passeau     R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Ewald Pyle         L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 i
+Woody Rich         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Preacher Roe       L   5   3   0   0   0   1   0   0   1   0   0  .600  .714  .600 i
+Rip Sewell         R  12   3   2   0   0   0   0   1   0   1   0  .250  .250  .417 
+Clyde Shoun        L  15   5   0   0   0   0   0   1   1   0   0  .333  .375  .333 
+Ray Starr          R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Nick Strincevich   R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 i
+Jim Tobin          R  15   3   1   0   0   0   0   0   0   0   0  .200  .200  .267 i
+Hy Vandenberg      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Bill Voiselle      R  13   2   0   0   0   1   0   2   0   0   0  .154  .214  .154 
+Bucky Walters      R  12   2   0   0   0   0   0   0   1   1   0  .167  .231  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Les Webber         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Hank Wyse          R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

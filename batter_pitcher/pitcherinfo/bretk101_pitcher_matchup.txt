@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Bradley        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Burris         R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Ray Culp           R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+John Curtis        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+John Denny         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Downing         L   5   1   1   0   0   2   0   0   0   0   0  .200  .429  .400 
+Steve Hargan       R   5   3   1   0   1   0   0   0   0   0   0  .600  .600 1.400 
+Burt Hooton        R   7   6   2   0   0   0   0   0   0   0   0  .857  .857 1.143 
+Randy Jones        L   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Mike Kekich        L   4   3   1   0   1   0   0   0   0   0   0  .750  .750 1.750 
+Steve Kline        R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Lynn McGlothen     R  11   1   0   0   0   0   0   2   0   0   0  .091  .091  .091 
+Denny McLain       R   4   2   1   0   0   0   0   2   0   2   0  .500  .500  .750 
+Joe Niekro         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Phil Niekro        R   5   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Fred Norman        L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Ron Reed           R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Steve Renko        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Rick Reuschel      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Rogers       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Dick Ruthven       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Ray Sadecki        L   5   1   0   0   1   0   0   0   0   1   0  .200  .200  .800 
+Fred Scherman      L   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Ron Schueler       R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Tom Seaver         R   9   2   1   0   0   0   0   4   0   0   0  .222  .222  .333 
+Mel Stottlemyre    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Sutton         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Walker         R   4   2   1   0   1   0   0   2   0   0   0  .500  .500 1.500

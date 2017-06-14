@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Buddy Black        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Burba         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+John Burkett       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Tom Candiotti      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Steve Cooke        L   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Tom Glavine        L  12   3   1   0   1   1   1   3   0   0   0  .250  .308  .583 
+Kevin Gross        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Chris Hammond      L   4   2   1   0   0   2   1   0   0   0   0  .500  .667  .750 
+Greg Harris        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Butch Henry        L   3   1   0   0   1   0   0   0   1   0   0  .333  .500 1.333 
+Charlie Hough      R  12   3   0   0   1   0   0   4   0   0   0  .250  .250  .500 
+Danny Jackson      L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bill Krueger       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Al Leiter          L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ramon Martinez     R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jack Morris        R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 
+Denny Neagle       L   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Dan Plesac         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Steve Reed         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kevin Ritz         R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bret Saberhagen    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Curt Schilling     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Steve Searcy       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Zane Smith         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Greg Swindell      L  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Frank Tanana       L   8   1   1   0   0   0   0   2   0   0   0  .125  .125  .250 
+Bob Tewksbury      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Allen Watson       L   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Brian Williams     R   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000

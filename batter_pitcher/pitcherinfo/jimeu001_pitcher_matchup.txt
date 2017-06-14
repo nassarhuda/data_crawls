@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Kevin Correia      R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Yovani Gallardo    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jon Garland        R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Josh Geer          R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Dan Haren          R   5   1   0   0   0   0   0   2   0   2   0  .200  .200  .200 
+Livan Hernandez    R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Randy Johnson      L   6   1   0   0   0   1   0   2   0   1   0  .167  .286  .167 
+Jair Jurrjens      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Clayton Kershaw    L   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Hiroki Kuroda      R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Ted Lilly          L   1   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Tim Lincecum       R  12   1   0   0   0   1   0   3   0   2   0  .083  .154  .083 
+Kyle Lohse         R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Rodrigo Lopez      R   8   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Derek Lowe         R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Paul Maholm        L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Felipe Paulino     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tim Redding        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jonathan Sanchez   L   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Randy Wolf         L   9   0   0   0   0   0   0   3   0   2   0  .000  .000  .000

@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Bankhead     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Juan Berenguer     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Richard Dotson     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mike Dunne         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Brian Fisher       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dwight Gooden      R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Jose Guzman        R   7   4   0   0   1   0   0   1   0   0   0  .571  .571 1.000 
+Orel Hershiser     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Charlie Hough      R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bill Long          R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Kirk McCaskill     R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Mike Moore         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Vicente Palacios   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Melido Perez       R   3   2   0   0   1   0   0   0   0   0   1  .667  .500 1.667 
+Rick Reuschel      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rick Rhoden        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Stewart       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Bob Walk           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Welch          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Mike Witt          R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667

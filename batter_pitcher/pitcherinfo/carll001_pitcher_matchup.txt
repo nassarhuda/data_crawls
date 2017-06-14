@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jorge de la Rosa   L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Aaron Harang       R   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Ubaldo Jimenez     R   8   0   0   0   0   1   0   5   0   0   0  .000  .111  .000

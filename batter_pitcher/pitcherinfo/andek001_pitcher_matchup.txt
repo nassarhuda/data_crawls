@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allan Anderson     L  11   5   1   0   0   0   0   1   0   0   0  .455  .455  .545 
+Luis Aquino        R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Jeff Ballard       L   6   3   0   0   0   1   1   0   0   0   0  .500  .571  .500 
+Scott Bankhead     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Juan Berenguer     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Buddy Black        L   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Mike Boddicker     R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Todd Burns         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Greg Cadaret       L   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+John Cerutti       L   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Roger Clemens      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Dopson        R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Tim Drummond       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Greg Harris        R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Andy Hawkins       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Greg Hibbard       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Brian Holton       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jimmy Key          L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Mark Knudson       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Dennis Lamp        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave LaPoint       L   8   1   0   0   0   0   0   1   0   1   0  .125  .125  .125 
+Terry Leach        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Milacki        R   4   3   1   0   0   2   0   0   0   2   0  .750  .833 1.000 
+Mike Moore         R   7   0   0   0   0   2   0   1   1   0   0  .000  .300  .000 
+Rob Murphy         L   1   1   0   0   0   3   0   0   0   0   0 1.000 1.000 1.000 
+Clay Parker        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Joe Price          L   5   3   0   0   0   1   0   1   0   0   0  .600  .667  .600 
+Shane Rawley       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Nolan Ryan         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bret Saberhagen    R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Dave J. Schmidt    R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Dave Stewart       R   6   1   0   1   0   0   0   2   0   0   0  .167  .167  .500 
+Kevin Tapani       R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Walt Terrell       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Jay Tibbs          R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Bob Welch          R   5   2   0   0   0   1   0   2   0   0   1  .400  .429  .400 
+David West         L   7   3   0   1   0   1   0   0   0   0   0  .429  .500  .714

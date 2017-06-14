@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bruce Berenyi      R   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+John Candelaria    L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ron Darling        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Mark Davis         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dwight Gooden      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Atlee Hammaker     L   5   1   0   0   0   1   0   4   0   0   0  .200  .333  .200 
+Rick Reuschel      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Scott Scudder      R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Doug Sisk          R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333

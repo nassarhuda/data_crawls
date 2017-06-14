@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Bruner         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Max Butcher        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Slick Castleman    R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i
+Curt Davis         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Peaches Davis      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+F. Fitzsimmons     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Fred Frankhouse    R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Hallahan      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roy Henshaw        L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Al Hollingsworth   L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Carl Hubbell       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Lee           R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Danny MacFayden    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Cliff Melton       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Whitey Moore       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Vito Tamulis       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Jim Turner         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+J. Vander Meer     L   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Lon Warneke        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

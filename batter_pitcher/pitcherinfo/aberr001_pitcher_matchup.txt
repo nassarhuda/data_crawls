@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Armas         R   3   1   0   0   1   2   0   0   0   0   0  .333  .600 1.333 
+Pedro Astacio      R   3   3   0   0   1   1   0   0   0   0   0 1.000 1.000 2.000 
+Chris Capuano      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kyle Davies        R   4   2   2   0   0   1   0   1   0   0   0  .500  .600 1.000 
+Zach Duke          L   7   5   0   0   1   1   0   0   0   0   0  .714  .750 1.143 
+Josh Fogg          R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Jeff Francis       L   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Tom Glavine        L   8   4   1   0   0   0   0   2   0   0   0  .500  .500  .625 
+Tom Gorzelanny     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Cole Hamels        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Hendrickson   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Clay Hensley       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Livan Hernandez    R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Tim Hudson         R   7   4   0   0   0   0   0   1   0   0   0  .571  .571  .571 
+Scott Kazmir       L   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Jon Lieber         R   7   2   1   1   0   0   0   2   0   0   0  .286  .286  .714 
+Ted Lilly          L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Noah Lowry         L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Sean Marshall      L   7   2   0   0   1   1   0   0   0   0   0  .286  .375  .714 
+Chad Paronto       R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Manny Parra        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Oliver Perez       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Pettitte      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Saul Rivera        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Victor Santos      R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+John Smoltz        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jorge Sosa         R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Billy Wagner       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chris Young        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

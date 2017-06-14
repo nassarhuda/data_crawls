@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Cardwell       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bill Hands         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Ken Holtzman       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Gaylord Perry      R   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+Ray Sadecki        L   3   0   0   0   0   1   0   3   0   1   0  .000  .250  .000 
+Dick Selma         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Beggs          R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Tiny Bonham        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Brazle          L   9   1   0   0   0   3   0   4   0   0   0  .111  .333  .111 
+Harry Brecheen     L  14   3   1   0   0   0   0   4   0   0   0  .214  .214  .286 
+Ken Burkhart       R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Murry Dickson      R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Blix Donnelly      R  10   2   1   0   0   0   0   2   0   0   0  .200  .200  .300 
+Joe Hatten         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ken Heintzelman    L   6   1   0   0   1   0   0   3   0   0   0  .167  .167  .667 
+Kirby Higbe        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Lefty Hoerst       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tommy Hughes       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Hooks Iott         L   6   1   0   0   0   2   0   2   0   0   0  .167  .375  .167 
+Ken Johnson        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Sheldon Jones      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Oscar Judd         L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Dave Koslo         L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Red Munger         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Elmer Riddle       R   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000 
+Johnny Sain        R   7   2   1   1   0   1   0   2   0   0   0  .286  .375  .714 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Warren Spahn       L   8   2   0   1   0   2   0   1   0   0   0  .250  .400  .500 
+J. Vander Meer     L   8   4   0   0   0   2   0   1   0   0   0  .500  .600  .500

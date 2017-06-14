@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Blanton         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Bowman         R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Tex Carleton       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Tiny Chaplin       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Dick Coffman       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Curt Davis         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Dizzy Dean         R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Paul Derringer     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Harry Gumbert      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Hallahan      L   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Al Hollingsworth   L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Lanning     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Lee           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Lucas          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Lee Stine          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Swift         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bill Voiselle      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Walker        L   7   0   0   0   0   1   1   2   0   0   0  .000  .125  .000 
+Bucky Walters      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Jim Weaver         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

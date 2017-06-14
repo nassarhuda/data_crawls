@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Petie Behan        R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Earl Hamilton      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Walter Johnson     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dolf Luque         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rube Marquard      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Eppa Rixey         L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 i
+Fred Toney         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Weldon Wyckoff     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i

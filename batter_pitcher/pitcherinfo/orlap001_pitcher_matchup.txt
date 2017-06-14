@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Danks         L  11   4   0   1   0   1   0   3   0   0   0  .364  .417  .545 
+Scott Kazmir       L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Tom Milone         L  10   3   1   0   0   1   0   0   0   0   0  .300  .364  .400 
+Jake Petricka      R   5   2   2   0   0   1   0   1   0   0   0  .400  .500  .800 
+Michael Pineda     R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+David Price        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jose Quintana      L  11   5   2   0   0   0   0   1   0   0   0  .455  .455  .636 
+David Robertson    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Danny Salazar      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Chris Sale         L   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Anibal Sanchez     R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600

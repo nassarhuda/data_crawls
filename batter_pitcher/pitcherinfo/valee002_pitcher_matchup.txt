@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Luis Ayala         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Josh Beckett       R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Nate Bump          R   3   2   0   0   0   2   1   0   0   0   0  .667  .800  .667 
+A.J. Burnett       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Paul Byrd          R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Roger Clemens      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chad Cordero       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Casey Daigle       R   3   2   1   0   0   1   1   0   0   0   0  .667  .750 1.000 
+Josh Fogg          R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Zack Greinke       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Livan Hernandez    R  11   3   1   0   1   0   0   2   0   0   0  .273  .273  .636 
+Jason Jennings     R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Jason Johnson      R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Brian Lawrence     R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Matt Morris        R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Mike Mussina       R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Tomo Ohka          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Russ Ortiz         R   6   3   0   0   1   1   1   0   0   0   0  .500  .571 1.000 
+Roy Oswalt         R   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 
+John Patterson     R   4   0   0   0   0   1   1   3   0   0   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carl Pavano        R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Jake Peavy         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Victor Santos      R   4   1   0   0   1   2   0   0   0   0   0  .250  .500 1.000 
+John Smoltz        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+John Thomson       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Salomon Torres     R   7   2   0   0   1   0   0   2   0   0   0  .286  .286  .714 
+Ryan Vogelsong     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brandon Webb       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Woody Williams     R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Paul Wilson        R   4   0   0   0   0   1   1   1   0   0   1  .000  .167  .000 
+Kerry Wood         R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Jaret Wright       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333

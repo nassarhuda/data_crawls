@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Grant Balfour      R   4   3   2   0   0   1   0   1   0   0   0  .750  .800 1.250 
+Nick Blackburn     R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Jason Bulger       R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+A.J. Burnett       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Fausto Carmona     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Chris Carpenter    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joba Chamberlain   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jose Contreras     R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Lance Cormier      R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Wade Davis         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Scott Feldman      R   6   3   1   0   0   1   0   0   0   0   0  .500  .571  .667 
+Nelson Figueroa    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doug Fister        R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+A. Galarraga       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Matt Garza         R   7   2   0   0   1   0   0   0   1   0   0  .286  .375  .714 
+Zack Greinke       R   8   1   1   0   0   1   0   6   0   0   0  .125  .222  .250 
+Jeremy Guthrie     R   6   0   0   0   0   3   0   1   0   0   0  .000  .333  .000 
+Tommy Hanson       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Felix Hernandez    R   6   3   0   0   0   2   0   1   0   0   0  .500  .625  .500 
+Daniel Hudson      R   5   3   0   1   0   1   0   1   0   0   0  .600  .667 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Hudson         R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tommy Hunter       R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Edwin Jackson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+John Lackey        R   7   2   1   0   0   1   0   0   0   0   0  .286  .375  .429 
+Colby Lewis        R  11   3   0   1   1   1   0   4   0   0   0  .273  .333  .727 
+F. Liriano         L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Gil Meche          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brandon Morrow     R   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+Dustin Nippert     R   7   0   0   0   0   2   0   4   0   1   0  .000  .222  .000 
+Darren O'Day       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Darren Oliver      L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Vicente Padilla    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+David Purcey       L   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Ervin Santana      R   7   1   0   0   1   0   0   4   0   0   0  .143  .143  .571 
+Joe Saunders       L   7   4   0   0   0   0   0   2   0   0   0  .571  .571  .571 
+James Shields      R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Kevin Slowey       R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Ian Snell          R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Andy Sonnanstine   R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Javier Vazquez     R   5   1   0   0   1   2   0   1   0   0   0  .200  .429  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Justin Verlander   R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jered Weaver       R  12   3   0   0   0   1   0   5   0   0   0  .250  .308  .250 
+C.J. Wilson        L   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250

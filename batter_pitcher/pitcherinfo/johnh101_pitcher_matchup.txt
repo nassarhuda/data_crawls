@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Blankenship    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Garland Braxton    L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Clint Brown        R   8   3   2   0   0   1   0   0   0   0   0  .375  .444  .625 
+General Crowder    R   7   1   0   1   0   0   0   2   0   0   0  .143  .143  .429 i
+Bill Dietrich      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Red Faber          R  10   3   0   0   0   2   0   3   0   1   0  .300  .417  .300 i
+Wes Ferrell        R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Milt Gaston        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Lefty Grove        L  15   1   1   0   0   1   0   0   0   0   0  .067  .125  .133 i
+Bump Hadley        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Mel Harder         R   8   2   0   1   0   0   0   1   0   0   0  .250  .250  .500 i
+Willis Hudlin      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Sad Sam Jones      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Hod Lisenbee       R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Ted Lyons          R  15   6   2   0   0   0   0   1   0   0   0  .400  .400  .533 i
+Danny MacFayden    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Firpo Marberry     R  10   2   1   0   0   1   0   1   0   1   0  .200  .273  .300 i
+Hal McKain         R   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 
+Jud McLaughlin     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Red Ruffing        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Russell       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Milt Shoffner      L   7   3   1   1   1   0   0   0   0   0   0  .429  .429 1.286 
+Vic Sorrell        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rollie Stiles      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Tommy Thomas       R   2   1   1   0   0   0   0   1   0   2   0  .500  .500 1.000 i
+Rube Walberg       L  10   2   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Ted Wingfield      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

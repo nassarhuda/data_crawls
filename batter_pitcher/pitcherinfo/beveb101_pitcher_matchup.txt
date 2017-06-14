@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Black          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Charlie Bowles     R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Russ Christopher   R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joe Coleman        R   7   3   1   0   0   0   0   4   0   0   0  .429  .429  .571 
+Bob Feller         R   9   1   0   0   0   0   0   8   0   0   0  .111  .111  .111 
+Dave Ferriss       R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dick Fowler        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Denny Galehouse    R   9   2   0   0   0   1   0   1   0   1   0  .222  .300  .222 
+Joe Haynes         R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Al Hollingsworth   L   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Tex Hughson        R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Earl Johnson       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lou Knerr          R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jack Kramer        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Thornton Lee       L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Dutch Leonard      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eddie Lopat        L  11   2   0   0   1   1   0   2   0   0   0  .182  .250  .455 
+Phil Marchildon    R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ox Miller          R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Hal Newhouser      L   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobo Newsom        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Stubby Overmire    L   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Mel Parnell        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Nels Potter        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Allie Reynolds     R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Fred Sanford       R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Al Smith           L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Dizzy Trout        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Early Wynn         R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000

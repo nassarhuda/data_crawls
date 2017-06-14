@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  10   1   0   0   0   1   0   6   0   1   0  .100  .182  .100 i
+Red Ames           R   3   0   0   0   0   2   0   2   0   1   0  .000  .400  .000 i
+Cliff Curtis       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Art Fromme         R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 i
+Bob Harmon         R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 i
+Bert Humphries     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Jimmy Lavender     R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Rube Marquard      L  11   0   0   0   0   1   0   4   0   0   0  .000  .083  .000 i
+C. Mathewson       R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+Eppa Rixey         L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 i
+Dick Rudolph       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Slim Sallee        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Tom Seaton         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+George Suggs       R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Lefty Tyler        L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Joe Willis         L   2   1   0   0   0   1   0   1   0   1   0  .500  .667  .500 i

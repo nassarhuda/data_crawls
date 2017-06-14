@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   7   3   1   0   0   0   0   0   0   1   0  .429  .429  .571 
+Virgil Barnes      R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Bullet Joe Bush    R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Tex Carleton       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hal Carlson        R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Hooks Dauss        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Howard Ehmke       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+F. Fitzsimmons     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Burleigh Grimes    R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Waite Hoyt         R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Ray Kolp           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Lou Koupal         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ray Kremer         R  14   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lee Meadows        R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Art Reinhart       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+C. Robertson       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Charlie Root       R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Socks Seibold      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Dazzy Vance        R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Tom Zachary        L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i

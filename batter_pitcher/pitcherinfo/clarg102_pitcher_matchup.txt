@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Borowy        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Joe Bowman         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Clem Dreisewerd    L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Lum Harris         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clem Hausmann      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Al Hollingsworth   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tex Hughson        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jack Kramer        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hal Newhouser      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Johnny Niggeling   R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Baby Ortiz         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Stubby Overmire    L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Nels Potter        R  12   4   1   0   0   1   0   0   0   0   0  .333  .385  .417 
+Al Smith           L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Early Wynn         R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222

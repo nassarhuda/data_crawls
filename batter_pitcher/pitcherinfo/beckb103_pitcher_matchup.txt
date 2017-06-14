@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Spud Chandler      R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Ken Chase          L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Feller         R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+George Gill        R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Lefty Gomez        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mel Harder         R   6   5   0   0   0   0   0   0   0   0   0  .833  .833  .833 
+Dutch Leonard      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Ted Lyons          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walt Masterson     R   5   2   0   0   0   1   0   0   0   1   0  .400  .500  .400 i
+Al Milnar          L   6   3   0   0   0   1   0   0   0   0   0  .500  .571  .500 
+Johnny Rigney      R   9   3   0   0   0   1   0   1   0   1   0  .333  .400  .333 
+Marius Russo       L   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Early Wynn         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000

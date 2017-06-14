@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roger Bailey       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andy Benes         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dave Burba         R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Tom Candiotti      R   9   3   2   0   1   0   0   2   0   1   0  .333  .333  .889 
+Frank Castillo     R   9   3   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Chris Hammond      L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Mike Hampton       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pedro Martinez     R   4   1   0   0   0   0   0   3   0   0   1  .250  .200  .250 
+Shane Reynolds     R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+John Smiley        L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Steve Trachsel     R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+David Weathers     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

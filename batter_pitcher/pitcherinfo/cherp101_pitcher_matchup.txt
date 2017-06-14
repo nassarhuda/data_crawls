@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Slick Castleman    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Cliff Melton       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Claude Passeau     R  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 
+Jim Turner         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bucky Walters      R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500

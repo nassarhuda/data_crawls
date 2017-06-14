@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Byrd         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Joe Dobson         R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Bob Hooper         R   4   4   0   0   0   1   0   0   0   0   0 1.000 1.000 1.000 
+Art Houtteman      R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Ellis Kinder       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Lemon          R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Madison       R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Walt Masterson     R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Julio Moreno       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Porterfield    R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 
+Allie Reynolds     R   9   0   0   0   0   1   0   3   0   0   0  .000  .100  .000 
+Raul Sanchez       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Spec Shea          R   9   4   1   0   0   0   0   3   0   0   0  .444  .444  .556 
+Dizzy Trout        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

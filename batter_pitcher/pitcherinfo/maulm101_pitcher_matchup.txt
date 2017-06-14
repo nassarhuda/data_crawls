@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Bridges      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Cascarella     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Oral Hildebrand    R   4   3   1   0   1   0   0   0   0   0   0  .750  .750 1.750 
+Johnny Marcum      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Monte Pearson      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jack Russell       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Earl Whitehill     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ralph Winegarner   R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000

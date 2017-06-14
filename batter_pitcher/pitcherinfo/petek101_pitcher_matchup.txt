@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Brazle          L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Murry Dickson      R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Joe Hatten         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Hearn          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Ken Heintzelman    L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Russ Meyer         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Munger         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Howie Pollet       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Schoolboy Rowe     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Warren Spahn       L   8   1   0   0   0   0   0   1   0   1   0  .125  .125  .125 
+Hank Wyse          R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

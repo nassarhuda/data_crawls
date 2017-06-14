@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Cy Barger          R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+Jim Bluejacket     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Ad Brennan         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mordecai Brown     R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Doc Crandall       R  22   3   1   0   0   1   0   4   0   0   0  .136  .174  .182 i
+Nick Cullop        L  12   6   0   0   1   0   0   1   0   1   0  .500  .500  .750 i
+Dave Davenport     R  23   5   1   0   0   0   0   0   0   0   0  .217  .217  .261 i
+Claude Hendrix     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Henning       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Rankin Johnson     R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Chief Johnson      R  11   1   0   0   0   1   0   0   0   0   0  .091  .167  .091 i
+G. Kaiserling      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Elmer Knetzer      R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Alex Main          R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Dan Marion         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Earl Moseley       R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Eddie Plank        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Mike Prendergast   R   7   5   4   0   0   1   0   1   0   0   0  .714  .750 1.286 i
+Ed Reulbach        R   7   3   0   0   0   2   0   1   0   0   0  .429  .556  .429 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Clint Rogge        R   8   1   0   1   0   0   0   0   0   0   0  .125  .125  .375 i
+Tom Seaton         R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 i
+George Suggs       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+M. Walker          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

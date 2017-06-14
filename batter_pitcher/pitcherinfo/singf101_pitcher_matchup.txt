@@ -1,0 +1,58 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Archer        L   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Julio Bonetti      R   4   1   0   1   0   0   0   0   0   1   0  .250  .250  .750 
+Joe Bowman         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tommy Bridges      R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Max Butcher        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sugar Cain         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+George Caster      R   9   2   0   1   0   2   0   2   0   0   0  .222  .364  .444 
+Bill Dietrich      R   4   0   0   0   0   3   0   2   0   0   0  .000  .429  .000 
+Bob Feller         R   6   1   0   1   0   0   0   3   0   0   0  .167  .167  .500 
+Wes Ferrell        R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Lou Fette          R   5   2   0   0   1   1   0   1   0   0   0  .400  .500 1.000 i
+Lefty Gomez        L  12   2   0   0   0   4   0   1   0   0   0  .167  .375  .167 i
+Lee Grissom        L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Lefty Grove        L  16   2   0   0   0   3   0   4   0   0   0  .125  .263  .125 i
+Harry Gumbert      R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Randy Gumpert      R   4   2   0   0   0   2   0   1   0   0   0  .500  .667  .500 
+Bump Hadley        R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 i
+Mel Harder         R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 
+Clyde Hatter       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Kalfass       L   1   0   0   0   0   3   0   1   0   0   0  .000  .750  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Kennedy       R   6   4   2   0   0   2   0   0   0   0   0  .667  .750 1.000 
+Johnny Lanning     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Roxie Lawson       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Thornton Lee       L   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Ted Lyons          R  12   3   0   0   1   0   0   1   0   0   0  .250  .250  .500 
+Danny MacFayden    R   5   2   1   0   0   2   0   1   0   0   0  .400  .571  .600 i
+Johnny Marcum      R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Bill McGee         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Archie McKain      L   5   2   0   0   0   1   1   0   0   1   0  .400  .500  .400 i
+Johnny Murphy      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Lynn Nelson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bobo Newsom        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ted Olson          R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+F. Ostermueller    L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Claude Passeau     R   5   1   1   0   0   2   0   1   0   0   0  .200  .429  .400 i
+J. Poindexter      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Buck Ross          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Ruffing        R  13   4   1   0   1   0   0   2   0   0   0  .308  .308  .615 
+Clyde Shoun        L   4   2   2   0   0   0   0   1   0   0   0  .500  .500 1.000 
+Eddie Smith        L   8   2   1   0   0   1   0   0   0   0   0  .250  .333  .375 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bud Thomas         R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Jim Tobin          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Russ Van Atta      L   7   3   2   0   0   1   0   0   0   0   0  .429  .500  .714 
+J. Vander Meer     L  10   1   0   0   0   2   0   5   0   0   0  .100  .250  .100 
+Jake Wade          L   5   2   1   0   1   0   0   0   0   0   0  .400  .400 1.200 i
+Rube Walberg       L   8   5   2   0   1   2   0   2   0   0   0  .625  .700 1.250 i
+Bucky Walters      R   4   2   1   0   1   0   0   0   0   0   0  .500  .500 1.500 
+Bob Weiland        L   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 i
+Johnny Welch       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Whitehead     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Earl Whitehill     L  18   5   1   0   0   2   0   0   0   0   0  .278  .350  .333 
+Kemp Wicker        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Al Williams        R   3   1   0   0   0   3   0   1   0   0   0  .333  .667  .333 
+Whitey Wilshere    L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jack Wilson        R  13   5   1   0   0   1   0   1   0   0   0  .385  .429  .462 i

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A.J. Burnett       R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Jose Contreras     R  11   2   1   0   0   0   0   3   0   0   0  .182  .182  .273 
+Freddy Garcia      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Jon Garland        R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Roy Halladay       R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 
+Livan Hernandez    R   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400 
+R. Hernandez       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Casey Janssen      R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+John Lackey        R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Jesse Litsch       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Esteban Loaiza     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ryan Madson        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Pedro Martinez     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Brandon McCarthy   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gil Meche          R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Kevin Millwood     R  13   1   0   0   0   1   0   3   0   1   0  .077  .143  .077 
+Jamie Moyer        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Ricky Nolasco      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vicente Padilla    R   4   3   2   0   0   1   0   1   0   0   0  .750  .800 1.250 
+John Parrish       L   4   1   1   0   0   0   0   1   0   0   1  .250  .200  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joel Pineiro       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mark Redman        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ervin Santana      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Curt Schilling     R   6   3   0   0   1   0   0   0   0   0   0  .500  .500 1.000 
+Brian Tallet       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Javier Vazquez     R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Justin Verlander   R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ron Villone        L   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 
+Tim Wakefield      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chien-Ming Wang    R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333

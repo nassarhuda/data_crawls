@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Adam Conley        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jose Fernandez     R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Adam Morgan        L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Justin Nicolino    L   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Jon Niese          L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+David Price        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

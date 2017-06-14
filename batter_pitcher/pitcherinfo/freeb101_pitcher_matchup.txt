@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Baumgartner   L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Rube Benton        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Al Mamaux          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jimmy Ring         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eppa Rixey         L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Dutch Ruether      L   6   1   0   0   0   1   0   4   0   0   0  .167  .286  .167

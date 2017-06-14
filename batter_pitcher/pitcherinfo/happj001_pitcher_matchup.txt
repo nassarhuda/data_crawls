@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Capuano      L   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Yovani Gallardo    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Aaron Harang       R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jair Jurrjens      R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Leake         R   5   1   0   0   0   0   0   4   0   1   0  .200  .200  .200 
+Lance Lynn         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Shaun Marcum       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Kyle McClellan     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+James McDonald     R   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Andrew Miller      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Charlie Morton     R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Chris Rusin        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Anibal Sanchez     R   5   2   1   0   0   2   0   0   0   0   0  .400  .571  .600 
+Javier Vazquez     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Travis Wood        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

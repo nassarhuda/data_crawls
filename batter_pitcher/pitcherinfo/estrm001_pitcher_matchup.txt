@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Homer Bailey       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+A.J. Burnett       R   4   1   0   0   0   1   0   3   0   2   0  .250  .400  .250 
+Gerrit Cole        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mike Leake         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Kyle Lohse         R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Lance Lynn         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Shelby Miller      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Mike Minor         L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jeff Samardzija    R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Travis Wood        L   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000

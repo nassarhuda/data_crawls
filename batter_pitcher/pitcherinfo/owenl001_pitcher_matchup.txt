@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Neil Allen         R   2   2   0   0   0   1   0   0   0   1   0 1.000 1.000 1.000 
+Scott Bailes       L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jeff Ballard       L   2   1   1   0   0   1   0   0   1   0   0  .500  .750 1.000 
+Eric Bell          L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Tom Browning       L   5   1   0   0   1   1   1   1   0   0   0  .200  .333  .800 
+Steve Carlton      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Cerutti       L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Ken Dixon          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck Finley       L   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+Mike Flanagan      L   4   4   0   0   0   0   0   0   0   0   0 1.000 1.000 1.000 
+Lee Guetterman     L   9   2   0   0   1   0   0   1   0   0   0  .222  .222  .556 
+Ron Guidry         L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Rick Honeycutt     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bruce Hurst        L   8   1   0   0   1   0   0   2   0   0   1  .125  .111  .500 
+Jimmy Key          L   9   3   0   0   1   1   0   2   0   0   0  .333  .400  .667 
+Paul Kilgus        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Knepper        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Greg Minton        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Musselman     L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Niedenfuer     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jose Nunez         R   6   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Dan Petry          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jerry Reuss        L   8   3   1   0   0   1   0   2   0   0   0  .375  .444  .500 
+Jeff Robinson      R   3   0   0   0   0   1   0   0   1   0   0  .000  .400  .000 
+Dave Smith         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mario Soto         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Don Sutton         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Greg Swindell      L   9   1   1   0   0   0   0   4   0   0   0  .111  .111  .222 
+Frank Tanana       L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Steve Trout        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Frank Viola        L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Curt Young         L  11   3   0   0   1   1   0   2   0   0   0  .273  .333  .545

@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+C. Bergman         R   6   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Chad Bettis        R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Mike Bolsinger     R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Andrew Cashner     R  11   4   0   0   1   2   0   2   0   0   0  .364  .462  .636 
+Santiago Casilla   R   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+A. DeSclafani      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+O. Despaigne       R  10   3   1   0   0   1   0   2   0   0   0  .300  .364  .400 
+Carlos Frias       R   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Frank Garces       L   4   1   0   0   1   1   0   2   0   0   0  .250  .400 1.000 
+Zack Greinke       R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Jeremy Guthrie     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+David Hale         R   8   2   1   0   0   0   0   3   0   0   0  .250  .250  .375 
+LaTroy Hawkins     R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Chris Heston       R   9   3   1   0   0   3   1   0   0   0   0  .333  .500  .444 
+Tim Hudson         R   2   0   0   0   0   1   0   0   0   0   1  .000  .250  .000 
+Phil Hughes        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Raisel Iglesias    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Kenley Jansen      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kyle Kendrick      R   7   4   0   1   0   1   0   1   0   0   0  .571  .625  .857 
+George Kontos      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Leake         R   3   3   0   0   0   2   1   0   0   0   0 1.000 1.000 1.000 
+Lance Lynn         R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+Tyler Matzek       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Collin McHugh      R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Franklin Morales   L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Josh Osich         L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jake Peavy         R   8   2   0   1   0   0   0   2   0   0   0  .250  .250  .500 
+Yusmeiro Petit     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tyson Ross         R   8   0   0   0   0   0   0   8   1   0   0  .000  .111  .000 
+James Shields      R   8   2   0   0   0   1   0   3   0   0   0  .250  .333  .250 
+Ryan Vogelsong     R   9   4   2   0   1   4   0   0   0   0   0  .444  .615 1.000

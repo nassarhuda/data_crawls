@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  11   3   0   0   0   0   0   4   0   0   0  .273  .273  .273 i
+Pete Alexander     R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Red Ames           R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Fred Anderson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jesse Barnes       R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 i
+Mike Cantwell      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry Cheney       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Wilbur Cooper      L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Bill Doak          R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 i
+Bob Harmon         R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 i
+Al Mamaux          R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Pol Perritt        R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Eppa Rixey         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Dick Robertson     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Nap Rucker         L   9   1   0   0   0   0   0   4   0   0   0  .111  .111  .111 i
+Dick Rudolph       R  13   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Slim Sallee        L  11   2   0   1   0   0   0   4   0   0   0  .182  .182  .364 i
+Rube Schauer       R   5   2   0   0   0   1   0   2   0   1   0  .400  .500  .400 i
+Ferdie Schupp      L   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 i
+Jeff Tesreau       R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Toney         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Lefty Tyler        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hippo Vaughn       L  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 i

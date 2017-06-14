@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Pete Alexander     R  10   4   0   1   2   2   0   1   0   0   0  .400  .500 1.200 i
+Cy Barger          R   2   0   0   0   0   1   0   0   0   0   1  .000  .250  .000 
+Ad Brennan         L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 i
+Howie Camnitz      R   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 i
+Larry Cheney       R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+King Cole          R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Doc Crandall       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Jack Ferry         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Art Fromme         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Harry Gardner      R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Harry Gaspar       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Geyer         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bob Harmon         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Jimmy Lavender     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lefty Leifield     L   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Rube Marquard      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+C. Mathewson       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Earl Moore         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ed Reulbach        R   8   2   0   1   1   0   0   0   0   0   0  .250  .250  .875 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lew Richie         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Nap Rucker         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Slim Sallee        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Schardt       R   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 i
+Tom Seaton         R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Elmer Steele       R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Bill Steele        R   4   0   0   0   0   1   0   0   0   0   1  .000  .167  .000 i
+Fred Toney         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Hooks Wiltse       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i

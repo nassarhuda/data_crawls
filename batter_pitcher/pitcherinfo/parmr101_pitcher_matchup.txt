@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Cy Blanton         R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Guy Bush           R  11   1   1   0   0   0   0   0   0   0   0  .091  .091  .182 
+Ben Cantwell       R  15   2   0   0   0   1   0   0   0   0   0  .133  .188  .133 i
+Tex Carleton       R  13   3   0   1   0   1   0   4   0   0   0  .231  .286  .385 i
+Ownie Carroll      R   6   4   0   0   0   0   0   1   0   0   0  .667  .667  .667 
+Leon Chagnon       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tiny Chaplin       R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Watty Clark        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Phil Collins       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Dizzy Dean         R   7   1   0   0   0   1   0   5   0   0   0  .143  .250  .143 i
+Paul Derringer     R  20   3   1   0   0   0   0  11   0   0   0  .150  .150  .200 
+Clise Dudley       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jumbo Elliott      L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Fred Frankhouse    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Larry French       L  12   1   0   0   0   0   0   4   0   0   0  .083  .083  .083 
+Benny Frey         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Al Hollingsworth   L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Carl Hubbell       L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Bill Lee           R  12   2   1   0   0   0   0   6   0   0   0  .167  .167  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Lucas          R  15   3   0   0   1   0   0   3   0   0   0  .200  .200  .400 i
+Danny MacFayden    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Van Mungo          R   6   2   0   0   1   0   0   1   0   1   0  .333  .333  .833 i
+Bobby Reis         R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bill Swift         R   8   4   2   0   0   0   0   2   0   0   0  .500  .500  .750 i
+Bucky Walters      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Lon Warneke        R  17   4   1   0   1   1   0   5   0   1   0  .235  .278  .471 
+Tom Zachary        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i

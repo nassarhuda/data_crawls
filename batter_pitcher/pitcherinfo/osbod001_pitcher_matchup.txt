@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   7   1   0   0   1   0   0   4   0   0   0  .143  .143  .571 
+Pedro Astacio      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Andy Benes         R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Shayne Bennett     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Buddy Black        L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dave Burba         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Tom Candiotti      R   5   1   1   0   0   0   0   3   0   1   0  .200  .200  .400 
+Frank Castillo     R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Doug Drabek        R   5   2   0   0   0   0   0   2   0   2   0  .400  .400  .400 
+Jeff Fassero       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Sid Fernandez      L   8   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Mike Hampton       L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Pete Harnisch      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bruce Hurst        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Darryl Kile        R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Esteban Loaiza     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ramon Martinez     R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Jaime Navarro      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Denny Neagle       L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Carlos Perez       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Shane Reynolds     R   6   2   1   0   0   0   0   3   0   1   0  .333  .333  .500 
+Bret Saberhagen    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Curt Schilling     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+John Smiley        L   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+John Smoltz        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bill Swift         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Greg Swindell      L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Steve Trachsel     R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Marc Valdes        R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000

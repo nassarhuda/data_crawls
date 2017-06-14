@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Huck Betts         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Dick Coffman       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+General Crowder    R   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 i
+Paul Derringer     R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Ed Durham          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+George Earnshaw    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Lefty Grove        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ed Heusser         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Willis Hudlin      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chad Kimsey        R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Ed Morris          R   6   1   1   0   0   0   0   1   0   1   0  .167  .167  .333 
+Herb Pennock       L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jack Russell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rube Walberg       L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Bucky Walters      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Wright          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

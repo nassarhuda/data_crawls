@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Virgil Barnes      R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 i
+Larry Benton       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ed Brandt          L   5   2   0   0   2   0   0   1   0   0   0  .400  .400 1.600 i
+Bullet Joe Bush    R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Johnny Cooney      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pete Donohue       R   5   1   1   0   0   1   0   3   0   0   0  .200  .333  .400 i
+Foster Edwards     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Rube Ehrhardt      R   5   2   2   0   0   1   0   1   0   0   0  .400  .500  .800 i
+Jumbo Elliott      L   5   3   2   0   0   0   0   0   0   0   0  .600  .600 1.000 i
+F. Fitzsimmons     R  11   1   0   0   0   0   0   3   0   1   0  .091  .091  .091 
+Joe Genewich       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Jesse Haines       R   5   1   1   0   0   0   0   1   0   1   0  .200  .200  .400 i
+Bunny Hearn        L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Dutch Henry        L  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Carl Hubbell       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ray Kolp           R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 i
+Dolf Luque         R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Jakie May          L  23   6   1   0   0   3   0   2   0   0   0  .261  .346  .304 i
+Carl Mays          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doug McWeeny       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Lee Meadows        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+C. Mitchell        L  18   5   0   0   0   1   0   1   0   0   0  .278  .316  .278 i
+Johnny Morrison    R   7   4   1   0   0   0   0   1   1   0   0  .571  .625  .714 i
+Jesse Petty        L  33   6   1   1   0   1   0   4   0   1   0  .182  .206  .273 i
+Hub Pruett         L  14   5   1   0   0   3   0   3   0   0   0  .357  .471  .429 i
+Art Reinhart       L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i
+Eppa Rixey         L  19   8   1   0   0   6   0   1   0   2   0  .421  .560  .474 i
+Jack Scott         R   7   2   0   0   0   1   0   2   0   1   0  .286  .375  .286 
+Bill Sherdel       L  21   6   2   0   0   3   0   1   0   0   0  .286  .375  .381 i
+Bob Smith          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Les Sweetland      L  10   2   2   0   0   0   0   0   0   2   0  .200  .200  .400 i
+Dazzy Vance        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Johnny Wertz       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Emil Yde           L   7   3   1   0   0   0   0   1   0   1   0  .429  .429  .571 i

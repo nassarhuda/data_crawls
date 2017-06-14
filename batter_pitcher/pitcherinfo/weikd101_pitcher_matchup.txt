@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Brissie        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ned Garver         R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Randy Gumpert      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Kennedy       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Lemon          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

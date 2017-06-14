@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Hal Brown          R   7   2   0   1   0   0   0   1   0   0   0  .286  .286  .571 
+Jim Bunning        R  16   3   1   0   0   1   0   8   0   0   1  .188  .222  .250 
+Ike Delock         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dick Donovan       R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Chuck Estrada      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Bill Fischer       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jack Fisher        R   2   1   0   0   0   1   0   1   0   1   0  .500  .667  .500 
+Paul Foytack       R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+John Gabler        R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Frank Lary         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Don Lee            R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+B. Monbouquette    R   6   2   1   0   0   0   0   3   0   0   0  .333  .333  .500 
+Erv Palica         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pedro Ramos        R   6   1   1   0   0   1   0   3   0   0   0  .167  .286  .333 
+Phil Regan         R   5   4   1   1   0   2   0   1   0   0   0  .800  .857 1.400 
+Bill Stafford      R   9   3   0   0   1   1   0   2   0   0   0  .333  .400  .667 
+Ralph Terry        R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Jerry Walker       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Hoyt Wilhelm       R  10   2   1   0   0   1   0   1   0   1   0  .200  .273  .300 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Woodeshick     L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   4   0   0   0   0   1   1   1   0   0   0  .000  .200  .000 
+Tom Brewer         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hal Brown          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Art Ditmar         R   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Jack Harshman      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Barry Latman       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Eddie Lopat        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+B. Monbouquette    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Moore          R   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 
+Billy O'Dell       L  11   2   1   0   0   1   0   2   0   1   0  .182  .250  .273 
+Billy Pierce       L   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ralph Terry        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Wilson         R   6   1   0   0   0   0   0   2   1   0   0  .167  .286  .167

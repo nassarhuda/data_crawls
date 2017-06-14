@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Bonham        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Hank Borowy        R  12   2   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Ralph Branca       R   7   1   0   0   0   1   0   6   0   0   0  .143  .250  .143 
+Arnold Carter      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cliff Chambers     L   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Chesnes        R   7   2   1   0   0   1   0   3   0   0   0  .286  .375  .429 
+Bob Chipman        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Leo Cristante      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Murry Dickson      R  14   2   0   0   0   2   0   3   0   0   0  .143  .250  .143 
+Glenn Elliott      L   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Eddie Erautt       R   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125 
+Andy Hansen        R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Clint Hartung      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Joe Hatten         L   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 
+Ken Heintzelman    L   9   0   0   0   0   1   0   3   0   0   0  .000  .100  .000 
+Kirby Higbe        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Sheldon Jones      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Koslo         L   8   3   1   0   0   0   0   3   0   1   0  .375  .375  .500 
+Vic Lombardi       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Don Newcombe       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+F. Ostermueller    L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Kent Peterson      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ray Poat           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+K. Raffensberger   L  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Robin Roberts      R   8   0   0   0   0   1   0   1   0   1   0  .000  .111  .000 
+Preacher Roe       L  12   3   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Bob Rush           R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Johnny Schmitz     L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Rip Sewell         R  11   4   0   0   0   0   0   2   0   0   0  .364  .364  .364 
+Warren Spahn       L  16   2   0   0   0   0   0   5   0   1   0  .125  .125  .125 
+Max Surkont        R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ken Trinkle        R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+J. Vander Meer     L   6   1   0   0   0   1   0   3   0   1   0  .167  .286  .167 
+Bucky Walters      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Werle         L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333

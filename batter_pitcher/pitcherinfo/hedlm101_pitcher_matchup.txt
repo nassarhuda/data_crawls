@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vida Blue          L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ray Culp           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pat Dobson         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Kekich        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mickey Lolich      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rudy May           L   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Denny McLain       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dave McNally       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Andy Messersmith   R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Jim Perry          R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Fritz Peterson     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mike Thompson      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Wilbur Wood        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

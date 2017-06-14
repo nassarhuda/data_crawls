@@ -1,0 +1,60 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R   4   2   0   0   0   1   0   0   0   1   0  .500  .600  .500 
+Brett Anderson     L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jake Arrieta       R   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Chad Bettis        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+David Buchanan     R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Clay Buchholz      R   3   1   1   0   0   0   0   0   1   0   0  .333  .500  .667 
+M. Bumgarner       L   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Matt Cain          R   6   3   1   0   1   0   0   0   0   0   0  .500  .500 1.167 
+Andrew Cashner     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Gerrit Cole        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bartolo Colon      R  13   3   1   1   0   0   0   3   0   0   1  .231  .214  .462 
+Jacob deGrom       R   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Jorge de la Rosa   L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rubby de la Rosa   R   4   2   1   0   0   2   0   1   0   0   0  .500  .667  .750 
+A. DeSclafani      R   4   2   1   0   0   2   0   1   0   0   0  .500  .667  .750 
+Marco Estrada      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeurys Familia     R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Michael Fiers      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Doug Fister        R  11   2   0   0   0   0   0   1   0   0   1  .182  .167  .182 
+Dillon Gee         R   8   3   1   0   1   1   1   1   0   0   0  .375  .444  .875 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sean Gilmartin     L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Cole Hamels        L   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Brad Hand          L   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Aaron Harang       R   7   4   0   0   0   1   0   1   0   0   0  .571  .625  .571 
+Dan Haren          R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kyle Hendricks     R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+J.P. Howell        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Hudson         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Tom Koehler        R   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 
+Mat Latos          R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Mike Leake         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+F. Liriano         L   5   0   0   0   0   1   1   2   0   0   0  .000  .167  .000 
+Lance Lynn         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Carlos Martinez    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Wade Miley         L   4   0   0   0   0   0   0   4   1   0   0  .000  .200  .000 
+Adam Morgan        L   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Bryan Morris       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Charlie Morton     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Aaron Nola         R   7   1   0   0   0   1   1   1   0   0   0  .143  .250  .143 
+Jake Odorizzi      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Papelbon        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Yusmeiro Petit     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Erasmo Ramirez     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Addison Reed       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Felipe Rivero      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tanner Roark       R  11   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tyson Ross         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Max Scherzer       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+James Shields      R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Drew Storen        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+S. Strasburg       R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Pedro Strop        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Noah Syndergaard   R   3   1   0   0   0   1   0   1   0   0   1  .333  .400  .333 
+Carlos Torres      R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Blake Treinen      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jerome Williams    R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+J. Zimmermann      R  18   5   0   0   0   0   0   4   1   0   0  .278  .316  .278

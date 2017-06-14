@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doug Brocail       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Candiotti      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Doug Drabek        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+O. Fernandez       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Dave Fleming       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Mark Gardner       R   3   0   0   0   0   2   0   2   0   0   1  .000  .333  .000 
+Tom Glavine        L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Xavier Hernandez   R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+J. Isringhausen    R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Randy Johnson      L  10   1   0   0   1   1   0   7   0   0   1  .100  .167  .400 
+Bobby Jones        R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Mark Langston      L   6   1   0   1   0   1   0   0   0   0   0  .167  .286  .500 
+Mark Leiter        R   8   4   1   0   1   1   0   1   0   0   0  .500  .556 1.000 
+Angel Miranda      L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Lance Painter      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Portugal      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Scott Sanders      R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Pete Schourek      L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Bob Tewksbury      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Steve Trachsel     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sergio Valdez      R   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+F. Valenzuela      L   6   2   0   0   1   1   0   0   0   0   0  .333  .429  .833

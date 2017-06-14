@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Acker          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Doyle Alexander    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joaquin Andujar    R   5   0   0   0   0   2   1   0   0   0   0  .000  .286  .000 
+Mike Boddicker     R  10   2   1   0   0   3   0   0   0   0   0  .200  .385  .300 
+Oil Can Boyd       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Calvert       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Clancy         R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Jaime Cocanower    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Chris Codiroli     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Cowley         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Joel Davis         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Jose DeLeon        R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Dennis Eckersley   R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Bob Forsch         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Mark Grant         R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Greg Harris        R   3   1   0   0   0   2   0   0   0   1   0  .333  .600  .333 
+Andy Hawkins       R   2   1   0   0   1   2   0   0   0   0   0  .500  .750 2.000 
+Charlie Hough      R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Mike LaCoss        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Laskey        R   5   1   1   0   0   2   0   0   0   0   0  .200  .429  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Leary          R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Ed Lynch           R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Dennis Martinez    R   6   3   0   0   1   1   0   0   0   0   0  .500  .571 1.000 
+Kirk McCaskill     R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Donnie Moore       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Moore         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jack Morris        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Phil Niekro        R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Alejandro Pena     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Pascual Perez      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Reuschel      R   6   0   0   0   0   1   0   1   0   0   2  .000  .111  .000 
+Rick Rhoden        R  15   2   1   0   0   0   0   1   0   0   0  .133  .133  .200 
+Jeff Robinson      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Vern Ruhle         R   5   2   0   0   1   1   0   0   0   0   0  .400  .500 1.000 
+Jeff Russell       R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Dick Ruthven       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bret Saberhagen    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave J. Schmidt    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Don Schulze        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Scott         R   5   3   0   0   0   0   0   0   1   0   0  .600  .667  .600 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Smith          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mario Soto         R   5   2   0   0   1   1   1   2   0   0   0  .400  .500 1.000 
+Rick Sutcliffe     R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Bruce Sutter       R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Kent Tekulve       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Walt Terrell       R  10   0   0   0   0   1   0   2   0   0   0  .000  .091  .000 
+Mike Trujillo      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+F. Valenzuela      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Frank Wills        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mike Witt          R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

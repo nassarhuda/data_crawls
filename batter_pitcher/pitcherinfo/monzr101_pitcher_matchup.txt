@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Drysdale       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Friend         R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Warren Hacker      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ron Kline          R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Chet Nichols       L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500

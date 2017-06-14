@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Harrison      L   5   1   0   0   1   1   0   3   0   0   0  .200  .333  .800 
+Aaron Laffey       L   2   1   0   0   0   1   0   0   0   0   1  .500  .500  .500 
+Paul Maholm        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brian Matusz       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Justin Verlander   R   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667

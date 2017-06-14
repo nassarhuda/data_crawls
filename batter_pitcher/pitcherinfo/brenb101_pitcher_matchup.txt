@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Bobby Burke        L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Syd Cohen          L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bill Dietrich      R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Carl Fischer       L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Lefty Gomez        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Grove        L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Bump Hadley        R  12   3   1   0   0   1   0   0   0   1   0  .250  .308  .333 
+Vern Kennedy       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Knott         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Dick Lanahan       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ed Linke           R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Ted Lyons          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Johnny Marcum      R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+F. Ostermueller    L   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Ray Phelps         R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Ruffing        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jack Russell       R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Bob Smith          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Lefty Stewart      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vito Tamulis       L   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+G. Turbeville      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Russ Van Atta      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Walberg       L   2   1   0   0   0   1   1   0   0   1   0  .500  .667  .500 
+Johnny Welch       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

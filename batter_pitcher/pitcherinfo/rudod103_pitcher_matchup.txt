@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bo Belinsky        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ted Bowsfield      L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jim Bunning        R   3   1   1   0   0   1   0   0   0   1   0  .333  .500  .667 
+John Buzhardt      R   5   2   1   0   0   0   0   1   0   1   0  .400  .400  .600 
+Dean Chance        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Galen Cisco        R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Chuck Estrada      R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Jack Fisher        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Eli Grba           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Kralick       L   4   1   0   0   1   0   0   2   0   1   0  .250  .250 1.000 
+Barry Latman       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Milt Pappas        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ralph Terry        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Turley         R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000

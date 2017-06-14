@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Antonio Bastardo   L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Patrick Corbin     L   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Dan Haren          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Matt Harvey        R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Phil Hughes        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Taylor Jungmann    R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Steven Matz        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jimmy Nelson       R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Ariel Pena         R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Max Scherzer       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Michael Wacha      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

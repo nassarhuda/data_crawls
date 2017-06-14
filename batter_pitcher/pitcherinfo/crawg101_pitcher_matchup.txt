@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   4   2   0   0   1   2   2   0   0   1   0  .500  .667 1.250 
+Red Barrett        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Boom-Boom Beck     R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Mel Bosser         R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Joe Bowman         R   6   4   2   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Jack Brewer        R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Ken Burkhart       R   8   3   0   1   0   1   0   0   0   0   0  .375  .444  .625 
+Max Butcher        R  14   3   0   0   0   1   0   2   0   0   0  .214  .267  .214 
+Bud Byerly         R   9   5   0   0   0   0   0   1   0   0   0  .556  .556  .556 
+Ben Chapman        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bob Chipman        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mort Cooper        R   8   3   2   0   0   0   0   0   0   0   0  .375  .375  .625 
+Jack Creel         R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+C. Cuccurullo      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Frank Dasso        R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Curt Davis         R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Paul Derringer     R  15   3   2   0   0   0   0   0   0   0   0  .200  .200  .333 
+Blix Donnelly      R   8   2   1   0   0   1   0   0   0   0   0  .250  .333  .375 
+Tom Earley         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Slim Emmerich      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Erickson      R   6   3   0   0   0   1   0   1   0   1   0  .500  .571  .500 
+Harry Feldman      R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Howie Fox          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Al Gerheauser      L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Hal Gregg          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Andy Hansen        R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Art Herring        R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Ed Heusser         R   9   3   0   0   0   1   0   0   0   0   0  .333  .400  .333 
+Johnny Hutchings   R   6   2   0   0   0   3   0   0   0   0   0  .333  .556  .333 
+Ira Hutchinson     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Al Jurisich        R   5   4   0   0   0   3   0   0   0   1   0  .800  .875  .800 
+Vern Kennedy       R   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 
+Hod Lisenbee       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Van Mungo          R   6   3   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Claude Passeau     R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Rip Sewell         R   9   3   0   0   0   2   0   0   0   0   0  .333  .455  .333 
+Ray Starr          R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Nick Strincevich   R  11   4   0   0   0   0   0   0   0   0   0  .364  .364  .364 
+Jim Tobin          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Hy Vandenberg      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Voiselle      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Bucky Walters      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Wilks          R   7   3   0   1   0   1   0   0   0   0   0  .429  .500  .714 
+Hank Wyse          R  14   3   0   0   0   0   0   0   0   1   0  .214  .214  .214

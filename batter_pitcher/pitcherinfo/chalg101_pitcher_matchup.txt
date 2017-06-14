@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  12   2   0   0   0   1   0   6   0   1   0  .167  .231  .167 i
+Red Ames           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Cy Barger          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Bob Harmon         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+C. Mathewson       R  10   2   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Pat Ragan          R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Ed Reulbach        R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Bill Steele        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+George Suggs       R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Jeff Tesreau       R   6   1   0   0   0   0   0   4   0   1   0  .167  .167  .167 i

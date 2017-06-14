@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   6   1   0   1   0   0   0   2   0   0   0  .167  .167  .500 i
+Bullet Joe Bush    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Hooks Dauss        R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Rube Foster        R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Jim Shaw           R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

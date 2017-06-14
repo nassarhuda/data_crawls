@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wei-Yin Chen       L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+John Danks         L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+R.A. Dickey        R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Roenis Elias       L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Michael Fiers      R   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+Yovani Gallardo    R   5   1   0   0   1   2   0   1   0   0   0  .200  .429  .800 
+Chi Chi Gonzalez   R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Miguel Gonzalez    R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+J.A. Happ          L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Andrew Heaney      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Felix Hernandez    R  11   1   0   0   1   0   0   4   0   0   0  .091  .091  .364 
+Tim Hudson         R   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 
+Phil Hughes        R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Hisashi Iwakuma    R   9   2   1   0   0   1   0   3   0   0   0  .222  .300  .333 
+Scott Kazmir       L   6   3   0   0   1   0   0   1   0   0   0  .500  .500 1.000 
+Dallas Keuchel     L   9   1   0   0   0   1   0   0   0   0   0  .111  .200  .111 
+Colby Lewis        R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Nick Martinez      R   6   2   0   0   0   0   0   0   2   0   0  .333  .500  .333 
+Collin McHugh      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Wade Miley         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Montgomery    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Erasmo Ramirez     R   5   3   1   0   2   1   0   0   0   0   0  .600  .667 2.000 
+Garrett Richards   R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+CC Sabathia        L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Fernando Salas     R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Danny Salazar      R   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Hector Santiago    L   8   1   0   0   0   2   0   3   1   0   0  .125  .364  .125 
+Matt Shoemaker     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Carson Smith       R   5   2   1   0   0   0   0   3   0   0   0  .400  .400  .600 
+Tom Wilhelmsen     R   3   1   0   1   0   0   0   0   1   0   0  .333  .500 1.000

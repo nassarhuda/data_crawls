@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   7   3   1   0   0   1   0   0   0   0   1  .429  .444  .571 
+Brian Burres       L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Jeremy Guthrie     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roy Halladay       R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Mark Hendrickson   L   3   1   1   0   0   1   0   0   0   0   1  .333  .400  .667 
+Ian Kennedy        R   6   4   1   0   1   0   0   0   0   0   0  .667  .667 1.333 
+Cliff Lee          L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+David Purcey       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

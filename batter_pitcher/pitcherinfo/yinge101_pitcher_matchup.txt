@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Pete Alexander     R  16   6   1   0   0   4   0   2   0   0   0  .375  .500  .438 i
+Larry Cheney       R   8   2   0   0   0   2   0   0   0   0   0  .250  .400  .250 i
+Al Demaree         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Bill Doak          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Red Faber          R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Dan Griner         R   7   2   0   0   0   1   0   0   1   1   0  .286  .444  .286 i
+Bob Harmon         R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 i
+Otto Hess          L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Erskine Mayer      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+George McQuillan   R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Joe Oeschger       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Marty O'Toole      R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jeff Pfeffer       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Hank Robinson      L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dick Rudolph       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Slim Sallee        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Allen Sothoron     R   2   2   0   0   0   2   0   0   0   0   0 1.000 1.000 1.000 
+Jeff Tesreau       R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 i

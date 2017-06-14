@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Capuano      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Aaron Cook         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jorge de la Rosa   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeff Fassero       L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Jeff Francis       L  11   3   1   0   0   0   0   2   0   0   0  .273  .273  .364 
+Livan Hernandez    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Al Leiter          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Noah Lowry         L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Odalis Perez       L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Horacio Ramirez    L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Brett Tomko        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Salomon Torres     R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+David Wells        L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Dontrelle Willis   L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429

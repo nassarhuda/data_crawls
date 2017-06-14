@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fred Anderson      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Chief Bender       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jim Bluejacket     R   7   0   0   0   0   1   0   0   0   1   0  .000  .125  .000 i
+Ad Brennan         L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Snipe Conley       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Nick Cullop        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Chief Johnson      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Gene Krapp         R   8   3   1   0   0   0   0   0   0   1   0  .375  .375  .500 i
+Dan Marion         R   3   1   1   0   0   1   0   2   0   0   0  .333  .500  .667 
+George McConnell   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Earl Moseley       R   8   1   0   0   0   0   0   0   0   1   0  .125  .125  .125 i
+Jack Quinn         R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Ed Reulbach        R  11   3   2   0   0   0   0   0   0   0   0  .273  .273  .455 i
+Al Schulz          L   7   0   0   0   0   5   0   0   0   0   0  .000  .417  .000

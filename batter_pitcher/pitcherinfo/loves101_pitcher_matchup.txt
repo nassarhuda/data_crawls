@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   5   2   1   0   0   0   0   3   0   0   0  .400  .400  .600 i
+Bernie Boland      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Bullet Joe Bush    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Eddie Cicotte      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 i
+Stan Coveleski     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+G. Cunningham      R   6   3   0   1   0   0   0   0   0   0   0  .500  .500  .833 i
+Walter Johnson     R   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 i
+Sad Sam Jones      R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Carl Mays          R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Rube Schauer       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

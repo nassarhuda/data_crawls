@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny Darwin       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mark Davis         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Kelly Downs        R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Scott Garrelts     R   1   0   0   0   0   2   0   1   0   1   0  .000  .667  .000 
+Bob Kipper         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mike Krukow        R   5   1   1   0   0   0   0   1   0   0   1  .200  .167  .400 
+Mike LaCoss        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Joe Magrane        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jamie Moyer        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Nolan Ryan         R   6   2   0   0   0   1   0   4   0   0   0  .333  .429  .333 
+Mike Scott         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Eric Show          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ed Wojna           R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600

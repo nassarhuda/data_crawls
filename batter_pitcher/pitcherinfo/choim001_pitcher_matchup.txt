@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roenis Elias       L   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Kyle Gibson        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Sonny Gray         R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Felix Hernandez    R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Hisashi Iwakuma    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ubaldo Jimenez     R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Dallas Keuchel     L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brandon Maurer     R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Tom Milone         L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+B. Oberholtzer     L   7   3   1   0   1   0   0   1   0   0   0  .429  .429 1.000 
+James Paxton       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Anibal Sanchez     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hector Santiago    L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Matt Shoemaker     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Tillman      R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Josh Tomlin        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Wilhelmsen     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Chris Young        R   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000

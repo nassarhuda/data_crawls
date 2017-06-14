@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Gallia        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Harry Harper       L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jing Johnson       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Walter Johnson     R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Walt Kinney        L   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000 i
+Ed Klepfer         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Dutch Leonard      L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+George Mogridge    L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Guy Morton         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Herb Pennock       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Scott Perry        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Eddie Plank        L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Babe Ruth          L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Shaw           R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Bob Shawkey        R   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+Hank Thormahlen    L   8   1   0   0   0   0   0   3   0   1   0  .125  .125  .125 
+Lefty Williams     L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Bonham        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pete Center        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Steve Gromek       R   5   2   1   1   0   1   1   0   0   0   0  .400  .500 1.000 
+Ed Klieman         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Kramer        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Nels Potter        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Red Ruffing        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

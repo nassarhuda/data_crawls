@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Archer       R   4   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Scott Feldman      R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+J. Hellickson      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brandon McCarthy   R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+David Phelps       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Chase Whitley      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

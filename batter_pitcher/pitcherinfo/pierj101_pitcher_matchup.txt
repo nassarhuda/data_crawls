@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Glenn Abbott       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Bibby          R   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+Nelson Briles      R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Pete Broberg       R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Steve Busby        R   3   1   0   0   1   2   1   1   0   0   0  .333  .600 1.333 
+Reggie Cleveland   R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Jim Colborn        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dennis Eckersley   R   9   2   1   0   0   2   0   3   0   0   0  .222  .364  .333 
+Ed Figueroa        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Al Fitzmorris      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bill Greif         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dave Hamilton      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Roric Harrison     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tom Hausman        R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Catfish Hunter     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dennis Leonard     R   4   2   1   0   1   0   0   1   1   0   0  .500  .600 1.500 
+Lindy McDaniel     R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Doc Medich         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dyar Miller        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Marty Pattin       R  11   2   0   1   0   0   0   1   0   0   0  .182  .182  .364 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eric Raich         R   8   2   1   0   1   0   0   2   0   0   0  .250  .250  .750 
+Tom Seaver         R   6   0   0   0   0   1   0   4   0   0   0  .000  .143  .000 
+Bill Singer        R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Jim Slaton         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Luis Tiant         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Torrez        R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Rick Wise          R   5   2   0   0   1   0   0   3   1   0   0  .400  .500 1.000

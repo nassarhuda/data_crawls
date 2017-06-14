@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Benz           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fritz Coumbe       L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 i
+Stan Coveleski     R   6   2   0   0   0   1   0   1   0   1   0  .333  .429  .333 i
+Red Faber          R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 i
+Walter Johnson     R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Slim Love          L   6   1   0   0   0   2   0   2   0   0   0  .167  .375  .167 i
+G. Lowdermilk      R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 i
+Carl Mays          R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 i
+George Mogridge    L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Elmer Myers        R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Scott Perry        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tom Rogers         R   6   0   0   0   0   1   0   1   0   1   0  .000  .143  .000 i
+Allen Russell      R   6   3   0   0   0   3   0   1   0   0   0  .500  .667  .500 i
+Bob Shawkey        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Urban Shocker      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Allen Sothoron     R   7   1   0   0   0   0   0   1   0   1   0  .143  .143  .143 i
+Carl Weilman       L   3   1   0   0   0   3   0   1   0   0   0  .333  .667  .333 i

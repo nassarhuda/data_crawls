@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Vern Bickford      R  11   1   0   0   0   1   0   1   0   0   0  .091  .167  .091 
+Ewell Blackwell    R  10   3   0   1   0   2   0   1   0   0   0  .300  .417  .500 
+Tiny Bonham        R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Hank Borowy        R   7   4   0   0   0   0   0   1   0   0   0  .571  .571  .571 
+Ralph Branca       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Al Brazle          L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Cliff Chambers     L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Bob Chesnes        R  16   3   0   0   0   3   0   1   0   0   0  .188  .316  .188 
+Murry Dickson      R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Blix Donnelly      R  15   1   0   0   0   0   0   1   0   0   0  .067  .067  .067 
+Monk Dubiel        R  17   4   1   0   0   1   0   0   0   1   0  .235  .278  .294 
+Eddie Erautt       R   5   2   0   0   1   1   0   1   0   0   0  .400  .500 1.000 
+Howie Fox          R  16   8   0   1   0   1   0   0   0   0   0  .500  .529  .625 
+Warren Hacker      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Hall           R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Ralph Hamner       R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Andy Hansen        R   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 
+Bobby Hogue        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Larry Jansen       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sheldon Jones      R  10   2   0   0   0   2   0   0   0   0   0  .200  .333  .200 
+Dutch Leonard      R  18   6   0   0   0   1   0   2   0   0   0  .333  .368  .333 
+Vic Lombardi       L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Dutch McCall       L   7   2   0   0   0   0   0   2   0   1   0  .286  .286  .286 
+Russ Meyer         R  10   3   0   1   0   0   0   1   0   0   0  .300  .300  .500 
+Bob Muncrief       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Red Munger         R   4   3   1   0   0   1   0   1   0   0   0  .750  .800 1.000 
+Howie Pollet       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Nels Potter        R  16   8   1   2   0   0   0   0   0   0   0  .500  .500  .813 
+Mel Queen          R   5   4   0   1   0   0   0   0   0   0   0  .800  .800 1.200 
+Elmer Riddle       R   6   3   1   0   0   2   0   0   0   0   0  .500  .625  .667 
+Robin Roberts      R  15   9   2   0   0   0   0   1   0   0   0  .600  .600  .733 
+Schoolboy Rowe     R  15   3   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bob Rush           R  17   6   1   0   0   2   1   1   0   0   0  .353  .421  .412 
+Johnny Sain        R  21   7   3   0   0   1   0   1   0   0   0  .333  .364  .476 
+Johnny Schmitz     L  19   4   0   0   0   0   0   2   0   1   0  .211  .211  .211 
+Rip Sewell         R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 
+Curt Simmons       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Warren Spahn       L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Gerry Staley       R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Trinkle        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+J. Vander Meer     L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bill Voiselle      R  15   3   0   0   0   2   0   0   0   0   0  .200  .294  .200 
+Herm Wehmeier      R  16   4   1   0   0   3   1   2   0   0   0  .250  .368  .313 
+Ted Wilks          R  10   2   1   0   0   0   0   0   0   0   0  .200  .200  .300

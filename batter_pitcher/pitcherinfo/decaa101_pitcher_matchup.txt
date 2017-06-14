@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Barnes       R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Petie Behan        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jack Bentley       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sheriff Blake      R   7   0   0   0   0   1   0   3   0   0   0  .000  .125  .000 
+Pete Donohue       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Percy Jones        L   6   0   0   0   0   1   0   4   0   0   0  .000  .143  .000 
+Johnny Morrison    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Art Reinhart       L   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Eppa Rixey         L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Charlie Root       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Dazzy Vance        R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000

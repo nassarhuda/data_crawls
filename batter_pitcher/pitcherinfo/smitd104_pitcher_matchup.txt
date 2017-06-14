@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Baldschun     R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Dennis Bennett     L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bobby Bolin        R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Dick Ellsworth     L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Gibbon         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ron Herbel         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Larry Jackson      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+J. Klippstein      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sandy Koufax       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Juan Marichal      R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Joe Nuxhall        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Billy O'Dell       L   5   2   0   1   0   1   1   0   0   0   0  .400  .500  .800 
+Phil Ortega        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jack Sanford       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Short        L  10   1   0   0   0   0   0   4   0   0   0  .100  .100  .100 
+Bob Veale          L  10   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Nick Willhite      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

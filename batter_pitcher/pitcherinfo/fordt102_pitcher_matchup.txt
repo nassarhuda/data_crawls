@@ -1,0 +1,75 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   3   0   0   0   0   0   0   1   0   1   1  .000  .000  .000 
+Stan Bahnsen       R  14   4   1   1   0   1   0   0   0   0   0  .286  .333  .500 
+Jerry Bell         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vida Blue          L  11   1   0   0   0   1   0   1   0   0   0  .091  .167  .091 
+Bert Blyleven      R   9   3   1   0   1   0   0   1   0   0   0  .333  .333  .778 
+Tom Bradley        R  13   3   1   0   0   0   0   5   0   0   0  .231  .231  .308 
+Ken Brett          L   7   2   1   0   0   0   0   2   0   1   0  .286  .286  .429 
+Jim Colborn        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Joe Coleman        R  15   1   0   0   1   0   0   3   0   1   0  .067  .067  .267 
+Ray Corbin         R   6   3   0   0   1   0   0   0   0   0   0  .500  .500 1.000 
+Mike Cuellar       L  24   4   0   0   1   1   0   3   0   0   0  .167  .200  .292 
+Bruce Dal Canton   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pat Dobson         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Dick Drago         R   7   1   0   0   0   1   0   1   1   0   0  .143  .333  .143 
+Ed Farmer          R   4   1   0   0   0   1   0   0   0   0   1  .250  .333  .250 
+Rollie Fingers     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rob Gardner        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Bill Gilbreth      L   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Rich Gossage       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dave Hamilton      L   9   1   1   0   0   1   0   0   0   0   0  .111  .200  .222 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roric Harrison     R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Mike Hedlund       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Hiller        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Holtzman       L  12   4   0   0   1   0   0   2   0   0   0  .333  .333  .583 
+Catfish Hunter     R  14   4   2   0   0   2   0   5   0   0   0  .286  .375  .429 
+Grant Jackson      L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jim Kaat           L  12   2   0   0   0   1   0   3   0   0   0  .167  .231  .167 
+Mike Kekich        L   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000 
+Mike Kilkenny      L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Ron Klimkowski     R   6   3   0   0   2   1   0   1   0   0   0  .500  .571 1.500 
+Steve Kline        R  16   5   1   0   1   1   0   0   0   0   0  .313  .353  .563 
+Ray Lamb           R   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 
+Dave LaRoche       L   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Bill Lee           L  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Dave Lemonds       L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Bob Locker         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Skip Lockwood      R   6   2   2   0   0   0   0   1   1   0   0  .333  .429  .667 
+Mickey Lolich      L  35   7   2   0   1   1   0   7   0   0   0  .200  .222  .343 
+Jim Lonborg        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Sparky Lyle        L   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rudy May           L   8   2   1   0   0   2   0   0   0   0   0  .250  .400  .375 
+Denny McLain       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Dave McNally       L  28   3   0   0   0   3   0   1   0   1   0  .107  .194  .107 
+Andy Messersmith   R  11   2   0   0   1   0   0   3   0   0   0  .182  .182  .455 
+Roger Moret        L  11   1   0   0   0   1   0   5   0   0   0  .091  .167  .091 
+Tom Murphy         R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Roger Nelson       R   9   4   0   0   0   1   0   1   0   0   0  .444  .500  .444 
+Blue Moon Odom     R   4   3   0   0   0   1   0   0   0   1   1  .750  .667  .750 
+Jim Palmer         R  12   2   0   0   0   1   0   4   0   0   0  .167  .231  .167 
+Bill Parsons       R  10   3   2   0   0   1   0   2   0   0   0  .300  .364  .500 
+Marty Pattin       R  11   3   0   0   0   0   0   2   0   0   0  .273  .273  .273 
+Gaylord Perry      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Perry          R  12   1   0   0   0   3   0   2   0   0   1  .083  .250  .083 
+Gary Peters        L   8   2   1   0   0   0   0   2   0   0   1  .250  .222  .375 
+Fritz Peterson     L  24   6   0   1   0   1   0   2   0   0   0  .250  .280  .333 
+Jim Rooker         L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Nolan Ryan         R  11   1   0   0   0   1   0   7   0   0   0  .091  .167  .091 
+Gary Ryerson       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Sanders        R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Fred Scherman      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Diego Segui        R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Sonny Siebert      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Splittorff    L   9   0   0   0   0   1   0   4   0   0   1  .000  .091  .000 
+Mel Stottlemyre    R  11   3   1   0   0   0   0   3   0   0   0  .273  .273  .364 
+Luis Tiant         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Tidrow        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Tom Timmermann     R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Milt Wilcox        R   3   1   0   0   1   1   0   2   0   0   0  .333  .500 1.333 
+Wilbur Wood        L  13   4   0   0   2   1   0   3   0   1   0  .308  .357  .769 
+Dick Woodson       R  15   3   0   0   0   1   0   6   0   0   0  .200  .250  .200 
+Clyde Wright       L  18   7   1   0   0   2   0   2   0   0   0  .389  .450  .444

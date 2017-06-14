@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Burkett       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dennis Martinez    R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Terry Mulholland   L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pete Schourek      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

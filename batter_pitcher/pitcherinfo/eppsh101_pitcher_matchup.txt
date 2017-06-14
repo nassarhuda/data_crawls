@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Boom-Boom Beck     R   4   3   1   1   0   0   0   0   0   0   0  .750  .750 1.500 
+Tiny Bonham        R  12   2   0   1   0   0   0   2   0   0   0  .167  .167  .333 i
+Hank Borowy        R   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 i
+Charlie Bowles     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Bowman         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Mace Brown         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Alex Carrasquel    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lou Ciola          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bill Dietrich      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Joe Dobson         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Atley Donald       R   5   2   0   1   0   2   0   1   0   0   0  .400  .571  .800 
+Monk Dubiel        R  16   2   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Dick Errickson     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Steve Gromek       R  10   3   2   0   0   0   0   1   0   0   0  .300  .300  .500 
+Orval Grove        R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 i
+Mickey Haefner     L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Al Hollingsworth   L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i
+Tex Hughson        R  11   3   1   0   0   1   0   2   0   0   0  .273  .333  .364 
+Johnny Humphries   R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Klieman         R   7   4   0   0   0   0   0   1   0   1   0  .571  .571  .571 i
+Jack Kramer        R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 i
+Dutch Leonard      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Eddie Lopat        L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Bob Muncrief       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hal Newhouser      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Johnny Niggeling   R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Mel Queen          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Allie Reynolds     R   8   3   0   2   0   0   0   2   0   0   0  .375  .375  .875 i
+Steve Roser        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Smith           L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Dizzy Trout        R  11   3   0   0   0   1   0   0   0   0   0  .273  .333  .273 i
+Jim Turner         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bucky Walters      R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Wolff        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Pinky Woods        R   7   4   0   1   0   1   0   1   0   0   0  .571  .625  .857 
+Bill Zuber         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000

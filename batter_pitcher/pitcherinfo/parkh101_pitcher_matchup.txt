@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Burt Hooton        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim Lonborg        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Andy Messersmith   R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Carl Morton        R   6   1   0   0   0   1   0   3   0   1   0  .167  .286  .167

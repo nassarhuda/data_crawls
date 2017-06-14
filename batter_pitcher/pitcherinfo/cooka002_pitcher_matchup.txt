@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Matt Cain          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Chris Capuano      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Todd Coffey        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Doug Davis         L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Zach Duke          L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Adam Eaton         R   7   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Justin Germano     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Edgar Gonzalez     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Roy Halladay       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brad Hennessey     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Livan Hernandez    R   3   1   1   0   0   0   0   0   0   4   0  .333  .333  .667 
+O. Hernandez       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Hiroki Kuroda      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jon Lieber         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tim Lincecum       R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Derek Lowe         R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Noah Lowry         L   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+John Maine         R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Jason Marquis      R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Oswalt         R   7   1   0   0   0   0   0   4   0   1   0  .143  .143  .143 
+Chan Ho Park       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jake Peavy         R   7   0   0   0   0   1   0   3   0   1   0  .000  .125  .000 
+Brad Penny         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Odalis Perez       L   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+Oliver Perez       L   6   3   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Wandy Rodriguez    L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Kirk Rueter        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jason Schmidt      R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Ben Sheets         R   6   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Jeff Suppan        R   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Brett Tomko        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Claudio Vargas     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Oscar Villarreal   R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Edinson Volquez    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chris Volstad      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Brandon Webb       R   9   1   0   0   0   0   0   6   0   1   0  .111  .111  .111 
+Todd Wellemeyer    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Randy Wolf         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Barry Zito         L   2   0   0   0   0   1   0   1   0   2   0  .000  .333  .000

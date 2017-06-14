@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tommy Byrne        L  11   2   0   0   0   2   0   1   0   0   0  .182  .308  .182 
+Joe Dobson         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Cliff Fannin       R   5   0   0   0   0   3   0   3   0   0   0  .000  .375  .000 
+Bob Feller         R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Dick Fowler        R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Mike Garcia        R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Ned Garver         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ted Gray           L   3   0   0   0   0   2   1   2   0   0   0  .000  .400  .000 
+Steve Gromek       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mickey Harris      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Lloyd Hittle       L  11   3   1   0   1   1   0   0   0   0   0  .273  .333  .636 
+Bob Hooper         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Sid Hudson         R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Fred Hutchinson    R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Ellis Kinder       R  14   3   0   0   0   2   0   1   0   0   0  .214  .313  .214 
+Bob Lemon          R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Eddie Lopat        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Walt Masterson     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mickey McDermott   L   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Newhouser      L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Joe Ostrowski      L   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 
+Joe Page           L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Mel Parnell        L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Frank Quinn        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ribs Raney         R   7   4   1   1   0   1   0   0   0   0   0  .571  .625 1.000 
+Vic Raschi         R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+Ray Scarborough    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Carl Scheib        R   8   2   0   0   0   2   0   0   0   0   0  .250  .400  .250 
+Chuck Stobbs       L   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Virgil Trucks      R   8   5   1   0   0   0   0   2   0   0   0  .625  .625  .750 
+Dick Weik          R   4   1   1   0   0   3   0   0   0   0   0  .250  .571  .500 
+Early Wynn         R   5   1   1   0   0   1   1   0   0   1   0  .200  .333  .400

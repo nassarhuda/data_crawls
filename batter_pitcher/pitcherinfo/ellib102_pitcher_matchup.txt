@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 i
+Bullet Joe Bush    R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i
+Eddie Cicotte      R  11   1   0   0   0   0   0   2   0   0   0  .091  .091  .091 i
+Rip Collins        R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Stan Coveleski     R   7   2   0   0   0   2   0   1   0   0   0  .286  .444  .286 i
+Dixie Davis        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Red Faber          R  11   1   0   0   0   0   0   2   0   0   0  .091  .091  .091 
+Slim Harriss       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jing Johnson       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walter Johnson     R   8   3   1   0   0   1   0   3   0   0   0  .375  .444  .500 i
+Dickey Kerr        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Slim Love          L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Carl Mays          R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 i
+Bob McGraw         R   2   0   0   0   0   0   0   0   1   1   0  .000  .333  .000 
+George Mogridge    L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Elmer Myers        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Rollie Naylor      R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 i
+Herb Pennock       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Scott Perry        R   7   2   0   0   0   2   0   1   0   1   0  .286  .444  .286 i
+Eddie Plank        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Quinn         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jim Shaw           R  17   3   0   0   0   3   0   2   0   0   0  .176  .300  .176 i
+Bob Shawkey        R   5   0   0   0   0   4   0   3   0   0   0  .000  .444  .000 i
+Urban Shocker      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Allen Sothoron     R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Hank Thormahlen    L  13   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Carl Weilman       L   7   2   1   0   0   0   0   1   0   2   0  .286  .286  .429 i
+Lefty Williams     L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 i
+Tom Zachary        L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125

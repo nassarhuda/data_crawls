@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+James Baldwin      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Frank Castillo     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bartolo Colon      R   5   4   0   0   1   0   0   1   0   0   0  .800  .800 1.400 
+David Cone         R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Juan Cruz          R   4   1   0   0   0   1   1   3   0   0   0  .250  .400  .250 
+Kelvim Escobar     R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Jeff Fassero       L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Rick Helling       R   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+O. Hernandez       R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Randy Johnson      L   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Jon Lieber         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Ron Mahay          L   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Mike Maroth        L   8   3   0   1   0   0   0   1   0   0   0  .375  .375  .625 
+Mike Morgan        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jaime Navarro      R   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Darren Oliver      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sidney Ponson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kenny Rogers       L  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Julio Santana      R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Aaron Sele         R   5   1   0   0   0   0   0   1   1   0   1  .200  .286  .200 
+Mike Sirotka       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Blake Stein        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bill Swift         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Justin Thompson    L   2   1   1   0   0   3   0   1   0   0   0  .500  .800 1.000 
+Jeff Weaver        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Barry Zito         L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

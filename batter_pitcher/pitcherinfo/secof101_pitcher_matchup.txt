@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Red Barrett        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Brecheen     L   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+George Dockins     L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Slim Emmerich      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Harry Feldman      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Monty Kennedy      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Dave Koslo         L   4   2   1   0   1   0   0   0   0   0   0  .500  .500 1.500 
+Max Lanier         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Lee           R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Vic Lombardi       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dick Mauney        R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+K. Raffensberger   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Preacher Roe       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Clyde Shoun        L   7   1   0   0   1   0   0   0   0   0   0  .143  .143  .571 
+Charlie Sproull    R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Jim Tobin          R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+J. Vander Meer     L   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250

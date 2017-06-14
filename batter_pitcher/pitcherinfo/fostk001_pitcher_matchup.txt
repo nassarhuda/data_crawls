@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Glavine        L   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Joey Hamilton      R   5   1   0   0   0   1   0   3   0   2   0  .200  .333  .200 
+Chris Hammond      L   6   2   1   1   0   0   0   1   0   1   0  .333  .333  .833 
+Mike Hampton       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Erik Hanson        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Harnisch      R   5   0   0   0   0   0   0   4   1   1   0  .000  .167  .000 
+Butch Henry        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Darryl Kile        R   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 
+Jon Lieber         R   5   2   1   0   0   0   0   3   0   1   0  .400  .400  .600 
+Terry Mathews      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kevin Ritz         R   4   2   0   0   0   1   0   1   0   2   0  .500  .600  .500 
+Bret Saberhagen    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ismael Valdez      R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Allen Watson       L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

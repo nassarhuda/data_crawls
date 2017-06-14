@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Gary Blaylock      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ernie Broglio      R  11   2   0   0   0   0   0   5   0   0   0  .182  .182  .182 
+Hal Brown          R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Bob Buhl           R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Lew Burdette       R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Cicotte         R   4   2   0   0   2   0   0   2   0   0   0  .500  .500 2.000 
+Roger Craig        R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Don Drysdale       R  12   1   0   0   0   0   0   5   0   1   0  .083  .083  .083 
+Bob Duliba         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Earl Francis       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Friend         R  10   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bob Gibson         R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Harvey Haddix      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ron Herbel         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jay Hook           R  12   1   0   0   0   1   0   6   0   0   0  .083  .154  .083 
+Al Jackson         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry Jackson      R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Joey Jay           R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Ken Johnson        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sam Jones          R  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 
+Ron Kline          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+J. Klippstein      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Sandy Koufax       L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Art Mahaffey       R   8   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Mike McCormick     L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Lindy McDaniel     R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+V. Mizell          L   4   3   0   0   1   0   0   0   1   0   0  .750  .800 1.500 
+Joe Nuxhall        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Jim O'Toole        L  13   1   0   0   0   2   0   4   0   0   0  .077  .200  .077 
+Juan Pizarro       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Purkey         R  14   5   2   0   1   1   0   1   0   0   0  .357  .400  .714 
+Robin Roberts      R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ray Sadecki        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Sanford       R  12   2   1   0   0   1   0   5   0   1   0  .167  .231  .250 
+Larry Sherry       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Chris Short        L   3   1   1   0   0   0   0   2   0   1   0  .333  .333  .667 
+Curt Simmons       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tommie Sisk        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Warren Spahn       L  13   2   0   0   0   0   0   2   0   1   0  .154  .154  .154 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Sullivan     R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Carl Willey        R  15   3   0   0   0   1   0   6   0   1   0  .200  .250  .200

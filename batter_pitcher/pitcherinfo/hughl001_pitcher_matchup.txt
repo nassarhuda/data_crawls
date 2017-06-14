@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Zach Britton       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mark Buehrle       L   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bruce Chen         L  10   2   0   0   1   0   0   2   0   0   0  .200  .200  .500 
+Phil Coke          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gavin Floyd        R   8   2   0   0   0   1   0   4   0   0   0  .250  .333  .250 
+Jeff Francis       L   5   3   1   0   0   1   0   1   0   0   0  .600  .667  .800 
+Yovani Gallardo    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Gio Gonzalez       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jeremy Guthrie     R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Matt Harrison      L   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Justin Masterson   R   7   4   0   0   0   1   0   1   1   0   0  .571  .667  .571 
+Chris Narveson     L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Jeff Niemann       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jake Peavy         R   7   1   0   0   1   1   0   3   0   0   0  .143  .250  .571 
+Chris Perez        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jo-Jo Reyes        L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Max Scherzer       R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Zach Stewart       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+C.J. Wilson        L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000

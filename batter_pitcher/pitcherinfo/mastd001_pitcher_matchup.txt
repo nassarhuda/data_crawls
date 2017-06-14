@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Appier       R   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 
+Jason Bere         R   6   2   1   0   0   1   0   1   1   0   0  .333  .500  .500 
+Mark Clark         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Roger Clemens      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+David Cone         R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Gubicza       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Pat Hentgen        R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Joe Hudson         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Dennis Martinez    R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Kirk McCaskill     R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jack McDowell      R   6   3   0   0   1   1   0   0   0   0   0  .500  .571 1.000 
+Rusty Meacham      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ariel Prieto       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Todd Stottlemyre   R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Todd Van Poppel    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tim Wakefield      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Bobby Witt         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

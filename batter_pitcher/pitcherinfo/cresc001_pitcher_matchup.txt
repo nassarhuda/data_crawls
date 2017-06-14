@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Abbott        R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Terry Adams        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jimmy Anderson     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Miguel Batista     R  11   3   0   1   0   0   0   2   0   0   0  .273  .273  .455 
+Darren Dreifort    R   3   1   0   0   0   3   0   1   0   0   0  .333  .667  .333 
+Eric Gagne         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Freddy Garcia      R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 
+Mark Gardner       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Roy Halladay       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Livan Hernandez    R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Jason Jennings     R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Randy Johnson      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Matt Morris        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Robb Nen           R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Russ Ortiz         R   8   0   0   0   0   3   0   4   0   0   0  .000  .273  .000 
+Luke Prokopec      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Schilling     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Thomson       R   5   3   1   0   1   0   0   1   0   0   0  .600  .600 1.400 
+Gabe White         L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tim Worrell        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167

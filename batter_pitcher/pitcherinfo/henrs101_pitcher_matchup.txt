@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Clint Blume        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Johnny Couch       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Mike Cvengros      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Donohue       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Fred Fussell       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Cactus Keck        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dolf Luque         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Cliff Markle       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Pfeffer       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eppa Rixey         L   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 
+Bill Sherdel       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Dazzy Vance        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i

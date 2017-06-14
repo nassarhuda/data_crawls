@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Barnes       L   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Sid Fernandez      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dwight Gooden      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ken Hill           R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Zane Smith         L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Greg Swindell      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Tomlin       L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200

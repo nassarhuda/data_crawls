@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Coleman        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Tom Ferrick        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dick Fowler        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

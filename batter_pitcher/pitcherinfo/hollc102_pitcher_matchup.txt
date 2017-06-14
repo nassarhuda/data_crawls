@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Coveleski     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Sad Sam Jones      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Roy Wilkinson      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Miguel Batista     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Andy Benes         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Capuano      L   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Adam Eaton         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cal Eldred         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Josh Fogg          R   8   1   1   0   0   0   0   3   0   1   0  .125  .125  .250 
+Mark Gardner       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Glavine        L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Mike Hampton       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jimmy Haynes       R  15   2   0   0   1   2   0   4   0   2   0  .133  .235  .333 
+Livan Hernandez    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Orel Hershiser     R   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Darryl Kile        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Al Leiter          L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Cory Lidle         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Greg Maddux        R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Wade Miller        R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Matt Morris        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Scott Olsen        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Russ Ortiz         R   6   1   0   0   0   0   0   4   0   1   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Oswalt         R   5   1   1   0   0   1   0   3   0   0   0  .200  .333  .400 
+Carl Pavano        R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Robert Person      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Britt Reames       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Rick Reed          R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Todd Ritchie       R   8   2   0   0   0   1   0   3   0   0   0  .250  .333  .250 
+Kirk Rueter        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ben Sheets         R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+J. Simontacchi     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Brett Tomko        R   5   1   0   0   1   0   0   3   0   2   0  .200  .200  .800 
+David Weathers     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Woody Williams     R   5   0   0   0   0   0   0   3   0   3   0  .000  .000  .000

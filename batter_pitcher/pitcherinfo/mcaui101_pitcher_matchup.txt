@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 i
+Jesse Barnes       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Virgil Barnes      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rube Benton        L   6   4   1   0   0   0   0   0   0   2   0  .667  .667  .833 
+Hal Carlson        R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Johnny Cooney      L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Pea Ridge Day      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Bill Doak          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Genewich       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ray Kremer         R   6   1   1   0   0   0   0   0   0   2   0  .167  .167  .333 
+Lee Meadows        R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 
+C. Mitchell        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Johnny Morrison    R   9   2   1   0   0   0   0   0   1   1   0  .222  .300  .333 
+Eppa Rixey         L   6   0   0   0   0   2   0   1   0   0   0  .000  .250  .000 
+Jack Scott         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Allen Sothoron     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dazzy Vance        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Hippo Vaughn       L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Emil Yde           L   1   0   0   0   0   1   0   1   0   3   0  .000  .500  .000

@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Max Butcher        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Tiny Chaplin       R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 i
+Peaches Davis      R  16   3   0   0   0   0   0   2   0   0   0  .188  .188  .188 
+Paul Derringer     R   4   2   1   0   0   1   1   1   0   1   0  .500  .600  .750 
+F. Fitzsimmons     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Benny Frey         R  11   3   0   0   0   1   0   3   0   0   0  .273  .333  .273 
+Johnny Lanning     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Bill Lee           R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Red Lucas          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Danny MacFayden    R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Van Mungo          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Claude Passeau     R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Gene Schott        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bucky Walters      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Lon Warneke        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Jim Weaver         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i

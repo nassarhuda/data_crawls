@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Len Barker         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Derek Botelho      R   2   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Danny Darwin       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Forsch         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Orel Hershiser     R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Bob Knepper        L   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Mike Krukow        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike LaCoss        R   4   0   0   0   0   1   0   3   0   1   0  .000  .200  .000 
+Dave LaPoint       L  10   2   0   0   0   0   0   4   0   1   0  .200  .200  .200 
+Charlie Lea        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tim Lollar         L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Lance McCullers    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Larry McWilliams   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Phil Niekro        R   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Alejandro Pena     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Price          L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Rick Rhoden        R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Steve Rogers       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dick Ruthven       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Seaver         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Lee Tunnell        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

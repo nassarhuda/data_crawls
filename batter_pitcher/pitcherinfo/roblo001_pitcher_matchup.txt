@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kris Benson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+A.J. Burnett       R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Chris Carpenter    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Shawn Chacon       R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Roger Clemens      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Scott Eyre         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeff Francis       L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Brian Fuentes      L   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Aaron Harang       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Brad Hennessey     R   8   4   1   0   0   1   0   1   0   0   0  .500  .556  .625 
+Clay Hensley       R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Shawn Hill         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tim Hudson         R   7   2   1   0   0   1   0   0   0   0   0  .286  .375  .429 
+Byung-Hyun Kim     R  16   6   2   0   0   0   0   1   0   0   0  .375  .375  .500 
+Sun-Woo Kim        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Cory Lidle         R   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 
+Jon Lieber         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Noah Lowry         L   4   1   0   0   1   2   0   0   0   0   0  .250  .500 1.000 
+Pedro Martinez     R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Matt Morris        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Myers        R   6   3   1   0   1   2   0   2   0   0   0  .500  .625 1.167 
+Ramon Ortiz        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roy Oswalt         R   7   5   0   0   0   0   0   0   0   0   0  .714  .714  .714 
+Chan Ho Park       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+John Patterson     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Andy Pettitte      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jason Schmidt      R   6   1   1   0   0   2   0   1   0   0   0  .167  .375  .333 
+John Smoltz        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ian Snell          R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Jeff Suppan        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Brett Tomko        R   9   0   0   0   0   1   0   0   0   0   0  .000  .100  .000 
+Jason Vargas       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Javier Vazquez     R   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 
+Brandon Webb       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Woody Williams     R   5   1   0   0   1   1   0   0   0   0   0  .200  .333  .800 
+Randy Williams     L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jamey Wright       R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Victor Zambrano    R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333

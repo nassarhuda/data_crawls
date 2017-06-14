@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cherokee Fisher    R  11   2   1   1   0   0   0   0   0   0   0  .182  .182  .455 
+Bobby Mathews      R  21   8   0   1   1   0   0   1   0   0   0  .381  .381  .619 
+Al Pratt           R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Spalding        R  17   4   1   0   0   2   0   0   0   0   0  .235  .316  .294 
+Rynie Wolters      R  10   2   0   1   0   0   0   0   0   0   0  .200  .200  .400 
+George Zettlein    R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

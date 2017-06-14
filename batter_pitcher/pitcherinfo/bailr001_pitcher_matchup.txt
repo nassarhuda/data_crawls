@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Calvin Maduro      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Denny Neagle       L   5   2   0   0   0   0   0   2   0   1   0  .400  .400  .400 
+Pat Rapp           R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Jason Schmidt      R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+John Smoltz        R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000

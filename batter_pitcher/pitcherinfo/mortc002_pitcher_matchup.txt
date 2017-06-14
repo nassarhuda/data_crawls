@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bronson Arroyo     R   6   0   0   0   0   0   0   3   0   3   0  .000  .000  .000 
+Tom Gorzelanny     L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Brad Hand          L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+J.A. Happ          L   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dan Haren          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Edwin Jackson      R  12   1   0   0   0   0   0   8   0   3   0  .083  .083  .083 
+Tom Koehler        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mat Latos          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ted Lilly          L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Kyle Lohse         R  11   1   0   0   0   0   0   6   0   4   1  .091  .083  .091 
+Shaun Marcum       R   3   1   1   0   0   0   0   0   0   2   0  .333  .333  .667 
+Jon Niese          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bud Norris         R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Tyson Ross         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Anibal Sanchez     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Adam Wainwright    R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 
+Dontrelle Willis   L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Barry Zito         L   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000

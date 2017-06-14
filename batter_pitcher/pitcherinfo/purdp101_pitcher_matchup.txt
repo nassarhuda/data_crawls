@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+Pete Alexander     R  14   3   0   0   0   0   0   0   0   0   0  .214  .214  .214 i
+Win Ballou         R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Virgil Barnes      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Ray Benge          R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Larry Benton       R  11   2   0   0   0   0   0   1   1   0   0  .182  .250  .182 i
+Sheriff Blake      R   6   2   1   0   0   2   0   0   0   0   0  .333  .500  .500 i
+Erv Brame          R   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 i
+Guy Bush           R   7   2   0   0   0   2   0   0   0   0   0  .286  .444  .286 i
+Ben Cantwell       R   4   2   0   0   0   2   0   1   1   0   0  .500  .714  .500 i
+Phil Collins       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Art Delaney        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Doak          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Ehrhardt      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+F. Fitzsimmons     R  10   3   1   0   0   0   0   0   0   0   0  .300  .300  .400 i
+Fred Frankhouse    R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Fred Fussell       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Joe Genewich       R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Hal Goldsmith      R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Burleigh Grimes    R  25   4   1   0   0   0   0   4   0   1   0  .160  .160  .200 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Haid           R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Jesse Haines       R  13   4   0   0   0   2   0   0   0   0   0  .308  .400  .308 
+Slim Harriss       R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Carmen Hill        R  13   5   0   0   0   0   0   0   0   0   0  .385  .385  .385 i
+Syl Johnson        R   5   2   0   1   1   0   0   0   0   0   0  .400  .400 1.400 i
+Ray Kremer         R  16   5   2   1   0   1   0   0   0   0   0  .313  .353  .563 i
+Dixie Leverett     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pat Malone         R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 i
+Hugh McQuillan     R   5   4   0   0   0   0   0   0   0   0   0  .800  .800  .800 
+Doug McWeeny       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lee Meadows        R   3   1   0   0   1   0   0   0   0   1   0  .333  .333 1.333 
+Heinie Meine       R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Johnny Miljus      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ray Moss           R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Art Nehf           L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Jesse Petty        L   7   3   1   1   0   0   0   1   0   0   0  .429  .429  .857 i
+Art Reinhart       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Flint Rhem         R   9   3   2   0   0   0   0   0   0   1   0  .333  .333  .556 
+C. Robertson       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 i
+Eddie Rommel       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Scott         R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Bill Sherdel       L   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Bob Smith          R   5   1   0   0   0   2   0   0   0   1   0  .200  .429  .200 i
+Dazzy Vance        R  11   1   0   0   0   0   0   1   0   1   0  .091  .091  .091 
+Paul Zahniser      R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000

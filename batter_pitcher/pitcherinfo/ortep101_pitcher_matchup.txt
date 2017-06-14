@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Boswell       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Wally Bunker       R   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Rickey Clark       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Chuck Dobson       R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Turk Farrell       R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Bob Friend         R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Steve Hargan       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bruce Howard       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tommy John         L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Jim Kaat           L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lew Krausse        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mickey Lolich      L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Juan Marichal      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sam McDowell       L   5   2   1   0   0   2   0   2   0   0   0  .400  .571  .600 
+B. Monbouquette    R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Dave Morehead      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Fred Newman        R   7   3   0   0   0   0   0   2   0   1   0  .429  .429  .429 
+Blue Moon Odom     R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Jim Palmer         R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Camilo Pascual     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Perry          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fritz Peterson     L   5   1   0   0   0   0   0   1   0   2   0  .200  .200  .200 
+Bob Sadowski       R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Rollie Sheldon     R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Sonny Siebert      R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Lee Stange         R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jerry Stephenson   R   6   1   1   0   0   0   0   3   0   3   0  .167  .167  .333 
+Mel Stottlemyre    R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Luis Tiant         R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Earl Wilson        R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200

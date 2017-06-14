@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Erik Bedard        L   6   4   1   0   2   1   0   0   0   0   0  .667  .714 1.833 
+Mark Buehrle       L   8   1   0   0   0   0   0   2   0   0   1  .125  .111  .125 
+M. Bumgarner       L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Wei-Yin Chen       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+John Danks         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Derek Holland      L  12   4   0   0   0   1   0   3   0   0   0  .333  .385  .333 
+Scott Kazmir       L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Dallas Keuchel     L  14   7   3   0   2   0   0   2   0   0   0  .500  .500 1.143 
+Jon Lester         L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+B. Oberholtzer     L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+James Paxton       L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Martin Perez       L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jose Quintana      L   5   2   0   1   0   1   0   0   0   0   0  .400  .500  .800 
+CC Sabathia        L   6   5   0   0   0   0   0   0   0   0   0  .833  .833  .833 
+Chris Sale         L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Hector Santiago    L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Joe Saunders       L   9   4   1   0   1   2   0   1   0   0   0  .444  .545  .889 
+C.J. Wilson        L  16   3   1   0   0   3   0   3   0   0   0  .188  .316  .250

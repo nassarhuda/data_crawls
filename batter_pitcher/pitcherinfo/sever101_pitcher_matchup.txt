@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   7   3   0   0   0   2   0   0   0   0   0  .429  .556  .429 
+Bert Blyleven      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dick Bosman        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Les Cain           L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Joe Coleman        R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Chuck Dobson       R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Eddie Fisher       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Hall           L   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Pete Hamm          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Horlen         R   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Catfish Hunter     R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Gerry Janeski      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Tommy John         L   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 
+Bart Johnson       R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Jim Kaat           L   9   3   1   0   0   0   0   0   0   0   0  .333  .333  .444 
+Mike Kilkenny      L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Rudy May           L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Andy Messersmith   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Barry Moore        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Murphy         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Niekro         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Blue Moon Odom     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jim Palmer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Marty Pattin       R   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Gary Peters        L   8   3   2   0   0   0   0   1   0   0   0  .375  .375  .625 
+Fritz Peterson     L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ken Sanders        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Diego Segui        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jim Shellenback    L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Tom Timmermann     R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Wilbur Wood        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Clyde Wright       L   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333

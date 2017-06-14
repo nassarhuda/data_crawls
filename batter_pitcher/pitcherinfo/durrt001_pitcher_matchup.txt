@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+James Baldwin      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Dave Burba         R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Bartolo Colon      R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Joey Hamilton      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pat Hentgen        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Maddux        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Kent Mercker       L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Brian Moehler      R   6   4   1   0   0   0   0   1   0   1   0  .667  .667  .833 
+Matt Morris        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Guillermo Mota     R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Andy Pettitte      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Sirotka       L   5   1   1   0   0   0   0   1   0   1   0  .200  .200  .400 
+Tim Wakefield      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jeff Weaver        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dontrelle Willis   L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500

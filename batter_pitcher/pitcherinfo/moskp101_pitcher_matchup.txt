@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Denny         R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Jamie Easterly     L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Tommy John         L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Bob Knepper        L   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Mike Krukow        R   2   1   0   0   0   0   0   0   0   1   1  .500  .333  .500 
+Mickey Mahler      L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Phil Nastu         L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Joe Niekro         R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Gene Pentz         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Eric Rasmussen     R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Jerry Reuss        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Don Robinson       R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Steve Rogers       R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Enrique Romo       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Vern Ruhle         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dick Ruthven       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Welch          R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Pat Zachry         R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000

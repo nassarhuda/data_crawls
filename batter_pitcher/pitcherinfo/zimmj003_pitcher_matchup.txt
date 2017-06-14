@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bronson Arroyo     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Matt Cain          R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Jacob deGrom       R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+R.A. Dickey        R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Yohan Flande       L   2   0   0   0   0   0   0   0   0   1   1  .000  .000  .000 
+Gavin Floyd        R   2   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Yovani Gallardo    R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Dillon Gee         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeremy Guthrie     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Roy Halladay       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Brad Hand          L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Aaron Harang       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Lucas Harrell      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tim Hudson         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Josh Johnson       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Kyle Kendrick      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Mat Latos          R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Wade LeBlanc       L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tim Lincecum       R   5   2   2   0   0   0   0   1   0   2   0  .400  .400  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kyle Lohse         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Derek Lowe         R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Lance Lynn         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shelby Miller      R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Jon Niese          L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ricky Nolasco      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jeff Samardzija    R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Anibal Sanchez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tim Stauffer       R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Eric Stults        L   4   2   0   0   0   0   0   1   0   2   0  .500  .500  .500 
+Noah Syndergaard   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Wolf         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Alex Wood          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chris Young        R   6   2   1   0   0   1   0   2   0   1   0  .333  .429  .500

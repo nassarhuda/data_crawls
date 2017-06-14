@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Fred Breining      R   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Steve Carlton      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Danny Cox          R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bill Gullickson    R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Andy Hawkins       R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike LaCoss        R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Larry McWilliams   L   5   1   0   0   0   0   0   1   0   2   0  .200  .200  .200 
+Jerry Reuss        L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Rick Rhoden        R   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Eric Show          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ed Whitson         R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000

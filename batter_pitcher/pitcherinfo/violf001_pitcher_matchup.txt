@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Browning       L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Dennis Cook        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Doug Drabek        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Mark Gardner       R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Ken Howell         R   4   1   0   0   0   0   0   1   0   2   0  .250  .250  .250 
+Bruce Hurst        L   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Les Lancaster      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+C. Leibrandt       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Greg Maddux        R   6   1   0   0   0   0   0   1   0   2   0  .167  .167  .167 
+Terry Mulholland   L   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Chris Nabholz      L   5   1   1   0   0   0   0   0   0   1   0  .200  .200  .400 
+Omar Olivares      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mark Portugal      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Ted Power          R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Bruce Ruffin       L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Zane Smith         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

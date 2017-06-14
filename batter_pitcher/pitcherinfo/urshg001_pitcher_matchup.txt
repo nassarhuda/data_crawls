@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Bassitt      R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Tyler Duffey       R   3   1   1   0   0   2   0   0   0   0   0  .333  .600  .667 
+Kendall Graveman   R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Sonny Gray         R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Nathan Karns       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Trevor May         R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+David Price        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Garrett Richards   R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+CC Sabathia        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Chris Sale         L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Alfredo Simon      R   6   3   2   0   0   0   0   1   1   0   0  .500  .571  .833 
+Edinson Volquez    R   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250 
+Alex Wilson        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Frank Allen        L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Cy Barger          R   9   1   0   0   0   2   0   3   0   1   0  .111  .273  .111 i
+Buster Brown       R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 i
+Mordecai Brown     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Howie Camnitz      R  12   1   0   0   0   1   0   4   0   0   0  .083  .154  .083 i
+Larry Cheney       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+G. Kaiserling      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Bobby Keefe        R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Henry Keupper      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Jimmy Lavender     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+C. Mathewson       R  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 i
+Pat Ragan          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Steele        R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 i
+Jeff Tesreau       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

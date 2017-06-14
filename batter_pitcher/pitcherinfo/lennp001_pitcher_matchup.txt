@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   7   3   2   0   0   1   0   0   0   0   0  .429  .500  .714 
+Jeff Fassero       L   5   3   2   0   0   0   0   1   0   0   0  .600  .600 1.000 
+Chuck Finley       L   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Mike Holtz         L   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 
+Randy Johnson      L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Scott Karl         L   9   3   2   0   0   0   0   2   0   0   0  .333  .333  .556 
+Jimmy Key          L   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Jamie Moyer        L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Darren Oliver      L   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Rich Robertson     L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Jose Rosado        L   4   1   1   0   0   3   0   2   0   0   0  .250  .571  .500 
+Aaron Sele         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Justin Thompson    L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Allen Watson       L   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+David Wells        L   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500

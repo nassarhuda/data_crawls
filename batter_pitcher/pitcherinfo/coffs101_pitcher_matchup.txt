@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Grove        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Oral Hildebrand    R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Lynn Nelson        R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Monte Pearson      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500

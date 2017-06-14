@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Dan Griner         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jeff Tesreau       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Abbott        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Darren Dreifort    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jason Johnson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Cory Lidle         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jamie Moyer        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mark Mulder        L  12   5   3   0   0   0   0   3   0   0   0  .417  .417  .667 
+Ramon Ortiz        R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Jose Paniagua      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+John Parrish       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Andy Pettitte      L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Aaron Sele         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Brett Tomko        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jarrod Washburn    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+David Wells        L   7   1   1   0   0   0   0   4   0   0   0  .143  .143  .286 
+Barry Zito         L  17   7   1   0   1   1   0   4   0   0   0  .412  .444  .647

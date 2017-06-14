@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Falkenberg      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Bob Groom          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+G. Kaiserling      R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Jack Quinn         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Seaton         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

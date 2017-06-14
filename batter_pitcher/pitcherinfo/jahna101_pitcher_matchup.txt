@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jesse Barnes       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Virgil Barnes      R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Jack Bentley       L  12   3   1   0   0   2   0   2   0   1   0  .250  .357  .333 
+Rube Benton        L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Larry Benton       R   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 
+Lloyd Brown        L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Hal Carlson        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Watty Clark        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Johnny Cooney      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Donohue       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Ehrhardt      R   6   4   1   1   0   0   0   0   1   0   0  .667  .714 1.167 
+F. Fitzsimmons     R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Joe Genewich       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Skinny Graham      R   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 
+Burleigh Grimes    R  14   6   1   0   0   2   0   1   0   0   0  .429  .500  .500 
+Jesse Haines       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Carmen Hill        R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Jack Knight        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Kolp           R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Kremer         R   8   4   0   0   0   1   0   0   0   0   0  .500  .556  .500 
+Dolf Luque         R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Duster Mails       L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Jakie May          L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Carl Mays          R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Lee Meadows        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+C. Mitchell        L   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 i
+Art Nehf           L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Red Oldham         L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jesse Petty        L  15   3   0   1   0   1   0   1   0   0   0  .200  .250  .333 i
+Art Reinhart       L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Flint Rhem         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Eppa Rixey         L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jack Scott         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Bill Sherdel       L   9   2   0   0   0   1   0   0   0   0   0  .222  .300  .222 i
+Johnny Stuart      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Bill Walker        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Emil Yde           L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000

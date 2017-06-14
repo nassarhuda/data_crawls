@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   8   2   1   0   0   0   0   0   0   1   0  .250  .250  .375 
+Steve Bedrosian    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Bruce Berenyi      R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Doug Bird          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Marty Bystrom      R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+John Candelaria    L   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ron Darling        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Sid Fernandez      L   4   0   0   0   0   1   0   1   0   1   0  .000  .200  .000 
+Bill Gullickson    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Atlee Hammaker     L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Andy Hawkins       R   8   3   0   0   0   2   0   1   0   0   0  .375  .500  .375 
+Charles Hudson     R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Bob Knepper        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Krukow        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Tim Lollar         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Lynch           R  13   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Craig McMurtry     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Frank Pastore      R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Pascual Perez      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Rick Rhoden        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Rogers       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Russell       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Nolan Ryan         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Scott Sanderson    R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Mike Scott         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Eric Show          R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Bryn Smith         R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Elias Sosa         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mario Soto         R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+F. Valenzuela      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Welch          R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200

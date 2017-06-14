@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Ray Boyd           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ad Brennan         L   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Claude Hendrix     R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 i
+Eddie Stack        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i

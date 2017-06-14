@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alan Benes         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Fassero       L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Chris Hammond      L   7   4   2   0   0   0   0   1   0   0   0  .571  .571  .857 
+Ramon Martinez     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Donovan Osborne    L   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Carlos Perez       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Smiley        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Kevin Tapani       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+F. Valenzuela      L   8   3   1   0   1   0   0   3   0   0   0  .375  .375  .875 
+Allen Watson       L   8   4   1   0   0   0   0   2   0   0   0  .500  .500  .625 
+Trevor Wilson      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000

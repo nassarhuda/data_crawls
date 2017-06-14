@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alfredo Aceves     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Miguel Batista     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dallas Braden      L   5   2   1   0   1   3   0   2   0   0   0  .400  .625 1.200 
+Clay Buchholz      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+A.J. Burnett       R   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Trevor Cahill      R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Bruce Chen         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Danks         L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Edgar Gonzalez     R   3   2   0   0   0   1   0   0   0   1   0  .667  .750  .667 
+Jeremy Guthrie     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Felix Hernandez    R  16   3   1   0   0   1   0   5   1   1   0  .188  .278  .250 
+John Lackey        R   9   2   0   0   0   0   0   5   0   0   0  .222  .222  .222 
+Jon Lester         L   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+D. Matsuzaka       R   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Vin Mazzaro        R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Brandon Morrow     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Carl Pavano        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Glen Perkins       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Andy Pettitte      L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+David Price        L   9   2   2   0   0   0   0   4   0   0   0  .222  .222  .444 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Quintana      L   7   3   1   0   1   0   0   2   0   0   0  .429  .429 1.000 
+Ricky Romero       L   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+CC Sabathia        L   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Ervin Santana      R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Joe Saunders       L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Greg Smith         L   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Anthony Swarzak    R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Brian Tallet       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Jason Vargas       L   3   1   0   0   1   0   0   2   0   0   1  .333  .250 1.333 
+Justin Verlander   R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Chien-Ming Wang    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jered Weaver       R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000

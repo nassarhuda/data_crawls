@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Aber            L   3   1   0   1   0   0   0   0   0   1   0  .333  .333 1.000 
+Luis Arroyo        L   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Bud Black          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tom Brewer         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Buhl           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tommy Byrne        L   4   1   0   0   0   3   0   1   0   0   0  .250  .571  .250 
+Don Cardwell       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ray Crone          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Drysdale       R   4   0   0   0   0   1   1   4   0   0   0  .000  .200  .000 
+Ned Garver         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ruben Gomez        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Grim           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Gromek       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Harvey Haddix      L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Ron Kline          R   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Sandy Koufax       L   9   0   0   0   0   1   0   4   0   0   1  .000  .091  .000 
+Vern Law           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Eddie Lopat        L   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Lindy McDaniel     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mickey McDermott   L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stu Miller         R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Tom Morgan         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Don Newcombe       R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Willard Nixon      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Taylor Phillips    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Juan Pizarro       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Purkey         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Allie Reynolds     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Robin Roberts      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Roebuck         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jack Sanford       R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Art Schallock      L   5   4   1   0   1   0   0   1   0   0   0  .800  .800 1.600 
+Virgil Trucks      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+George Zuverink    R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125

@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ralph Branca       R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Harry Brecheen     L  10   2   0   1   1   0   0   3   0   0   0  .200  .200  .700 
+Tex Hughson        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Red Munger         R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Warren Spahn       L   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375

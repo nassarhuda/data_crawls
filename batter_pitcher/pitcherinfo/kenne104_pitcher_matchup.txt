@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Heimach       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Lyons          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ed Morris          R  11   2   0   0   0   0   0   2   1   0   0  .182  .250  .182 i
+Jack Quinn         R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Joe Shaute         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Lefty Stewart      L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Rube Walberg       L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i

@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rex Barney         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Hank Borowy        R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Ralph Branca       R   2   0   0   0   0   3   0   0   0   0   0  .000  .600  .000 
+Lou Brissie        L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Tommy Byrne        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Blix Donnelly      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dick Fowler        R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Ted Gray           L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Mickey Harris      L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Ken Heintzelman    L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bobby Hogue        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Art Houtteman      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Sid Hudson         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Alex Kellner       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dick Koecher       L   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Eddie Lopat        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Dutch McCall       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mickey McDermott   L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Russ Meyer         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Joe Ostrowski      L   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mel Parnell        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Preacher Roe       L   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Schoolboy Rowe     R   8   3   0   0   1   0   0   0   0   0   0  .375  .375  .750 
+Johnny Sain        R   9   3   1   0   0   0   0   0   0   0   0  .333  .333  .444 
+Ray Scarborough    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Curt Simmons       L   4   1   1   0   0   5   0   0   0   0   0  .250  .667  .500 
+Warren Spahn       L  13   3   0   0   0   1   0   2   0   1   0  .231  .286  .231 
+Chuck Stobbs       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Harry Taylor       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

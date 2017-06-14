@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bunning        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Pete Burnside      L   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Art Ditmar         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Donovan       R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Joe Horlen         R   7   0   0   0   0   1   0   4   0   1   0  .000  .125  .000 
+Jim Kaat           L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Jack Kralick       L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Marty Kutyna       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Frank Lary         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Barry Latman       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Don Mossi          L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Milt Pappas        R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Camilo Pascual     R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Jim Perry          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Billy Pierce       L   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Don Rudolph        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Early Wynn         R   7   2   0   0   1   0   0   3   0   0   0  .286  .286  .714

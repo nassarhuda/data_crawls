@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Len Barker         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jim Beattie        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Clancy         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Doug Corbett       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Dennis Eckersley   R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Ross Grimsley      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ron Guidry         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Rudy May           L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Jack Morris        R   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Dan Spillner       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Stieb         R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Milt Wilcox        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Albert Williams    R   6   3   0   0   0   0   0   0   0   1   0  .500  .500  .500

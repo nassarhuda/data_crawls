@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Catfish Hunter     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tommy John         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Kaat           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mickey Lolich      L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Jim Lonborg        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jim Merritt        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Gary Peters        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pete Richert       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mel Stottlemyre    R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Thad Tillatson     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

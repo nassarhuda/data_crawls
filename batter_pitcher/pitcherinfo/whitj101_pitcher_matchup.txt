@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Ivy Andrews        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Elden Auker        R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Joe Beggs          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+G. Blaeholder      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tommy Bridges      R   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Lloyd Brown        L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Bill Dietrich      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Carl Doyle         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Feller         R   9   0   0   0   0   1   0   5   0   0   0  .000  .100  .000 
+Wes Ferrell        R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+George Gill        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Lefty Grove        L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mel Harder         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Joe Heving         R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Oral Hildebrand    R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Willis Hudlin      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Harry Kelley       R   4   2   0   0   0   1   0   0   0   1   0  .500  .600  .500 i
+Jack Knott         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Roxie Lawson       R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Firpo Marberry     R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Johnny Marcum      R   9   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Johnny Murphy      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Lynn Nelson        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bobo Newsom        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Monte Pearson      R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Buck Ross          R  14   3   0   0   0   0   0   2   0   2   0  .214  .214  .214 i
+Schoolboy Rowe     R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Red Ruffing        R  10   2   0   0   0   0   0   1   1   0   0  .200  .273  .200 
+Tommy Thomas       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Earl Whitehill     L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jack Wilson        R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 i

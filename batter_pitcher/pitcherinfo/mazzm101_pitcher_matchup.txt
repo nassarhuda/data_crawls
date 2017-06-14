@@ -1,0 +1,54 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   6   2   0   0   1   1   0   1   1   0   0  .333  .500  .833 
+Elden Auker        R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Jim Bagby          R   8   2   2   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Stew Bowers        R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Joe Bowman         R   6   3   2   0   0   0   0   0   0   1   0  .500  .500  .833 i
+Bob Bowman         R   6   1   0   0   0   3   0   1   0   0   0  .167  .444  .167 
+Tommy Bridges      R   9   1   0   0   0   1   0   4   0   1   0  .111  .200  .111 i
+Johnny Broaca      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mace Brown         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jumbo Brown        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Alex Carrasquel    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Caster      R   8   3   0   0   1   0   0   0   0   0   0  .375  .375  .750 i
+Spud Chandler      R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Mort Cooper        R   8   2   1   1   0   1   0   1   0   0   0  .250  .333  .625 
+Atley Donald       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Feller         R  18   2   0   0   0   0   0   6   0   0   0  .111  .111  .111 
+Wes Ferrell        R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 i
+Denny Galehouse    R   7   3   2   0   0   2   0   2   0   1   0  .429  .556  .714 i
+George Gill        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Harry Gumbert      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bump Hadley        R   8   2   0   0   0   1   0   2   2   0   0  .250  .455  .250 i
+Mel Harder         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bill Harris        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Joyce          R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Vern Kennedy       R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 i
+Bob Klinger        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Jack Knott         R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Johnny Lanning     R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Ted Lyons          R  15   6   0   0   2   0   0   1   0   0   0  .400  .400  .800 
+Bill McGee         R   5   2   0   1   0   2   0   0   0   0   0  .400  .571  .800 
+Archie McKain      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Whitey Moore       R   6   3   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Jake Mooty         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Johnny Murphy      R   9   4   0   0   1   0   0   1   0   0   0  .444  .444  .778 
+Lynn Nelson        R  12   2   0   0   1   0   0   0   0   0   0  .167  .167  .417 
+Bobo Newsom        R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Roy Parmelee       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Claude Passeau     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Monte Pearson      R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Bill Posedel       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nels Potter        R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 i
+Buck Ross          R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Red Ruffing        R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Manny Salvo        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Rip Sewell         R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Joe Sullivan       L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Steve Sundra       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Tobin          R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+Jim Turner         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bucky Walters      R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+John Whitehead     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i

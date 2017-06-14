@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  12   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Frank Allen        L   5   1   0   1   0   1   0   0   0   0   0  .200  .333  .600 i
+Stan Baumgartner   L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Rube Benton        L  10   1   0   0   0   0   0   0   0   0   0  .100  .100  .100 i
+Wilbur Cooper      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Cliff Curtis       R   3   2   0   1   0   0   0   0   0   1   0  .667  .667 1.333 i
+Otto Hess          L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Tom Hughes         R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 i
+Rube Marquard      L  11   2   1   0   0   0   0   4   0   0   0  .182  .182  .273 i
+C. Mathewson       R   9   3   0   0   0   1   0   1   0   0   0  .333  .400  .333 i
+Erskine Mayer      R   9   1   0   0   0   1   0   2   1   0   0  .111  .273  .111 i
+Pol Perritt        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Pat Ragan          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Nap Rucker         L   4   1   0   1   0   0   0   0   0   1   0  .250  .250  .750 i
+Dick Rudolph       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Slim Sallee        L   8   1   0   0   0   2   0   0   0   1   0  .125  .300  .125 i
+Pete Schneider     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Tom Seaton         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Sherry Smith       L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 i
+Jeff Tesreau       R   9   2   0   1   0   0   0   0   0   0   0  .222  .222  .444 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ben Tincup         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Tyler        L  11   2   1   0   0   2   0   1   0   0   0  .182  .308  .273 i

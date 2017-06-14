@@ -1,0 +1,51 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Appleton      R   4   2   0   1   0   1   0   0   0   0   0  .500  .600 1.000 
+G. Blaeholder      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Clint Brown        R  17   7   1   1   0   0   0   1   0   0   0  .412  .412  .588 
+Lloyd Brown        L  16   2   0   1   0   2   1   1   0   0   0  .125  .222  .250 i
+Bobby Burke        L  16   3   0   1   0   0   0   0   0   0   0  .188  .188  .313 i
+Sugar Cain         R   8   1   0   0   1   0   0   2   0   0   0  .125  .125  .500 
+Pat Caraway        L   8   3   2   0   0   1   0   1   0   0   0  .375  .444  .625 i
+Sarge Connally     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+General Crowder    R   7   2   0   0   0   2   0   0   0   0   0  .286  .444  .286 i
+Bill Dietrich      R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+George Earnshaw    R  12   1   0   0   0   0   0   1   0   0   0  .083  .083  .083 
+Red Faber          R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Wes Ferrell        R   6   2   0   0   1   2   0   0   0   0   0  .333  .500  .833 
+Carl Fischer       L  12   4   1   0   0   2   0   0   0   0   0  .333  .429  .417 i
+Milt Gaston        R  14   6   2   0   0   1   0   0   0   0   0  .429  .467  .571 i
+Lefty Gomez        L   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Sam Gray           R   6   4   1   0   1   0   0   1   0   0   0  .667  .667 1.333 i
+Paul Gregory       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lefty Grove        L  14   4   0   0   0   2   0   1   0   0   0  .286  .375  .286 i
+Bump Hadley        R   7   4   0   0   0   1   0   1   0   0   0  .571  .625  .571 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mel Harder         R   6   1   1   0   0   0   0   2   0   1   0  .167  .167  .333 i
+Joe Heving         R   2   0   0   0   0   1   0   0   1   1   0  .000  .500  .000 
+Oral Hildebrand    R   9   3   0   0   0   2   0   1   0   0   0  .333  .455  .333 
+Waite Hoyt         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Willis Hudlin      R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Hank Johnson       R   7   3   0   0   0   1   0   2   0   0   0  .429  .500  .429 i
+Sad Sam Jones      R   8   2   0   0   0   1   0   0   0   1   0  .250  .333  .250 i
+Thornton Lee       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Lyons          R  14   2   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Roy Mahaffey       R  17   5   3   0   0   2   0   1   0   0   0  .294  .368  .471 
+Firpo Marberry     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Johnny Marcum      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Johnny Murphy      R   5   2   1   0   0   1   0   0   0   1   0  .400  .500  .600 
+Monte Pearson      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Herb Pennock       L   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Jim Peterson       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+George Pipgras     R   5   1   0   0   0   3   0   1   0   0   0  .200  .500  .200 i
+Eddie Rommel       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Red Ruffing        R   9   3   2   0   0   2   0   1   0   0   0  .333  .455  .556 
+Roy Sherid         R  13   1   0   0   0   0   0   4   0   0   0  .077  .077  .077 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Stewart      L  33  12   1   0   3   1   0   3   0   0   0  .364  .382  .667 
+Rollie Stiles      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tommy Thomas       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Rube Walberg       L  10   2   0   0   0   0   0   2   0   1   0  .200  .200  .200 i
+Bob Weiland        L   8   2   1   0   0   1   0   0   0   0   0  .250  .333  .375 i
+Ed Wells           L  13   5   2   0   2   1   0   1   1   0   0  .385  .467 1.000 i
+Earl Whitehill     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Whit Wyatt         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

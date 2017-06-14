@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Koslo         L   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 
+Paul Minner        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Harry Perkowski    L  12   2   0   1   0   2   0   3   0   0   0  .167  .286  .333 
+K. Raffensberger   L  12   2   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Preacher Roe       L   7   2   0   0   1   0   0   4   0   0   0  .286  .286  .714 
+Bob Rush           R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Curt Simmons       L  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Warren Spahn       L   8   2   1   0   1   0   0   2   0   0   0  .250  .250  .750 
+Chris Van Cuyk     L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000

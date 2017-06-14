@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Benz           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bernie Boland      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jean Dubuc         R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Red Faber          R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+G. Lowdermilk      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i

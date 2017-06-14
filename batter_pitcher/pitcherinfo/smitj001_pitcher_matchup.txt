@@ -1,0 +1,51 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Baker        R   4   3   2   0   0   0   0   1   0   0   0  .750  .750 1.250 
+Jeremy Bonderman   R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Boof Bonser        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Joe Borowski       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chad Bradford      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dewon Brazelton    R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+A.J. Burnett       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Daniel Cabrera     R   4   2   0   0   0   1   0   1   1   0   0  .500  .667  .500 
+Fausto Carmona     R   9   2   1   0   0   0   0   3   0   0   0  .222  .222  .333 
+Jose Contreras     R  11   1   0   0   0   1   0   4   0   0   0  .091  .167  .091 
+Jason Davis        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Scott Elarton      R  12   3   0   1   1   0   0   2   0   1   0  .250  .250  .667 
+Gavin Floyd        R   4   2   1   1   0   0   0   2   0   0   0  .500  .500 1.250 
+Aaron Fultz        L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Freddy Garcia      R  13   3   1   0   0   0   0   2   0   0   0  .231  .231  .308 
+Jon Garland        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Zack Greinke       R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Jason Grilli       R   7   1   0   1   0   0   0   2   0   1   0  .143  .143  .429 
+Aaron Harang       R   9   1   0   0   0   0   0   4   0   0   0  .111  .111  .111 
+O. Hernandez       R   4   1   1   0   0   0   0   1   1   0   0  .250  .400  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Howry          R   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Jon Lieber         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Esteban Loaiza     R   6   5   1   1   0   0   0   0   0   0   0  .833  .833 1.333 
+Kyle Lohse         R   7   1   1   0   0   0   0   4   0   0   0  .143  .143  .286 
+Rodrigo Lopez      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Derek Lowe         R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Gil Meche          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kevin Millwood     R   6   3   2   0   1   2   0   3   0   0   1  .500  .556 1.333 
+Terry Mulholland   L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Nathan         R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Ramon Ortiz        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chan Ho Park       R   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+John Parrish       L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Brad Penny         R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Joel Pineiro       R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Sidney Ponson      R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Brad Radke         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mariano Rivera     R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+J.C. Romero        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jason Schmidt      R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carlos Silva       R   9   4   1   0   3   0   0   1   0   0   0  .444  .444 1.556 
+Kevin Slowey       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Julian Tavarez     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Javier Vazquez     R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ron Villone        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Luis Vizcaino      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tim Wakefield      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chris Young        R   9   2   0   0   1   0   0   4   0   0   0  .222  .222  .556

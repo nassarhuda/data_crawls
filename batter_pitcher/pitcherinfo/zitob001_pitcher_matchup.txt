@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Chad Billingsley   R   7   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Joe Blanton        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jhoulys Chacin     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Aaron Cook         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Johnny Cueto       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Doug Davis         L   8   1   0   0   0   0   0   0   0   1   0  .125  .125  .125 
+Jorge de la Rosa   L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Josh Fogg          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jeff Francis       L   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tom Gorzelanny     L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Jason Hammel       R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Tommy Hanson       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ubaldo Jimenez     R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Clayton Kershaw    L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Kyle Lohse         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jason Marquis      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Charlie Morton     R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Brett Myers        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Juan Nicasio       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jon Niese          L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Scott Olsen        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Roy Oswalt         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Manny Parra        L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Wandy Rodriguez    L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Kirk Rueter        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ben Sheets         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Eric Stults        L   9   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Edinson Volquez    R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Chris Volstad      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Todd Wellemeyer    R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+David Wells        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Wolf         L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Young        R   9   2   0   0   0   0   0   4   0   3   0  .222  .222  .222

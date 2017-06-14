@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Britt Burns        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mike Caldwell      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Kainer         R   5   1   0   0   0   0   0   1   1   1   0  .200  .333  .200 
+Dave LaPoint       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Renie Martin       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bob McClure        L   7   5   1   0   0   0   0   0   0   0   0  .714  .714  .857 
+Doc Medich         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Paul Splittorff    L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500

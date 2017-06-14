@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ned Garver         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Gray           L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bill Kennedy       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jack Kramer        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Kucab       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Hal Newhouser      L   4   1   0   1   0   1   0   1   0   0   0  .250  .400  .750 
+Bill Wight         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

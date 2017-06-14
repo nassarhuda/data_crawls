@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Babich      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Red Barrett        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Max Butcher        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Bud Byerly         R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Frank Dasso        R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 
+Paul Derringer     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Dockins     L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Howie Fox          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Al Gerheauser      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Oscar Judd         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Vern Kennedy       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hod Lisenbee       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Logan          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Preacher Roe       L  10   4   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Lefty Scott        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Rip Sewell         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Nick Strincevich   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bucky Walters      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Hank Wyse          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500

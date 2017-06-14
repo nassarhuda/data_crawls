@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rex Barney         R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Vern Bickford      R   7   4   0   0   0   1   0   0   0   0   0  .571  .625  .571 
+Ewell Blackwell    R   9   3   1   0   0   2   0   3   0   0   0  .333  .455  .444 
+Hank Borowy        R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Harry Brecheen     L   8   0   0   0   0   1   0   0   0   0   0  .000  .111  .000 
+Ken Burkhart       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Chesnes        R   7   2   0   0   1   0   0   0   0   0   0  .286  .286  .714 
+Murry Dickson      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Erickson      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Harry Gumbert      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Warren Hacker      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Kirby Higbe        R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Doyle Lade         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Vic Lombardi       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fred Martin        R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Red Munger         R  14   4   1   0   1   0   0   0   0   0   0  .286  .286  .571 
+Don Newcombe       R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Erv Palica         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Poat           R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Howie Pollet       L   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elmer Riddle       R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Schoolboy Rowe     R   9   2   1   0   1   0   0   2   0   0   0  .222  .222  .667 
+Johnny Sain        R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Gerry Staley       R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Bill Voiselle      R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 
+Bucky Walters      R   5   1   0   0   1   1   0   0   0   0   0  .200  .333  .800 
+Herm Wehmeier      R   8   2   0   1   0   1   0   0   0   0   0  .250  .333  .500

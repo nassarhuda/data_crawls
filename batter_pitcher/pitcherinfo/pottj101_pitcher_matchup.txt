@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Cy Barger          R   2   0   0   0   0   3   0   0   0   0   0  .000  .600  .000 
+Cy Falkenberg      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Claude Hendrix     R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 i
+G. Kaiserling      R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Ed Lafitte         R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Tom McGuire        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Earl Moore         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Harry Moran        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Earl Moseley       R   6   2   0   0   0   3   0   0   0   0   0  .333  .556  .333 
+George Mullin      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Al Schulz          L   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Tom Seaton         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+George Suggs       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Doc Watson         L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i

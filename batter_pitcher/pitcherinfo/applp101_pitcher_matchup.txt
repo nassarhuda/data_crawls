@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tommy Bridges      R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250 i
+Lloyd Brown        L   9   2   0   0   0   0   0   1   0   1   0  .222  .222  .222 i
+George Caster      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+General Crowder    R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Harry Eisenstat    L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Milt Gaston        R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 
+Lefty Gomez        L  10   1   0   0   0   0   0   4   0   0   0  .100  .100  .100 
+Lefty Grove        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Mel Harder         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Oral Hildebrand    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Willis Hudlin      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Vern Kennedy       R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Roxie Lawson       R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 i
+Thornton Lee       L   9   4   2   0   0   0   0   0   0   0   0  .444  .444  .667 i
+Ted Lyons          R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Danny MacFayden    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Johnny Marcum      R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 i
+Johnny Murphy      R   6   2   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+F. Ostermueller    L   6   2   0   1   0   0   0   0   0   1   0  .333  .333  .667 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Rigney      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Stewart      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Monty Stratton     R   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+Bud Thomas         R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+George Uhle        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dutch Ulrich       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Dazzy Vance        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jake Wade          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Rube Walberg       L   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 i
+Jack Wilson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

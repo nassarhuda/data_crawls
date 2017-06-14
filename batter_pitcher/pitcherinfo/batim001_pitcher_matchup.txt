@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joel Bennett       R   2   1   0   0   1   0   0   1   0   2   0  .500  .500 2.000 
+Chris Carpenter    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Adam Eaton         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Shawn Estes        L   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Jeff Francis       L   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Kazuhisa Ishii     L   6   1   0   0   1   2   0   5   0   0   0  .167  .375  .667 
+Brian Lawrence     R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Greg Maddux        R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Darren Oliver      L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Chan Ho Park       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Brad Penny         R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Tim Redding        R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Kirk Rueter        L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Jason Schmidt      R  12   1   0   0   0   0   0   9   0   1   0  .083  .083  .083 
+John Thomson       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Steve Trachsel     R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Chris Volstad      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Kerry Wood         R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667

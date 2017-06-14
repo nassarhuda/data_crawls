@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Connie Marrero     R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Walt Masterson     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Willard Nixon      R   6   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Mel Parnell        L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Duane Pillette     R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Al Sima            L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brandon Claussen   L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Roger Clemens      R   4   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Josh Fogg          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jason Jennings     R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Greg Maddux        R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Odalis Perez       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Redman        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Steve Trachsel     R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667

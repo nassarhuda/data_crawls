@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dewon Brazelton    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jose Cabrera       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Mike DeJean        R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+V. de los Santos   L   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Octavio Dotel      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chuck Finley       L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Jeff Francis       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Luther Hackman     R   4   2   0   0   1   3   0   0   0   0   0  .500  .714 1.250 
+Jimmy Haynes       R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Mark Hendrickson   L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Kazuhisa Ishii     L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Wade Miller        R   6   0   0   0   0   1   0   1   1   0   0  .000  .250  .000 
+Brian Moehler      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Odalis Perez       L   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Oliver Perez       L   3   1   0   0   1   3   0   1   0   0   0  .333  .667 1.333 
+Kirk Rueter        L   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 
+Glendon Rusch      L   8   2   0   0   1   2   0   2   0   0   0  .250  .400  .625 
+Kirk Saarloos      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jason Schmidt      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ben Sheets         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bud Smith          L   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Scott Sullivan     R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Michael Tejera     L   3   1   0   0   0   1   0   1   0   0   1  .333  .400  .333 
+Dave Veres         R   5   2   0   0   1   0   0   3   0   0   0  .400  .400 1.000 
+Ron Villone        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Tim Worrell        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333

@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R  10   3   1   0   0   1   0   1   0   0   0  .300  .364  .400 
+Pete Alexander     R   8   1   0   0   1   2   0   0   0   0   0  .125  .300  .500 
+Jesse Barnes       R   7   2   0   0   0   0   0   1   1   0   0  .286  .375  .286 
+Leon Cadore        R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Virgil Cheeves     R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Johnny Couch       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Bill Doak          R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Phil Douglas       R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Burleigh Grimes    R   5   2   0   0   1   1   0   2   0   1   0  .400  .500 1.000 
+Jesse Haines       R  13   6   1   1   1   0   0   0   0   0   0  .462  .462  .923 
+Bill Hubbell       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Percy Jones        L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Dolf Luque         R  12   5   1   2   0   1   0   2   0   0   0  .417  .462  .833 
+Hugh McQuillan     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lou North          R   5   3   1   1   0   0   0   0   0   0   0  .600  .600 1.200 
+Tiny Osborne       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Pertica       R   5   1   1   0   0   2   0   1   0   0   0  .200  .429  .400 
+Rosy Ryan          R  11   2   0   1   0   0   0   3   0   0   0  .182  .182  .364 
+Dazzy Vance        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mule Watson        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

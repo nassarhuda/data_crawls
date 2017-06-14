@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Chris Capuano      L   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Brandon Claussen   L   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Shawn Estes        L   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Jon Garland        R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Tom Glavine        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jason Johnson      R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+Randy Johnson      L   7   3   0   0   1   0   0   3   0   0   0  .429  .429  .857 
+Jorge Julio        R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Cliff Lee          L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Al Leiter          L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Noah Lowry         L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Mike Maroth        L   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 
+Eric Milton        L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Jamie Moyer        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Mulder        L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Odalis Perez       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Nate Robertson     L   6   3   1   0   0   2   0   0   0   0   0  .500  .625  .667 
+Matt Roney         R   2   0   0   0   0   3   0   0   0   0   0  .000  .600  .000 
+Steve Sparks       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dontrelle Willis   L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167

@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Camp          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Steve Carlton      L   8   1   0   0   0   2   0   2   0   0   0  .125  .300  .125 
+Mark Davis         L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Dave Dravecky      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pete Falcone       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Knepper        L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Jerry Koosman      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Krukow        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dennis Lamp        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Tim Leary          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Craig McMurtry     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Larry McWilliams   L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Dickie Noles       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Price          L   4   2   2   0   0   0   0   2   0   0   0  .500  .500 1.000 
+Jerry Reuss        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Rick Rhoden        R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Don Sutton         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Tudor         L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Pat Zachry         R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800

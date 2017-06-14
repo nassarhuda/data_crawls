@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jerry Augustine    L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Vida Blue          L   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Bert Blyleven      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ken Brett          L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mike Caldwell      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Buzz Capra         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pat Dobson         R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dennis Eckersley   R   8   2   1   0   0   1   0   5   0   0   0  .250  .333  .375 
+Dock Ellis         R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Mark Fidrych       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Fitzmorris      R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Wayne Garland      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Ross Grimsley      L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Ron Guidry         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Paul Hartzell      R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Ken Holtzman       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Catfish Hunter     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jim Kern           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Kravec         L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Langford      R   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Dennis Leonard     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dennis Martinez    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jim Palmer         R   6   1   1   0   0   0   0   2   0   1   0  .167  .167  .333 
+Dave Roberts       L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Nolan Ryan         R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Paul Splittorff    L  11   5   1   0   0   0   0   1   0   1   0  .455  .455  .545 
+Frank Tanana       L  10   2   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Jim Umbarger       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Rick Waits         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Geoff Zahn         L   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429

@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Benton       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Guy Bush           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ownie Carroll      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Watty Clark        L   7   2   1   0   0   0   0   5   0   0   0  .286  .286  .429 
+Paul Derringer     R   6   2   0   1   0   1   0   2   0   1   0  .333  .429  .667 
+Larry French       L  13   3   3   0   0   1   0   2   0   0   0  .231  .286  .462 
+Burleigh Grimes    R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Jesse Haines       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Si Johnson         R  10   1   0   0   0   1   1   4   0   0   0  .100  .182  .100 
+Ray Kolp           R   5   1   0   0   0   1   0   0   0   2   0  .200  .333  .200 i
+Dolf Luque         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pat Malone         R   8   0   0   0   0   1   0   3   0   0   0  .000  .111  .000 
+Heinie Meine       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Jack Ogden         R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Jack Scott         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Socks Seibold      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Bob Smith          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Glenn Spencer      R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 i
+Steve Swetonic     R   8   1   0   0   0   2   0   1   0   0   0  .125  .300  .125 
+Bill Swift         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lon Warneke        R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000

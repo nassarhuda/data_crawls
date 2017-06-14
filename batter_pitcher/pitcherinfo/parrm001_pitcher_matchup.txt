@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Brandon Backe      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Ryan Dempster      R   3   2   1   1   0   1   0   1   0   0   0  .667  .750 1.667 
+Zach Duke          L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jon Garland        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Derek Lowe         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Todd Wellemeyer    R   4   0   0   0   0   1   0   2   1   0   0  .000  .333  .000

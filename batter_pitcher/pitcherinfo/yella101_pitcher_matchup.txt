@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 i
+Eddie Cicotte      R   9   0   0   0   0   1   0   0   0   1   0  .000  .100  .000 i
+Fritz Coumbe       L  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Dave Danforth      L   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 i
+Rube Foster        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bert Gallia        R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Walter Johnson     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dutch Leonard      L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+G. Lowdermilk      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Carl Mays          R  13   0   0   0   0   1   0   3   0   0   0  .000  .071  .000 i
+George Mogridge    L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Tom Rogers         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Babe Ruth          L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Bob Shawkey        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Urban Shocker      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Allen Sothoron     R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000

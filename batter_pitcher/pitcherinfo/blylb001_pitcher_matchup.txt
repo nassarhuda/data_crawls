@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Vida Blue          L   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Bobby Bolin        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Steve Carlton      L  11   1   0   0   0   0   0   6   0   2   0  .091  .091  .091 
+Casey Cox          R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Ray Culp           R   5   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Pat Dobson         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dick Drago         R  14   2   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Nino Espinosa      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rollie Fingers     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ross Grimsley      L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Tom Hausman        R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Ken Holtzman       L   9   2   0   0   0   0   0   2   0   2   0  .222  .222  .222 
+Burt Hooton        R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Gerry Janeski      R   5   1   0   0   0   0   0   4   0   1   0  .200  .200  .200 
+Steve Kline        R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Darold Knowles     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kevin Kobel        L   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Mike LaCoss        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dennis Lamp        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Skip Lockwood      R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Rudy May           L  13   1   0   0   0   0   0   5   0   0   0  .077  .077  .077 
+Denny McLain       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Andy Messersmith   R  10   2   0   0   0   1   0   4   0   2   0  .200  .273  .200 
+Tom Murphy         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Joe Niekro         R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Phil Niekro        R  12   3   1   0   0   0   0   3   0   0   0  .250  .250  .333 
+Blue Moon Odom     R   3   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Jim Palmer         R   1   0   0   0   0   1   0   1   0   3   0  .000  .500  .000 
+Frank Pastore      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Marty Pattin       R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Gaylord Perry      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Rick Reuschel      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jerry Reuss        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Steve Rogers       R   9   1   0   0   0   0   0   4   0   1   0  .111  .111  .111 
+Jim Rooker         L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dick Ruthven       R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Scott Sanderson    R   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 
+Dan Schatzeder     L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Mel Stottlemyre    R  10   3   0   0   0   0   0   3   0   0   0  .300  .300  .300 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Sutton         R   6   1   0   0   0   0   0   4   0   1   0  .167  .167  .167 
+Craig Swan         R   9   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 
+Wayne Twitchell    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Wilbur Wood        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Clyde Wright       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

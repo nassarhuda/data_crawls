@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Vida Blue          L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Britt Burns        L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Mike Caldwell      L   9   2   0   0   0   3   0   0   0   0   0  .222  .417  .222 
+Dennis Eckersley   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chico Escarrega    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Flanagan      L   5   1   1   0   0   2   0   0   0   0   0  .200  .429  .400 
+Jerry Garvin       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry Gura         L   9   5   1   0   0   2   0   0   0   1   0  .556  .636  .667 
+Andy Hassler       L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Brad Havens        L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Rick Honeycutt     L  12   3   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bruce Hurst        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mike Jones         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jerry Koosman      L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Rick Langford      R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Dennis Leonard     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Randy Lerch        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jon Matlack        L   8   3   0   0   0   3   0   0   0   0   0  .375  .545  .375 
+Rudy May           L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob McClure        L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Scott McGregor     L   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doc Medich         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Angel Moreno       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jack O'Connor      L   6   4   1   0   0   1   0   0   0   0   0  .667  .714  .833 
+Paul Splittorff    L  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bob Stanley        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Frank Tanana       L  16   4   1   0   0   1   0   1   0   0   0  .250  .294  .313 
+Steve Trout        L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+John Tudor         L   8   1   0   0   0   2   0   4   0   0   0  .125  .300  .125 
+Tom Underwood      L   5   0   0   0   0   1   1   0   0   0   0  .000  .167  .000 
+Rick Waits         L   8   4   1   0   0   1   0   0   0   2   0  .500  .556  .625 
+Jim Wright         R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Geoff Zahn         L  11   0   0   0   0   1   0   1   0   0   0  .000  .083  .000

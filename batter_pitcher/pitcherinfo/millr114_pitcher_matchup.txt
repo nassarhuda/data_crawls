@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 i
+Bill Bailey        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Mordecai Brown     R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Dave Davenport     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Happy Finneran     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Pete Henning       R   6   3   1   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Elmer Knetzer      R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+George LeClair     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George McConnell   R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Gene Packard       L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Mike Prendergast   R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 i
+Frank Smith        R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Charlie Young      R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i

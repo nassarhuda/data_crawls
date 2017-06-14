@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Appleton      R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Julio Bonetti      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clint Brown        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Sugar Cain         R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+George Caster      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ken Chase          L   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 i
+Jimmie DeShong     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Bill Dietrich      R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 i
+George Earnshaw    R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Wes Ferrell        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Lefty Grove        L   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 i
+Oral Hildebrand    R   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Vern Kennedy       R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Thornton Lee       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Dutch Leonard      R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pat Malone         R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Johnny Marcum      R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Lynn Nelson        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bobo Newsom        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+F. Ostermueller    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Rigney      R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Buck Ross          R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Red Ruffing        R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Eddie Smith        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Stewart      L   4   0   0   0   0   0   0   1   1   0   0  .000  .200  .000 i
+Les Tietje         R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+John Whitehead     R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jack Wilson        R   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 i

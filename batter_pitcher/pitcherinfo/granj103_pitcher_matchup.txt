@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jim Bagby          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Don Black          R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Tiny Bonham        R   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hank Borowy        R  12   2   0   0   0   2   1   4   0   0   0  .167  .286  .167 
+Tommy Bridges      R  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 
+Spud Chandler      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Russ Christopher   R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Chubby Dean        L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+Bill Dietrich      R   4   2   0   0   1   1   0   0   0   0   0  .500  .600 1.250 i
+Atley Donald       R   9   3   0   1   0   1   0   3   0   0   0  .333  .400  .556 i
+Jesse Flores       R   3   3   0   1   0   0   0   0   1   0   0 1.000 1.000 1.667 i
+Denny Galehouse    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Orval Grove        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Tex Hughson        R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Jack Kramer        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dutch Leonard      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eddie Lopat        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Lou Lucier         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bob Muncrief       R  11   4   0   0   1   0   0   2   0   0   0  .364  .364  .636 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Sundra       R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 i
+Yank Terry         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dizzy Trout        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Butch Wensloff     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hal White          R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Roger Wolff        R  10   2   0   0   0   1   0   2   0   0   0  .200  .273  .200 i
+Early Wynn         R  11   3   2   0   0   0   0   2   0   0   0  .273  .273  .455 i
+Bill Zuber         R   5   1   0   0   0   3   0   2   0   0   0  .200  .500  .200 i

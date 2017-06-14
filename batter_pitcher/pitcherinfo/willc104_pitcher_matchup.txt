@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Conley        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Don Drysdale       R  13   0   0   0   0   0   0   8   0   2   0  .000  .000  .000 
+Turk Farrell       R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Don Ferrarese      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Paul Giel          R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Glen Hobbie        R  17   1   0   0   0   1   0   7   0   1   0  .059  .111  .059 
+Jay Hook           R   6   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Larry Jackson      R   6   1   0   0   0   1   0   4   0   0   0  .167  .286  .167 
+Sam Jones          R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ron Kline          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Vern Law           R   8   2   0   1   0   0   0   3   0   1   0  .250  .250  .500 
+Art Mahaffey       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Maloney        R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Juan Marichal      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike McCormick     L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Stu Miller         R   7   1   1   0   0   0   0   4   0   1   0  .143  .143  .286 
+Seth Morehead      L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Don Newcombe       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jim O'Toole        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bob Purkey         R  12   1   1   0   0   1   0   5   0   0   0  .083  .154  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Robin Roberts      R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Ray Sadecki        L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jack Sanford       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Larry Sherry       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Red Witt           R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

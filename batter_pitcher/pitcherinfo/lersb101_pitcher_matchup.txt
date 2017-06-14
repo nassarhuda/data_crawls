@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Billingham    R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Bill Bonham        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gary Gentry        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Don Gullett        L   3   2   0   0   0   2   0   0   0   0   0  .667  .800  .667 
+Bruce Kison        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Carl Morton        R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Ron Reed           R   7   1   0   0   0   0   0   4   0   1   0  .143  .143  .143 
+Dave Roberts       L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Nolan Ryan         R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Mike Torrez        R   5   0   0   0   0   1   0   1   1   0   0  .000  .286  .000

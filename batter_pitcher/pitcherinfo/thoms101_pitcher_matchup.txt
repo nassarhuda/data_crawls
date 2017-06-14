@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Harper       L   4   2   0   1   0   1   0   0   0   0   0  .500  .600 1.000 i
+Marty McHale       R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Guy Morton         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Babe Ruth          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Bob Shawkey        R   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 
+Ernie Shore        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Alexander     R  11   3   1   0   0   1   0   3   0   0   0  .273  .333  .364 
+Red Ames           R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 i
+Jesse Barnes       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+G. Baumgardner     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Rube Benton        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Wilbur Cooper      L   4   1   0   1   0   1   0   1   0   0   0  .250  .400  .750 i
+Al Demaree         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Doak          R  13   1   0   0   0   1   0   1   0   0   0  .077  .143  .077 i
+Vean Gregg         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Claude Hendrix     R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Elmer Jacobs       R   2   1   0   0   0   1   0   0   1   0   0  .500  .750  .500 i
+Joe Lake           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Al Mamaux          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Roy Mitchell       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+George Mullin      R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Art Nehf           L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Buck O'Brien       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Joe Oeschger       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pol Perritt        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Powell        R   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400 i
+Mike Prendergast   R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Mike Regan         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eppa Rixey         L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 i
+Hank Robinson      L   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+Dick Rudolph       R  13   5   0   0   0   0   0   2   0   0   0  .385  .385  .385 i
+Pete Schneider     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ferdie Schupp      L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Bill Sherdel       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Fred Toney         R   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 i
+Hippo Vaughn       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ed Walsh           R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Smoky Joe Wood     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i

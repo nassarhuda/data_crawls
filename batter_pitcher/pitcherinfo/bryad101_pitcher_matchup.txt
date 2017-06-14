@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Woodie Fryman      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Joe Hoerner        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerry Koosman      L   5   1   0   0   0   1   1   0   0   0   0  .200  .333  .200 
+Jim Merritt        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+George Stone       L   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143

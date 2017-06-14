@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Sean Burnett       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Nathan Eovaldi     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Matt Garza         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Clay Hensley       R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Josh Johnson       R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+John Lannan        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Cliff Lee          L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ricky Nolasco      R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Anibal Sanchez     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Chien-Ming Wang    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Chris Young        R   5   1   1   0   0   1   1   3   0   0   0  .200  .333  .400

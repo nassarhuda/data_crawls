@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Hooks Dauss        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Red Faber          R   7   1   1   0   0   1   0   1   0   1   0  .143  .250  .286 
+Dickey Kerr        L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Carl Mays          R   7   0   0   0   0   2   0   4   0   1   0  .000  .222  .000 i
+Scott Perry        R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Jack Quinn         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Urban Shocker      R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Dazzy Vance        R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Elam Vangilder     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Roy Wilkinson      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i

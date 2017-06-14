@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Brandt          L   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Jumbo Brown        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Clay Bryant        R   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 i
+Curt Davis         R   6   2   1   0   0   0   0   0   0   1   0  .333  .333  .500 
+Paul Derringer     R   6   2   1   1   0   0   0   2   0   0   0  .333  .333  .833 
+Carl Hubbell       L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Hank Johnson       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Chad Kimsey        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Lee           R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bill Lohrman       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bill McGee         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Whitey Moore       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Hugh Mulcahy       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tot Pressnell      R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 i
+Jim Tobin          R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Jim Weaver         R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125

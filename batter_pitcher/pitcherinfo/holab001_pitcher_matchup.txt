@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Capuano      L   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Carlos Carrasco    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Danny Duffy        L   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kelvin Herrera     R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Corey Kluber       R   8   3   0   0   0   0   0   3   0   0   0  .375  .375  .375 
+Tom Milone         L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+David Price        L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Jose Quintana      L  11   2   0   0   0   1   0   2   0   0   1  .182  .231  .182 
+Chris Sale         L   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Chris Tillman      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+C.J. Wilson        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

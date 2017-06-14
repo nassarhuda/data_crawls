@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Virgil Barnes      R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Larry Benton       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ted Blankenship    R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Bullet Joe Bush    R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Stan Coveleski     R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Howard Ehmke       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Red Faber          R   8   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Jesse Haines       R   7   1   0   0   0   1   0   3   0   1   0  .143  .250  .143 i
+Bob Hasty          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Fred Heimach       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Carmen Hill        R   7   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Walter Johnson     R   9   2   0   0   0   0   0   6   0   0   0  .222  .222  .222 i
+Ray Kolp           R   5   1   0   0   0   0   0   1   0   2   0  .200  .200  .200 
+Dixie Leverett     R   7   1   0   0   0   0   0   5   0   1   0  .143  .143  .143 i
+Ted Lyons          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jakie May          L   3   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 i
+Carl Mays          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Doug McWeeny       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+George Mogridge    L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Rollie Naylor      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Osborn         R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Herb Pennock       L   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jesse Petty        L   6   1   0   0   0   1   0   2   0   2   0  .167  .286  .167 
+Herman Pillette    R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Eppa Rixey         L   4   1   0   0   0   1   0   3   0   1   0  .250  .400  .250 
+C. Robertson       R  10   3   1   0   0   0   0   3   0   0   0  .300  .300  .400 
+Eddie Rommel       R   8   2   1   0   0   0   0   3   0   2   0  .250  .250  .375 i
+Joe Shaute         L   3   1   1   0   0   0   0   1   0   2   0  .333  .333  .667 i
+Urban Shocker      R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Sloppy Thurston    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+George Uhle        R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Ernie Wingard      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333

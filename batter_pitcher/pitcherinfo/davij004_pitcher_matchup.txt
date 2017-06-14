@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doug Davis         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Tom Glavine        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Leiter          L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Andy Pettitte      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dontrelle Willis   L  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Randy Wolf         L   9   2   0   0   0   1   0   3   0   0   0  .222  .300  .222

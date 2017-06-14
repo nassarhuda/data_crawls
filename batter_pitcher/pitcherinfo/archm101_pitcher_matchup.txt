@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Baumgartner   L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Dennis Burns       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bullet Joe Bush    R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Bert Cole          L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Rip Collins        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dave Danforth      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Hooks Dauss        R   6   5   0   1   0   0   0   0   0   0   0  .833  .833 1.167 i
+Howard Ehmke       R  12   2   0   0   0   1   0   1   0   0   0  .167  .231  .167 i
+Alex Ferguson      R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 i
+Curt Fullerton     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Sam Gray           R   8   4   1   0   0   2   0   1   1   0   0  .500  .636  .625 i
+Slim Harriss       R   2   2   0   0   0   2   0   0   0   0   0 1.000 1.000 1.000 i
+Walter Johnson     R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 i
+Sad Sam Jones      R   4   1   0   0   0   2   0   0   0   1   0  .250  .500  .250 i
+Firpo Marberry     R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Curly Ogden        R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 i
+Herb Pennock       L   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 i
+Bill Piercy        R   6   5   1   0   0   0   0   0   0   0   0  .833  .833 1.000 i
+Jack Quinn         R   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 i
+Eddie Rommel       R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Shaute         L   9   2   1   0   0   0   0   2   0   0   0  .222  .222  .333 i
+Urban Shocker      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Lil Stoner         R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 i
+George Uhle        R  14   3   0   0   0   1   0   4   0   0   0  .214  .267  .214 i
+Earl Whitehill     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tom Zachary        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Paul Zahniser      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i

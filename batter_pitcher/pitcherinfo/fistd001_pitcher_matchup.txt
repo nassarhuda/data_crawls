@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cole Hamels        L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Kyle Kendrick      R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Tom Koehler        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mat Latos          R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+F. Liriano         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Julio Teheran      R   3   1   1   0   0   0   0   2   0   2   0  .333  .333  .667 
+Matt Wisler        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bonham        R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Steve Carlton      L  17   3   1   0   0   2   0   6   0   0   0  .176  .263  .235 
+Dock Ellis         R   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000 
+Don Gullett        L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bill Hands         R   6   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Burt Hooton        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Fergie Jenkins     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Balor Moore        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Milt Pappas        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Reynolds       L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Ray Sadecki        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

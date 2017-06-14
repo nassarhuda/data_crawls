@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Gibson         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jerry Koosman      L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Jim Maloney        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Joe Niekro         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lowell Palmer      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+George Stone       L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250

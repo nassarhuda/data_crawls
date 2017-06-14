@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   6   4   0   0   0   1   0   1   0   1   0  .667  .714  .667 i
+Eddie Cicotte      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hooks Dauss        R  10   2   0   0   0   1   0   0   0   0   0  .200  .273  .200 
+Bob Groom          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ernie Koob         L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Carl Mays          R   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000 i
+Eddie Plank        L   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Ernie Shore        R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Allen Sothoron     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

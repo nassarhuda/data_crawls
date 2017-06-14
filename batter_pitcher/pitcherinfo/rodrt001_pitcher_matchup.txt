@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Shawn Boskie       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Haney        L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Pat Hentgen        R   6   3   0   0   1   0   0   1   0   0   0  .500  .500 1.000 
+Jose Parra         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

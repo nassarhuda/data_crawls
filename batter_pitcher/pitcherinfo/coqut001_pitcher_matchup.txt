@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A.J. Burnett       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+S. Hitchcock       L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+David Wells        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

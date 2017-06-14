@@ -1,0 +1,66 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Aardsma      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Matt Albers        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bronson Arroyo     R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Scott Baker        R   6   2   0   1   0   1   0   1   0   0   0  .333  .429  .667 
+Brian Bass         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Miguel Batista     R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Josh Beckett       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jason Berken       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Nick Blackburn     R   6   2   1   0   1   1   0   0   0   0   0  .333  .429 1.000 
+Jeremy Bonderman   R   9   2   0   0   0   1   0   4   0   0   0  .222  .300  .222 
+Chris Britton      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+A.J. Burnett       R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Paul Byrd          R  15   9   1   1   0   2   0   0   0   0   0  .600  .647  .800 
+Daniel Cabrera     R   5   2   0   0   0   0   0   1   1   0   0  .400  .500  .400 
+D.J. Carrasco      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joba Chamberlain   R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Jesse Crain        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Ryan Dempster      R   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+R.A. Dickey        R   7   4   2   0   0   0   0   1   0   0   0  .571  .571  .857 
+Adam Eaton         R   6   4   0   0   0   0   0   1   0   0   0  .667  .667  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Feldman      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Gavin Floyd        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+A. Galarraga       R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Sean Gallagher     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jon Garland        R  12   4   0   0   0   1   0   1   1   0   0  .333  .429  .333 
+Matt Garza         R  20   3   1   0   0   1   0   4   0   0   1  .150  .182  .200 
+Jason Grilli       R   4   2   0   2   0   0   0   1   0   0   0  .500  .500 1.500 
+Jeremy Guthrie     R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Roy Halladay       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jason Hammel       R   7   4   1   1   0   2   0   1   0   0   0  .571  .667 1.000 
+Tommy Hanson       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Felix Hernandez    R   9   5   2   0   0   0   0   0   0   0   0  .556  .556  .778 
+J.P. Howell        L   5   4   0   0   0   0   0   0   0   1   0  .800  .800  .800 
+Tim Hudson         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Phil Hughes        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tommy Hunter       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Edwin Jackson      R  15   6   0   0   0   3   0   4   0   0   0  .400  .500  .400 
+Jim Johnson        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Todd Jones         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Lackey        R  10   4   1   0   0   4   0   2   0   0   0  .400  .571  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nick Masset        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+D. Matsuzaka       R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Brandon McCarthy   R   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Luis Mendoza       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Kevin Millwood     R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Sergio Mitre       R   6   4   0   1   0   1   0   2   0   0   0  .667  .714 1.000 
+Bud Norris         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Vicente Padilla    R   8   4   2   0   0   1   0   0   0   0   0  .500  .556  .750 
+Carl Pavano        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Mike Pelfrey       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Darrell Rasner     R   8   2   0   1   0   0   0   0   1   0   0  .250  .333  .500 
+David Robertson    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Josh Rupe          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jae Weong Seo      R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+James Shields      R  20   3   1   1   0   0   0   2   0   1   0  .150  .150  .300 
+Carlos Silva       R  12   4   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Kevin Slowey       R   4   2   1   0   0   0   0   0   1   0   0  .500  .600  .750 
+Andy Sonnanstine   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Javier Vazquez     R  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Justin Verlander   R   8   3   0   1   1   0   0   3   0   1   0  .375  .375 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Edinson Volquez    R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Jered Weaver       R   6   3   0   1   0   0   0   0   0   0   0  .500  .500  .833

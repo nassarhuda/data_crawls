@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bullet Joe Bush    R   8   0   0   0   0   0   0   5   0   2   0  .000  .000  .000 i
+Eddie Cicotte      R  17   4   1   0   0   1   0   3   0   0   0  .235  .278  .294 i
+Fritz Coumbe       L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Stan Coveleski     R  14   2   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Red Faber          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ray Fisher         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Bert Gallia        R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+Walter Johnson     R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 i
+Dutch Leonard      L   6   1   0   0   0   1   0   4   0   2   0  .167  .286  .167 i
+Marty McHale       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Herb Pennock       L   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Eddie Plank        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Babe Ruth          L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 i
+Jim Scott          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jim Shaw           R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Bob Shawkey        R   7   2   0   1   0   0   0   3   0   1   0  .286  .286  .571 i
+Ernie Shore        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Jack Warhop        R   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 i
+Mellie Wolfgang    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A.J. Burnett       R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Matt Morris        R   3   1   1   0   0   2   0   1   0   0   0  .333  .600  .667 
+J. Simontacchi     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

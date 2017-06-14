@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mort Cooper        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Davis         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Gerheauser      L   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Max Lanier         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Lee           R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

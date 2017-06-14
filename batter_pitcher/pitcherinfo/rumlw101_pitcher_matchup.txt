@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Coveleski    L   9   3   0   1   0   1   0   0   0   0   0  .333  .400  .556 i
+Ray Fisher         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Rube Foster        R   7   1   0   0   0   0   0   3   1   0   0  .143  .250  .143 i
+Vean Gregg         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dutch Leonard      L   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 i
+Willie Mitchell    L   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Herb Pennock       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Eddie Plank        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Babe Ruth          L   8   1   0   1   0   1   0   2   0   0   0  .125  .222  .375 i
+Bob Shawkey        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i

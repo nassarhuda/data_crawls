@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rex Barney         R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Dick Barrett       R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Joe Beggs          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ralph Branca       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Al Brazle          L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Paul Derringer     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Dockins     L   5   1   0   0   0   0   0   0   0   2   0  .200  .200  .200 
+Harry Gumbert      R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Earl Harrist       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Heusser         R  13   2   0   0   0   0   0   2   0   1   0  .154  .154  .154 
+Al Javery          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Clyde King         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Cliff Melton       L   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 i
+Rene Monteagudo    L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ewald Pyle         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Elmer Riddle       R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Schoolboy Rowe     R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Hal Schumacher     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Vito Tamulis       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Voiselle      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bucky Walters      R  18   4   0   0   0   2   0   2   0   0   0  .222  .300  .222 
+Les Webber         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

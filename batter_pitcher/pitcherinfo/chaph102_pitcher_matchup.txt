@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willie Adams       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Fred Anderson      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bill Bailey        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Chief Bender       R   6   2   0   1   0   0   0   1   0   1   0  .333  .333  .667 
+Jim Bluejacket     R   6   1   0   0   0   2   0   1   0   1   0  .167  .375  .167 i
+Nick Cullop        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Walt Dickson       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Cy Falkenberg      R  15   2   0   0   0   3   0   0   0   0   0  .133  .278  .133 i
+Vean Gregg         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bunny Hearn        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Claude Hendrix     R  11   4   0   0   0   0   0   1   1   0   0  .364  .417  .364 i
+Pete Henning       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Rankin Johnson     R   8   2   0   0   0   2   0   0   0   0   0  .250  .400  .250 i
+Chief Johnson      R   7   1   1   0   0   0   0   0   0   1   0  .143  .143  .286 i
+Walter Johnson     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Katsy Keifer       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Elmer Knetzer      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Gene Krapp         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Erv Lange          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+George LeClair     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Maxwell       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+R. McConnaughey    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Earl Moore         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Harry Moran        L   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Earl Moseley       R  13   2   0   0   0   3   0   0   0   0   0  .154  .313  .154 i
+Mike Prendergast   R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Jack Quinn         R  11   2   0   0   0   0   0   0   0   1   0  .182  .182  .182 i
+Al Schulz          L   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 i
+Tom Seaton         R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 i
+George Suggs       R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 i
+Doc Watson         L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

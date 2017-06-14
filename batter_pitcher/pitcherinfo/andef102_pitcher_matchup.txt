@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Joe Beggs          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Harry Brecheen     L   9   4   1   0   0   0   0   0   0   0   0  .444  .444  .556 
+Bob Chipman        L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mort Cooper        R   5   2   0   0   1   1   1   1   0   0   0  .400  .500 1.000 
+Murry Dickson      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Heintzelman    L  11   1   1   0   0   1   1   0   0   0   0  .091  .167  .182 
+Ed Heusser         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Johnny Humphries   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Si Johnson         R   3   1   0   0   0   0   0   0   1   1   0  .333  .500  .333 
+Bob Joyce          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Oscar Judd         L   6   2   0   0   0   2   1   2   0   0   0  .333  .500  .333 
+Dave Koslo         L   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Emil Kush          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dick Mulligan      L   2   1   0   0   0   1   1   0   0   1   0  .500  .667  .500 
+F. Ostermueller    L   4   3   0   0   0   0   0   0   0   1   0  .750  .750  .750 
+Claude Passeau     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Pollet       L   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+K. Raffensberger   L   6   1   0   0   0   1   1   0   0   0   0  .167  .286  .167 
+Preacher Roe       L  10   4   1   0   0   0   0   0   0   0   0  .400  .400  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Sain        R   6   4   2   0   0   1   1   0   0   1   0  .667  .714 1.000 
+Johnny Schmitz     L  11   0   0   0   0   1   0   4   0   0   0  .000  .083  .000 
+Clyde Shoun        L   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Warren Spahn       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Trinkle        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Voiselle      R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Lefty Wallace      L   5   1   1   0   0   1   1   0   1   1   0  .200  .429  .400 
+Bucky Walters      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hank Wyse          R   6   2   0   0   0   1   1   1   0   0   0  .333  .429  .333

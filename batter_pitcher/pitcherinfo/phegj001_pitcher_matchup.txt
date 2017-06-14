@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Alburquerque    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cam Bedrosian      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Mark Buehrle       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wei-Yin Chen       L   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Wade Davis         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ross Detwiler      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Michael Fiers      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Doug Fister        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Matt Garza         R   5   2   0   0   2   1   0   2   0   0   0  .400  .500 1.600 
+Chi Chi Gonzalez   R   6   2   1   0   1   0   0   0   0   0   0  .333  .333 1.000 
+J.A. Happ          L  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 
+J. Hellickson      R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Liam Hendriks      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Luke Hochevar      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ubaldo Jimenez     R   4   3   1   0   0   2   0   0   0   0   0  .750  .833 1.000 
+Nathan Karns       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Scott Kazmir       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dallas Keuchel     L  10   3   1   0   0   0   0   0   0   0   0  .300  .300  .400 
+Corey Kluber       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hiroki Kuroda      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nick Martinez      R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Zach McAllister    R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Wade Miley         L   5   2   1   0   0   1   0   3   0   0   0  .400  .500  .600 
+Mike Pelfrey       R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Rick Porcello      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+David Price        L   9   1   0   0   1   1   0   0   0   0   0  .111  .200  .444 
+Evan Reed          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+CC Sabathia        L   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Danny Salazar      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jeff Samardzija    R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Anibal Sanchez     R   9   3   0   0   1   1   0   2   0   0   0  .333  .400  .667 
+Hector Santiago    L   5   3   1   0   1   1   0   1   0   0   0  .600  .667 1.400 
+Max Scherzer       R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+James Shields      R  10   2   1   0   1   0   0   2   0   0   0  .200  .200  .600 
+Drew Smyly         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

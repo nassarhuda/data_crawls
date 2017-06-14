@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Gibbon         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Hendley        L   7   3   0   0   1   0   0   2   0   0   0  .429  .429  .857 
+Joey Jay           R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Bob Miller         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Billy O'Dell       L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jim Owens          R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Bob Purkey         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ray Sadecki        L   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 
+Chris Short        L   3   1   0   0   0   1   0   2   0   1   0  .333  .500  .333

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Borbon       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Caldwell      L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+John Candelaria    L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Doug Capilla       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Buzz Capra         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Carlton      L   6   2   0   0   1   1   0   1   0   0   0  .333  .429  .833 
+Clay Carroll       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Mike Flanagan      L   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Tom Griffin        R   8   1   0   0   0   2   0   3   0   1   0  .125  .300  .125 
+Ron Guidry         L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Don Gullett        L   6   1   0   0   1   3   0   1   0   0   0  .167  .444  .667 
+Larry Gura         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Charlie Hough      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tommy John         L  16   0   0   0   0   1   0   2   0   0   0  .000  .059  .000 
+Jerry Koosman      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Randy Lerch        L   7   2   0   0   1   0   0   2   0   0   1  .286  .250  .714 
+Jon Matlack        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Scott McGregor     L   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Phil Niekro        R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Fred Norman        L   8   1   0   0   1   0   0   2   0   0   0  .125  .125  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Claude Osteen      L   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Bob Owchinko       L   7   1   0   0   1   0   0   2   0   0   0  .143  .143  .571 
+Doug Rau           L  14   4   1   0   0   0   0   1   1   0   0  .286  .333  .357 
+Ron Reed           R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jerry Reuss        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jim Rooker         L   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Bob Shirley        L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Paul Siebert       L   6   5   2   0   0   0   0   0   0   0   0  .833  .833 1.167 
+Mike Strahler      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bill Travers       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

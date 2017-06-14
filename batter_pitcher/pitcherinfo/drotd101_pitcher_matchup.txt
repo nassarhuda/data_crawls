@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Cardwell       R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ruben Gomez        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Larry Jackson      R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Sam Jones          R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Clem Labine        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Vern Law           R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Brooks Lawrence    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Stu Miller         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+V. Mizell          L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Nuxhall        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Purkey         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Robin Roberts      R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jack Sanford       R   9   1   0   0   0   0   0   6   0   1   0  .111  .111  .111 
+Warren Spahn       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Stan Williams      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

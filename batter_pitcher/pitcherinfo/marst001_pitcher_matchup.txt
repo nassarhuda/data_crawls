@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L   8   2   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Brian Barnes       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Bullinger      R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Frank Castillo     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Rheal Cormier      L   7   1   0   0   1   0   0   3   0   0   0  .143  .143  .571 
+Jeff Fassero       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Sid Fernandez      L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Mark Gardner       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Tom Glavine        L   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Chris Hammond      L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Butch Henry        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Maddux        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kent Mercker       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Donovan Osborne    L   3   1   0   0   0   0   0   0   1   0   1  .333  .400  .333 
+Bill Pulsipher     L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pete Schourek      L   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+John Smiley        L  12   2   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Zane Smith         L   5   1   1   0   0   0   0   0   0   1   0  .200  .200  .400 
+Mike Stanton       L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000

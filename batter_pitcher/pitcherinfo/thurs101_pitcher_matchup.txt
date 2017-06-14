@@ -1,0 +1,50 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Baumgartner   L   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Larry Benton       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Garland Buckeye    L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bullet Joe Bush    R  11   3   1   0   0   0   0   1   0   1   0  .273  .273  .364 i
+Ben Cantwell       R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ownie Carroll      R  12   5   2   0   0   0   0   0   0   0   0  .417  .417  .583 
+Rip Collins        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Phil Collins       R   9   3   2   0   0   0   0   0   0   1   0  .333  .333  .556 
+Dave Danforth      L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+Hooks Dauss        R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 i
+Dizzy Dean         R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 
+Larry French       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Benny Frey         R   7   2   1   0   0   1   0   0   0   1   0  .286  .375  .429 
+Milt Gaston        R   9   5   1   1   0   1   0   1   0   0   0  .556  .600  .889 i
+Sam Gray           R   7   2   0   0   1   0   0   2   0   0   0  .286  .286  .714 i
+Burleigh Grimes    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Grove        L   8   3   1   0   0   0   0   3   0   0   0  .375  .375  .500 i
+Slim Harriss       R   9   5   1   0   0   0   0   1   0   0   0  .556  .556  .667 i
+Waite Hoyt         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Si Johnson         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Syl Johnson        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Sad Sam Jones      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Tony Kaufmann      R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Red Lucas          R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ted Lyons          R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Jake Miller        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+George Mogridge    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Herb Pennock       L  15   5   0   1   0   0   0   2   0   0   0  .333  .333  .467 i
+Eddie Rommel       R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Charlie Root       R  12   3   0   0   0   0   0   3   0   1   0  .250  .250  .250 i
+Allen Russell      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Socks Seibold      R  11   3   1   0   0   0   0   2   0   0   0  .273  .273  .364 
+Joe Shaute         L  18   4   0   0   0   1   0   0   0   0   0  .222  .263  .222 
+Urban Shocker      R  16   9   0   2   0   1   0   1   0   1   0  .563  .588  .813 i
+Bob Smith          R   9   1   1   0   0   0   0   3   0   1   0  .111  .111  .222 
+Sherry Smith       L  11   3   0   0   1   0   0   0   0   0   0  .273  .273  .545 i
+Lefty Stewart      L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Les Sweetland      L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Tommy Thomas       R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Myles Thomas       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Uhle        R   8   3   1   0   0   1   0   2   0   0   0  .375  .444  .500 i
+Rube Walberg       L   6   1   0   0   0   2   0   2   0   0   0  .167  .375  .167 i
+Bill Walker        L  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Earl Whitehill     L   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 i
+Ernie Wingard      L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Ted Wingfield      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Tom Zachary        L  18   3   2   0   0   1   0   2   0   0   0  .167  .211  .278 i

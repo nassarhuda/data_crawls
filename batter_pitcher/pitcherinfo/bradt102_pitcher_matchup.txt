@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Billingham    R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Dick Bosman        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Brett          L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Joe Coleman        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Crawford       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Cuellar       L   6   1   0   0   0   1   0   1   0   1   0  .167  .286  .167 
+Dick Drago         R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Dock Ellis         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Tom Hall           L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Rich Hand          R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Fergie Jenkins     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Kekich        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Steve Kline        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Doug Konieczny     R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Skip Lockwood      R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mickey Lolich      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jon Matlack        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Rudy May           L   8   2   2   0   0   0   0   3   0   1   0  .250  .250  .500 
+Dave McNally       L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Andy Messersmith   R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Monty Montgomery   R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Blue Moon Odom     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Parsons       R   7   1   0   0   0   0   0   5   0   1   0  .143  .143  .143 
+Marty Pattin       R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jim Perry          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Rooker         L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Ron Schueler       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Tom Seaver         R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+Paul Splittorff    L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Sutton         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Luis Tiant         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Torrez        R   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Rich Troedson      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

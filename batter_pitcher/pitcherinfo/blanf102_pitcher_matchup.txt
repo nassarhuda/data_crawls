@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chief Bender       R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 i
+Joe Benz           R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Joe Boehling       L   7   2   0   1   0   2   0   1   1   0   0  .286  .500  .571 i
+Ray Caldwell       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jack Coombs        R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 i
+Iron Davis         R   4   2   0   0   1   0   0   0   0   1   0  .500  .500 1.250 
+Ray Fisher         R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 i
+Russ Ford          R  11   4   1   0   0   0   0   1   0   0   0  .364  .364  .455 i
+Walter Johnson     R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 i
+Smoky Joe Wood     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Ralph Works        R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000 i

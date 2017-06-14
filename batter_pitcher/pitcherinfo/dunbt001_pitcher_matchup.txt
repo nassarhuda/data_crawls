@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Jim Beattie        R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Juan Berenguer     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bert Blyleven      R   6   0   0   0   0   1   1   1   0   0   0  .000  .143  .000 
+Mike Boddicker     R   5   3   0   0   1   0   0   1   0   0   0  .600  .600 1.200 
+Oil Can Boyd       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Brown        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+John Butcher       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Caudill       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Chris Codiroli     R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Steve Farr         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Aurelio Lopez      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dennis Martinez    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kirk McCaskill     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve McCatty      R   7   1   0   0   0   2   0   1   1   0   0  .143  .400  .143 
+Mike Moore         R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Phil Niekro        R   7   3   0   0   1   3   0   0   0   0   0  .429  .600  .857 
+Dan Petry          R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Dave Rozema        R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Luis Sanchez       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Schrom         R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Don Schulze        R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Mike Smithson      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dave Stieb         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ed Whitson         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Milt Wilcox        R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mike Witt          R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

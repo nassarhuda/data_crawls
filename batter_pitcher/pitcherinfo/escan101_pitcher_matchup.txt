@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Carl Erskine       R   4   1   0   1   0   1   0   3   0   0   0  .250  .400  .750 
+Ruben Gomez        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Jim Hearn          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Billy Loes         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Miller         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250

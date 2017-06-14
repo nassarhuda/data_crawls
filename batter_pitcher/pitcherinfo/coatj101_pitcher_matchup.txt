@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Bowsfield      L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Ray Herbert        R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Jack Kralick       L   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Johnny Kucks       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Marty Kutyna       R   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Bobby Locke        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pedro Ramos        R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Hoyt Wilhelm       R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Early Wynn         R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167

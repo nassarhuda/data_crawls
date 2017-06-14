@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Stan Bahnsen       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gary Bell          R   4   2   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Dick Bosman        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Boswell       R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Bouton         R   6   3   0   0   2   0   0   2   0   0   0  .500  .500 1.500 
+Tom Bradley        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+George Brunet      L   9   1   0   0   0   1   0   4   0   1   0  .111  .200  .111 
+Wally Bunker       R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pete Charton       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Culp           R   6   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Al Downing         L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Eddie Fisher       R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Woodie Fryman      L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Mudcat Grant       R   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jim Hannan         R   3   1   1   0   0   0   0   0   0   2   0  .333  .333  .667 
+Bob Heffner        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Joe Horlen         R  10   5   1   0   0   0   0   0   0   3   0  .500  .500  .600 
+Tommy John         L   3   0   0   0   0   0   0   1   1   1   0  .000  .250  .000 
+Jim Kaat           L   9   2   0   0   0   0   0   3   0   2   1  .222  .200  .222 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Kekich        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Frank Kreutzer     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Locker         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mickey Lolich      L   8   2   1   0   0   0   0   3   0   0   0  .250  .250  .375 
+Denny McLain       R  14   2   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Dave McNally       L   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jim Merritt        L  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Andy Messersmith   R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Morehead      R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Buster Narum       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Blue Moon Odom     R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John O'Donoghue    L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Phil Ortega        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Jim Palmer         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Marty Pattin       R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250 
+Jim Perry          R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Gary Peters        L   9   4   0   0   0   0   0   1   0   1   0  .444  .444  .444 
+Fritz Peterson     L  16   7   3   0   0   0   0   2   0   1   0  .438  .438  .625 
+Tom Phoebus        R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Juan Pizarro       L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Priddy         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pete Richert       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Lee Stange         R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mel Stottlemyre    R   8   2   0   0   0   1   0   4   0   1   0  .250  .333  .250 
+Earl Wilson        R   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Wilbur Wood        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

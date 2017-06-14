@@ -1,0 +1,3 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Hendley        L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Al Jackson         L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400

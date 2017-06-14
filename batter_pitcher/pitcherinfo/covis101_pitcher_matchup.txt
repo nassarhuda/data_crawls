@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Leon Cadore        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Caldwell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Collins        L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Ralph Comstock     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wilbur Cooper      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hod Eller          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Cy Falkenberg      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Rube Marquard      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lee Meadows        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Earl Moseley       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jeff Pfeffer       R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Pete Schneider     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bob Shawkey        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Sherry Smith       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Fred Toney         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

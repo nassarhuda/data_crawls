@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   7   0   0   0   0   3   0   2   0   0   0  .000  .300  .000 
+Elden Auker        R   5   0   0   0   0   3   0   1   0   0   0  .000  .375  .000 i
+Larry Benton       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Ed Brandt          L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Tommy Bridges      R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Guy Bush           R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+George Caster      R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Spud Chandler      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Chase          L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ed Cole            R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Pea Ridge Day      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Feller         R  15   2   0   0   0   8   0   6   0   0   0  .133  .435  .133 
+F. Fitzsimmons     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+George Gill        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Lefty Gomez        L   5   1   1   0   0   2   0   0   0   0   0  .200  .429  .400 
+Lefty Grove        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Jesse Haines       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Hallahan      L   7   5   3   0   0   0   0   1   0   0   0  .714  .714 1.143 
+Mel Harder         R  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 
+Joe Heving         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Oral Hildebrand    R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Carl Hubbell       L   9   2   0   0   1   0   0   1   0   0   0  .222  .222  .556 
+Sad Sam Jones      R   2   1   0   0   0   1   0   0   1   0   0  .500  .750  .500 
+Ray Kolp           R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Lou Koupal         R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Ray Kremer         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Roxie Lawson       R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 i
+Dutch Leonard      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Red Lucas          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dolf Luque         R   7   2   1   0   0   1   0   0   0   0   0  .286  .375  .429 
+Pat Malone         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Firpo Marberry     R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 i
+Johnny Marcum      R   7   1   1   0   0   1   0   1   0   1   0  .143  .250  .286 
+Archie McKain      L   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 i
+Heinie Meine       R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+C. Mitchell        L   8   4   1   1   0   1   0   0   0   0   0  .500  .556  .875 
+Ray Moss           R   5   4   0   0   0   0   0   0   0   0   0  .800  .800  .800 
+Flint Rhem         R   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+Eppa Rixey         L   8   3   1   0   0   1   0   1   0   0   0  .375  .444  .500 i
+Red Ruffing        R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Russell       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Joe Shaute         L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Bill Sherdel       L  10   2   0   0   0   0   0   0   1   0   0  .200  .273  .200 i
+Glenn Spencer      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Sundra       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Bill Walker        L   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 
+Monte Weaver       R   4   2   1   0   1   1   0   0   0   0   0  .500  .600 1.500 i
+Ed Wells           L   6   2   1   1   0   0   0   0   0   0   0  .333  .333  .833 
+Earl Whitehill     L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Whit Wyatt         R   4   3   0   1   0   1   0   0   0   0   0  .750  .800 1.250

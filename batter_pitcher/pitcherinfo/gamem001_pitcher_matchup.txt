@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   4   2   0   0   1   0   0   1   0   0   1  .500  .400 1.250 
+Nick Blackburn     R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Aaron Cook         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Johnny Cueto       R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Jair Jurrjens      R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Kyle Lohse         R   6   1   0   0   1   0   0   2   0   0   0  .167  .167  .667 
+Eric O'Flaherty    L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Carl Pavano        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Anibal Sanchez     R   3   0   0   0   0   0   0   3   1   0   0  .000  .250  .000 
+Anthony Swarzak    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Todd Wellemeyer    R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000

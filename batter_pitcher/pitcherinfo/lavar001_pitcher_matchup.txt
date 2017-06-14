@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Alex Cobb          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Aaron Crow         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jason Hammel       R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Drew Hutchison     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hiroki Kuroda      R   8   1   0   0   0   1   0   4   0   0   0  .125  .222  .125 
+Aaron Laffey       L   2   1   0   0   1   2   0   0   0   0   0  .500  .750 2.000 
+Matt Moore         L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Adam Morgan        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+David Phelps       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+David Price        L   9   2   1   0   0   1   0   4   0   0   0  .222  .300  .333 
+C. Villanueva      R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Jered Weaver       R   7   2   1   0   0   1   0   1   0   0   1  .286  .333  .429 
+Tom Wilhelmsen     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+C.J. Wilson        L   8   0   0   0   0   1   0   4   0   0   0  .000  .111  .000

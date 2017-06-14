@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Buhl           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Bunning        R  11   1   0   0   0   0   0   7   0   1   0  .091  .091  .091 
+Mike Cuellar       L   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Don Drysdale       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Ellsworth     L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Bob Friend         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bob Gibson         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jack Hamilton      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ron Herbel         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ken Holtzman       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pat Jarvis         R   2   0   0   0   0   1   0   2   0   2   0  .000  .333  .000 
+Ken Johnson        R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Cal Koonce         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Sandy Koufax       L  10   1   0   0   0   0   0   7   0   0   0  .100  .100  .100 
+Denny Lemaster     L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Juan Marichal      R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Al McBean          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Don Nottebart      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Claude Osteen      L   5   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Camilo Pascual     R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dennis Ribant      R   7   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Ray Sadecki        L   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Chris Short        L   4   1   0   0   0   1   0   3   0   1   0  .250  .400  .250 
+Tommie Sisk        R   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Warren Spahn       L   5   3   0   0   0   0   0   2   0   1   0  .600  .600  .600 
+Ron Taylor         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Veale          L   9   1   0   0   0   1   0   5   0   0   0  .111  .200  .111

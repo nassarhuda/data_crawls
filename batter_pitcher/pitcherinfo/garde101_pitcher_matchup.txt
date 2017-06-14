@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Baumgardner     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hugh Bedient       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chief Bender       R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Fred Blanding      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ray Collins        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jean Dubuc         R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bob Groom          R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Charley Hall       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Earl Hamilton      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Walter Johnson     R  10   5   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+George Kahler      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Frank Lange        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+George Mogridge    L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Cy Morgan          R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+George Mullin      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Buck O'Brien       R   7   2   0   1   0   0   0   0   0   1   0  .286  .286  .571 i
+Eddie Plank        L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ed Summers         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Doc White          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Smoky Joe Wood     R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ralph Works        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

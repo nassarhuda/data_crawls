@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Blankenship    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dan Boone          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jim Brillheart     L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Bullet Joe Bush    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Stan Coveleski     R   4   1   0   0   0   0   0   1   0   2   0  .250  .250  .250 i
+Mike Cvengros      L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dave Danforth      L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hooks Dauss        R  11   1   1   0   0   0   0   4   0   1   0  .091  .091  .182 i
+Howard Ehmke       R  12   1   0   0   0   0   0   3   0   0   0  .083  .083  .083 
+Eric Erickson      R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Red Faber          R  13   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ray Francis        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Ken Holloway       R   5   2   1   0   1   0   0   2   0   0   0  .400  .400 1.200 i
+Walter Johnson     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Benn Karr          R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Ray Kolp           R   9   0   0   0   0   2   0   6   0   1   0  .000  .182  .000 i
+Jim Lindsey        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+George Mogridge    L   6   2   0   0   1   0   0   2   0   1   0  .333  .333  .833 
+Guy Morton         R  10   1   0   0   0   1   0   1   0   0   0  .100  .182  .100 i
+Red Oldham         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ole Olsen          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Herb Pennock       L   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 i
+Herman Pillette    R   9   5   1   0   0   1   0   1   0   2   0  .556  .600  .667 i
+Jack Quinn         R  12   2   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+C. Robertson       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Allen Russell      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bob Shawkey        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Urban Shocker      R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Sherry Smith       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+George Uhle        R  13   2   0   1   0   1   0   1   0   0   0  .154  .214  .308 i
+Elam Vangilder     R   3   1   1   0   0   0   0   1   1   1   0  .333  .500  .667 i
+Rasty Wright       R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 i
+Tom Zachary        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i

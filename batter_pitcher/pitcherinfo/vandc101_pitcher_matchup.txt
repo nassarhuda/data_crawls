@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bailey        L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Cy Barger          R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Mordecai Brown     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Howie Camnitz      R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Snipe Conley       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Nick Cullop        L   6   1   0   0   0   1   0   0   0   3   0  .167  .286  .167 i
+Claude Hendrix     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Rankin Johnson     R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Chief Johnson      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Henry Keupper      L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Gene Krapp         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Erv Lange          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Earl Moore         R   7   1   1   0   0   0   0   1   0   1   0  .143  .143  .286 
+Gene Packard       L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Mike Prendergast   R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+George Suggs       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Kaiser Wilhelm     R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 i

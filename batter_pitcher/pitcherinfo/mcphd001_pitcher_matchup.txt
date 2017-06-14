@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Baker        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Kris Benson        R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Joe Blanton        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeremy Bonderman   R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Mark Buehrle       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jose Contreras     R   6   2   0   0   2   0   0   3   0   0   0  .333  .333 1.333 
+Ryan Franklin      R   6   4   2   0   0   1   0   0   0   0   0  .667  .714 1.000 
+Freddy Garcia      R   8   1   0   1   0   0   0   4   0   0   0  .125  .125  .375 
+R. Hernandez       R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Tim Hudson         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Casey Janssen      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kameron Loe        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Derek Lowe         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Mike Maroth        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Gil Meche          R  12   3   0   0   1   0   0   3   0   0   0  .250  .250  .500 
+Kevin Millwood     R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Chan Ho Park       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Joel Pineiro       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Brad Radke         R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Aaron Sele         R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carlos Silva       R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+John Smoltz        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jake Westbrook     R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Wood          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Chris Young        R   4   1   1   0   0   1   0   3   0   0   0  .250  .400  .500

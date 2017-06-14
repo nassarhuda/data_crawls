@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Ballard       L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Floyd Bannister    L  11   3   0   0   1   0   0   2   0   0   0  .273  .273  .545 
+John Candelaria    L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Steve Carlton      L   9   1   1   0   0   2   0   3   0   0   1  .111  .250  .222 
+Don Carman         L   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Ray Fontenot       L   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Joe Hesketh        L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Teddy Higuera      L  12   5   0   0   0   2   0   3   0   0   0  .417  .500  .417 
+Bruce Hurst        L   8   3   2   0   1   1   0   1   0   0   0  .375  .444 1.000 
+Danny Jackson      L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Jimmy Key          L   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Paul Kilgus        L   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Eric King          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Knepper        L   5   2   1   1   0   0   0   1   0   0   0  .400  .400 1.000 
+Jerry Koosman      L   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Dave LaPoint       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+C. Leibrandt       L   9   2   1   0   0   1   0   0   0   0   0  .222  .300  .333 
+Larry McWilliams   L   6   1   1   0   0   2   0   0   0   0   0  .167  .375  .333 
+Juan Nieves        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Shane Rawley       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Reuss        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Dan Schatzeder     L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Bryn Smith         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Swindell      L   4   2   2   0   0   0   0   1   0   1   0  .500  .500 1.000 
+Frank Tanana       L   9   1   1   0   0   1   0   0   0   0   0  .111  .200  .222 
+Mark Thurmond      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+John Tudor         L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+F. Valenzuela      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000

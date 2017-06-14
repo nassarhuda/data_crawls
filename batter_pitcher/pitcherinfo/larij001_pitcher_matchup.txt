@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Baker        R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Fausto Carmona     R   8   3   0   0   1   1   0   1   0   0   0  .375  .444  .750 
+Doug Fister        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Zack Greinke       R   7   1   1   0   0   1   0   3   0   0   0  .143  .250  .286 
+Brandon McCarthy   R   2   0   0   0   0   1   0   1   0   0   1  .000  .250  .000 
+Gil Meche          R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Kevin Millwood     R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Joe Nathan         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Jeff Niemann       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sidney Ponson      R   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Ervin Santana      R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Kevin Slowey       R   4   3   0   0   1   1   0   0   0   0   0  .750  .800 1.500 
+Javier Vazquez     R   8   1   1   0   0   0   0   4   0   0   0  .125  .125  .250 
+Jered Weaver       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000

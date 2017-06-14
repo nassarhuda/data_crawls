@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Taylor Buchholz    R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Chris Capuano      L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Matt Chico         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Aaron Cook         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Johnny Cueto       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Doug Davis         L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Tom Glavine        L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Aaron Harang       R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Livan Hernandez    R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Rich Hill          L   1   0   0   0   0   1   0   1   0   2   0  .000  .500  .000 
+Tim Hudson         R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Hong-Chih Kuo      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kyle Lohse         R   5   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Braden Looper      R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Brett Myers        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Anthony Reyes      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Glendon Rusch      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Ben Sheets         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kip Wells          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Carlos Zambrano    R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000

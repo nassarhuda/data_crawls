@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Blanton        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Chris Carpenter    R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ryan Dempster      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Josh Fogg          R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Tom Gorzelanny     L   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Cole Hamels        L   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Rich Harden        R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Livan Hernandez    R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Rich Hill          L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tim Hudson         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Josh Johnson       R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Greg Maddux        R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Paul Maholm        L   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Carlos Marmol      R   4   1   1   0   0   0   0   2   0   1   0  .250  .250  .500 
+Jason Marquis      R   4   1   0   0   0   0   0   1   0   3   0  .250  .250  .250 
+Charlie Morton     R   3   0   0   0   0   1   0   1   0   2   0  .000  .250  .000 
+Russ Ortiz         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Wandy Rodriguez    L  10   1   0   0   0   0   0   6   0   0   0  .100  .100  .100 
+Edinson Volquez    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Adam Wainwright    R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Randy Wells        R   5   1   0   0   0   1   0   3   0   1   0  .200  .333  .200 
+Carlos Zambrano    R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

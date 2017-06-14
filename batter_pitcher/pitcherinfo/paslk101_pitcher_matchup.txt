@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Caldwell      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jamie Easterly     L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Don Gullett        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+J. Johnson         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Ken Kravec         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Frank LaCorte      R   5   0   0   0   0   1   1   1   0   1   0  .000  .167  .000 
+John Montefusco    R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Gary Nolan         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Frank Tanana       L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rich Wortham       L   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Pat Zachry         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Geoff Zahn         L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333

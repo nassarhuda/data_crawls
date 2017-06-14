@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Buster Brown       R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 i
+Gene Dale          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Walt Dickson       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Geyer         R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 i
+Bob Harmon         R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+Pete Henning       R   5   4   2   0   0   0   0   0   0   0   0  .800  .800 1.200 
+Bert Humphries     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bill James         R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+G. Kaiserling      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jimmy Lavender     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Charlie Smith      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eddie Stack        R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Ed Willett         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333

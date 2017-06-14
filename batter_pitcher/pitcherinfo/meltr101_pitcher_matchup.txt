@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Red Barrett        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Harry Brecheen     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mort Cooper        R   7   2   0   0   0   0   0   2   0   1   0  .286  .286  .286 
+Curt Davis         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Derringer     R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Larry French       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Gerheauser      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Al Javery          R   8   1   0   0   0   0   0   3   0   1   0  .125  .125  .125 
+Max Lanier         L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Claude Passeau     R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 i
+Howie Pollet       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+K. Raffensberger   L  14   3   1   0   0   0   0   6   0   0   0  .214  .214  .286 
+Elmer Riddle       R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Preacher Roe       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Rip Sewell         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Clyde Shoun        L   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+Ray Starr          R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+J. Vander Meer     L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bill Voiselle      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

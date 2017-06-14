@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hi Bell            R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Benge          R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Larry Benton       R  12   4   0   0   0   1   0   0   0   0   0  .333  .385  .333 
+Huck Betts         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sheriff Blake      R   4   1   1   0   0   2   0   1   2   0   0  .250  .625  .500 
+Erv Brame          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ed Brandt          L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ben Cantwell       R  10   3   1   0   1   0   0   0   0   0   0  .300  .300  .700 i
+Ownie Carroll      R  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 
+Tiny Chaplin       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Watty Clark        L   9   0   0   0   0   2   0   4   0   1   0  .000  .182  .000 
+Phil Collins       R  10   1   1   0   0   0   0   1   2   0   0  .100  .250  .200 i
+Clise Dudley       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jumbo Elliott      L   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 i
+F. Fitzsimmons     R   7   2   0   0   0   1   0   2   0   1   0  .286  .375  .286 
+Fred Frankhouse    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Burleigh Grimes    R   8   3   0   0   0   0   0   4   0   0   0  .375  .375  .375 
+Carl Hubbell       L   9   3   0   0   1   0   0   1   0   0   0  .333  .333  .667 
+Si Johnson         R  16   5   0   1   0   1   0   3   0   0   0  .313  .353  .438 i
+Syl Johnson        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Kolp           R   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000 i
+Red Lucas          R  16   3   0   0   0   0   0   1   0   0   0  .188  .188  .188 
+Heinie Meine       R   6   1   0   0   1   1   0   0   0   0   0  .167  .286  .667 
+Jim Mooney         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cy Moore           R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Van Mungo          R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+Roy Parmelee       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ray Phelps         R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Flint Rhem         R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Hal Schumacher     R   4   1   0   0   1   1   0   1   1   0   0  .250  .500 1.000 i
+Socks Seibold      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Glenn Spencer      R  10   1   0   0   0   3   0   0   0   0   0  .100  .308  .100 i
+Steve Swetonic     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sloppy Thurston    R  12   6   1   1   0   1   1   1   0   0   0  .500  .538  .750 
+Dazzy Vance        R  10   3   0   0   0   1   0   5   0   0   0  .300  .364  .300 
+Bill Walker        L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Frank Watt         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tom Zachary        L   7   4   2   0   0   0   0   0   1   0   0  .571  .625  .857 i

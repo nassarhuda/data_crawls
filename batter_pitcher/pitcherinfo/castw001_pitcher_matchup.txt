@@ -1,0 +1,3 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Suppan        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Todd Wellemeyer    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Blass        R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Nelson Briles      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ken Holtzman       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerry Johnson      R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Juan Marichal      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim McAndrew       R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Steve Renko        R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Ray Sadecki        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tom Seaver         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ray Washburn       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

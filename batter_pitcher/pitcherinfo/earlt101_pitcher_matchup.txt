@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Barrett       R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Elmer Burkart      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Paul Derringer     R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+F. Fitzsimmons     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tommy Hughes       R   4   0   0   0   0   1   0   1   0   1   0  .000  .200  .000 i
+Hugh Mulcahy       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Johnny Podgajny    R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Howie Pollet       L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 i
+Whit Wyatt         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

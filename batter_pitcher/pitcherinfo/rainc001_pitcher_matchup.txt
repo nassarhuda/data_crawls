@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Davis         L   4   2   0   0   0   1   0   2   0   2   0  .500  .600  .500 
+Jose DeLeon        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bob Forsch         R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Charlie Lea        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tim Lollar         L   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Joe Niekro         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pascual Perez      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Mario Soto         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

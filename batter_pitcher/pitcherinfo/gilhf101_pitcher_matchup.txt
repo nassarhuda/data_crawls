@@ -1,0 +1,59 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Doc Ayers          R  13   2   0   0   0   1   0   1   0   2   0  .154  .214  .154 i
+Jim Bagby          R  33   8   2   1   0   1   0   0   0   1   0  .242  .265  .364 i
+G. Baumgardner     R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+Hugh Bedient       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Joe Benz           R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Bernie Boland      R  17   5   1   0   0   2   0   0   0   0   0  .294  .368  .353 i
+Buster Brown       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bullet Joe Bush    R  32   6   2   1   0   7   0   2   0   0   0  .188  .333  .313 i
+Eddie Cicotte      R  19   3   0   0   0   0   0   3   0   0   0  .158  .158  .158 i
+Wilbur Cooper      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Fritz Coumbe       L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Harry Coveleski    L  13   5   0   0   0   2   0   4   0   0   0  .385  .467  .385 
+Stan Coveleski     R  31   7   0   1   0   3   0   2   0   1   0  .226  .294  .290 i
+Cap Crowell        R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 i
+G. Cunningham      R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 i
+Hooks Dauss        R  20   7   2   0   0   1   0   1   0   2   0  .350  .381  .450 i
+Dave Davenport     R   7   0   0   0   0   1   0   0   0   1   0  .000  .125  .000 i
+Walt Dickson       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jean Dubuc         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eric Erickson      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Rube Foster        R   6   0   0   0   0   1   0   0   0   1   0  .000  .143  .000 i
+Bert Gallia        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bob Geary          R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Earl Hamilton      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Harry Harper       L   7   1   0   0   0   2   0   2   1   0   0  .143  .400  .143 i
+Bill James         R   7   4   0   0   0   2   0   0   0   0   0  .571  .667  .571 i
+Jing Johnson       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Walter Johnson     R  49  10   3   1   0   7   0   3   0   2   0  .204  .304  .306 i
+Sad Sam Jones      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Rudy Kallio        R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 i
+Ed Klepfer         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Dutch Leonard      L  20   4   0   0   0   2   0   0   0   0   0  .200  .273  .200 i
+Carl Mays          R  23   6   1   0   0   3   0   1   0   0   0  .261  .346  .304 i
+George Mogridge    L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Guy Morton         R  13   5   0   1   0   1   0   0   0   0   0  .385  .429  .538 i
+Earl Moseley       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Elmer Myers        R  18   9   0   0   0   1   0   1   0   0   0  .500  .526  .500 i
+Win Noyes          R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 i
+Marty O'Toole      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hub Perdue         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Scott Perry        R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Jack Quinn         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Hank Robinson      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Tom Rogers         R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 i
+Reb Russell        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Babe Ruth          L  27   8   2   0   0   1   0   3   0   0   0  .296  .321  .370 i
+Jim Scott          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jim Shaw           R  17   3   0   0   0   3   0   1   0   0   0  .176  .300  .176 i
+Bob Shawkey        R  12   3   0   0   0   0   0   1   0   2   0  .250  .250  .250 i
+F. Shellenback     R   7   2   0   0   0   2   0   0   0   0   0  .286  .444  .286 i
+Urban Shocker      R  10   4   1   0   0   1   0   1   0   0   0  .400  .455  .500 i
+Allen Sothoron     R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 i
+Ed Willett         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rasty Wright       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Weldon Wyckoff     R   4   1   0   1   0   1   0   0   0   0   0  .250  .400  .750 i

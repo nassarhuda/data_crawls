@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bert Blyleven      R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Tom Bradley        R   6   1   0   0   0   2   1   0   0   0   0  .167  .375  .167 
+Joe Coleman        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry Dierker      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck Dobson       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Steve Dunning      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Fisher       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Fisher        R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Rich Hand          R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Steve Hargan       R   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Bart Johnson       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Murphy         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Joe Niekro         R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Blue Moon Odom     R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Jim Palmer         R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Marty Pattin       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Floyd Weaver       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

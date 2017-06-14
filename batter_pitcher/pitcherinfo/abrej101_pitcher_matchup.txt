@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Si Johnson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Lanning     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Rube Melton        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

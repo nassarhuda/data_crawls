@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hal Carlson        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Milt Gaston        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bump Hadley        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mel Harder         R   3   2   0   0   0   2   0   1   0   0   0  .667  .800  .667 
+Rube Marquard      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jesse Petty        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jimmy Ring         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Eddie Rommel       R   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+Roy Sherid         R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Bob Smith          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+George Uhle        R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Dazzy Vance        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Earl Whitehill     L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i

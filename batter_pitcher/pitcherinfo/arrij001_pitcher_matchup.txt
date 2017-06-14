@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A.J. Burnett       R  10   1   0   0   1   0   0   3   0   0   0  .100  .100  .400 
+A. DeSclafani      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Yovani Gallardo    R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Tim Hudson         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Lackey        R   6   2   0   1   0   0   0   2   0   1   0  .333  .333  .667 
+Kyle Lohse         R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Shelby Miller      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Alex Wood          L   3   0   0   0   0   0   0   3   0   2   0  .000  .000  .000

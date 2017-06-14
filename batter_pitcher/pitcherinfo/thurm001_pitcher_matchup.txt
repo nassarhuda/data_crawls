@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Neil Allen         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Joaquin Andujar    R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+John Denny         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Honeycutt     L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Burt Hooton        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bob Knepper        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Krukow        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Rick Mahler        R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Craig McMurtry     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pascual Perez      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerry Reuss        L   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Mike Scott         R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mario Soto         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+F. Valenzuela      L   8   0   0   0   0   0   0   3   0   2   0  .000  .000  .000

@@ -1,0 +1,50 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+G. Blaeholder      R  12   2   0   0   0   1   0   3   0   0   0  .167  .231  .167 i
+Lloyd Brown        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pat Caraway        L   7   2   1   0   0   0   0   3   0   0   0  .286  .286  .429 
+Ownie Carroll      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dick Coffman       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Rip Collins        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Stan Coveleski     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+General Crowder    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Paul Derringer     R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+George Earnshaw    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Red Faber          R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+Wes Ferrell        R  13   1   0   0   0   0   0   3   0   0   0  .077  .077  .077 i
+Carl Fischer       L   3   2   2   0   0   1   0   1   0   0   0  .667  .750 1.333 i
+Milt Gaston        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Lefty Gomez        L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 i
+Lefty Grove        L  21   3   0   0   0   2   0   8   0   0   0  .143  .217  .143 i
+Bump Hadley        R   7   2   1   0   0   1   0   2   0   0   0  .286  .375  .429 i
+Chief Hogsett      L   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 i
+Waite Hoyt         R  12   2   1   0   0   0   0   4   0   0   0  .167  .167  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willis Hudlin      R  14   3   1   0   0   0   0   6   0   0   0  .214  .214  .286 i
+Hank Johnson       R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 i
+Sad Sam Jones      R  15   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Harry Kinzy        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Hugo Klaerner      R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Ted Lyons          R  22   4   1   0   0   1   0   6   0   2   0  .182  .217  .227 i
+Roy Mahaffey       R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Firpo Marberry     R   7   1   0   1   0   0   0   3   0   0   0  .143  .143  .429 i
+Jim Moore          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hugh Mulcahy       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 i
+Bobo Newsom        R   5   2   0   1   0   1   0   0   0   1   0  .400  .500  .800 i
+F. Ostermueller    L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Monte Pearson      R   3   0   0   0   0   3   0   0   0   0   0  .000  .500  .000 
+Herb Pennock       L   7   1   0   0   0   1   0   4   0   0   0  .143  .250  .143 i
+George Pipgras     R   3   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Dutch Ruether      L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Red Ruffing        R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Vic Sorrell        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Lefty Stewart      L  10   3   1   0   0   1   0   3   0   0   0  .300  .364  .400 i
+Rollie Stiles      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Thomas       R  14   5   0   0   0   0   0   3   0   1   0  .357  .357  .357 i
+Myles Thomas       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+George Uhle        R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Walberg       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Bob Weiland        L   8   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Whitey Wilshere    L   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Whit Wyatt         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i

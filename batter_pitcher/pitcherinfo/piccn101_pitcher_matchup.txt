@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ralph Branca       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ben Chapman        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jack Creel         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Blix Donnelly      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Paul Erickson      R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Hal Gregg          R   9   1   1   0   0   0   0   3   0   0   0  .111  .111  .222 
+Johnny Hutchings   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Jurisich        R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Tom Seats          L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Les Webber         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600

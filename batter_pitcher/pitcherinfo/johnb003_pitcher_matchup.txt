@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Cain          R   7   1   0   0   0   3   0   3   0   0   0  .143  .400  .143 
+Kevin Correia      R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Doug Davis         L   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Jeff Francis       L  11   6   3   0   0   2   0   1   0   0   0  .545  .615  .818 
+Brad Halsey        L   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Cole Hamels        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+D.J. Houlton       R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Matt Kinney        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Noah Lowry         L   7   1   0   0   1   2   0   3   0   0   0  .143  .333  .571 
+Jamie Moyer        L   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Russ Ortiz         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Andy Pettitte      L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Javier Vazquez     R   6   2   1   0   1   0   0   3   0   0   0  .333  .333 1.000 
+Jamey Wright       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167

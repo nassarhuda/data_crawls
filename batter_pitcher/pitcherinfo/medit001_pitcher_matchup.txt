@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A.J. Burnett       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Trevor Cahill      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Matt Cain          R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Josh Collmenter    R   3   2   0   0   0   0   0   1   0   0   1  .667  .500  .667 
+Jorge de la Rosa   L   8   3   0   0   2   0   0   2   0   0   0  .375  .375 1.125 
+Yohan Flande       L   5   2   1   0   1   0   0   0   0   0   0  .400  .400 1.200 
+David Hale         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Cole Hamels        L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Clayton Kershaw    L  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tim Lincecum       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+F. Liriano         L   4   0   0   0   0   1   0   1   1   0   0  .000  .333  .000 
+Tyler Matzek       L  12   1   1   0   0   0   0   3   0   0   0  .083  .083  .167 
+Brandon McCarthy   R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Wade Miley         L   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Mike Minor         L   5   3   0   0   2   1   0   1   0   0   0  .600  .667 1.800 
+Franklin Morales   L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Charlie Morton     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Yusmeiro Petit     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Hyun-Jin Ryu       L   7   2   1   0   0   1   0   2   0   0   0  .286  .375  .429 
+Ervin Santana      R   5   2   1   0   0   0   0   3   1   0   0  .400  .500  .600 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Julio Teheran      R   6   1   0   0   1   0   0   2   0   0   0  .167  .167  .667

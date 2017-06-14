@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 
+Hank Borowy        R   7   1   1   0   0   1   0   1   0   0   0  .143  .250  .286 
+Jack Brewer        R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Ken Burkhart       R   6   1   0   0   0   0   0   2   1   0   0  .167  .286  .167 
+Paul Derringer     R   8   2   0   1   0   1   0   1   0   1   0  .250  .333  .500 
+Blix Donnelly      R   3   1   0   0   0   1   0   1   1   0   0  .333  .600  .333 
+Harry Feldman      R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rube Fischer       R   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 
+Hal Gregg          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Al Jurisich        R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Andy Karl          R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Van Mungo          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Claude Passeau     R  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Rip Sewell         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Nick Strincevich   R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Les Webber         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hank Wyse          R  16   8   3   0   0   0   0   1   0   0   0  .500  .500  .688

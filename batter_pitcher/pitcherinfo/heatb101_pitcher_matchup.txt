@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Bolin        R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 
+Jim Bunning        R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Clay Carroll       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tony Cloninger     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Coleman        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ray Culp           R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Don Drysdale       R   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Sammy Ellis        R   6   2   1   0   0   2   0   0   0   0   0  .333  .500  .500 
+Jack Fisher        R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Friend         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Gibson         R   6   3   0   0   0   2   0   0   0   0   0  .500  .625  .500 
+Joe Horlen         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Catfish Hunter     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry Jackson      R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Ken Johnson        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Lew Krausse        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Frank Linzy        R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Jim Maloney        R   8   1   0   0   0   2   0   2   0   0   0  .125  .300  .125 
+Juan Marichal      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Phil Niekro        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Milt Pappas        R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Gaylord Perry      R   9   0   0   0   0   2   1   1   0   0   0  .000  .182  .000 
+Bob Shaw           R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

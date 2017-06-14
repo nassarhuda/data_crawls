@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chase Anderson     R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Bronson Arroyo     R   5   2   2   0   0   0   0   2   0   0   0  .400  .400  .800 
+M. Bumgarner       L   8   1   1   0   0   0   0   2   1   0   0  .125  .222  .250 
+Trevor Cahill      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Josh Collmenter    R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Randall Delgado    R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Gavin Floyd        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Jaime Garcia       L   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Dillon Gee         R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Zack Greinke       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dan Haren          R   7   1   0   1   0   0   0   2   0   0   0  .143  .143  .429 
+Jared Hughes       R   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 
+Clayton Kershaw    L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Brandon League     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+F. Liriano         L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jeff Locke         L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Lance Lynn         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Wade Miley         L   6   2   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Mike Minor         L   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Yusmeiro Petit     R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hyun-Jin Ryu       L   7   3   0   1   0   0   0   1   0   0   0  .429  .429  .714 
+Alfredo Simon      R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Adam Wainwright    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

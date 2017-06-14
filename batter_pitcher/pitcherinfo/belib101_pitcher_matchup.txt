@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Norm Bass          R   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 
+Jim Bouton         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Donovan       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Steve Hamilton     L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joe Horlen         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Dave McNally       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+B. Monbouquette    R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Claude Osteen      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Orlando Pena       R  11   1   0   0   0   0   0   2   0   0   0  .091  .091  .091 
+Gary Peters        L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Don Rudolph        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Curt Simmons       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bill Stafford      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tracy Stallard     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lee Stange         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ron Taylor         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ralph Terry        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Earl Wilson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

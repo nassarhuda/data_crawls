@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dewey Adkins       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Spud Chandler      R   9   1   0   0   0   2   0   1   0   0   0  .111  .273  .111 
+Cliff Fannin       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bob Feller         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Orval Grove        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mickey Haefner     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Lemon          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dutch Leonard      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Eddie Lopat        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hal Newhouser      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Frank Papish       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Vic Raschi         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Virgil Trucks      R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Roger Wolff        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

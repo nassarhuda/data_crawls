@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Doug Bair          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Bomback       R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Ray Burris         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Steve Carlton      L   7   3   1   0   0   0   0   2   0   0   0  .429  .429  .571 
+Bobby Castillo     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Dravecky      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Falcone       L   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Ken Forsch         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Goltz         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Burt Hooton        R   9   2   0   0   0   1   0   3   0   0   0  .222  .300  .222 
+Steve Howe         L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Randy Lerch        L   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+Larry McWilliams   L   5   2   0   0   1   0   0   2   0   0   0  .400  .400 1.000 
+Steve Mura         R   7   1   0   0   0   3   0   2   0   0   0  .143  .400  .143 
+Joe Niekro         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Frank Pastore      R   8   4   2   1   0   0   0   3   0   0   0  .500  .500 1.000 
+Joe Price          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jerry Reuss        L  13   4   0   0   1   0   0   1   0   0   0  .308  .308  .538 
+Nolan Ryan         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Seaver         R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Don Sutton         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Tellmann       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

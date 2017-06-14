@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Asa Brainard       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Cherokee Fisher    R  10   4   1   0   0   1   0   0   0   0   0  .400  .455  .500 
+John McMullin      L  17   5   0   0   0   0   0   0   0   0   0  .294  .294  .294 
+Al Spalding        R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Rynie Wolters      R  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 
+George Zettlein    R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100

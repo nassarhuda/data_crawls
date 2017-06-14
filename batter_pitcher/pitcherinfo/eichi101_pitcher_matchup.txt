@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Win Ballou         R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 i
+Ted Blankenship    R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Garland Braxton    L   8   2   0   0   0   1   0   3   0   0   0  .250  .333  .250 i
+Lloyd Brown        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bobby Burke        L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Guy Cantrell       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howard Ehmke       R  13   3   0   0   0   0   0   2   0   0   0  .231  .231  .231 i
+Wes Ferrell        R   9   2   1   0   0   0   0   1   0   1   0  .222  .222  .333 
+Carl Fischer       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Milt Gaston        R   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 i
+Joe Giard          L   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Lefty Grove        L  29   6   1   0   0   0   0   5   0   0   0  .207  .207  .241 i
+Bump Hadley        R  12   1   0   0   0   1   0   2   0   0   0  .083  .154  .083 
+Fred Heimach       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Holloway       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Waite Hoyt         R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Willis Hudlin      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Walter Johnson     R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Sad Sam Jones      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Kiefer         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hod Lisenbee       R  11   1   0   0   0   0   0   1   0   0   0  .091  .091  .091 
+Del Lundgren       R   6   1   1   0   0   1   0   0   0   0   0  .167  .286  .333 
+Firpo Marberry     R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Wilcy Moore        R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 i
+Herb Pennock       L  15   1   0   0   0   0   0   1   0   0   0  .067  .067  .067 i
+George Pipgras     R  13   2   0   2   0   0   0   3   0   0   0  .154  .154  .462 
+Jack Quinn         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Eddie Rommel       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Dutch Ruether      L  20   4   0   0   0   1   0   0   0   1   0  .200  .238  .200 i
+Jack Russell       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Urban Shocker      R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 i
+Rufus Smith        L   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Vic Sorrell        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Lefty Stewart      L   7   3   2   0   0   0   0   0   0   0   0  .429  .429  .714 
+Lil Stoner         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tommy Thomas       R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Myles Thomas       R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Sloppy Thurston    R   7   2   1   0   0   0   0   1   0   1   0  .286  .286  .429 
+Rube Walberg       L  29   4   1   0   0   2   0   3   0   0   0  .138  .194  .172 i
+Ed Wells           L  13   7   2   1   0   0   0   0   0   1   0  .538  .538  .846 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Earl Whitehill     L  19  12   3   0   0   1   0   0   0   1   0  .632  .650  .789 i
+Hal Wiltse         L  13   5   2   1   0   1   0   0   0   2   0  .385  .429  .692 i
+Ernie Wingard      L  10   3   3   0   0   0   0   0   0   0   0  .300  .300  .600 
+Whit Wyatt         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Zachary        L   6   3   2   0   0   2   0   1   0   2   0  .500  .625  .833

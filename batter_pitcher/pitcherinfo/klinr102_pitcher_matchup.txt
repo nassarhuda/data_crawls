@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L  14   0   0   0   0   0   0   5   0   2   0  .000  .000  .000 
+Ted Bowsfield      L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Brosnan        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Bob Buhl           R   8   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Lew Burdette       R   8   4   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Gene Conley        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ike Delock         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Moe Drabowsky      R  10   1   0   0   0   0   0   6   0   1   0  .100  .100  .100 
+Don Drysdale       R  12   0   0   0   0   0   0   7   0   2   0  .000  .000  .000 
+Art Fowler         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ruben Gomez        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Harvey Haddix      L  15   3   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Jim Hearn          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Hillman       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jay Hook           R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Larry Jackson      R   6   1   0   0   0   0   0   3   0   3   0  .167  .167  .167 
+Gordon Jones       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Sam Jones          R  12   0   0   0   0   1   0   7   0   0   0  .000  .077  .000 
+J. Klippstein      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Sandy Koufax       L   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Clem Labine        R   7   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Brooks Lawrence    R   8   1   0   0   0   0   0   1   0   1   0  .125  .125  .125 
+Bob Mabe           R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Sal Maglie         R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jack Meyer         R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Bob Miller         R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Stu Miller         R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Paul Minner        L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+V. Mizell          L   5   1   1   0   0   0   0   3   0   1   0  .200  .200  .400 
+Seth Morehead      L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Don Newcombe       R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Juan Pizarro       L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Johnny Podres      L  11   1   0   0   0   0   0   8   0   0   0  .091  .091  .091 
+Bob Purkey         R   2   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Pedro Ramos        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Steve Ridzik       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Robin Roberts      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bob Rush           R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jack Sanford       R   9   0   0   0   0   1   0   6   0   0   0  .000  .100  .000 
+Warren Spahn       L  12   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Herm Wehmeier      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hoyt Wilhelm       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Stan Williams      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Worthington     R  13   2   0   0   0   0   0   7   0   1   0  .154  .154  .154

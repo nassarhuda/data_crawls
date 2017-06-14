@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 i
+Jesse Barnes       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Leon Cadore        R  15   6   1   0   0   0   0   1   0   0   0  .400  .400  .467 i
+Hal Carlson        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Wilbur Cooper      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bill Doak          R  10   3   1   0   0   2   0   0   0   0   0  .300  .417  .400 i
+Phil Douglas       R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Hod Eller          R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i
+Johnny Enzmann     R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Jesse Haines       R  11   6   0   0   0   1   0   1   0   0   0  .545  .583  .545 i
+Bill Hubbell       R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 i
+Al Mamaux          R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Lee Meadows        R  15   5   1   0   0   1   0   2   0   0   0  .333  .375  .400 
+Jeff Pfeffer       R  13   5   0   0   1   1   0   0   1   0   0  .385  .467  .615 
+Elmer Ponder       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rosy Ryan          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Slim Sallee        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Fred Toney         R  14   4   0   0   0   3   0   1   0   0   0  .286  .412  .286 
+Lefty Tyler        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hippo Vaughn       L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 i

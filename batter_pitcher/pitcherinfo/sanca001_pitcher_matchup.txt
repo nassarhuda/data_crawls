@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ray Burris         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Rick Camp          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Danny Darwin       R   4   2   0   1   1   0   0   0   0   0   0  .500  .500 1.750 
+Ron Guidry         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Neal Heaton        L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Orel Hershiser     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tommy John         L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Jimmy Key          L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bob Knepper        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Terry Leach        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Lollar         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mike Mason         L   4   4   0   0   3   0   0   0   0   0   0 1.000 1.000 3.250 
+Scott McGregor     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Donnie Moore       R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dennis Rasmussen   L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Frank Viola        L   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 
+Matt Young         L   7   2   0   0   0   0   0   4   0   0   0  .286  .286  .286

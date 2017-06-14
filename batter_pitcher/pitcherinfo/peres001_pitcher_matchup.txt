@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Kevin Brown        R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Mark Gardner       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Matt Herges        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Dan Serafini       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Chuck Smith        R   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000

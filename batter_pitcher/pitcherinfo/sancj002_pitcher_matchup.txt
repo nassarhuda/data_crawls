@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Doug Davis         L   7   1   0   0   0   0   0   4   1   0   0  .143  .250  .143 
+Jorge de la Rosa   L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Zach Duke          L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Cole Hamels        L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Aaron Harang       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ubaldo Jimenez     R   9   2   1   0   0   0   0   4   0   0   0  .222  .222  .333 
+Hiroki Kuroda      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mat Latos          R   9   1   0   1   0   0   0   5   0   0   0  .111  .111  .333 
+Ted Lilly          L   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Braden Looper      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Rodrigo Lopez      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Vicente Padilla    R   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Jake Peavy         R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike Pelfrey       R   5   2   0   0   0   0   0   1   0   2   0  .400  .400  .400 
+Johan Santana      L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Claudio Vargas     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

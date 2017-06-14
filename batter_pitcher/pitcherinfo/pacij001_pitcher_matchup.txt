@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Flanagan      L   4   2   1   0   0   2   0   0   0   0   0  .500  .667  .750 
+Mike Henneman      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jimmy Key          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Langston      L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Dennis Rasmussen   L   4   2   0   0   0   0   0   0   0   0   1  .500  .400  .500 
+Jeff Robinson      R   3   1   1   0   0   1   0   2   0   0   0  .333  .500  .667 
+Greg Swindell      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Walt Terrell       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Frank Viola        L   9   3   1   0   0   0   0   2   0   0   0  .333  .333  .444

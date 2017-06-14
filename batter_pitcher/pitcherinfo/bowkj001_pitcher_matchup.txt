@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Adams         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Brandon Backe      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Josh Banks         R   9   1   1   0   0   0   0   1   0   0   0  .111  .111  .222 
+Heath Bell         R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Jason Bergmann     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chad Billingsley   R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Matt Capps         R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Aaron Cook         R  13   3   0   1   0   0   0   2   0   0   0  .231  .231  .385 
+Manuel Corpas      R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Kevin Correia      R   6   3   1   0   1   0   0   1   0   0   0  .500  .500 1.167 
+Ryan Dempster      R   8   4   1   0   2   1   0   2   0   0   0  .500  .556 1.375 
+Zach Duke          L   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Jon Garland        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dillon Gee         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rich Harden        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dan Haren          R  10   2   0   1   0   1   0   6   0   0   0  .200  .273  .400 
+Livan Hernandez    R   5   2   1   0   1   0   0   0   0   0   0  .400  .400 1.200 
+Ubaldo Jimenez     R  10   1   0   0   0   0   0   0   0   0   0  .100  .100  .100 
+Randy Johnson      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jair Jurrjens      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hiroki Kuroda      R   9   4   1   1   0   0   0   0   0   0   0  .444  .444  .778 
+Mat Latos          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kyle Lohse         R   4   1   0   0   1   1   1   1   0   0   0  .250  .400 1.000 
+Derek Lowe         R  10   2   1   0   0   1   1   1   0   0   0  .200  .273  .300 
+Brandon Lyon       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Greg Maddux        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+John Maine         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Jason Marquis      R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Charlie Morton     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Kevin Mulvey       R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Brett Myers        R   9   1   0   0   1   1   0   4   0   0   0  .111  .200  .444 
+Roy Oswalt         R   8   2   0   0   1   2   1   3   0   0   0  .250  .400  .625 
+Micah Owings       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vicente Padilla    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chan Ho Park       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Mike Pelfrey       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Takashi Saito      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ben Sheets         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ron Villone        L   2   0   0   0   0   1   0   2   0   0   1  .000  .250  .000 
+Chris Volstad      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cory Wade          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+P.J. Walters       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Brandon Webb       R  11   4   1   0   0   1   0   2   0   0   0  .364  .417  .455 
+Todd Wellemeyer    R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Chris Young        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

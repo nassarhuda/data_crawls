@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   9   5   1   0   1   1   0   0   0   0   0  .556  .600 1.000 
+Joe Blanton        R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Matt Cain          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Correia      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Johnny Cueto       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Marco Estrada      R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Yovani Gallardo    R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Jeff Karstens      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Lamb          L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Mat Latos          R   6   1   0   1   0   1   0   2   0   0   0  .167  .286  .500 
+Derek Lowe         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bud Norris         R  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Wily Peralta       R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Johan Santana      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

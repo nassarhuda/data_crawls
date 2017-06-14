@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Bearden       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Lou Brissie        L  10   3   2   0   0   4   0   2   0   0   0  .300  .500  .500 
+Joe Coleman        R   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Joe Dobson         R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Randy Gumpert      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Mickey Haefner     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bubba Harris       R  10   1   1   0   0   0   0   2   0   0   0  .100  .100  .200 
+Mickey Harris      L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Haynes         R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Art Houtteman      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sid Hudson         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Alex Kellner       L   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Ellis Kinder       R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Bob Kuzava         L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bob Lemon          R   5   0   0   0   0   3   2   3   0   0   0  .000  .375  .000 
+Eddie Lopat        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Hal Newhouser      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Joe Page           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Satchel Paige      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Mel Parnell        L   9   3   1   0   0   0   0   0   0   1   0  .333  .333  .444 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Billy Pierce       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Marino Pieretti    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Vic Raschi         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Marv Rotblatt      L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Bob Savage         R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Carl Scheib        R   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 
+Bobby Shantz       L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Wight         L  10   2   0   0   0   1   0   3   0   0   0  .200  .273  .200 
+Early Wynn         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

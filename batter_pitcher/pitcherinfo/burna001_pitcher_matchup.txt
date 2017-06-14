@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Kevin Appier       R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Tony Armas         R   6   1   0   1   0   0   0   1   0   1   0  .167  .167  .500 
+Jake Arrieta       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Homer Bailey       R  10   0   0   0   0   1   0   5   0   1   0  .000  .091  .000 
+Kris Benson        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roger Clemens      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bartolo Colon      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Correia      R   3   1   0   0   1   0   0   2   0   1   0  .333  .333 1.333 
+Omar Daal          L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ryan Dempster      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+A. DeSclafani      R   5   2   1   0   0   0   0   2   0   3   0  .400  .400  .600 
+Adam Eaton         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Shawn Estes        L   6   2   0   0   0   0   0   3   0   1   0  .333  .333  .333 
+Marco Estrada      R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Yovani Gallardo    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tom Glavine        L   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Gio Gonzalez       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Aaron Harang       R   3   1   0   1   0   0   0   1   0   1   0  .333  .333 1.000 
+Dustin Hermanson   R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Hudson         R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Jason Jennings     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Ian Kennedy        R   5   0   0   0   0   1   0   3   0   1   0  .000  .167  .000 
+Lance Lynn         R   9   2   0   0   0   0   0   5   0   0   0  .222  .222  .222 
+Greg Maddux        R   9   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Jason Marquis      R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Millwood     R   6   1   1   0   0   0   0   3   0   2   0  .167  .167  .333 
+Juan Nicasio       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tomo Ohka          R   5   2   2   0   0   0   0   2   0   0   0  .400  .400  .800 
+John Patterson     R   8   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Robert Person      R   4   2   0   0   1   0   0   2   0   0   0  .500  .500 1.250 
+Tanner Roark       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jeff Samardzija    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jae Weong Seo      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Todd Stottlemyre   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Trachsel     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Javier Vazquez     R   6   2   0   0   0   1   0   1   0   1   0  .333  .429  .333 
+Jake Westbrook     R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Woody Williams     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Wolf         L   9   0   0   0   0   0   0   6   0   1   0  .000  .000  .000

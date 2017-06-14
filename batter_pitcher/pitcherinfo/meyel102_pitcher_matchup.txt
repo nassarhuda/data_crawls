@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Bentley         U   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 i
+Tommy Bond         R  30  10   2   0   0   0   0   0   0   0   0  .333  .333  .400 i
+Asa Brainard       R  31  13   1   0   0   0   0   0   0   0   0  .419  .419  .452 i
+Jim Britt          U   6   2   2   0   0   0   0   0   0   0   0  .333  .333  .667 i
+Candy Cummings     R  63  20   1   0   1   0   0   0   0   0   0  .317  .317  .381 i
+Cherokee Fisher    R  30  17   3   0   1   0   0   1   0   0   0  .567  .567  .767 i
+Frank Fleet        U   7   4   1   0   0   0   0   0   0   0   0  .571  .571  .714 i
+Jack Manning       R  24   8   3   0   0   0   0   0   0   0   0  .333  .333  .458 i
+Bobby Mathews      R  67  23   4   1   1   0   0   2   0   0   0  .343  .343  .478 i
+Dick McBride       R  19   6   2   0   0   0   0   1   0   0   0  .316  .316  .421 i
+James McDermott    U   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+John McMullin      L  17  10   1   0   0   2   0   0   0   0   0  .588  .632  .647 i
+Charlie Pabor      L   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 i
+Al Pratt           R  17   7   0   0   0   0   0   0   0   0   0  .412  .412  .412 i
+Al Spalding        R  63  28   4   0   0   1   0   0   0   0   0  .444  .453  .508 i
+Bill Stearns       R  10   4   1   1   0   0   0   1   0   0   0  .400  .400  .700 i
+Rynie Wolters      R  15   5   0   1   0   0   0   0   0   0   0  .333  .333  .467 i
+George Zettlein    R  32  16   2   1   0   0   0   0   0   0   0  .500  .500  .625 i

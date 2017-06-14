@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cody Anderson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mark Buehrle       L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Carlos Carrasco    R   6   3   0   0   1   1   0   1   0   0   0  .500  .571 1.000 
+Wei-Yin Chen       L  13   3   1   0   1   0   0   4   0   0   0  .231  .231  .538 
+R.A. Dickey        R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Roenis Elias       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Miguel Gonzalez    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+J.A. Happ          L   6   3   2   0   0   0   0   1   0   0   0  .500  .500  .833 
+Felix Hernandez    R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Drew Hutchison     R   5   4   0   0   1   0   0   1   0   0   0  .800  .800 1.400 
+Corey Kluber       R   6   2   0   0   0   1   0   3   0   0   0  .333  .429  .333 
+Wade Miley         L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Milone         L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Rick Porcello      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Garrett Richards   R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Junichi Tazawa     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Adam Warren        R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Jered Weaver       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Justin Wilson      L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000

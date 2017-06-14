@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ivy Andrews        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Pete Appleton      R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Elden Auker        R  10   1   0   0   0   0   0   5   0   0   0  .100  .100  .100 
+Jim Bagby          R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 i
+Tommy Bridges      R   9   2   1   0   0   0   0   6   0   1   0  .222  .222  .333 i
+Alex Carrasquel    R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Ken Chase          L   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 i
+Jimmie DeShong     R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bill Dietrich      R  18   3   0   0   0   0   0   4   0   0   0  .167  .167  .167 i
+Joe Dobson         R   5   2   1   0   0   0   0   3   0   0   0  .400  .400  .600 
+Bob Feller         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Milt Gaston        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mel Harder         R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Willis Hudlin      R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Sid Hudson         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Harry Kelley       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Jack Knott         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Joe Krakauskas     L   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Roxie Lawson       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Lyons          R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Al Milnar          L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Bobo Newsom        R  10   1   0   0   0   1   0   4   0   0   0  .100  .182  .100 i
+Monte Pearson      R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Johnny Rigney      R  11   4   1   0   0   1   0   2   0   0   0  .364  .417  .455 i
+Schoolboy Rowe     R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Red Ruffing        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mike Ryba          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Eddie Smith        L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Les Tietje         R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Russ Van Atta      L   3   2   1   0   0   2   0   1   0   0   0  .667  .800 1.000 i
+Earl Whitehill     L   6   3   1   0   0   0   0   0   1   0   0  .500  .571  .667 
+Jack Wilson        R   8   2   1   0   0   1   0   0   0   1   0  .250  .333  .375 
+Ralph Winegarner   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

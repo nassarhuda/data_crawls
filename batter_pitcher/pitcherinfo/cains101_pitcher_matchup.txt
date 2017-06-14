@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Elden Auker        R   7   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 i
+G. Blaeholder      R  11   1   1   0   0   0   0   2   0   0   0  .091  .091  .182 
+Tommy Bridges      R  10   1   0   0   0   0   0   3   0   0   0  .100  .100  .100 
+Johnny Broaca      R   5   2   0   0   0   1   0   1   0   1   0  .400  .500  .400 i
+General Crowder    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Jimmie DeShong     R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+George Earnshaw    R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wes Ferrell        R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Herman Fink        R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Carl Fischer       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Gomez        L   8   0   0   0   0   1   0   3   0   0   0  .000  .111  .000 
+Bump Hadley        R  12   4   0   0   0   0   0   4   0   1   0  .333  .333  .333 i
+Mel Harder         R   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Oral Hildebrand    R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 i
+Willis Hudlin      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Sad Sam Jones      R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jack Knott         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Roxie Lawson       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Firpo Marberry     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Marcum      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Monte Pearson      R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Red Phillips       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Gordon Rhodes      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Buck Ross          R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Red Ruffing        R  13   3   0   0   0   0   0   4   0   1   0  .231  .231  .231 
+Jack Russell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Vic Sorrell        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Monte Weaver       R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Welch       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Ed Wells           L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Earl Whitehill     L  11   2   0   0   0   0   0   3   0   2   0  .182  .182  .182 
+Whitey Wilshere    L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jack Wilson        R  10   1   0   0   0   1   0   4   0   2   0  .100  .182  .100

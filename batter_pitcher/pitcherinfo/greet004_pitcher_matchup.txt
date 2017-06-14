@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fernando Abad      L   3   1   0   0   1   0   0   0   1   0   0  .333  .500 1.333 
+Jeremy Affeldt     L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bronson Arroyo     R  13   3   0   0   0   1   1   3   0   0   0  .231  .286  .231 
+Homer Bailey       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brandon Beachy     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Erik Bedard        L   6   1   0   0   0   2   0   2   0   0   0  .167  .375  .167 
+Joe Blanton        R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+M. Bumgarner       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Brian Burres       L   2   0   0   0   0   2   1   0   0   0   0  .000  .500  .000 
+Matt Cain          R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Aroldis Chapman    L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Roman Colon        R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Aaron Cook         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Johnny Cueto       R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Jorge de la Rosa   L   6   1   0   0   0   3   0   1   0   0   0  .167  .444  .167 
+E. Del Rosario     R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+R.A. Dickey        R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Marco Estrada      R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Jeff Francis       L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Yovani Gallardo    R   8   2   1   0   0   0   0   3   0   0   0  .250  .250  .375 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Halladay       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Cole Hamels        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+J.A. Happ          L  13   5   1   0   2   0   0   3   0   0   0  .385  .385  .923 
+Jeremy Hefner      R   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 
+Livan Hernandez    R   4   2   0   0   2   0   0   2   0   0   0  .500  .500 2.000 
+Kyle Kendrick      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Clayton Kershaw    L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Lannan        L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Mat Latos          R   5   1   0   0   0   2   1   3   0   0   0  .200  .429  .200 
+Mike Leake         R   5   2   2   0   0   0   0   1   0   0   0  .400  .400  .800 
+Cliff Lee          L   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Paul Maholm        L  13   5   2   0   0   1   0   3   0   0   1  .385  .400  .538 
+Carlos Marmol      R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Sean Marshall      L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+C. Martinez        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wade Miley         L   5   1   0   0   0   0   0   3   0   0   1  .200  .167  .200 
+Mike Minor         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brett Myers        R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Chris Narveson     L  10   4   0   0   1   1   1   3   0   0   0  .400  .455  .700 
+Jon Niese          L   6   1   0   0   1   1   0   3   0   0   0  .167  .286  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bud Norris         R   6   2   1   0   0   0   0   2   1   0   0  .333  .429  .500 
+Manny Parra        L   4   2   0   1   0   1   0   2   1   0   0  .500  .667 1.000 
+Wandy Rodriguez    L   4   0   0   0   0   1   1   2   0   0   0  .000  .200  .000 
+James Russell      L   6   2   0   1   0   2   0   2   0   0   0  .333  .500  .667 
+Jonathan Sanchez   L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jeff Suppan        R   3   0   0   0   0   2   1   1   0   0   0  .000  .400  .000 
+Ryan Vogelsong     R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Chris Volstad      R  16   6   1   0   0   0   0   1   0   0   0  .375  .375  .438 
+Randy Wolf         L   5   0   0   0   0   0   0   2   2   1   0  .000  .286  .000 
+Travis Wood        L   9   2   1   0   0   0   0   2   0   0   1  .222  .200  .333 
+Jamey Wright       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Barry Zito         L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

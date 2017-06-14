@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Gregg          R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Sheldon Jones      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Voiselle      R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250

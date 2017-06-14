@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sam Gray           R   9   1   0   1   0   0   0   2   0   0   0  .111  .111  .333 i
+Fred Heimach       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ken Holloway       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jake Miller        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Ed Morris          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+George Pipgras     R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Joe Shaute         L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Earl Whitehill     L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Tom Zachary        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

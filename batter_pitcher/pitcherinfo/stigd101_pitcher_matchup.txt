@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Steve Barber       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gary Bell          R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dick Donovan       R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ryne Duren         R   2   0   0   0   0   1   0   2   1   1   0  .000  .500  .000 
+Chuck Estrada      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bill Faul          R   4   0   0   0   0   2   0   3   0   0   0  .000  .333  .000 
+Whitey Ford        L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Steve Hargan       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Ray Herbert        R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Joe Horlen         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jack Kralick       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Don Lee            R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Sam McDowell       L   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+B. Monbouquette    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Fred Newman        R   9   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+John O'Donoghue    L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Dan Osinski        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Milt Pappas        R   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Jim Perry          R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Juan Pizarro       L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Ed Rakow           R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pedro Ramos        R   5   0   0   0   0   1   0   5   0   0   0  .000  .167  .000 
+Steve Ridzik       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bill Stafford      R   8   1   0   0   0   2   0   7   0   0   0  .125  .300  .125 
+Dave Stenhouse     R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Fred Talbot        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ralph Terry        R  13   1   0   0   0   0   0   6   0   0   0  .077  .077  .077 
+Luis Tiant         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jerry Walker       R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Dave Wickersham    R   8   1   0   0   0   0   0   5   0   0   0  .125  .125  .125 
+Stan Williams      R   4   0   0   0   0   1   0   1   1   0   0  .000  .333  .000

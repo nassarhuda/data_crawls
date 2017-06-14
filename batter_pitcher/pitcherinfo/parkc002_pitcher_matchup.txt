@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Miguel Batista     R   3   0   0   0   0   0   0   1   0   4   0  .000  .000  .000 
+Alan Benes         R   3   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Andy Benes         R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Kent Bottenfield   R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Kevin Brown        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Matt Clement       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mark Gardner       R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Tom Glavine        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joey Hamilton      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mike Hampton       L   6   2   0   0   0   1   0   2   0   3   0  .333  .429  .333 
+Jimmy Haynes       R   1   1   0   0   0   1   0   0   0   2   0 1.000 1.000 1.000 
+Dustin Hermanson   R   3   0   0   0   0   1   0   3   0   1   0  .000  .250  .000 
+Livan Hernandez    R   9   2   0   0   0   0   0   2   0   2   0  .222  .222  .222 
+S. Hitchcock       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bobby Jones        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Darryl Kile        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Allen Levrault     R   3   2   1   0   0   1   0   0   0   1   0  .667  .750 1.000 
+Andrew Lorraine    L   2   1   1   0   0   1   0   1   0   1   0  .500  .667 1.000 
+Noah Lowry         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Morgan        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Terry Mulholland   L   8   3   1   0   0   1   0   2   0   0   0  .375  .444  .500 
+Vladimir Nunez     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Steve Parris       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andy Pettitte      L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Rick Reed          R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Brian Rose         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kirk Rueter        L  10   1   1   0   0   0   0   2   0   1   0  .100  .100  .200 
+Jesus Sanchez      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jose Silva         R   4   1   1   0   0   1   0   1   0   1   0  .250  .400  .500 
+Dan Smith          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Smoltz        R   8   1   0   0   0   0   0   7   0   1   0  .125  .125  .125 
+Todd Stottlemyre   R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Amaury Telemaco    R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brett Tomko        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Trachsel     R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Javier Vazquez     R   6   2   0   0   1   0   0   2   0   1   0  .333  .333  .833 
+Brandon Webb       R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Woody Williams     R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Randy Wolf         L   5   1   1   0   0   0   0   1   0   1   0  .200  .200  .400 
+Jamey Wright       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Masato Yoshii      R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800

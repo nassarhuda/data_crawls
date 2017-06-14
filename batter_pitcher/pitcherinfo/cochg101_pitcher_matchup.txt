@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Caldwell       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Stan Coveleski     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bert Gallia        R   2   1   0   0   0   1   0   1   2   0   0  .500  .800  .500 
+Rudy Kallio        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+George Mogridge    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mule Watson        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250

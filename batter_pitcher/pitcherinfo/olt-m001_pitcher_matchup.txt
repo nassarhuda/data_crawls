@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Aroldis Chapman    L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Tony Cingrani      L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Gerrit Cole        R   8   3   0   0   0   0   0   4   1   0   0  .375  .444  .375 
+Johnny Cueto       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Marco Estrada      R   7   2   0   0   1   2   0   3   0   0   0  .286  .444  .714 
+Gio Gonzalez       L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+F. Liriano         L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kyle Lohse         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wade Miley         L   4   1   0   0   0   0   0   1   0   0   1  .250  .200  .250 
+Charlie Morton     R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Manny Parra        L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Wandy Rodriguez    L   5   2   0   0   2   0   0   1   0   0   0  .400  .400 1.600 
+Ervin Santana      R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Eric Stults        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Masahiro Tanaka    R   5   1   0   0   0   0   0   4   0   0   1  .200  .167  .200 
+Justin Verlander   R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Edinson Volquez    R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Michael Wacha      R   7   1   1   0   0   1   0   2   1   0   0  .143  .333  .286 
+Justin Wilson      L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Randy Wolf         L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

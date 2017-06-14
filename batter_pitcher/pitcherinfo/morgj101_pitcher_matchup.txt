@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ernie Broglio      R   5   1   0   0   0   1   1   0   0   0   0  .200  .333  .200 
+Bob Buhl           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Lew Burdette       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Cardwell       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Don Drysdale       R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Chuck Estrada      R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Paul Foytack       R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Friend         R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Glen Hobbie        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jay Hook           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry Jackson      R   7   0   0   0   0   1   0   3   0   0   0  .000  .125  .000 
+Sam Jones          R   6   1   0   1   0   2   0   1   0   0   0  .167  .375  .500 
+Vern Law           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cal McLish         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Don Newcombe       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Camilo Pascual     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bill Stafford      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ralph Terry        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Stan Williams      R   7   3   0   1   0   0   0   0   0   0   0  .429  .429  .714 
+Early Wynn         R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500

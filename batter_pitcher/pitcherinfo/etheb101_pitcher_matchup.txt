@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Blass        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+John Boozer        R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Jim Bunning        R  10   4   1   0   0   0   0   2   0   0   0  .400  .400  .500 
+Tony Cloninger     R   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+George Culver      R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Larry Dierker      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Jack Fisher        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Danny Frisella     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Woodie Fryman      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gary Gentry        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tom Griffin        R   5   1   1   0   0   1   0   3   0   0   0  .200  .333  .400 
+Bill Hands         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ken Holtzman       L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Pat Jarvis         R  10   4   3   0   0   1   0   1   0   0   0  .400  .455  .700 
+Fergie Jenkins     R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Clay Kirby         R   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Vern Law           R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Jim Maloney        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jim Merritt        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Joe Niekro         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Phil Niekro        R   6   1   0   0   0   0   0   0   1   0   1  .167  .250  .167 
+Gary Nolan         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rich Nye           L  10   3   0   1   0   0   0   0   0   0   0  .300  .300  .500 
+Dennis Ribant      R   6   2   1   1   0   0   0   1   0   0   0  .333  .333  .833 
+Tom Seaver         R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Dick Selma         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Bill Singer        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Tommie Sisk        R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Bob Veale          L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Mike Wegener       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Don Wilson         R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333

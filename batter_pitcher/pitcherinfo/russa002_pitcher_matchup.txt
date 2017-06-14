@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Burke Badenhop     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+A.J. Burnett       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+A. Caminero        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Tony Cingrani      L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Gerrit Cole        R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jacob deGrom       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rubby de la Rosa   R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+A. DeSclafani      R   8   3   1   0   0   1   0   4   0   0   0  .375  .444  .500 
+Matt Garza         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+J.A. Happ          L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+J.J. Hoover        R   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Raisel Iglesias    R   3   0   0   0   0   3   0   2   0   0   0  .000  .500  .000 
+Jeremy Jeffress    R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Taylor Jungmann    R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Clayton Kershaw    L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Lackey        R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Mat Latos          R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Mike Leake         R   7   1   1   0   0   0   0   4   0   0   0  .143  .143  .286 
+F. Liriano         L   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Radhames Liz       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Locke         L   8   2   2   0   0   0   0   1   0   0   0  .250  .250  .500 
+Kyle Lohse         R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Michael Lorenzen   R   7   5   1   0   0   0   0   1   0   0   0  .714  .714  .857 
+Lance Lynn         R   5   1   1   0   0   1   0   3   0   0   0  .200  .333  .400 
+Seth Maness        R   7   3   0   0   2   0   0   0   0   0   0  .429  .429 1.286 
+Carlos Martinez    R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mark Melancon      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jimmy Nelson       R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Jon Niese          L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jake Peavy         R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Wily Peralta       R   3   1   0   0   1   2   0   2   0   0   0  .333  .600 1.333 
+Jose Quintana      L   5   2   2   0   0   0   0   1   0   0   0  .400  .400  .800 
+Tanner Roark       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Sale         L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Anibal Sanchez     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Yordano Ventura    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+C. Villanueva      R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Michael Wacha      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Tony Watson        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Vance Worley       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

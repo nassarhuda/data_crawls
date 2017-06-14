@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carlos Carrasco    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bruce Chen         L   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+R.A. Dickey        R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Corey Kluber       R   4   2   0   0   0   0   0   2   1   0   0  .500  .600  .500 
+Zach McAllister    R   5   2   1   0   0   0   0   3   0   0   0  .400  .400  .600 
+Jarrod Parker      R   4   1   0   0   1   1   0   2   0   0   0  .250  .400 1.000 
+David Price        L   7   2   0   0   0   3   0   1   0   0   0  .286  .500  .286 
+Jose Quintana      L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Dan Straily        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jason Vargas       L   4   2   0   0   1   2   0   0   0   0   0  .500  .667 1.250 
+Jered Weaver       R   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333

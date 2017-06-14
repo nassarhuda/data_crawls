@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Blyzka        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sandy Consuegra    R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Whitey Ford        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Ned Garver         R   5   1   0   0   0   0   0   1   0   3   0  .200  .200  .200 
+Steve Gromek       R  11   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Don Larsen         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Willard Nixon      R   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Camilo Pascual     R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Bob Porterfield    R   7   2   0   0   0   0   0   4   0   0   0  .286  .286  .286 
+Bunky Stewart      L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000

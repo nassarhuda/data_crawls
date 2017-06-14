@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allan Anderson     L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Floyd Bannister    L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Boddicker     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tom Candiotti      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Chuck Crim         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Farrell       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mike Flanagan      L   7   3   0   0   0   1   0   2   0   0   0  .429  .500  .429 
+Willie Fraser      R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Wes Gardner        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Bruce Hurst        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jimmy Key          L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Paul Kilgus        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dennis Lamp        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Langston      L   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Kirk McCaskill     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Milacki        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Dale Mohorcic      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jerry Reuss        L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Rick Rhoden        R   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 
+Dave Stieb         R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Greg Swindell      L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Frank Viola        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mark Williamson    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mike Witt          R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Bobby Witt         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Rich Yett          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

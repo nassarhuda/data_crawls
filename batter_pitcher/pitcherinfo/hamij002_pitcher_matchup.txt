@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Brian Bohanon      L   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Jim Bullinger      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Frank Castillo     R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Dave Coggin        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jeff Fassero       L   5   1   0   0   0   0   0   3   0   3   0  .200  .200  .200 
+Kevin Foster       R   8   1   0   0   0   0   0   3   0   0   1  .125  .111  .125 
+Mark Gardner       R   5   3   0   1   0   0   0   2   0   0   0  .600  .600 1.000 
+Tom Glavine        L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Chris Hammond      L   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Mike Hampton       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Harnisch      R  11   2   1   0   0   0   0   2   0   1   0  .182  .182  .273 
+Kevin Jarvis       R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333 
+Al Leiter          L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mark Leiter        R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jon Lieber         R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Pedro Martinez     R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Kent Mercker       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bobby Munoz        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Denny Neagle       L   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hideo Nomo         R   5   2   0   0   1   0   0   1   0   1   0  .400  .400 1.000 
+Chan Ho Park       R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Mark Portugal      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Shane Reynolds     R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Kevin Ritz         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Schilling     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Smoltz        R   9   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Kevin Tapani       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Amaury Telemaco    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ismael Valdez      R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Paul Wilson        R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833

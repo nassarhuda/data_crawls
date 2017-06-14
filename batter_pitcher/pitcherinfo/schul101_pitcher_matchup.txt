@@ -1,0 +1,52 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Al Benton          R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Joe Berry          R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Bill Bevens        R  16   4   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Black          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Tiny Bonham        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hank Borowy        R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Earl Caldwell      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Alex Carrasquel    R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Spud Chandler      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Russ Christopher   R   3   1   1   0   0   2   0   1   0   1   0  .333  .600  .667 
+Otey Clark         L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Atley Donald       R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Monk Dubiel        R   8   2   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Dave Ferriss       R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Charlie Gassaway   L  13   6   1   1   0   0   0   0   0   0   0  .462  .462  .692 
+Steve Gerkin       R  18   5   2   0   0   1   0   1   0   0   0  .278  .316  .389 
+Al Gettel          R   7   3   1   0   0   1   1   0   0   0   0  .429  .500  .571 
+Steve Gromek       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Orval Grove        R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mickey Haefner     L  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Clem Hausmann      R  10   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Haynes         R   7   0   0   0   0   1   1   1   0   0   0  .000  .125  .000 
+Randy Heflin       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Vic Johnson        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Ed Klieman         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Lou Knerr          R  15   4   2   0   0   1   0   0   0   0   0  .267  .313  .400 
+Eddie Lopat        L  18   7   1   0   0   0   0   1   0   0   0  .389  .389  .444 
+Les Mueller        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hal Newhouser      L  20   6   0   0   0   2   0   4   0   0   0  .300  .364  .300 
+Bobo Newsom        R  14   1   1   0   0   1   0   4   0   0   0  .071  .133  .143 
+Johnny Niggeling   R  10   4   1   0   0   1   0   0   0   0   0  .400  .455  .500 
+Emmett O'Neill     R   4   2   0   0   0   0   0   1   0   2   0  .500  .500  .500 
+Joe Page           L   9   4   1   0   0   2   0   1   0   0   0  .444  .545  .556 
+Frank Papish       L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Marino Pieretti    R  11   3   1   0   0   1   0   1   0   0   0  .273  .333  .364 
+Allie Reynolds     R  12   3   1   0   0   1   0   2   0   2   0  .250  .308  .333 
+Red Ruffing        R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Mike Ryba          R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Al Smith           L   6   3   1   0   0   1   0   0   0   0   0  .500  .571  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Yank Terry         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dizzy Trout        R  17   5   1   0   0   0   0   1   0   0   0  .294  .294  .353 
+Jim Turner         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Sandy Ullrich      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Wilson         R   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+Walter Wilson      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Roger Wolff        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Pinky Woods        R   7   4   0   0   0   1   0   0   0   0   0  .571  .625  .571 i
+Bill Zuber         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

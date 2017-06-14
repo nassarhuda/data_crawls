@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Bare           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+F. Barrios         R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Jack Billingham    R   5   1   0   0   0   0   0   1   1   1   0  .200  .333  .200 
+Nelson Briles      R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jim Bunning        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Reggie Cleveland   R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Larry Dierker      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Dock Ellis         R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Bob Gibson         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Mudcat Grant       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Don Gullett        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Pat Jarvis         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Jerry Koosman      L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Dennis Leonard     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim McGlothlin     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carl Morton        R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Gary Nolan         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Milt Pappas        R   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Jim Ray            R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Ron Reed           R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Renko        R   8   1   1   0   0   2   1   1   0   0   1  .125  .273  .250 
+Vern Ruhle         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Stoneman      R   6   2   1   0   0   2   0   1   0   0   0  .333  .500  .500 
+Don Sutton         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Cecil Upshaw       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Veale          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Wise          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

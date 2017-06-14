@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Matt Cain          R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Jhoulys Chacin     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Correia      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Johnny Cueto       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Doug Davis         L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ryan Dempster      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Francis       L   7   1   0   0   0   0   0   4   0   1   0  .143  .143  .143 
+Yovani Gallardo    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jon Garland        R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Justin Germano     R   6   1   0   0   0   0   0   4   0   1   0  .167  .167  .167 
+Edgar Gonzalez     R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Tommy Hanson       R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Dan Haren          R   7   3   0   0   0   0   0   3   0   0   0  .429  .429  .429 
+Jair Jurrjens      R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Wade LeBlanc       L   1   1   0   0   0   0   0   0   0   3   0 1.000 1.000 1.000 
+Ted Lilly          L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Tim Lincecum       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Rodrigo Lopez      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Cory Luebke        L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Maholm        L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jason Marquis      R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Millwood     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Scott Olsen        L   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Micah Owings       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Anibal Sanchez     R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jonathan Sanchez   L   8   1   0   0   0   1   0   5   0   0   0  .125  .222  .125 
+Joe Saunders       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eric Stults        L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Travis Wood        L   3   3   1   0   1   1   0   0   0   0   0 1.000 1.000 2.333 
+Chris Young        R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Barry Zito         L  12   3   0   0   0   1   0   6   0   0   1  .250  .286  .250

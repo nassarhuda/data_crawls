@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ernie Broglio      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tony Cloninger     R  11   2   0   1   0   0   0   7   0   1   0  .182  .182  .364 
+Roger Craig        R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Bob Gibson         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Giusti        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Bill Hands         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ron Herbel         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry Jackson      R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Pat Jarvis         R   4   1   0   1   0   2   0   1   0   0   0  .250  .500  .750 
+Joey Jay           R  10   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Cal Koonce         R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Juan Marichal      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Lindy McDaniel     R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Bob Miller         R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Joe Niekro         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gaylord Perry      R  10   2   0   0   0   0   0   2   0   2   0  .200  .200  .200 
+Bob Purkey         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Sadecki        L  11   1   0   0   0   0   0   6   0   1   0  .091  .091  .091 
+Jack Sanford       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Seaver         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Singer        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ron Taylor         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

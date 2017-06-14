@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Burba         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Carpenter    R   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 
+Scott Erickson     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Scott Karl         L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jimmy Key          L   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Joe Mays           R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

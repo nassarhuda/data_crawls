@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Bonham        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Dietrich      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Bob Feller         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Gomez        L   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Bump Hadley        R   8   1   0   0   0   0   0   1   0   2   0  .125  .125  .125 
+Johnny Humphries   R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Vern Kennedy       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Thornton Lee       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dutch Leonard      R   2   1   0   0   0   0   0   0   0   3   0  .500  .500  .500 
+Phil Marchildon    R   7   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Les McCrabb        R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 i
+Hal Newhouser      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Johnny Niggeling   R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Johnny Rigney      R   8   1   1   0   0   0   0   2   0   0   0  .125  .125  .250 i
+Tex Shirley        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Eddie Smith        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

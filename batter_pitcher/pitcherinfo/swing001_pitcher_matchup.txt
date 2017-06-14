@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Armstrong     R   6   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Steve Avery        L   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andy Benes         R   9   2   1   0   0   1   0   4   0   2   1  .222  .273  .333 
+Brad Brink         R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+John Burkett       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kevin Gross        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pete Harnisch      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Butch Henry        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Gil Heredia        R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Ken Hill           R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Greg Maddux        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ramon Martinez     R  10   3   0   0   0   0   0   1   0   1   0  .300  .300  .300 
+Mike Morgan        R   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Denny Neagle       L   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Donovan Osborne    L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Mark Portugal      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jose Rijo          R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Curt Schilling     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+John Smiley        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Paul Wagner        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allen Watson       L   3   2   2   0   0   0   0   0   0   2   0  .667  .667 1.333 
+Bobby Witt         R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000

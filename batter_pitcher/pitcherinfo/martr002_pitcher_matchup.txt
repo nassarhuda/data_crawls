@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jose Bautista      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Andy Benes         R  14   3   1   0   0   0   0   7   0   0   0  .214  .214  .286 
+Buddy Black        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Willie Blair       R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Shawn Boskie       R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Oil Can Boyd       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Browning       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Burkett       R   8   1   1   0   0   0   0   3   0   1   1  .125  .111  .250 
+Frank Castillo     R  14   2   2   0   0   0   0   3   0   2   0  .143  .143  .286 
+Pat Combs          L   5   1   0   0   0   1   0   2   1   1   0  .200  .429  .200 
+David Cone         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kelly Downs        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jeff Fassero       L   8   2   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Sid Fernandez      L   7   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Tom Glavine        L  21   5   0   0   1   0   0   9   0   0   0  .238  .238  .381 
+Dwight Gooden      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Chris Hammond      L   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Greg Harris        R   3   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Butch Henry        L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gil Heredia        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ken Hill           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eric Hillman       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Jackson      L  10   1   0   0   0   0   0   4   0   0   0  .100  .100  .100 
+Bobby Jones        R   4   1   0   0   0   0   0   3   0   2   0  .250  .250  .250 
+Jeff Juden         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+C. Leibrandt       L  10   2   0   0   0   0   0   1   0   3   0  .200  .200  .200 
+Jon Lieber         R   8   2   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Rick Mahler        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dennis Martinez    R  13   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Mimbs         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Blas Minor         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Terry Mulholland   L   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 
+Mark Portugal      R  10   2   0   0   0   0   0   5   0   2   0  .200  .200  .200 
+Dennis Rasmussen   L   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+Mike Remlinger     L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Shane Reynolds     R   9   2   1   0   0   0   0   2   0   3   0  .222  .222  .333 
+Jose Rijo          R  11   1   0   0   0   0   0   3   0   0   0  .091  .091  .091 
+Bret Saberhagen    R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Curt Schilling     R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Schourek      L   5   2   0   0   0   0   0   2   0   1   0  .400  .400  .400 
+John Smiley        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bryn Smith         R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+John Smoltz        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Todd Stottlemyre   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Swindell      L   9   2   0   0   0   0   0   1   0   2   0  .222  .222  .222 
+Amaury Telemaco    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Tewksbury      R  12   5   0   0   0   1   0   2   0   1   0  .417  .462  .417 
+Steve Trachsel     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Steve Wilson       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Trevor Wilson      L   8   0   0   0   0   1   0   3   0   0   0  .000  .111  .000 
+Anthony Young      R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Neil Allen         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Bert Blyleven      R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Ken Dixon          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+John Farrell       R   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500 
+Tim Leary          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tom Niedenfuer     R   2   1   1   0   0   3   1   0   0   0   0  .500  .800 1.000 
+Dave Stieb         R   5   1   0   1   0   0   0   2   0   0   0  .200  .200  .600

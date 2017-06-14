@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Mordecai Brown     R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Howie Camnitz      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Dave Davenport     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Walt Dickson       R   7   1   0   1   0   0   0   1   0   0   0  .143  .143  .429 i
+Cy Falkenberg      R   6   3   0   0   0   0   0   3   0   1   0  .500  .500  .500 i
+Dan Griner         R   3   1   0   1   0   0   0   0   0   1   0  .333  .333 1.000 i
+Claude Hendrix     R  15   3   1   1   0   0   0   3   0   0   0  .200  .200  .400 i
+Bill Hopper        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chief Johnson      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Elmer Knetzer      R  10   0   0   0   0   0   0   7   0   1   0  .000  .000  .000 i
+Gene Krapp         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+George LeClair     R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+C. Mathewson       R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+George McConnell   R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Gene Packard       L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Pat Ragan          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Nap Rucker         L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Slim Sallee        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Suggs       R   7   2   0   0   1   0   0   4   0   0   0  .286  .286  .714 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Tyler        L   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 i
+M. Walker          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i

@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boom-Boom Beck     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Cy Blanton         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Max Butcher        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Curt Davis         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Paul Derringer     R  15   1   0   0   0   2   0   5   0   0   0  .067  .176  .067 
+Lee Grissom        L   4   0   0   0   0   2   0   3   0   0   0  .000  .333  .000 
+Kirby Higbe        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Si Johnson         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bob Klinger        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill Lohrman       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Cliff Melton       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Whitey Moore       R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Claude Passeau     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Ray Starr          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+J. Vander Meer     L   7   0   0   0   0   2   0   3   0   1   0  .000  .222  .000 
+Bucky Walters      R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Lon Warneke        R   7   0   0   0   0   1   0   4   0   0   0  .000  .125  .000 i
+Whit Wyatt         R   7   0   0   0   0   0   0   3   1   0   0  .000  .125  .000

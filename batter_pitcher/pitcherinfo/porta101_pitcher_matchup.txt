@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Baumann      L   3   3   0   0   0   2   0   0   0   0   0 1.000 1.000 1.000 
+Tom Brewer         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Harry Byrd         R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Joe Coleman        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Bob Feller         R   4   1   0   0   1   0   0   1   0   1   0  .250  .250 1.000 
+Whitey Ford        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Fornieles     R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Paul Foytack       R   7   0   0   0   0   1   0   2   0   1   0  .000  .125  .000 
+Ned Garver         R  10   2   0   0   0   0   0   5   0   0   0  .200  .200  .200 
+Billy Hoeft        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Johnny Kucks       R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Don Larsen         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Frank Lary         R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Eddie Lopat        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mickey McDermott   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cal McLish         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Ray Narleski       R   4   1   0   0   0   1   0   2   0   2   0  .250  .400  .250 
+Willard Nixon      R   3   1   1   0   0   1   0   1   0   2   0  .333  .500  .667 
+Camilo Pascual     R   7   1   0   0   0   1   0   6   0   2   0  .143  .250  .143 
+Bob Porterfield    R   5   0   0   0   0   1   0   3   0   2   0  .000  .167  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Art Schallock      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Frank Sullivan     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+George Susce       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dick Tomanek       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Virgil Trucks      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hoyt Wilhelm       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Wilson         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Early Wynn         R   7   0   0   0   0   1   0   3   0   1   0  .000  .125  .000

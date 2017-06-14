@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eddie Cicotte      R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+George Dumont      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bill James         R   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 
+Carl Mays          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Ernie Shore        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i

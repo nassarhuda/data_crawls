@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Baker        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Floyd Bannister    L   3   2   0   0   0   2   0   1   0   0   0  .667  .800  .667 
+Mike Caldwell      L  10   2   1   0   0   0   0   1   0   0   0  .200  .200  .300 
+Jim Clancy         R   7   0   0   0   0   1   0   4   0   0   0  .000  .125  .000 
+Tim Conroy         L   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+Richard Dotson     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Pete Filson        L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Ron Guidry         L   5   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Larry Gura         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brad Havens        L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Tommy John         L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Rick Langford      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bob McClure        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Byron McLaughlin   R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Mike Moore         R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Angel Moreno       L   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Jack Morris        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jack O'Connor      L   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Shane Rawley       L   8   3   0   0   1   0   0   5   0   0   0  .375  .375  .750 
+Ken Schrom         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Splittorff    L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+John Tudor         L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Tom Underwood      L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Mike Witt          R   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Geoff Zahn         L   5   3   0   0   2   0   0   0   0   0   0  .600  .600 1.800

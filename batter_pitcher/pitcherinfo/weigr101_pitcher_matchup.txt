@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Bearden       L  10   1   1   0   0   1   0   2   0   0   0  .100  .182  .200 
+Al Benton          R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Lou Brissie        L   9   5   1   0   0   3   0   0   0   0   0  .556  .667  .667 
+Tommy Byrne        L  10   1   0   0   0   4   0   3   0   0   0  .100  .357  .100 
+Bob Feller         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Denny Galehouse    R   7   1   0   0   0   0   0   0   0   1   0  .143  .143  .143 
+Ted Gray           L   9   1   0   0   0   0   0   0   1   0   0  .111  .200  .111 
+Sid Hudson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fred Hutchinson    R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Alex Kellner       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bill Kennedy       L  11   2   1   1   0   2   0   0   0   0   0  .182  .308  .455 
+Ellis Kinder       R   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Jack Kramer        R   7   3   1   0   0   0   0   2   0   0   0  .429  .429  .571 
+Lou Kretlow        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bob Lemon          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Eddie Lopat        L  12   3   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hal Newhouser      L  10   1   1   0   0   0   0   1   0   0   0  .100  .100  .200 
+Joe Page           L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Frank Papish       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mel Parnell        L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allie Reynolds     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Carl Scheib        R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Bobby Shantz       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Spec Shea          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dizzy Trout        R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Virgil Trucks      R   6   1   0   1   0   0   0   2   0   0   0  .167  .167  .500 
+Hal White          R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400

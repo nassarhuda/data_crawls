@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   8   1   0   1   0   1   0   2   0   0   0  .125  .222  .375 i
+Cy Barger          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Fred Beebe         R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+George Bell        R   7   3   0   0   0   3   0   1   0   0   0  .429  .600  .429 
+Ad Brennan         L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 i
+Art Fromme         R   2   1   1   0   0   2   0   0   1   0   0  .500  .800 1.000 i
+Bobby Keefe        R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+C. Mathewson       R   7   3   1   0   0   2   0   1   0   0   0  .429  .556  .571 i
+Earl Moore         R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 i
+Bugs Raymond       R   8   3   0   0   0   1   0   1   0   0   0  .375  .444  .375 i
+Bill Schardt       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Elmer Steele       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i

@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jim Bagby          R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Ed Bahr            R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Johnny Beazley     R   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ewell Blackwell    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Tiny Bonham        R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Hank Borowy        R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Ralph Branca       R   9   4   0   1   1   0   0   2   0   0   0  .444  .444 1.000 
+Al Brazle          L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Max Butcher        R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Hugh Casey         R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Spud Chandler      R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Murry Dickson      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Hal Gregg          R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Mel Harder         R   6   2   2   0   0   1   0   1   0   0   0  .333  .429  .667 
+Lum Harris         R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Jim Hearn          R   4   2   1   1   0   1   0   1   0   0   0  .500  .600 1.250 
+Kirby Higbe        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Sid Hudson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Koslo         L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobo Newsom        R   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 i
+Johnny Niggeling   R   6   3   0   0   1   0   0   1   0   1   0  .500  .500 1.000 i
+Howie Pollet       L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Rip Sewell         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Tex Shirley        R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Ken Trinkle        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dizzy Trout        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bill Voiselle      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Ted Wilks          R   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ed Wright          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Hank Wyse          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

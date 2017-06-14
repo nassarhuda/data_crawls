@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John D'Acquisto    R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Gene Garber        R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Jim Merritt        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Dale Murray        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Steve Renko        R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Tom Seaver         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

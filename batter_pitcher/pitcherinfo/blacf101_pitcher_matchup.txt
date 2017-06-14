@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Leon Cadore        R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Red Causey         R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 i
+Phil Douglas       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+C. Mitchell        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jeff Pfeffer       R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 i
+Dick Rudolph       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pete Schneider     R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000

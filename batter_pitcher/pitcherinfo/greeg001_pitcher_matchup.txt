@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike Boddicker     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Todd Burns         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Fetters       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Chuck Finley       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bob Knepper        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mark Langston      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mike Scott         R   5   1   1   0   0   0   0   4   0   0   0  .200  .200  .400 
+David West         L   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500

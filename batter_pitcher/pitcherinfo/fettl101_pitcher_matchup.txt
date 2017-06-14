@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ralph Birkofer     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Sheriff Blake      R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Ed Brandt          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Max Butcher        R   4   1   0   0   0   2   0   0   0   1   0  .250  .500  .250 i
+Tex Carleton       R   8   0   0   0   0   1   0   3   0   0   0  .000  .111  .000 
+Peaches Davis      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Derringer     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+F. Fitzsimmons     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fred Frankhouse    R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 i
+Luke Hamlin        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Waite Hoyt         R   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Syl Johnson        R   9   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Bob Klinger        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Lee           R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Lohrman       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Cliff Melton       L   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 i
+Van Mungo          R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Claude Passeau     R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Gene Schott        R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Bill Swift         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Tobin          R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+J. Vander Meer     L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Bucky Walters      R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 i

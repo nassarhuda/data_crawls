@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Assenmacher   L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tim Belcher        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tom Browning       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Tom Glavine        L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Zane Smith         L   6   1   0   1   0   0   0   1   0   0   0  .167  .167  .500 
+Steve Wilson       L   5   3   0   0   0   0   0   2   0   0   0  .600  .600  .600

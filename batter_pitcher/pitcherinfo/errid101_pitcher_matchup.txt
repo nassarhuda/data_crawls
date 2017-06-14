@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Bowman         R  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 i
+Tex Carleton       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Larry French       L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Luke Hamlin        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Kirby Higbe        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Carl Hubbell       L  11   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Whitey Moore       R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Claude Passeau     R   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Tot Pressnell      R   8   1   0   0   0   0   0   0   0   2   0  .125  .125  .125 
+Clyde Shoun        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Junior Thompson    R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Jim Turner         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+J. Vander Meer     L   6   1   0   0   0   1   0   3   0   1   0  .167  .286  .167 
+Bucky Walters      R   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Lon Warneke        R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Bob Weiland        L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Whit Wyatt         R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143

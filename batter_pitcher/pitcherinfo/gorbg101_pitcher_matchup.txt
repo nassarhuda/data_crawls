@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Buhl           R   6   0   0   0   0   3   0   0   0   0   0  .000  .333  .000 
+Lew Burdette       R  14   4   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Carl Erskine       R   8   1   0   0   1   0   0   1   0   0   0  .125  .125  .500 
+Roy Face           R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Art Fowler         R  13   5   1   0   0   0   0   1   0   0   0  .385  .385  .462 
+Bob Friend         R   4   0   0   0   0   2   1   0   0   1   0  .000  .333  .000 
+Ruben Gomez        R  12   3   1   0   1   0   0   1   0   0   1  .250  .231  .583 
+Warren Hacker      R  11   1   0   0   0   1   0   1   0   0   0  .091  .167  .091 
+Jim Hearn          R   8   4   3   0   0   0   0   1   0   0   0  .500  .500  .875 
+Dave Hillman       R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Larry Jackson      R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Hal Jeffcoat       R   7   3   0   0   1   0   0   0   0   0   0  .429  .429  .857 
+Ernie Johnson      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Jolly         R   3   0   0   0   0   2   1   1   0   0   0  .000  .400  .000 
+Sam Jones          R  10   3   1   0   0   2   0   1   0   0   0  .300  .417  .400 
+Nellie King        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+J. Klippstein      R  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Clem Labine        R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Vern Law           R   8   0   0   0   0   1   0   1   0   0   0  .000  .111  .000 
+Billy Loes         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sal Maglie         R   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 
+Rudy Minarcin      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ramon Monzant      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Newcombe       R  11   2   1   0   0   0   0   0   0   0   0  .182  .182  .273 
+Johnny Podres      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tom Poholsky       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+H. Robinson        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ed Roebuck         R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Willard Schmidt    R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Max Surkont        R   9   3   0   0   0   2   1   0   0   0   0  .333  .455  .333 
+Floyd Wooldridge   R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

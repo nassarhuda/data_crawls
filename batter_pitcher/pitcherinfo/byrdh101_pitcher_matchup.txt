@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Aber            L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ralph Branca       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Sonny Dixon        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Garcia        R   9   2   0   0   0   0   0   3   0   1   0  .222  .222  .222 
+Ned Garver         R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Johnny Gray        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Henry         L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Billy Hoeft        L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Art Houtteman      R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 
+Sid Hudson         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Don Larsen         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eddie Lopat        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dick Marlowe       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Mickey McDermott   L  10   2   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Jim McDonald       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Willard Nixon      R   5   0   0   0   0   1   0   4   0   2   0  .000  .167  .000 
+Billy Pierce       L  13   3   0   0   0   0   0   5   0   3   0  .231  .231  .231 
+A. Portocarrero    R   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 
+Vic Raschi         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Spec Shea          R   9   0   0   0   0   1   0   1   0   0   0  .000  .100  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Sullivan     R   4   2   0   0   0   1   0   1   0   2   0  .500  .600  .500 
+Virgil Trucks      R  14   2   1   0   0   0   0   5   0   0   0  .143  .143  .214 
+Bob Turley         R   8   4   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bill Wight         L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Wilson         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Early Wynn         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

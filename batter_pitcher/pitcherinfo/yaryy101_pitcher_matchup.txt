@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Burwell       R   2   1   0   0   0   1   0   1   0   1   0  .500  .667  .500 i
+Bullet Joe Bush    R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Bert Cole          L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Harry Courtney     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hooks Dauss        R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Dixie Davis        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+James Edwards      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ray Francis        L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 i
+Fred Heimach       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carl Holling       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Waite Hoyt         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ray Kolp           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Dutch Leonard      L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Duster Mails       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Mogridge    L   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 i
+Roy Moore          L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Rollie Naylor      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Red Oldham         L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Eddie Rommel       R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Urban Shocker      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allen Sothoron     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Suds Sutherland    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

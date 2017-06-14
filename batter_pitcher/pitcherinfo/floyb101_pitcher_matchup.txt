@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R  12   3   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Baldwin       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Vida Blue          L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bert Blyleven      R  15   2   0   0   0   2   0   4   0   1   1  .133  .222  .133 
+Dick Bosman        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Bradley        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Brett          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pete Broberg       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+David Clyde        L   3   2   0   0   0   0   0   0   0   0   1  .667  .500  .667 
+Joe Coleman        R   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Ray Corbin         R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Chuck Dobson       R   7   3   0   0   0   0   0   2   0   1   0  .429  .429  .429 
+Pat Dobson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Downing         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ed Farmer          R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Rollie Fingers     R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Tom Hall           L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Pete Hamm          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Rich Hand          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Steve Hargan       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Catfish Hunter     R  13   3   0   0   0   0   0   4   0   0   0  .231  .231  .231 
+Bart Johnson       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Kaat           L  12   4   1   0   0   0   0   2   0   0   0  .333  .333  .417 
+Steve Kline        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mickey Lolich      L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Steve Luebber      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Rudy May           L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Lindy McDaniel     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Sam McDowell       L   5   2   2   0   0   0   0   1   0   0   0  .400  .400  .800 
+Blue Moon Odom     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Palmer         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Paul          L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Perry          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Juan Pizarro       L   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Archie Reynolds    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+E. Rodriguez       R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Sonny Siebert      R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Singer        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Slayback      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mel Stottlemyre    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Timmermann     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Stan Williams      R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Wilbur Wood        L  17   3   0   0   0   0   0   6   0   0   0  .176  .176  .176 
+Dick Woodson       R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000

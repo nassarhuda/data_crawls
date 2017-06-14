@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 i
+Dick Barrett       R  12   3   2   0   0   0   0   1   0   0   0  .250  .250  .417 i
+Harry Brecheen     L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 i
+Max Butcher        R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 i
+Arnold Carter      L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Ben Chapman        R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Bob Chipman        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Mort Cooper        R   9   3   1   0   0   0   0   2   0   1   0  .333  .333  .444 
+Paul Derringer     R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 i
+Harry Feldman      R   4   2   0   0   0   1   0   0   0   1   0  .500  .600  .500 i
+Bill Fleming       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Al Gerheauser      L  15   2   1   0   0   0   0   2   0   0   0  .133  .133  .200 
+Harry Gumbert      R  10   2   1   0   0   1   0   1   0   0   0  .200  .273  .300 
+Vern Kennedy       R   6   3   0   0   1   1   0   0   0   0   0  .500  .571 1.000 
+Jim Konstanty      R   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Max Lanier         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill Lee           R   9   1   0   0   0   2   0   1   0   0   0  .111  .273  .111 i
+Red Lynn           R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Rube Melton        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+F. Ostermueller    L   9   3   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Claude Passeau     R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Ewald Pyle         L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 i
+K. Raffensberger   L  10   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 i
+Charley Schanz     R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 i
+Frank Seward       R   2   1   0   0   1   2   0   0   0   0   0  .500  .750 2.000 
+Rip Sewell         R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 i
+Ray Starr          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Bill Voiselle      R  15   2   0   0   0   1   0   2   0   0   0  .133  .188  .133 
+Bucky Walters      R   8   1   1   0   0   1   0   0   0   0   0  .125  .222  .250 
+Ernie White        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ted Wilks          R   8   1   1   0   0   1   0   0   0   0   0  .125  .222  .250 i
+Hank Wyse          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i

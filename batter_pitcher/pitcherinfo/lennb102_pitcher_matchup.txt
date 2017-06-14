@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lew Burdette       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gene Conley        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Don Drysdale       R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Art Fowler         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Friend         R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Larry Jackson      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sam Jones          R   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Russ Meyer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

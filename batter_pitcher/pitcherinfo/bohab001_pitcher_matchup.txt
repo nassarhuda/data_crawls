@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   4   0   0   0   0   1   0   1   0   2   0  .000  .200  .000 
+Andy Ashby         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Chris Brock        R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Kevin Brown        R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Matt Clement       R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Adam Eaton         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Mark Gardner       R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Glavine        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joey Hamilton      R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Al Leiter          L   5   2   1   0   0   0   0   1   0   1   0  .400  .400  .600 
+Jose Lima          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Brian Meadows      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kevin Millwood     R   3   1   0   0   0   0   0   1   0   2   1  .333  .250  .333 
+Carlos Perez       L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Robert Person      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Shane Reynolds     R   5   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Curt Schilling     R   6   2   0   0   0   0   0   3   0   1   0  .333  .333  .333 
+Kevin Tapani       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Steve Trachsel     R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Todd Van Poppel    R   5   2   0   1   0   0   0   2   0   0   0  .400  .400  .800

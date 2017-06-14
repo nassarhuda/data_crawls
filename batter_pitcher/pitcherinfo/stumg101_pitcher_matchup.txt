@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Johnny Broaca      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clint Brown        R  11   4   0   0   0   0   0   0   0   0   0  .364  .364  .364 
+Jumbo Brown        R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Dick Coffman       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Sarge Connally     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+General Crowder    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Charlie Devens     R   5   0   0   0   0   3   0   1   0   0   0  .000  .375  .000 
+George Earnshaw    R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Red Faber          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Tony Freitas       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Milt Gaston        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Lefty Grove        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bump Hadley        R  10   3   1   1   0   1   0   0   0   0   0  .300  .364  .600 
+Mel Harder         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Oral Hildebrand    R  10   2   1   0   0   2   0   0   0   0   0  .200  .333  .300 
+Chief Hogsett      L   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 i
+Willis Hudlin      R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 
+Lew Krausse        R   8   2   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Ted Lyons          R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny MacFayden    R   8   0   0   0   0   2   0   0   0   0   0  .000  .200  .000 
+Roy Mahaffey       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Herb Pennock       L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Jim Peterson       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+George Pipgras     R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Gordon Rhodes      R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Red Ruffing        R   8   0   0   0   0   3   0   2   0   1   0  .000  .273  .000 
+Babe Ruth          L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Vic Sorrell        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Uhle        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Monte Weaver       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Earl Whitehill     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jack Wilson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

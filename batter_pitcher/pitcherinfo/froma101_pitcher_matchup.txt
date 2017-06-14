@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  15   0   0   0   0   1   0   5   0   0   0  .000  .063  .000 i
+Pete Alexander     R  12   1   0   0   0   2   0   2   0   1   0  .083  .214  .083 i
+Red Ames           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Howie Camnitz      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Ed Donnelly        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Harmon         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Otto Hess          L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Lou Lowdermilk     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+C. Mathewson       R   9   2   1   0   0   0   0   3   0   0   0  .222  .222  .333 i
+Pol Perritt        R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 i
+Ed Reulbach        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lew Richie         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eppa Rixey         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hank Robinson      L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pete Schneider     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Charlie Smith      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

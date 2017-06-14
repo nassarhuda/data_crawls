@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Cone         R   5   1   0   0   0   1   0   4   0   0   0  .200  .333  .200 
+Jose DeLeon        R   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Bob Forsch         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Dwight Gooden      R   5   0   0   0   0   2   0   3   0   0   0  .000  .286  .000 
+Neal Heaton        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ken Hill           R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Greg Maddux        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mike Moore         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mark Portugal      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Robinson       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bryn Smith         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

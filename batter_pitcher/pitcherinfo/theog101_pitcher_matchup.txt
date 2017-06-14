@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ron Bryant         L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ray Burris         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mike Caldwell      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Carlton      L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Al Downing         L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Ramon Hernandez    L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Burt Hooton        R   7   1   1   0   0   1   0   0   0   0   0  .143  .250  .286 
+Charlie Hough      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Tommy John         L  10   2   0   0   0   1   0   0   0   0   0  .200  .273  .200 
+Dave LaRoche       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Balor Moore        L   5   2   0   0   1   1   0   1   0   0   0  .400  .500 1.000 
+Carl Morton        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Claude Osteen      L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Doug Rau           L   3   2   0   0   0   0   0   1   0   2   0  .667  .667  .667 
+Jerry Reuss        L   6   4   2   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Dave Roberts       L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Rooker         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mike Torrez        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Luke Walker        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Wallace       L   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800

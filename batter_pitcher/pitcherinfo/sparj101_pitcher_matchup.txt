@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Gary Bell          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dennis Bennett     L   1   0   0   0   0   1   0   1   0   2   0  .000  .500  .000 
+Dave Boswell       R   9   1   1   0   0   0   0   4   0   0   0  .111  .111  .222 
+Jim Bouton         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+George Brunet      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wally Bunker       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dean Chance        R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Joe Coleman        R   7   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ray Culp           R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Al Downing         L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Aubrey Gatewood    R   3   0   0   0   0   0   0   1   0   1   1  .000  .000  .000 
+Mudcat Grant       R   5   3   0   0   0   0   0   2   0   0   0  .600  .600  .600 
+Steve Hargan       R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Bob Humphreys      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Catfish Hunter     R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Tommy John         L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jim Kaat           L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Lew Krausse        R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Sam McDowell       L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Merritt        L   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+B. Monbouquette    R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Barry Moore        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dave Morehead      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Blue Moon Odom     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John O'Donoghue    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Orlando Pena       R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Gary Peters        L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Hal Reniff         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Diego Segui        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Lee Stange         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Joe Verbanic       R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jake Arrieta       R  12   2   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+A. DeSclafani      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+O. Despaigne       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gio Gonzalez       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jason Hammel       R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Mitch Harris       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kyle Hendricks     R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Raisel Iglesias    R   5   2   1   0   1   0   0   0   0   0   0  .400  .400 1.200 
+Jeremy Jeffress    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jim Johnson        R   1   0   0   0   0   2   0   0   1   0   0  .000  .750  .000 
+Taylor Jungmann    R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Mike Leake         R   7   3   0   0   1   0   0   0   0   0   0  .429  .429  .857 
+Jon Lester         L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Kyle Lohse         R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Michael Lorenzen   R   5   3   3   0   0   1   0   0   0   0   0  .600  .667 1.200 
+Tyler Lyons        L   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Carlos Martinez    R  12   4   1   0   0   0   0   5   1   0   0  .333  .385  .417 
+Jimmy Nelson       R  11   1   1   0   0   2   0   6   1   0   0  .091  .286  .182 
+Jon Niese          L   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Sean O'Sullivan    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Pelfrey       R   4   2   0   0   0   0   0   1   1   0   0  .500  .600  .500 
+Trevor Rosenthal   R   4   3   0   1   1   0   0   0   0   0   0  .750  .750 2.000 
+Joe Ross           R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Keyvius Sampson    R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Max Scherzer       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+James Shields      R   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000 
+Kevin Siegrist     L   3   1   0   0   0   2   0   2   0   0   0  .333  .600  .333 
+Ryan Vogelsong     R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Michael Wacha      R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Alex Wood          L   7   1   0   0   0   0   0   1   2   0   0  .143  .333  .143

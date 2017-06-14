@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Brunet      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck Dobson       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tommy John         L   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Jones        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jim Kaat           L  12   2   0   0   0   2   0   3   0   0   0  .167  .286  .167 
+Paul Lindblad      L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Mickey Lolich      L   9   2   0   1   0   1   0   4   0   0   0  .222  .300  .444 
+Barry Moore        L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Jim Nash           R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Blue Moon Odom     R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Jim Perry          R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Gary Peters        L  13   4   0   0   0   3   0   4   0   0   0  .308  .438  .308 
+Wilbur Wood        L   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667

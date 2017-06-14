@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   4   1   0   0   0   0   0   0   0   2   0  .250  .250  .250 i
+Jack Brewer        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ben Chapman        R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+C. Cuccurullo      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Tommy de la Cruz   R   3   2   0   1   0   1   0   1   0   0   0  .667  .750 1.333 
+Paul Derringer     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Tom Earley         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Vic Frazier        R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000 
+Ken Gables         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Len Gilmore        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hal Gregg          R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 
+Ed Heusser         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ira Hutchinson     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Rube Melton        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Claude Passeau     R   8   1   0   0   0   0   0   1   0   1   0  .125  .125  .125 
+Xavier Rescigno    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Rip Sewell         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Clyde Shoun        L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Ray Starr          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Nick Strincevich   R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Tobin          R   7   0   0   0   0   1   0   0   0   2   0  .000  .125  .000 i
+Bill Voiselle      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000

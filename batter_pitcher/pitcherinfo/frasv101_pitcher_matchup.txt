@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Tommy Bridges      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Clint Brown        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Coffman       R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+General Crowder    R   7   2   0   0   0   2   0   3   0   0   0  .286  .444  .286 
+Ed Durham          R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Wes Ferrell        R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Milt Gaston        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Lefty Gomez        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Grove        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Mel Harder         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Oral Hildebrand    R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Chief Hogsett      L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 i
+Bob Kline          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hod Lisenbee       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+George Pipgras     R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 i
+Gordon Rhodes      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Eddie Rommel       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Red Ruffing        R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Vic Sorrell        R   1   1   0   0   0   4   0   0   0   1   0 1.000 1.000 1.000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Charlie Sullivan   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Walberg       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

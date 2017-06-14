@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Vic Aldridge       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Rube Benton        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Sad Sam Jones      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tony Kaufmann      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dolf Luque         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jack Quinn         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Eddie Rommel       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Sherry Smith       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Lil Stoner         R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Fred Toney         R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333

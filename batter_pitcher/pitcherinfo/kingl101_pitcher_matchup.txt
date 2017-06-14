@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fred Beebe         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Fritz Coumbe       L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Harry Coveleski    L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Dave Davenport     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Fisher         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill James         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ernie Koob         L   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Dutch Leonard      L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Carl Mays          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eddie Plank        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Babe Ruth          L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Jim Scott          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bob Shawkey        R   2   0   0   0   0   1   0   0   1   0   0  .000  .500  .000 
+Carl Weilman       L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Mellie Wolfgang    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Josh Beckett       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Matt Clement       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Zach Day           R   5   0   0   0   0   1   0   0   1   0   0  .000  .286  .000 
+Elmer Dessens      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Shawn Estes        L   3   0   0   0   0   2   0   1   0   1   0  .000  .400  .000 
+Mike Hampton       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jason Jennings     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Randy Johnson      L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Brian Lawrence     R   4   2   1   0   0   0   0   0   1   0   1  .500  .500  .750 
+Jason Marquis      R   2   0   0   0   0   1   0   0   0   0   1  .000  .250  .000 
+Brett Myers        R   5   1   0   0   0   2   0   2   0   0   0  .200  .429  .200 
+Roy Oswalt         R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Vicente Padilla    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carl Pavano        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jake Peavy         R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+Andy Pettitte      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Prior         R   3   1   1   0   0   0   0   2   1   0   0  .333  .500  .667 
+Mark Redman        L   6   2   1   0   1   0   0   1   0   0   0  .333  .333 1.000 
+Brett Tomko        R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Ismael Valdez      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Javier Vazquez     R   7   3   0   0   1   0   0   2   0   0   0  .429  .429  .857

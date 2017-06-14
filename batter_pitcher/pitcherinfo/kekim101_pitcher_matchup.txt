@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Bosman        R   6   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Tom Bradley        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ken Brett          L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Les Cain           L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Mike Cuellar       L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Chuck Dobson       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pat Dobson         R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Drago         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Woodie Fryman      L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rich Hand          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Skip Lockwood      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sam McDowell       L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Denny McLain       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dave McNally       L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tom Murphy         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Blue Moon Odom     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Palmer         R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Jim Perry          R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Gary Peters        L   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Jim Shellenback    L   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Luis Tiant         R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000

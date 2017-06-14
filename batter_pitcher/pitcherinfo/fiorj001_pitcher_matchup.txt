@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A.J. Burnett       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wade Davis         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Garza         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Wil Ledezma        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Cory Lidle         R   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Jeff Niemann       R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Nate Robertson     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+James Shields      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Wakefield      R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000

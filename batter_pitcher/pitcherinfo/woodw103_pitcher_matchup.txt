@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Blyleven      R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Dick Bosman        R  10   0   0   0   0   1   0   6   0   1   0  .000  .091  .000 
+Tony Cloninger     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Joe Coleman        R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Casey Cox          R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Ray Culp           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chuck Dobson       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pat Dobson         R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Dick Drago         R   6   0   0   0   0   1   0   6   0   0   0  .000  .143  .000 
+Eddie Fisher       R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Bill Gogolewski    R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Mike Hedlund       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ken Holtzman       L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Catfish Hunter     R   8   1   1   0   0   0   0   5   0   0   0  .125  .125  .250 
+Jim Kaat           L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ray Lamb           R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Bob Locker         R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Skip Lockwood      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Mickey Lolich      L   5   0   0   0   0   3   0   3   0   0   0  .000  .375  .000 
+Jim Lonborg        R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Marcelino Lopez    L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Rudy May           L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Lynn McGlothen     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Andy Messersmith   R  11   1   0   0   0   0   0   8   0   1   0  .091  .091  .091 
+Tom Murphy         R   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Blue Moon Odom     R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Bill Parsons       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Perry          R   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+Fritz Peterson     L   7   2   0   0   0   1   0   3   0   1   0  .286  .375  .286 
+Diego Segui        R   3   1   0   0   0   0   0   2   0   2   0  .333  .333  .333 
+Sonny Siebert      R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Paul Splittorff    L   4   0   0   0   0   1   0   2   0   4   0  .000  .200  .000 
+Mel Stottlemyre    R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

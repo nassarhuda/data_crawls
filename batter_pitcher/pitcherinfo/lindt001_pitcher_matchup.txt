@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Josh Beckett       R   6   1   1   0   0   1   0   4   0   0   0  .167  .286  .333 
+Matt Belisle       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Chris Carpenter    R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Aaron Cook         R   4   1   0   1   0   1   0   0   0   0   0  .250  .400  .750 
+Doug Davis         L   6   1   0   0   0   1   0   4   0   0   0  .167  .286  .167 
+Zach Duke          L   6   4   0   0   0   1   0   0   0   0   0  .667  .714  .667 
+Adam Eaton         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Shawn Estes        L   2   1   1   0   0   3   0   1   0   0   0  .500  .800 1.000 
+Jeff Francis       L   7   3   1   0   1   1   1   0   0   0   0  .429  .500 1.000 
+Tom Glavine        L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Brad Halsey        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Aaron Harang       R   4   2   0   0   1   0   0   2   0   0   0  .500  .500 1.250 
+Dan Haren          R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Aaron Heilman      R   5   2   2   0   0   2   0   2   0   0   0  .400  .571  .800 
+Mark Hendrickson   L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Livan Hernandez    R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Kazuhisa Ishii     L   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Jason Jennings     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jason Johnson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sun-Woo Kim        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Linebrink    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kyle Lohse         R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Derek Lowe         R   9   3   0   0   0   3   0   2   0   0   0  .333  .500  .333 
+Brandon Lyon       R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Greg Maddux        R  10   4   2   0   0   0   0   1   0   0   0  .400  .400  .600 
+John Maine         R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Eric Milton        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jamie Moyer        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jake Peavy         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Oliver Perez       L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Sidney Ponson      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Saul Rivera        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Johan Santana      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eric Stults        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jose Valverde      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Claudio Vargas     R   7   2   0   0   1   1   0   1   1   0   0  .286  .444  .714 
+Javier Vazquez     R   9   1   1   0   0   1   0   1   0   0   0  .111  .200  .222 
+Jeff Weaver        R   5   1   0   0   0   0   0   3   1   0   0  .200  .333  .200 
+Brandon Webb       R  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+David Wells        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Randy Wolf         L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250

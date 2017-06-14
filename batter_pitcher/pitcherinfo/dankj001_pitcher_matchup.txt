@@ -1,0 +1,3 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ryan Dempster      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Zach Duke          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

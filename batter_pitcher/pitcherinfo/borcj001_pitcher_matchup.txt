@@ -1,0 +1,65 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L  11   2   0   0   1   0   0   2   0   0   0  .182  .182  .455 
+Denny Bautista     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+R. Betancourt      R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Chad Billingsley   R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Jeremy Bonderman   R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Bill Bray          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Byrd          R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Fernando Cabrera   R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shawn Camp         R   4   3   0   0   2   0   0   1   0   0   0  .750  .750 2.250 
+Chad Cordero       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+F. Cordero         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Kyle Davies        R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+Geoff Geary        R   3   1   1   0   0   0   0   1   1   0   0  .333  .500  .667 
+Tom Glavine        L   5   3   2   0   1   0   0   2   0   0   0  .600  .600 1.600 
+Zack Greinke       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rich Harden        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Hendrickson   L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Livan Hernandez    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+O. Hernandez       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Shawn Hill         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Hudson         R  16   3   2   0   0   1   0   3   0   0   0  .188  .235  .313 
+Jason Johnson      R   5   1   0   0   1   0   0   3   0   0   0  .200  .200  .800 
+Gary Knotts        R   8   2   0   0   1   1   0   1   0   0   0  .250  .333  .625 
+Wil Ledezma        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Cliff Lee          L   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Al Levine          R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Jon Lieber         R   7   3   1   0   0   0   0   1   1   0   0  .429  .500  .571 
+Kyle Lohse         R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Derek Lowe         R  10   1   0   0   0   0   0   5   0   0   0  .100  .100  .100 
+Greg Maddux        R   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Mike Maroth        L  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Darrell May        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Jamie Moyer        L  15   3   0   0   1   1   1   0   0   0   0  .200  .250  .400 
+Peter Moylan       R   2   2   0   0   0   2   1   0   0   0   0 1.000 1.000 1.000 
+Mark Mulder        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Brett Myers        R  10   2   1   0   1   0   0   4   0   0   0  .200  .200  .600 
+Chan Ho Park       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Chad Paronto       R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+John Patterson     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mike Pelfrey       R   5   1   0   0   0   2   0   3   0   0   0  .200  .429  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Ray            R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mark Redman        L   8   2   0   0   0   2   1   1   0   0   0  .250  .400  .250 
+Juan Rincon        R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Saul Rivera        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Nate Robertson     L   8   1   0   0   0   1   0   4   0   0   0  .125  .222  .125 
+J.C. Romero        L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+CC Sabathia        L   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Johan Santana      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Smoltz        R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Jorge Sosa         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeff Suppan        R  14   4   0   0   0   1   0   2   0   0   0  .286  .333  .286 
+Matt Thornton      L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Claudio Vargas     R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Oscar Villarreal   R   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Ryan Wagner        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rick White         R   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Bob Wickman        R   8   3   2   0   0   1   1   2   0   0   0  .375  .444  .625 
+Jerome Williams    R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Mike Wood          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Esteban Yan        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Barry Zito         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

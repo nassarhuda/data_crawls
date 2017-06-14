@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Scott Aldred       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Wilson Alvarez     L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Kevin Appier       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Steve Avery        L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+John Burkett       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Tom Candiotti      R   4   2   1   0   0   0   0   1   1   0   0  .500  .600  .750 
+Mark Gardner       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Gohr          R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Mark Gubicza       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Hampton       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Chris Haney        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Langston      L   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Felipe Lira        R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Kent Mercker       L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Mike Mimbs         L   2   0   0   0   0   3   0   0   0   0   0  .000  .600  .000 
+Dave Mlicki        R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Denny Neagle       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Omar Olivares      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Andy Pettitte      L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pat Rapp           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kenny Rogers       L   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Steve Sparks       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Kevin Tapani       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+W. VanLandingham   R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Tim Wakefield      R   7   3   0   0   0   1   0   2   0   0   0  .429  .500  .429 
+David Wells        L  10   5   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bobby Witt         R   6   3   1   0   1   1   0   0   0   1   0  .500  .571 1.167

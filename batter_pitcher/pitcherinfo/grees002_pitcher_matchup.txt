@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Hudson         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Johnson      L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Mark Leiter        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jose Mesa          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Omar Olivares      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ramon Ortiz        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Aaron Sele         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Suppan        R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+Jarrod Washburn    L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jeff Weaver        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

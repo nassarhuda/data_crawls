@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Asa Brainard       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Jim Britt          U  12   3   0   1   0   0   0   0   0   0   0  .250  .250  .417 i
+Frank Buttery      U   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Candy Cummings     R  13   3   0   0   0   0   0   2   0   0   0  .231  .231  .231 i
+Bobby Mathews      R  12   2   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Dick McBride       R  19   4   0   0   0   0   0   0   0   0   0  .211  .211  .211 i
+Charlie Pabor      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Al Spalding        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+George Zettlein    R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 i

@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Boehling       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Eddie Cicotte      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+King Cole          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Ray Collins        L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Harry Coveleski    L   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 i
+Jean Dubuc         R   8   1   0   0   0   2   0   2   0   0   0  .125  .300  .125 i
+Bert Gallia        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Walter Johnson     R   9   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Ray Keating        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Babe Ruth          L   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Jim Shaw           R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Bob Shawkey        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carl Weilman       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i

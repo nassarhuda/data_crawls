@@ -1,0 +1,50 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Armando Benitez    R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Yhency Brazoban    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Buehrle       L   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+A.J. Burnett       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Roger Clemens      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Casey Fossum       L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Jon Garland        R   5   2   2   0   0   1   1   1   0   0   0  .400  .500  .800 
+Gary Glover        R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+John Halama        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roy Halladay       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+R. Hernandez       R   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+R. Hernandez       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Luke Hudson        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+J. Isringhausen    R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Randy Johnson      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Al Leiter          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brad Lidge         R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Cory Lidle         R   5   0   0   0   0   3   0   4   0   0   0  .000  .375  .000 
+Kyle Lohse         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Darrell May        L   8   3   0   1   1   0   0   1   0   0   0  .375  .375 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eric Milton        L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jamie Moyer        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mark Mulder        L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Mussina       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Vicente Padilla    R   3   1   1   0   0   0   0   1   0   0   1  .333  .250  .667 
+Andy Pettitte      L   7   4   1   0   0   0   0   1   1   1   0  .571  .625  .714 
+Brad Radke         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Mark Redman        L  10   2   1   0   0   0   0   0   0   0   0  .200  .200  .300 
+Rick Reed          R  10   1   1   0   0   0   0   1   0   0   0  .100  .100  .200 
+Juan Rincon        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Glendon Rusch      L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Johan Santana      L  10   2   0   0   1   0   0   3   0   0   0  .200  .200  .500 
+Julio Santana      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Curt Schilling     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Shawn Sedlacek     R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Aaron Sele         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Julian Tavarez     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Salomon Torres     R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Andy Van Hekken    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tim Wakefield      R   5   2   2   0   0   0   0   3   0   0   0  .400  .400  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Weathers     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jeff Weaver        R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+David Wells        L  11   3   2   0   0   0   0   2   0   0   0  .273  .273  .455 
+Dontrelle Willis   L   5   3   1   0   0   1   1   0   0   0   0  .600  .667  .800 
+Randy Wolf         L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Dan Wright         R   3   1   0   0   0   0   0   0   0   1   1  .333  .250  .333 
+Barry Zito         L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000

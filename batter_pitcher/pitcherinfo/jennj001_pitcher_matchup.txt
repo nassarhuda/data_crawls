@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+A.J. Burnett       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Roger Clemens      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Adam Eaton         R  11   2   2   0   0   0   0   3   0   2   1  .182  .167  .364 
+Aaron Harang       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Clay Hensley       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Livan Hernandez    R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Kazuhisa Ishii     L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Randy Johnson      L   8   2   2   0   0   0   0   2   0   0   0  .250  .250  .500 
+Brian Lawrence     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jose Lima          R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Noah Lowry         L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Greg Maddux        R   8   2   0   0   1   0   0   2   1   0   0  .250  .333  .625 
+Brian Meadows      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Mulder        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+John Patterson     R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Jake Peavy         R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Brad Penny         R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kirk Rueter        L   9   1   0   0   0   1   0   1   0   1   0  .111  .200  .111 
+Glendon Rusch      L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Curt Schilling     R   6   3   1   0   0   0   0   3   0   0   0  .500  .500  .667 
+Ben Sheets         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Mike Thompson      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Brandon Webb       R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Randy Wolf         L   7   2   2   0   0   0   0   1   0   0   0  .286  .286  .571 
+Carlos Zambrano    R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

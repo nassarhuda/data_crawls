@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Dick Barrett       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Max Butcher        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Mort Cooper        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Curt Davis         R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+F. Fitzsimmons     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Art Herring        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Carl Hubbell       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Al Javery          R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Vern Kennedy       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bob Klinger        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Howie Krist        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Lee           R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Rube Melton        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Red Munger         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Claude Passeau     R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Elmer Riddle       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Sayles        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rip Sewell         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Ray Starr          R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Vander Meer     L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Les Webber         R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333

@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Bullet Joe Bush    R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Hal Carlson        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Wayland Dean       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Foster Edwards     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+F. Fitzsimmons     R  13   5   4   0   0   0   0   0   0   0   0  .385  .385  .692 
+Joe Genewich       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Carmen Hill        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Lou Koupal         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Dolf Luque         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Carl Mays          R   9   3   0   1   0   0   0   0   0   0   0  .333  .333  .556 
+Doug McWeeny       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Lee Meadows        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Flint Rhem         R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 i
+Jack Scott         R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Smith          R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Johnny Wertz       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+C. Willoughby      R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 i

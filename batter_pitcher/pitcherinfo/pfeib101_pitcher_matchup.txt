@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gerry Arrigo       L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Jim Brewer         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ron Bryant         L  10   1   1   0   0   0   0   0   0   0   0  .100  .100  .200 
+Jim Bunning        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Steve Carlton      L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+John Cumberland    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Larry Dierker      R   6   3   0   0   2   0   0   1   0   0   0  .500  .500 1.500 
+Dock Ellis         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Griffin        R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+C. Hartenstein     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Grant Jackson      L  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 
+Jerry Johnson      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dick Kelley        L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Clay Kirby         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Juan Marichal      R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Don McMahon        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Merritt        L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Moose          R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Joe Niekro         R   6   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Gary Nolan         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Milt Pappas        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Gaylord Perry      R  10   4   1   0   0   0   0   1   0   0   0  .400  .400  .500 
+Frank Reberger     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Ron Reed           R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Dave Roberts       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jerry Robertson    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Tommie Sisk        R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Don Sutton         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Veale          L   6   1   1   0   0   1   0   2   0   0   0  .167  .286  .333 
+Luke Walker        L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Gary Waslewski     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Wegener       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000

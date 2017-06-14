@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Babich      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Ken Chase          L   9   3   0   1   0   2   0   2   0   0   0  .333  .455  .556 
+Chubby Dean        L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Bill Dietrich      R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Red Embree         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bob Feller         R  12   2   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Denny Galehouse    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Johnny Gorsica     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mickey Haefner     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Lum Harris         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Harris         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Joe Haynes         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Al Hollingsworth   L   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 i
+Joe Krakauskas     L   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Dutch Leonard      R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Phil Marchildon    R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Johnny Marcum      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lefty Mills        L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Al Milnar          L  11   2   0   0   0   0   0   5   0   0   0  .182  .182  .182 i
+Hal Newhouser      L   8   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobo Newsom        R  12   3   0   0   0   0   0   4   0   0   0  .250  .250  .250 
+Johnny Niggeling   R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Buck Ross          R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Schoolboy Rowe     R   9   2   1   0   0   0   0   2   0   1   0  .222  .222  .333 
+Al Smith           L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Eddie Smith        L  13   3   0   0   0   2   0   5   0   0   0  .231  .333  .231 
+Steve Sundra       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Wolff        R  14   2   0   0   1   0   0   3   0   0   0  .143  .143  .357 i

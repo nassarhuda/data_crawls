@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doc Crandall       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bob Groom          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ben Harris         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Claude Hendrix     R   6   1   1   0   0   0   0   0   1   0   0  .167  .286  .333 
+Earl Moseley       R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+George Mullin      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Gene Packard       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jack Quinn         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Frank Smith        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Kaiser Wilhelm     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i

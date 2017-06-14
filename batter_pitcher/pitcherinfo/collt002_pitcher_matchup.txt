@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Trevor Bauer       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Johnny Cueto       R  13   3   3   0   0   0   0   0   0   0   0  .231  .231  .462 
+Yovani Gallardo    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jesse Hahn         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Kelvin Herrera     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Erik Johnson       R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Colby Lewis        R   5   1   0   0   1   0   0   0   1   0   0  .200  .333  .800 
+Danny Salazar      R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Jeff Samardzija    R   6   3   0   1   0   0   0   0   0   0   0  .500  .500  .833 
+Ervin Santana      R   6   3   3   0   0   0   0   2   0   0   0  .500  .500 1.000 
+Matt Shoemaker     R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Yordano Ventura    R   8   3   0   0   0   1   0   2   0   0   0  .375  .444  .375 
+Edinson Volquez    R   8   3   2   0   0   0   0   2   0   0   0  .375  .375  .625 
+Jered Weaver       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

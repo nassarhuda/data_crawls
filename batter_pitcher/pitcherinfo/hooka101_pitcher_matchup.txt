@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bobby Burke        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Lefty Gomez        L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Bump Hadley        R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Vito Tamulis       L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Earl Whitehill     L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500

@@ -1,0 +1,73 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   7   0   0   0   0   2   0   0   0   0   0  .000  .222  .000 
+Gene Bearden       L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Al Benton          R  11   3   0   0   0   0   0   2   0   1   0  .273  .273  .273 
+Joe Berry          R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Bill Bevens        R  14   3   0   0   0   1   0   3   0   0   0  .214  .267  .214 
+Tiny Bonham        R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 
+Lou Brissie        L   7   3   1   0   0   1   0   1   0   0   0  .429  .500  .571 
+Milo Candini       R   5   1   0   0   0   1   1   0   0   0   0  .200  .333  .200 
+Spud Chandler      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Russ Christopher   R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Dobson         R  25   4   0   0   0   1   0   6   0   0   0  .160  .192  .160 
+Clem Dreisewerd    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Red Embree         R  14   5   1   0   1   5   0   0   0   0   0  .357  .526  .643 
+Bob Feller         R  25   8   2   0   0   6   0   8   0   0   0  .320  .452  .400 
+Tom Ferrick        R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Dave Ferriss       R  22   5   0   0   0   4   0   5   0   0   0  .227  .346  .227 
+Jesse Flores       R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Dick Fowler        R  24   8   1   1   1   4   0   1   1   0   0  .333  .448  .583 i
+Denny Galehouse    R   6   0   0   0   0   1   1   0   0   1   0  .000  .143  .000 
+Charlie Gassaway   L   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Gettel          R   7   3   0   1   1   2   1   0   0   1   0  .429  .556 1.143 
+Steve Gromek       R   8   0   0   0   0   1   0   0   0   0   0  .000  .111  .000 
+Orval Grove        R  18   5   1   0   0   1   0   1   0   1   0  .278  .316  .333 
+Randy Gumpert      R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Mickey Haefner     L  20   7   0   0   0   2   0   2   0   2   0  .350  .409  .350 
+Ralph Hamner       R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Mel Harder         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Lum Harris         R   3   2   1   1   0   1   0   1   0   0   0  .667  .750 1.667 i
+Bubba Harris       R   7   2   0   0   0   2   0   1   0   0   0  .286  .444  .286 
+Mickey Harris      L  17   6   1   0   0   0   0   3   0   0   0  .353  .353  .412 
+Earl Harrist       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Joe Haynes         R   6   3   0   0   1   0   0   0   0   0   0  .500  .500 1.000 
+Frank Hiller       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Art Houtteman      R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Sid Hudson         R  21   8   2   1   0   3   0   1   0   0   0  .381  .458  .571 i
+Tex Hughson        R  11   4   1   0   0   0   0   1   0   0   0  .364  .364  .455 
+Fred Hutchinson    R  18   5   1   0   0   0   0   2   0   0   0  .278  .278  .333 
+Earl Johnson       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Kennedy       L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Ed Klieman         R   3   1   0   0   0   1   0   0   0   2   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Knerr          R  10   3   1   0   0   3   0   3   0   0   0  .300  .462  .400 
+Joe Krakauskas     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Kramer        R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Bob Lemon          R  11   3   2   0   0   2   0   2   0   1   0  .273  .385  .455 
+Dutch Leonard      R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Eddie Lopat        L  19   3   0   0   0   0   0   2   0   0   0  .158  .158  .158 
+Ted Lyons          R   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Phil Marchildon    R  10   2   0   0   0   6   0   3   0   0   0  .200  .500  .200 
+Walt Masterson     R   9   1   1   0   0   1   0   2   0   0   0  .111  .200  .222 i
+Glen Moulder       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Hal Newhouser      L  16   1   0   0   0   0   0   1   0   0   0  .063  .063  .063 
+Joe Page           L   8   2   0   0   0   1   0   0   0   1   0  .250  .333  .250 
+Frank Papish       L   8   1   1   0   0   2   0   1   0   0   0  .125  .300  .250 
+Mel Parnell        L  11   3   0   1   0   0   0   0   0   0   0  .273  .273  .455 
+Ike Pearson        R   3   2   0   0   0   1   0   0   0   1   0  .667  .750  .667 
+Marino Pieretti    R   6   2   1   0   0   0   0   0   0   2   0  .333  .333  .500 
+Mel Queen          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Vic Raschi         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Allie Reynolds     R  23   4   1   0   0   4   0   3   0   1   0  .174  .296  .217 
+Marius Russo       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Savage         R  11   6   2   0   0   4   0   0   0   1   0  .545  .667  .727 
+Ray Scarborough    R  13   3   0   0   0   0   0   1   0   0   0  .231  .231  .231 
+Carl Scheib        R   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500 
+Spec Shea          R  10   3   1   1   0   0   0   3   0   0   0  .300  .300  .600 
+Eddie Smith        L   7   4   2   0   0   0   0   1   1   0   0  .571  .625  .857 
+Dizzy Trout        R  30   4   0   0   0   2   0   9   0   0   0  .133  .188  .133 
+Virgil Trucks      R  12   3   0   0   0   3   0   2   0   0   0  .250  .400  .250 
+Charlie Wagner     R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Early Wynn         R  15   3   0   0   0   2   0   0   0   1   0  .200  .294  .200 i

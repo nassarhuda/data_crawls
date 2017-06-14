@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Byrd         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Roy Face           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Garcia        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Art Houtteman      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bob Lemon          R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Walt Masterson     R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Ron Perranoski     L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Duane Pillette     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Bob Porterfield    R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Saul Rogovin       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Spec Shea          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chuck Stobbs       L   5   1   0   1   0   0   0   3   0   0   0  .200  .200  .600 
+Virgil Trucks      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

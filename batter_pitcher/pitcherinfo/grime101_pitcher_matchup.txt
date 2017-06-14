@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lloyd Brown        L   7   4   0   1   0   1   0   1   0   0   0  .571  .625  .857 
+Sarge Connally     R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Wes Ferrell        R   3   0   0   0   0   3   0   1   0   0   0  .000  .500  .000 
+Lefty Gomez        L   8   2   0   1   0   2   0   2   0   0   0  .250  .400  .500 i
+Mel Harder         R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Willis Hudlin      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Roy Mahaffey       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Herb Pennock       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tommy Thomas       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Rube Walberg       L  12   4   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Monte Weaver       R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i
+Bob Weiland        L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Earl Whitehill     L   9   5   1   0   0   1   0   0   0   0   0  .556  .600  .667

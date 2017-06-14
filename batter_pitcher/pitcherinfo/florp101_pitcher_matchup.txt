@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 i
+Pete Alexander     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jesse Barnes       R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 i
+Hal Carlson        R   5   1   0   0   0   0   0   0   1   0   0  .200  .333  .200 i
+Pete Donohue       R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Joe Genewich       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ray Kremer         R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Dolf Luque         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+C. Mitchell        L   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 i
+Flint Rhem         R   9   1   0   0   0   1   0   0   0   0   0  .111  .200  .111 i
+Charlie Root       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bob Smith          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Johnny Wertz       R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i

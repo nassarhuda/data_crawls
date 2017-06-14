@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Tom Brewer         R  11   0   0   0   0   1   0   5   0   0   0  .000  .083  .000 
+Jerry Casale       R   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Tex Clevenger      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ike Delock         R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Art Ditmar         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Donovan       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Fornieles     R   8   2   0   0   0   0   0   2   0   0   2  .250  .200  .250 
+Mike Garcia        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ned Garver         R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Tom Gorman         R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mudcat Grant       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bob Grim           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Herbert        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Johnny Kucks       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim McDonald       R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Jim Perry          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Pedro Ramos        R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Dave Sisler        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Sturdivant     R   8   2   1   0   0   0   0   2   0   1   0  .250  .250  .375 
+Frank Sullivan     R  11   1   0   0   1   0   0   4   0   1   0  .091  .091  .364 
+Hoyt Wilhelm       R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000

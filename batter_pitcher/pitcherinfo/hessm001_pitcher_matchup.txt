@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dallas Braden      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Buehrle       L   9   3   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+John Danks         L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Gavin Floyd        R   7   2   0   0   2   0   0   3   0   0   1  .286  .250 1.143 
+Cole Hamels        L   5   1   0   1   0   1   0   2   0   0   0  .200  .333  .600 
+Al Leiter          L   4   3   2   0   0   1   0   1   0   0   0  .750  .800 1.250 
+Eric Milton        L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vicente Padilla    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ehren Wassermann   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

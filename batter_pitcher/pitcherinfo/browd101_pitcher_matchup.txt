@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   8   1   0   0   0   2   0   0   0   1   0  .125  .300  .125 i
+Fred Anderson      R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Bill Bailey        L   5   2   2   0   0   1   0   0   0   0   0  .400  .500  .800 i
+Hugh Bedient       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dave Black         L   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 i
+Snipe Conley       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Dave Davenport     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Cy Falkenberg      R   8   1   0   0   1   0   0   0   0   0   0  .125  .125  .500 i
+Happy Finneran     R   6   4   1   0   0   2   0   0   0   0   0  .667  .750  .833 i
+Claude Hendrix     R  13   6   0   1   0   1   0   1   0   0   0  .462  .500  .615 i
+Rube Marquard      L   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+George McConnell   R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Harry Moran        L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Earl Moseley       R  10   3   0   0   0   3   0   0   0   1   0  .300  .462  .300 i
+Eddie Plank        L   8   0   0   0   0   0   0   0   1   0   0  .000  .111  .000 i
+Jack Quinn         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Ed Reulbach        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Al Schulz          L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Tom Seaton         R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Frank Smith        R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doc Watson         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Fin Wilson         L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i

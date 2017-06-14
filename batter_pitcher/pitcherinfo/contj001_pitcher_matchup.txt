@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danys Baez         R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+James Baldwin      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+A.J. Burnett       R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Frank Castillo     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ryan Franklin      R   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+S. Hasegawa        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Tim Hudson         R   3   1   0   0   0   3   0   1   0   0   0  .333  .667  .333 
+Jose Jimenez       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jose Lima          R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Esteban Loaiza     R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Derek Lowe         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Calvin Maduro      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Justin Miller      R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Terry Mulholland   L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Clint Nageotte     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ramon Ortiz        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Roy Oswalt         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Vicente Padilla    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Parris       R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Joel Pineiro       R  11   5   3   0   0   1   0   2   0   0   0  .455  .500  .727 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Luke Prokopec      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Rick Reed          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Todd Ritchie       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Willis Roberts     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+CC Sabathia        L   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Aaron Sele         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Todd Van Poppel    R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Tim Wakefield      R   6   3   1   0   0   0   0   3   0   0   0  .500  .500  .667 
+Pete Walker        R   5   2   0   0   1   0   0   2   0   1   0  .400  .400 1.000 
+Rick White         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Wilson        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Belinda       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Eric Bell          L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+John Cerutti       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jim Deshaies       L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Jimmy Key          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mark Langston      L   4   3   0   0   1   1   0   0   0   0   0  .750  .800 1.500 
+Derek Lilliquist   L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000

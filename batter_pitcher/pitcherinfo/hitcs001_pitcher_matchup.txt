@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pedro Astacio      R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Kevin Brown        R   5   0   0   0   0   1   0   4   0   1   0  .000  .167  .000 
+Octavio Dotel      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Glavine        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dustin Hermanson   R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Randy Johnson      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bobby Jones        R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bobby Jones        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Darryl Kile        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Al Leiter          L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Chan Ho Park       R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Steve Trachsel     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ismael Valdez      R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000

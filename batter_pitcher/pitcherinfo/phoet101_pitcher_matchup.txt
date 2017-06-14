@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Bosman        R   7   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dave Boswell       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Gene Brabender     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bucky Brandon      R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Dean Chance        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Joe Coleman        R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Dick Drago         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Rich Hand          R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jim Hannan         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Steve Hargan       R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Joe Horlen         R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Catfish Hunter     R  10   1   0   0   0   0   0   3   0   2   0  .100  .100  .100 
+Pat Jarvis         R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Tommy John         L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Kaat           L   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Tom Kelley         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mickey Lolich      L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Sam McDowell       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim McGlothlin     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Denny McLain       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Murphy         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jim Nash           R   6   1   0   0   0   0   0   5   0   1   0  .167  .167  .167 
+Gary Peters        L  10   1   0   0   0   0   0   6   0   1   0  .100  .100  .100 
+Fritz Peterson     L   5   3   1   0   0   0   0   2   0   1   0  .600  .600  .800 
+Bob Priddy         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Sonny Siebert      R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Lee Stange         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mel Stottlemyre    R   9   0   0   0   0   1   0   2   0   0   0  .000  .100  .000 
+Fred Talbot        R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Luis Tiant         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Stan Williams      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Earl Wilson        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

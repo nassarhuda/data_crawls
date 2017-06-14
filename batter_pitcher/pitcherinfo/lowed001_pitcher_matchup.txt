@@ -1,0 +1,54 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   6   1   0   0   0   1   0   3   0   2   0  .167  .286  .167 
+Michael Bacsik     L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Matt Cain          R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Chris Capuano      L   2   0   0   0   0   0   0   1   0   5   0  .000  .000  .000 
+Chris Carpenter    R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Aaron Cook         R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jorge de la Rosa   L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+R.A. Dickey        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Zach Duke          L   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333 
+Shawn Estes        L   2   1   1   0   0   1   0   0   0   1   0  .500  .667 1.000 
+Josh Fogg          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Yovani Gallardo    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Glavine        L   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Cole Hamels        L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Mike Hampton       L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Dan Haren          R   6   0   0   0   0   1   0   0   0   1   0  .000  .143  .000 
+Brad Hennessey     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Livan Hernandez    R   9   1   0   0   0   0   0   2   0   1   0  .111  .111  .111 
+Tim Hudson         R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kyle Kendrick      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Lannan        L   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+Cliff Lee          L   4   1   0   0   0   1   0   2   0   1   0  .250  .400  .250 
+Ted Lilly          L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Braden Looper      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jason Marquis      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Yuniesky Maya      R   3   1   1   0   0   1   0   1   0   1   0  .333  .500  .667 
+Andrew Miller      L   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Sergio Mitre       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Matt Morris        R   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 
+Brett Myers        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ricky Nolasco      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Scott Olsen        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Russ Ortiz         R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Manny Parra        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Oliver Perez       L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Andy Pettitte      L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Wandy Rodriguez    L   8   1   1   0   0   0   0   5   0   0   0  .125  .125  .250 
+Jonathan Sanchez   L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Johan Santana      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+John Smoltz        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Craig Stammen      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Javier Vazquez     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Adam Wainwright    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brandon Webb       R   8   2   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Randy Wells        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Woody Williams     R  10   2   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Dontrelle Willis   L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Randy Wolf         L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Chris Young        R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Carlos Zambrano    R   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+J. Zimmermann      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

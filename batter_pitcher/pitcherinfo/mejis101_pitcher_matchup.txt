@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Vida Blue          L   4   3   0   0   0   0   0   0   0   1   0  .750  .750  .750 
+John Candelaria    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Steve Carlton      L  13   1   1   0   0   1   0   7   0   0   1  .077  .133  .154 
+Pete Falcone       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Woodie Fryman      L   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Gene Garber        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tom Griffin        R   3   1   0   0   0   0   0   2   1   0   0  .333  .500  .333 
+Tommy John         L   6   2   1   0   0   0   0   2   0   1   0  .333  .333  .500 
+Randy Jones        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jim Kaat           L   7   4   1   0   0   0   0   0   0   0   0  .571  .571  .714 
+Bob Knepper        L   9   3   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Gary Lavelle       L   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Randy Lerch        L  11   5   0   1   0   0   0   1   0   0   0  .455  .455  .636 
+Mickey Mahler      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Niekro         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Fred Norman        L  10   1   0   0   0   0   0   3   0   0   0  .100  .100  .100 
+Ron Reed           R   5   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Paul Reuschel      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerry Reuss        L   8   3   0   0   0   1   1   0   0   0   0  .375  .444  .375 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Rogers       R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Jim Rooker         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dick Ruthven       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Scott Sanderson    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Shirley        L   5   1   1   0   0   1   1   0   0   0   0  .200  .333  .400 
+Eddie Solomon      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bruce Sutter       R   5   3   1   0   1   0   0   0   0   0   0  .600  .600 1.400 
+Bob Sykes          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Kent Tekulve       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pat Zachry         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

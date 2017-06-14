@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Joe Berry          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Vern Bickford      R   7   1   0   0   0   1   0   2   0   1   0  .143  .250  .143 
+Ralph Branca       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Al Brazle          L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Earl Caldwell      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Cliff Chambers     L   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Clem Dreisewerd    L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dave Ferriss       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Jesse Flores       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Mickey Haefner     L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Luke Hamlin        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Joe Hatten         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Johnny Humphries   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry Jansen       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jack Kramer        R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+Thornton Lee       L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dutch McCall       L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Russ Meyer         R   6   1   1   0   0   2   0   1   0   0   0  .167  .375  .333 
+Bob Muncrief       R   5   3   0   0   1   0   0   1   0   0   0  .600  .600 1.200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobo Newsom        R   4   2   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Stubby Overmire    L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 i
+Erv Palica         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Poat           R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Howie Pollet       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+K. Raffensberger   L   5   3   0   0   0   0   0   0   0   2   0  .600  .600  .600 
+Willie Ramsdell    R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Allie Reynolds     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Mike Ryba          R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Early Wynn         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   6   1   0   0   1   1   0   0   0   0   0  .167  .286  .667 
+Ray Caldwell       R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Carl Cashion       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Jack Coombs        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ray Fisher         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Russ Ford          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Byron Houck        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+George McConnell   R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Jack Warhop        R   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 i

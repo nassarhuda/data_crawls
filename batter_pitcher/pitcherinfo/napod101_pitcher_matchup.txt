@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Cloninger     R  11   3   0   0   0   1   0   4   0   0   0  .273  .333  .273 
+Dick Ellsworth     L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Dave Giusti        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Grant Jackson      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Kelley        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sandy Koufax       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Maloney        R   5   1   0   0   0   1   0   3   1   0   0  .200  .429  .200 
+Claude Osteen      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim O'Toole        L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Chris Short        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Curt Simmons       L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000

@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Bouton         R  10   2   0   0   0   0   0   3   0   2   0  .200  .200  .200 
+George Brunet      L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Dean Chance        R   5   1   0   0   0   0   0   4   1   1   0  .200  .333  .200 
+Jim Duckworth      R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Whitey Ford        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mudcat Grant       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Joe Horlen         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Catfish Hunter     R   6   1   0   0   0   0   0   3   0   2   0  .167  .167  .167 
+Tommy John         L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Kaat           L   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Dave McNally       L   7   0   0   0   0   0   0   3   0   1   1  .000  .000  .000 
+Fred Newman        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Phil Ortega        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Claude Osteen      L   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Camilo Pascual     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Orlando Pena       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jim Perry          R   7   0   0   0   0   1   0   2   0   2   0  .000  .125  .000 
+Gary Peters        L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Steve Ridzik       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Robin Roberts      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Diego Segui        R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Joe Sparma         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Fred Talbot        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Ralph Terry        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Luis Tiant         R  11   1   0   0   0   0   0   5   0   0   0  .091  .091  .091

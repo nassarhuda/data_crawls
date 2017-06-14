@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Benz           R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Boardwalk Brown    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ray Caldwell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jean Dubuc         R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Red Faber          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ed Klepfer         R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+G. Lowdermilk      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rosy Ryan          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+George Sisler      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Steen         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lil Stoner         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

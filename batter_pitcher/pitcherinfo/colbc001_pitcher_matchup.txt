@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Scott Bankhead     R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Rheal Cormier      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Glavine        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Hill           R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Terry Mulholland   L   6   3   2   0   0   0   0   1   0   0   0  .500  .500  .833 
+Chris Nabholz      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Armando Reynoso    R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Frank Seminara     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500

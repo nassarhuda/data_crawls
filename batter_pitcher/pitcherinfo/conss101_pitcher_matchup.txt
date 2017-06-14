@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Moe Burtschy       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Tommy Byrne        L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Art Ditmar         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Whitey Ford        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Marion Fricano     R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Steve Gromek       R  11   2   0   0   0   0   0   2   0   1   0  .182  .182  .182 
+Fred Hutchinson    R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Alex Kellner       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ellis Kinder       R   3   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Bob Lemon          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Eddie Lopat        L   8   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Hal Newhouser      L   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Satchel Paige      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mel Parnell        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Saul Rogovin       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bobby Shantz       L  10   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Spec Shea          R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Lou Sleater        L   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Marlin Stuart      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333

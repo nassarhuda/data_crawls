@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jesse Barnes       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Stan Coveleski     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Genewich       R   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 i
+Jesse Haines       R   8   4   1   0   0   1   0   0   0   0   0  .500  .556  .625 i
+Hugh McQuillan     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Morrison    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tiny Osborne       R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Flint Rhem         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bill Sherdel       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Allen Sothoron     R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Dazzy Vance        R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Mule Watson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Al Yeargin         R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750

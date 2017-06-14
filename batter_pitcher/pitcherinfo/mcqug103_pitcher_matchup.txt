@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Red Ames           R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 i
+Larry Cheney       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Phil Douglas       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Bob Harmon         R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Lefty Leifield     L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Al Mamaux          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rube Marquard      L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 i
+C. Mathewson       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Erskine Mayer      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Limb McKenry       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jeff Pfeffer       R   8   1   0   0   0   0   0   0   0   2   0  .125  .125  .125 i
+Slim Sallee        L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Jeff Tesreau       R  10   0   0   0   0   1   0   2   0   0   0  .000  .091  .000 
+Ben Tincup         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Hippo Vaughn       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Adam Eaton         R   3   0   0   0   0   0   0   1   1   1   0  .000  .250  .000 
+Scott Erickson     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Kelvim Escobar     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Freddy Garcia      R   5   1   1   0   0   0   0   2   1   0   0  .200  .333  .400 
+R. Hernandez       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Luke Hudson        R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Tim Hudson         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Edwin Jackson      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Rodrigo Lopez      R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Kevin Millwood     R   9   2   0   0   0   0   0   6   0   0   0  .222  .222  .222 
+Ryan Rupe          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Smoltz        R   2   2   0   1   0   2   1   0   2   0   0 1.000 1.000 2.000 
+Brian Stokes       R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Rob Tejeda         R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Jered Weaver       R   4   3   0   0   2   1   0   1   0   0   0  .750  .800 2.250

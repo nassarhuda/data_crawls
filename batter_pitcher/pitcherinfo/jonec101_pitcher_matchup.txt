@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Benton       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clise Dudley       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+C. Mitchell        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Luther Roy         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Sherdel       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

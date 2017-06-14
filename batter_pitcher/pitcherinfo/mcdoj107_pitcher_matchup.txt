@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Bentley         U  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Candy Cummings     R   9   4   1   0   0   0   0   0   0   0   0  .444  .444  .556 i
+Bobby Mathews      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Charlie Pabor      L   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Al Spalding        R  12   4   2   0   0   0   0   0   0   0   0  .333  .333  .500 i
+George Zettlein    R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143

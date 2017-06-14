@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Blanding      R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Hooks Dauss        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jean Dubuc         R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Vean Gregg         L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Earl Hamilton      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Willie Mitchell    L   8   1   0   0   0   2   0   2   0   0   0  .125  .300  .125 i
+Carl Weilman       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

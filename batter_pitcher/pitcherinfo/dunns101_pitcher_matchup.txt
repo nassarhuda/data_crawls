@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vida Blue          L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pete Broberg       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Casey Cox          R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Tommy John         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Lerrin LaGrow      R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Skip Lockwood      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Mickey Lolich      L   6   2   0   0   1   1   0   4   0   0   0  .333  .429  .833 
+Jim Palmer         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Marty Pattin       R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Diego Segui        R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Dick Woodson       R   4   3   0   0   1   0   0   1   0   1   0  .750  .750 1.500

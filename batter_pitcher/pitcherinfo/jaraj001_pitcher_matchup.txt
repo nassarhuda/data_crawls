@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Mitchell Boggs     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Kevin Correia      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Johnny Cueto       R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ryan Dempster      R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Yovani Gallardo    R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Zack Greinke       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Livan Hernandez    R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Kenshin Kawakami   R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Hiroki Kuroda      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Kyle McClellan     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Brian Moehler      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chris Narveson     L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ricky Nolasco      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Roy Oswalt         R   4   1   1   0   0   1   0   0   1   0   0  .250  .500  .500 
+Joel Pineiro       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Chris Sampson      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Anibal Sanchez     R   4   2   1   0   0   1   1   1   0   0   0  .500  .600  .750 
+Randy Wells        R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Carlos Zambrano    R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

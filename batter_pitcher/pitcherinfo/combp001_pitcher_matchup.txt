@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Barnes       L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Sid Fernandez      L   6   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Dwight Gooden      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Neal Heaton        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ramon Martinez     R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

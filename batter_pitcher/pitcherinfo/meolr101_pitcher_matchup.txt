@@ -1,0 +1,70 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Albury         L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Stan Bahnsen       R  13   4   1   0   0   2   0   1   0   0   0  .308  .400  .385 
+Jerry Bell         R   9   4   0   0   0   0   0   1   0   0   0  .444  .444  .444 
+Jim Bibby          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Doug Bird          R   8   1   0   1   0   0   0   2   0   0   0  .125  .125  .375 
+Vida Blue          L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bert Blyleven      R  25   6   0   0   0   3   0   2   0   0   0  .240  .321  .240 
+Nelson Briles      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Steve Busby        R  19   6   1   0   0   2   0   4   0   0   0  .316  .381  .368 
+Bill Campbell      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Caudill       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bill Champion      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Colborn        R  18   4   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Joe Coleman        R   9   2   1   0   1   2   0   1   0   0   0  .222  .364  .667 
+Ray Corbin         R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+John Curtis        L   7   1   0   0   0   0   0   2   0   0   1  .143  .125  .143 
+Bruce Dal Canton   R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Joe Decker         R   5   1   1   0   0   2   0   0   0   0   0  .200  .429  .400 
+Pat Dobson         R  12   2   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dick Drago         R  11   6   0   0   0   2   0   0   0   0   0  .545  .615  .545 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rollie Fingers     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eddie Fisher       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Fitzmorris      R  13   2   0   0   0   0   0   0   0   0   0  .154  .154  .154 
+Terry Forster      L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Foucault     R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Woodie Fryman      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Gene Garber        R   8   3   0   0   1   0   0   1   0   0   0  .375  .375  .750 
+Dave Goltz         R   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Rich Gossage       R   6   1   0   0   0   1   0   3   0   1   0  .167  .286  .167 
+Bill Hands         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Hargan       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+G. Hernandez       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Fred Holdsworth    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ken Holtzman       L   5   2   1   0   0   1   0   2   0   0   0  .400  .500  .600 
+Jim Hughes         R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Catfish Hunter     R  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Bart Johnson       R  11   3   0   0   0   0   0   4   0   0   0  .273  .273  .273 
+Jim Kaat           L   8   3   0   0   0   0   0   3   0   0   0  .375  .375  .375 
+Lerrin LaGrow      R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Bill Lee           L   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Leonard     R   3   0   0   0   0   4   0   0   0   0   0  .000  .571  .000 
+Mark Littell       R   3   1   0   0   0   2   1   1   0   0   0  .333  .600  .333 
+Rudy May           L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Lindy McDaniel     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Lynn McGlothen     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Doc Medich         R  10   2   1   0   0   0   0   1   0   0   0  .200  .200  .300 
+Jim Merritt        L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Blue Moon Odom     R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 
+Jim Palmer         R   7   2   0   0   0   2   0   1   0   0   1  .286  .400  .286 
+Marty Pattin       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Mike Paul          L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Gaylord Perry      R  14   3   0   0   0   2   0   2   0   0   1  .214  .294  .214 
+Jim Perry          R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Fritz Peterson     L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Steve Rogers       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Jim Slaton         R  10   3   2   0   0   1   0   0   0   0   0  .300  .364  .500 
+Don Stanhouse      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Steve Stone        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Mel Stottlemyre    R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Mike Strahler      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Luis Tiant         R  14   2   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Dick Tidrow        R   9   1   0   0   0   2   0   1   0   0   0  .111  .273  .111 
+Milt Wilcox        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Wiley         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Rick Wise          R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Wilbur Wood        L  14   2   0   0   0   0   0   2   0   0   0  .143  .143  .143

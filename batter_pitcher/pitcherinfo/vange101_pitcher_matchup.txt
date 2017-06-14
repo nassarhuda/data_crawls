@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Blankenship    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dan Boone          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bullet Joe Bush    R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eddie Cicotte      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Rip Collins        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Harry Courtney     L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Stan Coveleski     R  11   3   2   0   0   0   0   1   0   1   0  .273  .273  .455 i
+Hooks Dauss        R  13   4   0   0   0   0   0   1   0   0   0  .308  .308  .308 i
+James Edwards      L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Howard Ehmke       R  10   1   1   0   0   0   0   2   0   1   0  .100  .100  .200 i
+Harvey Freeman     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Curt Fullerton     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Sam Gibson         R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333 i
+Sam Gray           R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Lefty Grove        L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Slim Harriss       R   6   1   0   0   0   0   0   2   1   0   0  .167  .286  .167 i
+Fred Heimach       L   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 i
+Shovel Hodge       R   5   1   0   0   0   1   0   1   0   2   0  .200  .333  .200 
+Waite Hoyt         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Walter Johnson     R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sad Sam Jones      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Benn Karr          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dickey Kerr        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Dutch Leonard      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ted Lyons          R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 i
+Duster Mails       L   8   4   0   1   0   0   0   3   0   1   0  .500  .500  .750 i
+Red Oldham         L  17   4   1   0   0   1   0   2   0   0   0  .235  .278  .294 i
+Herb Pennock       L  11   4   3   0   0   0   0   2   0   0   0  .364  .364  .636 i
+Herman Pillette    R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 i
+George Pipgras     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Jack Quinn         R  11   5   0   0   0   0   0   0   0   1   0  .455  .455  .455 i
+C. Robertson       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Eddie Rommel       R  14   1   0   0   0   0   0   2   1   1   0  .071  .133  .071 i
+Red Ruffing        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bob Shawkey        R   5   2   0   1   0   0   0   0   0   2   0  .400  .400  .800 i
+Urban Shocker      R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Sherry Smith       L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+George Uhle        R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Rube Walberg       L   8   4   1   0   0   0   0   0   0   0   0  .500  .500  .625 i
+Cy Warmoth         L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Earl Whitehill     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Lefty Williams     L   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Hal Wiltse         L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 i
+Ted Wingfield      R   7   3   0   0   1   1   0   0   0   1   0  .429  .500  .857 i
+Tom Zachary        L  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 i

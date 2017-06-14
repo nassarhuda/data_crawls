@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Asa Brainard       R  15   2   1   0   0   3   0   1   0   0   0  .133  .278  .200 
+Bobby Mathews      R  12   5   1   0   0   1   0   0   0   0   0  .417  .462  .500 
+Dick McBride       R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John McMullin      L  11   2   0   0   0   3   0   1   0   0   0  .182  .357  .182 
+Al Pratt           R   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250

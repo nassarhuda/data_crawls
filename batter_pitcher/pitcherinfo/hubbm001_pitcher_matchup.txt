@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sean Bergman       R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+F. Cordova         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Hampton       L   9   5   0   0   0   0   0   2   0   0   0  .556  .556  .556 
+Bobby Jones        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jose Lima          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Shane Reynolds     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pete Schourek      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Billy Wagner       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+David Wells        L   7   2   0   0   1   0   0   2   0   0   0  .286  .286  .714

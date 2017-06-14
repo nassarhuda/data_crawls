@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Blyzka        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Harry Brecheen     L   6   3   0   1   1   0   0   0   0   0   0  .500  .500 1.333 
+Tommy Byrne        L   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+Bob Cain           L   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Ned Garver         R   8   2   1   0   0   1   0   0   0   0   0  .250  .333  .375 
+Ted Gray           L   8   1   0   1   0   1   0   3   0   0   0  .125  .222  .375 
+Marv Grissom       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Gromek       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Billy Hoeft        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Art Houtteman      R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Don Larsen         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dick Littlefield   L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Eddie Lopat        L  11   3   0   0   1   1   0   3   0   0   0  .273  .333  .545 
+Dave Madison       R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Bill Miller        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Satchel Paige      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Mel Parnell        L   7   0   0   0   0   2   0   2   0   0   0  .000  .222  .000 
+Billy Pierce       L  11   4   0   0   1   0   0   2   0   0   0  .364  .364  .636 
+Duane Pillette     R  11   5   1   0   1   0   0   0   0   0   0  .455  .455  .818 
+Chuck Stobbs       L   9   1   0   0   0   2   0   3   0   0   0  .111  .273  .111 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Trice          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Early Wynn         R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000

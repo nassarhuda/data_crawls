@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Virgil Barnes      R   7   0   0   0   0   3   0   2   0   0   0  .000  .300  .000 
+Larry Benton       R  21   5   0   0   1   2   0   3   0   0   0  .238  .304  .381 i
+Sheriff Blake      R   5   2   0   0   0   3   1   0   0   0   0  .400  .625  .400 
+Erv Brame          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Ben Cantwell       R   8   1   0   0   1   0   0   2   0   0   0  .125  .125  .500 i
+Bill Doak          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pete Donohue       R   7   3   3   0   0   1   0   0   0   0   0  .429  .500  .857 i
+Rube Ehrhardt      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Alex Ferguson      R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 i
+Wes Ferrell        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+F. Fitzsimmons     R   6   4   0   0   1   5   1   0   0   0   0  .667  .818 1.167 i
+Joe Genewich       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Kent Greenfield    R   3   1   1   0   0   0   0   0   1   0   0  .333  .500  .667 i
+Burleigh Grimes    R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 i
+Carmen Hill        R   8   3   0   0   0   2   0   1   0   0   0  .375  .500  .375 i
+Ray Kolp           R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+C. Littlejohn      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Lucas          R  13   4   2   0   0   3   0   0   0   0   0  .308  .438  .462 i
+Dolf Luque         R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 i
+Pat Malone         R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carl Mays          R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Doug McWeeny       R   8   5   1   0   1   3   0   2   0   0   0  .625  .727 1.125 i
+Lee Meadows        R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+C. Mitchell        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Osborn         R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+C. Robertson       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Charlie Root       R   6   4   0   0   2   3   0   0   0   0   0  .667  .778 1.667 
+Jack Scott         R   3   1   0   0   1   2   0   0   0   0   0  .333  .600 1.333 i
+Bob Smith          R  12   2   0   1   0   1   0   2   0   1   0  .167  .231  .333 i
+Vic Sorrell        R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Bill Swift         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dutch Ulrich       R   5   1   0   0   0   2   0   2   0   0   0  .200  .429  .200 
+Dazzy Vance        R  13   1   0   1   0   4   0   4   0   0   0  .077  .294  .231 i
+C. Willoughby      R   5   1   0   0   1   2   0   0   0   0   0  .200  .429  .800

@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vida Blue          L   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Tom Browning       L   6   0   0   0   0   1   0   2   0   2   0  .000  .143  .000 
+John Candelaria    L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ron Darling        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Bill Dawley        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Jim Deshaies       L   7   1   1   0   0   4   0   2   0   0   0  .143  .455  .286 
+Carlos Diaz        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dave Dravecky      L   4   1   0   0   0   0   0   1   0   2   0  .250  .250  .250 
+Dwight Gooden      R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Bill Gullickson    R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Atlee Hammaker     L   5   2   0   0   1   1   0   1   0   0   0  .400  .500 1.000 
+Neal Heaton        L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Orel Hershiser     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brian Holton       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ken Howell         R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Jimmy Jones        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Charlie Kerfeld    R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Bob Knepper        L   7   2   0   0   1   2   0   1   0   0   0  .286  .444  .714 
+Jerry Koosman      L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Larry McWilliams   L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jamie Moyer        L   9   2   0   0   0   1   0   2   0   1   0  .222  .300  .222 
+Alejandro Pena     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ted Power          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Dennis Rasmussen   L   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Shane Rawley       L   4   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Jerry Reuss        L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Jeff Robinson      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ron Robinson       R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Nolan Ryan         R   4   1   0   0   0   0   0   1   0   0   1  .250  .200  .250 
+Tom Seaver         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Eric Show          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Smith         R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Mario Soto         R  10   0   0   0   0   1   0   1   0   0   0  .000  .091  .000 
+Mark Thurmond      L   8   4   1   0   0   1   0   0   0   0   0  .500  .556  .625 
+Freddie Toliver    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Trout        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+John Tudor         L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+F. Valenzuela      L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Bob Walk           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Welch          R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Whitson         R   5   3   1   0   0   1   0   1   0   0   0  .600  .667  .800 
+Pat Zachry         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200

@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mack Allison       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Hugh Bedient       R   7   1   0   0   0   0   0   1   0   1   0  .143  .143  .143 
+Bert Brenner       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Boardwalk Brown    R   7   2   0   0   0   1   0   0   0   1   0  .286  .375  .286 i
+Carl Cashion       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Eddie Cicotte      R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jack Coombs        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Roy Crabb          R   2   1   0   0   0   2   0   0   0   1   0  .500  .750  .500 
+Joe Engel          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vean Gregg         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Groom          R   6   1   0   0   0   1   0   1   0   1   0  .167  .286  .167 
+Willie Jensen      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Walter Johnson     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Walsh           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Charlie Wheatley   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Doc White          L   8   3   0   0   0   1   0   1   0   0   0  .375  .444  .375 
+Smoky Joe Wood     R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429

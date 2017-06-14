@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Chief Bender       R   9   0   0   0   0   1   0   1   0   1   0  .000  .100  .000 i
+Joe Benz           R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Bernie Boland      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Rube Bressler      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Bullet Joe Bush    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Paul Carter        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pug Cavet          L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Fritz Coumbe       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Harry Coveleski    L  22   3   0   0   0   3   0   4   0   0   0  .136  .240  .136 i
+Hooks Dauss        R  19   2   0   0   0   3   0   5   0   2   0  .105  .227  .105 i
+Jean Dubuc         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Red Faber          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Rube Foster        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Vean Gregg         L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 i
+Bob Groom          R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 i
+Bruno Haas         L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Rip Hagerman       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Earl Hamilton      L   9   2   0   1   0   2   0   2   0   0   0  .222  .364  .444 i
+Bill James         R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Walter Johnson     R  10   2   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Ernie Koob         L   7   4   0   0   0   1   0   0   0   0   0  .571  .625  .571 i
+Otis Lambeth       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Roy Mitchell       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Willie Mitchell    L  16   5   0   0   0   2   0   0   0   0   0  .313  .389  .313 i
+Guy Morton         R   7   2   0   0   0   1   0   3   0   1   0  .286  .375  .286 i
+Ross Reynolds      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Babe Ruth          L  20   3   0   0   0   2   0   0   0   1   0  .150  .227  .150 i
+Jim Scott          R  10   3   1   0   0   1   0   0   0   2   0  .300  .364  .400 i
+Jim Shaw           R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Bob Shawkey        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Bill Steen         R   7   1   0   0   0   0   0   3   1   1   0  .143  .250  .143 i
+Ed Walsh           R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Carl Weilman       L  19   9   2   0   0   2   0   1   0   1   0  .474  .524  .579 i

@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Barnes       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Bentley       L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Johnny Couch       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Joe Genewich       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Burleigh Grimes    R   7   1   0   0   0   0   0   1   0   2   0  .143  .143  .143 i
+Hugh McQuillan     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jimmy Ring         R   9   3   0   0   0   0   0   0   0   2   0  .333  .333  .333 i
+Rosy Ryan          R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Sherdel       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Johnny Stuart      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

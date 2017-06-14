@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Byrd         R   3   2   0   0   1   2   1   0   0   0   0  .667  .800 1.667 
+Frank Fanovich     L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Marion Fricano     R   2   1   0   0   0   2   1   0   0   0   0  .500  .750  .500 
+Tom Gorman         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Keegan         R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Alex Kellner       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Koslo         L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lou Kretlow        R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Bob Kuzava         L   3   0   0   0   0   2   1   0   0   0   0  .000  .400  .000 
+Don Larsen         R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Dick Littlefield   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Lopat        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Sal Maglie         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Walt Masterson     R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim McDonald       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Willard Nixon      R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+Mel Parnell        L   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 
+Allie Reynolds     R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Bob Rush           R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Art Schallock      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Spec Shea          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Chuck Stobbs       L   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Marlin Stuart      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Virgil Trucks      R   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 
+Bob Turley         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

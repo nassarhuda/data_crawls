@@ -1,0 +1,57 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Acker          R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Allan Anderson     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Steve Avery        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Floyd Bannister    L   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Buddy Black        L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Mike Caldwell      L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+John Candelaria    L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Don Carman         L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Jim Clancy         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bryan Clark        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chris Codiroli     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pat Combs          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Joe Cowley         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Danny Darwin       R   3   0   0   0   0   1   0   0   1   0   0  .000  .400  .000 
+Storm Davis        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Richard Dotson     R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Steve Farr         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Mike Flanagan      L   3   1   1   0   0   1   0   0   0   1   0  .333  .500  .667 
+Jim Gott           R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lee Guetterman     L   3   2   0   0   0   0   0   1   0   0   1  .667  .500  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ron Guidry         L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Larry Gura         L   5   2   1   0   0   2   0   0   0   0   1  .400  .500  .600 
+Neal Heaton        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rick Honeycutt     L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Mark Huismann      R   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Danny Jackson      L   7   1   0   0   0   1   0   2   1   1   0  .143  .333  .143 
+Tommy John         L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Eric King          R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Jerry Koosman      L   7   1   0   0   0   0   0   0   1   0   0  .143  .250  .143 
+Bill Krueger       L   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 
+Dennis Lamp        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Luis Leal          R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+C. Leibrandt       L  14   5   0   0   2   1   0   0   0   0   0  .357  .400  .786 
+Joe Magrane        L   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Steve McCatty      R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob McClure        L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Scott McGregor     L  11   2   0   1   0   0   0   0   0   0   0  .182  .182  .364 
+Mike Moore         R   7   1   0   1   0   0   0   0   0   0   0  .143  .143  .429 
+Phil Niekro        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bryan Oelkers      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Reed         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Righetti      L   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Dave J. Schmidt    R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Bob Shirley        L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Zane Smith         L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Smithson      R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Lary Sorensen      R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Paul Splittorff    L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Stewart       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Frank Tanana       L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+John Tudor         L   8   3   0   0   1   0   0   0   0   0   0  .375  .375  .750 
+Frank Viola        L   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Curt Young         L  11   1   0   0   0   1   0   0   0   0   0  .091  .167  .091 
+Geoff Zahn         L   7   0   0   0   0   2   0   0   0   0   0  .000  .222  .000

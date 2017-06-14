@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Miguel Batista     R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Andy Benes         R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Chris Capuano      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Roger Clemens      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Matt Clement       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Doug Davis         L   9   2   1   0   0   0   0   3   1   0   0  .222  .300  .333 
+Ryan Dempster      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Wayne Franklin     L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dan Haren          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jimmy Haynes       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tomo Ohka          R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Ramon Ortiz        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Roy Oswalt         R   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+Jake Peavy         R   6   2   2   0   0   0   0   3   0   0   0  .333  .333  .667 
+Brad Penny         R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Andy Pettitte      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Glendon Rusch      L   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Jason Schmidt      R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Jeff Suppan        R   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Javier Vazquez     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jerome Williams    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dontrelle Willis   L   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Paul Wilson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jamey Wright       R   6   2   0   0   0   0   0   2   0   2   0  .333  .333  .333 
+Carlos Zambrano    R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200

@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   9   2   0   0   0   1   0   0   0   0   0  .222  .300  .222 i
+Pete Alexander     R  15   4   1   1   0   2   0   2   0   0   0  .267  .353  .467 i
+Frank Allen        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Red Ames           R  10   3   2   0   0   0   0   0   0   0   0  .300  .300  .500 i
+Cy Barger          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Buster Brown       R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 i
+Mordecai Brown     R   4   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 i
+Howie Camnitz      R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 i
+Larry Cheney       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+King Cole          R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Doc Crandall       R   5   4   1   1   0   0   0   0   0   0   0  .800  .800 1.400 i
+Ed Donnelly        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Art Fromme         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Harry Gaspar       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Geyer         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Bob Harmon         R  15   6   0   0   0   1   0   1   0   1   0  .400  .438  .400 i
+Claude Hendrix     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jimmy Lavender     R  14   2   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+G. Lowdermilk      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Rube Marquard      L  11   1   0   0   0   0   0   5   0   0   0  .091  .091  .091 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Earl Moore         R  14   4   1   1   0   3   0   0   0   0   0  .286  .412  .500 i
+Marty O'Toole      R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 i
+Ed Reulbach        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Lew Richie         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eppa Rixey         L   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Nap Rucker         L  14   3   0   1   0   1   0   1   0   1   0  .214  .267  .357 i
+Bill Schardt       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Tom Seaton         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Frank Smith        R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 i
+Bill Steele        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jeff Tesreau       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Lefty Tyler        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Earl Yingling      L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Bowman         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Don Brennan        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Tiny Chaplin       R   5   2   0   0   0   2   0   2   0   0   0  .400  .571  .400 
+Watty Clark        L  11   2   0   0   1   0   0   2   0   0   0  .182  .182  .455 
+Mort Cooper        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Curt Davis         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dizzy Dean         R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Paul Derringer     R  10   3   0   2   1   1   0   4   0   0   0  .300  .364 1.000 
+Larry French       L  24   8   2   0   0   0   0   3   0   0   0  .333  .333  .417 i
+Bill Hallahan      L  10   1   0   0   0   1   0   2   0   0   0  .100  .182  .100 i
+Roy Henshaw        L  18   5   0   0   2   2   0   3   0   0   0  .278  .350  .611 i
+Al Hollingsworth   L  10   2   0   0   2   2   0   5   0   0   0  .200  .333  .800 
+Carl Hubbell       L  16   2   0   0   0   2   0   6   0   0   0  .125  .222  .125 
+Bill Lee           R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Bill Lohrman       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Danny MacFayden    R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Cliff Melton       L   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Van Mungo          R   4   2   2   0   0   1   0   1   0   0   0  .500  .600 1.000 
+Emmett Nelson      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Parmelee       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Gene Schott        R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Hal Schumacher     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Clyde Shoun        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Al Smith           L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Lee Stine          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Walker        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Lon Warneke        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Bob Weiland        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tom Zachary        L   9   1   0   0   1   1   0   1   0   0   0  .111  .200  .444

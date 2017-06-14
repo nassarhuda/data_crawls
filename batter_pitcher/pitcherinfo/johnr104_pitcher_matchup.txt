@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bailey        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mordecai Brown     R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Sandy Burk         R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Doc Crandall       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Walter Johnson     R  10   2   0   0   0   0   0   4   0   1   0  .200  .200  .200 i
+G. Kaiserling      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Henry Keupper      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Eddie Plank        L   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Al Schulz          L   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i

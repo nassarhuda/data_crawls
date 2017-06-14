@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Coffman       R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Johnny Marcum      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Johnny Welch       R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500

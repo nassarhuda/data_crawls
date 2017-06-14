@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   6   1   0   0   0   3   0   0   0   1   0  .167  .444  .167 
+Stan Bahnsen       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Ray Bare           R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jim Bibby          R   5   0   0   0   0   3   0   2   0   0   0  .000  .375  .000 
+Bert Blyleven      R  11   3   0   1   0   1   0   3   0   2   0  .273  .333  .455 
+Reggie Cleveland   R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Joe Decker         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Ed Figueroa        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mike Flanagan      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Goltz         R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Hargan       R   8   4   0   1   0   1   0   0   0   0   0  .500  .556  .750 
+Roric Harrison     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Catfish Hunter     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Fergie Jenkins     R   7   3   0   0   0   0   0   0   0   1   0  .429  .429  .429 
+Lerrin LaGrow      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Lindblad      L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Mike Marshall      R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Dennis Martinez    R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Doc Medich         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Palmer         R  11   2   1   0   0   0   0   3   0   0   0  .182  .182  .273 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gaylord Perry      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Vern Ruhle         R   5   2   0   0   0   0   0   0   0   0   1  .400  .333  .400 
+Nolan Ryan         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Steve Stone        R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Luis Tiant         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Torrez        R  13   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Wiley         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

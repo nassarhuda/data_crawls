@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Freisleben    R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Griffin        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Don Gullett        L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Burt Hooton        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Bruce Kison        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Lonborg        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Andy Messersmith   R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jerry Reuss        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sonny Siebert      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Don Sutton         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Wilson         R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Bolin        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Don Drysdale       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Gibson         R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Griffin        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Pat Jarvis         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Claude Osteen      L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Don Sutton         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250

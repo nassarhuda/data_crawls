@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+R. Aitchison       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Alexander     R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Frank Allen        L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Al Demaree         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bill James         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+George McQuillan   R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 i
+Joe Oeschger       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Lefty Tyler        L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i

@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Don Black          R   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Tiny Bonham        R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tommy Byrne        L   3   1   0   0   0   2   0   1   0   1   0  .333  .600  .333 
+Spud Chandler      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Russ Christopher   R   5   0   0   0   0   1   0   0   0   1   0  .000  .167  .000 
+Joe Coleman        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Bill Dietrich      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Joe Dobson         R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Karl Drews         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Monk Dubiel        R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Red Embree         R   9   4   1   0   0   1   0   1   0   1   0  .444  .500  .556 
+Cliff Fannin       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Feller         R  15   3   0   0   0   2   0   4   0   0   0  .200  .294  .200 
+Stan Ferens        L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Dave Ferriss       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jesse Flores       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dick Fowler        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Mike Garcia        R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Charlie Gassaway   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Gromek       R  10   1   0   0   0   0   0   2   0   2   0  .100  .100  .100 i
+Mel Harder         R   1   0   0   0   0   1   1   0   0   2   0  .000  .500  .000 i
+Joe Haynes         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Al Hollingsworth   L   8   3   0   0   0   1   0   2   0   2   0  .375  .444  .375 i
+Sid Hudson         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Johnny Humphries   R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 i
+Fred Hutchinson    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Sig Jakucki        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Earl Johnson       L   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 
+Ed Klieman         R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Lou Knerr          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jack Kramer        R  13   2   1   0   0   1   0   3   0   0   0  .154  .214  .231 
+Bob Lemon          R  11   1   0   0   0   2   0   1   0   0   0  .091  .231  .091 
+Eddie Lopat        L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Phil Marchildon    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Muncrief       R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Hal Newhouser      L   5   2   0   0   0   3   0   1   0   0   0  .400  .625  .400 i
+Bobo Newsom        R   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 
+Stubby Overmire    L   7   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Joe Page           L   5   1   1   0   0   1   0   1   0   1   0  .200  .333  .400 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Papish       L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Vic Raschi         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Allie Reynolds     R   9   3   0   0   0   0   0   3   0   1   0  .333  .333  .333 i
+Red Ruffing        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Fred Sanford       R   7   2   0   0   0   1   0   1   0   1   0  .286  .375  .286 
+Carl Scheib        R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Tex Shirley        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Eddie Smith        L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Chuck Stobbs       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dizzy Trout        R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 i
+Virgil Trucks      R   9   1   0   0   0   1   0   4   0   0   0  .111  .200  .111 
+Bill Wight         L   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200

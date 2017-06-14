@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pete Alexander     R  18   1   0   0   0   0   0   1   0   0   0  .056  .056  .056 
+Jesse Barnes       R   9   0   0   0   0   0   0   7   0   1   0  .000  .000  .000 i
+Rube Benton        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Leon Cadore        R  28   2   1   0   0   0   0   5   0   1   0  .071  .071  .107 
+Red Causey         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry Cheney       R  12   1   0   0   0   1   0   7   0   0   0  .083  .154  .083 i
+Wilbur Cooper      L  28   7   1   0   0   0   0   1   0   1   0  .250  .250  .286 i
+Bill Doak          R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 i
+Pete Donohue       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Burleigh Grimes    R  23   3   0   0   0   0   0   6   0   0   0  .130  .130  .130 i
+Jesse Haines       R   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 i
+Earl Hamilton      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Claude Hendrix     R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Percy Jones        L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tony Kaufmann      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dolf Luque         R   9   1   0   0   0   0   0   4   0   0   0  .111  .111  .111 i
+Rube Marquard      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jakie May          L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Lee Meadows        R  11   2   0   0   0   1   0   1   0   0   0  .182  .250  .182 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+C. Mitchell        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Johnny Morrison    R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Art Nehf           L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Tiny Osborne       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jeff Pfeffer       R  10   1   0   0   0   0   0   4   0   0   0  .100  .100  .100 i
+Pat Ragan          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eppa Rixey         L   5   3   1   0   0   0   0   0   0   1   0  .600  .600  .800 i
+Dick Rudolph       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Schneider     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Ferdie Schupp      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Smith       R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 i
+Sherry Smith       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Fred Toney         R   9   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Lefty Tyler        L   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Hippo Vaughn       L   9   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 i

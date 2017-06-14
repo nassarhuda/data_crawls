@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Brandt          L   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ownie Carroll      R   5   3   0   0   0   1   0   0   0   1   0  .600  .667  .600 
+Watty Clark        L   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Phil Collins       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Dizzy Dean         R   6   1   1   0   0   0   0   2   0   1   0  .167  .167  .333 i
+Paul Derringer     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jumbo Elliott      L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Fred Frankhouse    R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Burleigh Grimes    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jesse Haines       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Hallahan      L   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Fred Heimach       L   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Ray Kolp           R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Danny MacFayden    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pat Malone         R   3   0   0   0   0   0   0   0   1   1   0  .000  .250  .000 
+Van Mungo          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Roy Parmelee       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Eppa Rixey         L  15   4   0   0   0   0   0   2   0   0   0  .267  .267  .267 
+Hal Schumacher     R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Bud Tinning        R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Walker        L   7   1   0   0   0   3   1   0   0   0   0  .143  .400  .143 i
+Lon Warneke        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

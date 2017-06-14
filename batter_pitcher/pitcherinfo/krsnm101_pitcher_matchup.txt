@@ -1,0 +1,3 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Jackson         L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim O'Toole        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

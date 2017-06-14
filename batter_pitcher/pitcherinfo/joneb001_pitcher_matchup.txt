@@ -1,0 +1,67 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Aase           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Keith Atherton     R   7   1   0   0   1   0   0   2   0   0   0  .143  .143  .571 
+Stan Bahnsen       R   7   1   1   0   0   1   0   3   0   0   0  .143  .250  .286 
+Doug Bair          R   5   4   0   0   0   0   0   0   0   0   0  .800  .800  .800 
+Ray Bare           R   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Jim Beattie        R   8   1   0   0   0   0   0   1   0   0   1  .125  .111  .125 
+Bert Blyleven      R  14   2   0   0   0   1   0   4   2   1   0  .143  .294  .143 
+Mike Boddicker     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Brennan        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Busby        R   5   2   1   0   1   0   0   0   0   0   0  .400  .400 1.200 
+John Butcher       R   6   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Marty Bystrom      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Campbell      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Caudill       R   7   1   0   0   0   2   1   3   0   0   0  .143  .333  .143 
+Chris Codiroli     R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Steve Comer        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Storm Davis        R  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Ron Davis          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Richard Dotson     R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dock Ellis         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Fitzmorris      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dave Goltz         R  10   1   0   0   0   1   0   2   0   0   0  .100  .182  .100 
+Rich Gossage       R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Mark Gubicza       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Moose Haas         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jay Howell         R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Jim Hughes         R   8   1   1   0   0   1   0   1   0   0   0  .125  .222  .250 
+Catfish Hunter     R   8   1   1   0   0   1   0   2   1   0   0  .125  .300  .250 
+Roy Lee Jackson    R   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Bob James          R   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Fergie Jenkins     R   9   1   0   0   0   1   1   1   0   0   1  .111  .182  .111 
+Jeff Jones         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Bruce Kison        R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Rick Langford      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Luis Leal          R   9   1   0   0   0   1   0   1   0   0   0  .111  .200  .111 
+Dennis Leonard     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Aurelio Lopez      R   4   3   0   0   1   1   0   1   0   0   0  .750  .800 1.500 
+Kirk McCaskill     R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Steve McCatty      R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Mike Moore         R  14   3   0   0   0   0   0   3   0   0   0  .214  .214  .214 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Moore        R   2   0   0   0   0   1   0   0   0   0   1  .000  .250  .000 
+Jack Morris        R  10   4   1   0   0   1   0   1   0   0   0  .400  .455  .500 
+Mike Norris        R   7   2   0   0   2   1   0   2   0   0   0  .286  .375 1.143 
+Jim Palmer         R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Marty Pattin       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gaylord Perry      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Perry          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dan Petry          R  11   2   1   0   0   1   0   3   0   0   0  .182  .250  .273 
+Vern Ruhle         R   7   3   1   0   0   1   1   0   0   0   0  .429  .500  .571 
+Bret Saberhagen    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Schrom         R  10   2   1   0   0   2   0   2   0   0   0  .200  .333  .300 
+Don Schulze        R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Jim Slaton         R  13   3   0   0   0   1   1   1   0   0   0  .231  .286  .231 
+Mike Smithson      R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Bob Stanley        R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Dave Stieb         R   3   1   0   0   0   1   0   0   1   0   0  .333  .600  .333 
+Don Sutton         R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Luis Tiant         R   6   0   0   0   0   0   0   0   0   1   1  .000  .000  .000 
+Pete Vuckovich     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mike Warren        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Wills        R   6   0   0   0   0   2   0   1   0   0   0  .000  .250  .000 
+Rick Wise          R  11   5   1   0   2   1   0   1   0   0   0  .455  .500 1.091 
+Mike Witt          R  13   2   1   0   0   1   0   5   0   0   0  .154  .214  .231

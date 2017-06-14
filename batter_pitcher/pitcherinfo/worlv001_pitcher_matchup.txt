@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Yovani Gallardo    R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Jason Hammel       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Edwin Jackson      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Leake         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jimmy Nelson       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jon Niese          L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167

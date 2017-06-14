@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Bonham        R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Hank Borowy        R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Jesse Flores       R  10   2   0   0   0   2   0   1   0   0   0  .200  .333  .200 i
+Steve Gromek       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Mickey Haefner     L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Luke Hamlin        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mel Harder         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lum Harris         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dutch Leonard      R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 i
+Johnny Niggeling   R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Emmett O'Neill     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Nels Potter        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Allie Reynolds     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Marius Russo       L   1   1   0   0   0   3   0   0   0   0   0 1.000 1.000 1.000 i
+Dizzy Trout        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Butch Wensloff     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Roger Wolff        R  10   2   1   0   0   0   0   3   0   0   0  .200  .200  .300 
+Early Wynn         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286

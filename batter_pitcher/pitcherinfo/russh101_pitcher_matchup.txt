@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Barger          R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 i
+Mordecai Brown     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Howie Camnitz      R   7   3   0   1   0   2   0   0   0   0   0  .429  .556  .714 i
+Doc Crandall       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Dave Davenport     R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Walt Dickson       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Cy Falkenberg      R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Happy Finneran     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Russ Ford          R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000 i
+Claude Hendrix     R  14   2   0   0   0   1   0   2   0   0   0  .143  .200  .143 i
+Chief Johnson      R   9   2   0   0   0   1   0   0   2   0   0  .222  .417  .222 i
+G. Kaiserling      R   8   4   0   1   0   0   0   0   0   0   0  .500  .500  .750 i
+Elmer Knetzer      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Gene Krapp         R   7   4   0   0   0   2   0   0   0   0   0  .571  .667  .571 i
+Ed Lafitte         R   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Rube Marshall      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tom McGuire        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Earl Moseley       R   6   1   0   0   0   1   0   0   0   2   0  .167  .286  .167 
+Tom Seaton         R   9   1   0   0   0   0   0   2   1   1   0  .111  .200  .111 i
+M. Walker          R   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000 i

@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Appier       R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Darren Dreifort    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joey Hamilton      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Mike Hampton       L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Bobby Jones        R   9   2   1   0   0   0   0   5   0   0   0  .222  .222  .333 
+Carlton Loewer     R   2   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Kevin Millwood     R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Eric Milton        L   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Tomo Ohka          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Kirt Ojala         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Russ Ortiz         R   5   1   0   1   0   0   0   0   0   1   0  .200  .200  .600 
+Jake Peavy         R   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000 
+Brad Penny         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Odalis Perez       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tim Redding        R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Kirk Rueter        L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Curt Schilling     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jason Schmidt      R   8   1   0   0   1   0   0   5   0   0   0  .125  .125  .500 
+Jae Weong Seo      R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Ben Sheets         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Claudio Vargas     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Wolf         L   9   1   0   0   0   1   0   8   0   0   0  .111  .200  .111 
+Kerry Wood         R   7   2   1   0   0   0   0   1   0   1   0  .286  .286  .429 
+Steve Woodard      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jamey Wright       R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333

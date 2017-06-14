@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dan Griner         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill McTigue       L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Phil Redding       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wilbur Cooper      L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Jimmy Lavender     R   5   2   0   2   0   0   0   1   0   0   0  .400  .400 1.200 
+Al Mamaux          R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Rube Marquard      L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+C. Mitchell        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Earl Moseley       R   7   2   0   0   0   2   0   3   0   0   0  .286  .444  .286 i
+Pete Schneider     R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Hippo Vaughn       L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250

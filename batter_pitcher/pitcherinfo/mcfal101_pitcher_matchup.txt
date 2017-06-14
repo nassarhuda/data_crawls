@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nelson Briles      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Bunning        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pat Jarvis         R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Dick Kelley        L   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Jim Maloney        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike McCormick     L   9   1   0   0   0   1   0   1   0   0   0  .111  .200  .111 
+Jim Merritt        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Phil Niekro        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Gary Nolan         R   6   1   0   0   0   1   0   4   0   0   0  .167  .286  .167 
+Claude Osteen      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Milt Pappas        R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Dave Roberts       L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ray Sadecki        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+George Stone       L   9   3   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ray Washburn       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250

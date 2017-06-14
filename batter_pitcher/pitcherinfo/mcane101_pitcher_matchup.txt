@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wade Blasingame    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Bonham        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Nelson Briles      R  10   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Steve Carlton      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+John Curtis        L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Al Downing         L   6   2   0   0   0   0   0   3   0   0   1  .333  .286  .333 
+Woodie Fryman      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ken Holtzman       L   6   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Burt Hooton        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Johnson        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tom Kelley         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Clay Kirby         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Lonborg        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim McGlothlin     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Moose          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Phil Niekro        R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Juan Pizarro       L   6   2   0   0   1   1   0   2   0   0   0  .333  .429  .833 
+Ken Reynolds       L   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Dave Roberts       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Chris Short        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

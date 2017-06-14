@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+A.J. Burnett       R  10   1   0   0   0   1   0   5   0   0   0  .100  .182  .100 
+Chris Capuano      L   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Bartolo Colon      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Randall Delgado    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Zach Duke          L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Marco Estrada      R   6   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Yovani Gallardo    R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jaime Garcia       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Garza         R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Justin Germano     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Cole Hamels        L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Lucas Harrell      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Kevin Hart         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ubaldo Jimenez     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Clayton Kershaw    L   7   1   0   0   0   1   0   4   0   1   0  .143  .250  .143 
+Cliff Lee          L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tim Lincecum       R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Jeff Locke         L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Kyle Lohse         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lance Lynn         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Brett Myers        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Juan Nicasio       R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Bud Norris         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Joel Pineiro       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Clayton Richard    L   4   1   1   0   0   1   0   2   0   1   0  .250  .400  .500 
+Chris Volstad      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Michael Wacha      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jake Westbrook     R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167

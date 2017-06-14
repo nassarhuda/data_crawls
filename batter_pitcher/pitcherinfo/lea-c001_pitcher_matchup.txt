@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Marty Bystrom      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Denny         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Dravecky      L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dennis Eckersley   R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Rich Gale          R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Atlee Hammaker     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Honeycutt     L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Krukow        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike LaCoss        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Laskey        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ed Lynch           R   2   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+John Martin        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Craig McMurtry     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Larry McWilliams   L  10   4   0   1   0   1   0   1   0   0   0  .400  .455  .600 
+Joe Niekro         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Phil Niekro        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chuck Rainey       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Eric Rasmussen     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rick Rhoden        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Dick Ruthven       R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Seaver         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eric Show          R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Mario Soto         R  11   2   0   0   0   1   0   5   0   0   0  .182  .250  .182 
+John Stuper        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Don Sutton         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Walt Terrell       R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+F. Valenzuela      L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Bob Walk           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Whitson         R   4   0   0   0   0   1   0   3   0   1   0  .000  .200  .000 
+Pat Zachry         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

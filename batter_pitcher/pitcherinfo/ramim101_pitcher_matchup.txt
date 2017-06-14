@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Cloninger     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Freisleben    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Hartzell      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Phil Huffman       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Fergie Jenkins     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dave Lemanczyk     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Marshall      R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Jim Merritt        L   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Bob Moose          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jack Morris        R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Claude Osteen      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Sadecki        L   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000 
+Tom Seaver         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Wayne Simpson      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Stoneman      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tom Underwood      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Waits         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

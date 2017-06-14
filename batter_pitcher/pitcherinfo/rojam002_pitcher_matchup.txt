@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alec Asher         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Matt Belisle       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+David Buchanan     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Josh Collmenter    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bartolo Colon      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Johnny Cueto       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jacob deGrom       R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Jorge de la Rosa   L   7   1   1   0   0   1   0   0   0   0   0  .143  .250  .286 
+Aaron Harang       R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Carlos Martinez    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Wade Miley         L   4   0   0   0   0   1   0   1   0   1   0  .000  .200  .000 
+Shelby Miller      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jimmy Nelson       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Tanner Roark       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Hansel Robles      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tyson Ross         R   4   0   0   0   0   0   0   0   1   1   0  .000  .200  .000 
+Max Scherzer       R   8   2   1   0   1   1   0   2   0   0   0  .250  .333  .750 
+James Shields      R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Julio Teheran      R   4   1   0   0   0   2   1   1   0   0   0  .250  .500  .250

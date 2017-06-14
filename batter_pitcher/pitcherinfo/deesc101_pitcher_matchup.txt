@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   3   1   0   0   0   1   0   1   1   0   0  .333  .600  .333 
+Steve Barber       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Gary Bell          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wally Bunker       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Bunning        R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+John Buzhardt      R  12   2   1   0   0   1   0   2   0   0   0  .167  .231  .250 
+Tom Cheney         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Moe Drabowsky      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Bill Faul          R   3   1   1   0   0   0   0   1   1   0   0  .333  .500  .667 
+Eddie Fisher       R   2   1   0   0   0   2   1   0   1   0   0  .500  .800  .500 
+Whitey Ford        L   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Mudcat Grant       R   8   3   0   0   1   1   0   0   0   0   0  .375  .444  .750 
+Joe Horlen         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tommy John         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Kaat           L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Jack Kralick       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mickey Lolich      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mike McCormick     L   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+B. Monbouquette    R  10   4   1   1   0   0   0   0   0   0   0  .400  .400  .700 
+Dave Morehead      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Milt Pappas        R  11   2   0   0   1   0   0   1   0   0   0  .182  .182  .455 
+Camilo Pascual     R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Orlando Pena       R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Juan Pizarro       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Radatz        R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Ed Rakow           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pedro Ramos        R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Steve Ridzik       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Garry Roggenburk   L   1   0   0   0   0   0   0   1   2   0   1  .000  .500  .000 
+Diego Segui        R  10   2   0   0   0   1   0   1   0   0   0  .200  .273  .200 
+Dick Stigman       L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Ralph Terry        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Earl Wilson        R   7   4   1   0   0   0   0   0   0   0   0  .571  .571  .714

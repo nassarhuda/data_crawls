@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Baumgardner     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Chief Bender       R   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 i
+Joe Boehling       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Bernie Boland      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rube Bressler      L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 i
+King Cole          R   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 i
+Jean Dubuc         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rip Hagerman       R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Bill James         R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 i
+Walter Johnson     R  11   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 i
+Ray Keating        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Walt Leverenz      L   9   4   0   1   0   1   0   1   0   0   0  .444  .500  .667 i
+Roy Mitchell       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Willie Mitchell    L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Eddie Plank        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hal Schwenk        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Shawkey        R   8   1   0   0   0   2   0   3   0   0   0  .125  .300  .125 i
+Ernie Shore        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Jack Warhop        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Carl Weilman       L   7   2   1   0   0   0   0   1   0   1   0  .286  .286  .429 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Willett         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Smoky Joe Wood     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Weldon Wyckoff     R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 i

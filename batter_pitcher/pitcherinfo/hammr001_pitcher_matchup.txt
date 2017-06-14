@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Adam Eaton         R   7   1   0   0   0   1   0   4   0   0   0  .143  .250  .143 
+Shawn Estes        L   8   4   2   0   0   1   0   1   0   0   0  .500  .556  .750 
+Jeff Francis       L   7   3   1   0   1   0   0   2   0   0   0  .429  .429 1.000 
+Tom Glavine        L   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Danny Graves       R   3   2   1   0   1   2   0   1   0   0   0  .667  .800 2.000 
+Mike Hampton       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kazuhisa Ishii     L   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Edwin Jackson      R   4   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Jose Jimenez       R   5   2   0   0   0   1   1   1   0   0   0  .400  .500  .400 
+Jose Lima          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eric Milton        L   2   0   0   0   0   3   3   1   0   0   0  .000  .600  .000 
+Sergio Mitre       R   3   2   1   0   0   1   1   1   0   0   0  .667  .750 1.000 
+Guillermo Mota     R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Joe Nathan         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Darren Oliver      L   7   3   2   0   0   0   0   2   0   0   0  .429  .429  .714 
+Vicente Padilla    R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Jake Peavy         R   6   1   0   0   1   0   0   4   1   0   0  .167  .286  .667 
+Odalis Perez       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Sidney Ponson      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Horacio Ramirez    L   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Kirk Rueter        L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Glendon Rusch      L   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 
+Jason Schmidt      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ron Villone        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+David Wells        L  11   5   1   1   1   1   0   0   0   0   0  .455  .500 1.000 
+Jerome Williams    R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Randy Wolf         L   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Jason Young        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carlos Zambrano    R   4   1   1   0   0   1   1   1   0   0   0  .250  .400  .500

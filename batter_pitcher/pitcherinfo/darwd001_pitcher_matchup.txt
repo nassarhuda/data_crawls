@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Steve Avery        L   3   3   1   0   0   1   0   0   0   1   0 1.000 1.000 1.333 
+Doug Drabek        R   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Dave Dravecky      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kevin Gross        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Drew Hall          L   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Orel Hershiser     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Krukow        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Lynch           R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Greg Maddux        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dennis Martinez    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Greg Mathews       L   5   2   1   0   0   0   0   3   0   0   0  .400  .400  .600 
+Kent Mercker       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jamie Moyer        L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Randy O'Neal       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+David Palmer       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dennis Rasmussen   L   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 
+Jay Tibbs          R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Ed Whitson         R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667

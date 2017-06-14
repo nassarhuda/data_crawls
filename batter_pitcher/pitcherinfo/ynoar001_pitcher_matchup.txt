@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Bolsinger     R   4   1   0   1   0   1   0   0   0   0   0  .250  .400  .750 
+M. Bumgarner       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Fausto Carmona     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+O. Despaigne       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Robbie Erlin       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Cole Hamels        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tim Hudson         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Clayton Kershaw    L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Javier Lopez       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Yusmeiro Petit     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paco Rodriguez     L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Sergio Romo        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Tyson Ross         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

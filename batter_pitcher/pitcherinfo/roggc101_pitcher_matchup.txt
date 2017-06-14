@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 i
+Bob Groom          R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Claude Hendrix     R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 i
+Pete Henning       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Harry Moran        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Earl Moseley       R   2   1   0   0   0   0   0   1   0   2   0  .500  .500  .500 
+Eddie Plank        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Prendergast   R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 i
+Tom Seaton         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+George Suggs       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i

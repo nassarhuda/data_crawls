@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Glenn Abbott       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Stan Bahnsen       R   3   2   1   0   0   2   0   0   0   0   0  .667  .800 1.000 
+Jim Barr           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Bibby          R   9   1   0   0   0   5   0   3   0   0   0  .111  .429  .111 
+Doug Bird          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bert Blyleven      R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Dick Bosman        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Nelson Briles      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Broberg       R   4   1   1   0   0   0   0   0   0   0   1  .250  .200  .500 
+Steve Busby        R   6   1   1   0   0   1   1   2   0   0   0  .167  .286  .333 
+Bill Campbell      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Steve Carlton      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Reggie Cleveland   R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bruce Dal Canton   R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Joe Decker         R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Pat Dobson         R   7   1   1   0   0   1   0   1   0   0   0  .143  .250  .286 
+Dick Drago         R   3   0   0   0   0   2   0   3   0   0   0  .000  .400  .000 
+Dock Ellis         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Fitzmorris      R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Ken Forsch         R   5   0   0   0   0   3   0   1   0   0   0  .000  .375  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Garber        R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Tom Hall           L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Roric Harrison     R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Fergie Jenkins     R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Bart Johnson       R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Bob Johnson        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Barry Lersch       R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Jim Lonborg        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Mike Marshall      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Ernie McAnally     R   2   1   0   1   0   2   0   0   0   0   0  .500  .750 1.500 
+Lindy McDaniel     R   7   0   0   0   0   1   1   1   0   0   1  .000  .111  .000 
+Jim McGlothlin     R   5   1   0   0   1   1   0   0   0   0   0  .200  .333  .800 
+Tug McGraw         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Doc Medich         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Andy Messersmith   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Moose          R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Carl Morton        R   9   4   0   0   0   0   0   2   0   0   0  .444  .444  .444 
+Jim Otten          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Marty Pattin       R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Gaylord Perry      R   6   3   1   0   0   1   0   2   0   0   0  .500  .571  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Renko        R   6   0   0   0   0   2   0   0   0   0   0  .000  .250  .000 
+Nolan Ryan         R  15   2   0   0   1   4   0   8   0   0   0  .133  .316  .333 
+Ray Sadecki        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Tom Seaver         R   9   2   0   0   0   1   0   2   0   0   0  .222  .300  .222 
+Steve Stone        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bill Stoneman      R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Dick Tidrow        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Mike Torrez        R   5   2   0   0   1   1   0   0   0   0   0  .400  .500 1.000 
+Don Wilson         R   6   0   0   0   0   2   0   1   0   0   0  .000  .250  .000 
+Rick Wise          R  11   3   0   0   1   1   0   1   0   0   0  .273  .333  .545

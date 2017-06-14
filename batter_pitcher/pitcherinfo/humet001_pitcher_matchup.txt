@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Neil Allen         R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Floyd Bannister    L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Bouton         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+L. Christenson     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Denny         R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tommy John         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry McWilliams   L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Gaylord Perry      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pat Zachry         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

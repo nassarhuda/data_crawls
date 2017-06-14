@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   7   2   2   0   0   0   0   2   0   0   0  .286  .286  .571 
+Gary Bell          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Jack Fisher        R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Jim Hardin         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Steve Hargan       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Locker         R   3   1   0   0   0   1   1   1   0   0   0  .333  .500  .333 
+Sam McDowell       L   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Denny McLain       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Don McMahon        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Tom Murphy         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Tom Phoebus        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Mel Stottlemyre    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

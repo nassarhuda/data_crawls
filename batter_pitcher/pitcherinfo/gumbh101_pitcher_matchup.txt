@@ -1,0 +1,50 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hi Bithorn         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Clay Bryant        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Max Butcher        R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Hugh Casey         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Watty Clark        L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Mort Cooper        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Curt Davis         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Peaches Davis      R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Paul Derringer     R  23   3   0   0   1   0   0   8   0   0   0  .130  .130  .261 i
+Blix Donnelly      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Paul Erickson      R   8   4   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Larry French       L  11   3   0   0   0   0   0   3   0   0   0  .273  .273  .273 i
+Luke Hamlin        R  16   1   0   0   0   0   0   3   0   1   0  .063  .063  .063 i
+Art Herring        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kirby Higbe        R  12   3   0   0   0   0   0   7   0   0   0  .250  .250  .250 i
+Ira Hutchinson     R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Al Javery          R  12   1   0   0   0   0   0   5   0   1   0  .083  .083  .083 i
+Si Johnson         R  12   3   0   0   0   0   0   3   0   1   0  .250  .250  .250 i
+Sheldon Jones      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Clyde King         R   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Kraus         L   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bill Lee           R  16   3   0   0   0   0   0   7   0   0   0  .188  .188  .188 i
+Bill McGee         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Vern Olsen         L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+F. Ostermueller    L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ike Pearson        R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Bill Posedel       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Elmer Riddle       R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Charlie Root       R  15   2   0   0   0   0   0   3   0   0   0  .133  .133  .133 i
+Jack Russell       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Charley Schanz     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rip Sewell         R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 i
+Clyde Shoun        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Ray Starr          R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Nick Strincevich   R   7   2   1   0   0   0   0   4   0   0   0  .286  .286  .429 
+Bill Swift         R   6   3   0   1   0   0   0   2   0   0   0  .500  .500  .833 
+Vito Tamulis       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Junior Thompson    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Tobin          R  13   1   0   0   0   0   0   1   0   0   0  .077  .077  .077 i
+Jim Turner         R  19   1   0   0   0   0   0   5   0   1   0  .053  .053  .053 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Vander Meer     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bucky Walters      R  22   1   1   0   0   0   0   9   0   1   0  .045  .045  .091 
+Lon Warneke        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Jim Weaver         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ted Wilks          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Whit Wyatt         R   6   0   0   0   0   0   0   5   0   2   0  .000  .000  .000 
+Hank Wyse          R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i

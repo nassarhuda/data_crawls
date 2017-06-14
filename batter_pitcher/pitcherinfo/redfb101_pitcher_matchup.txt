@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ownie Carroll      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+General Crowder    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sam Gray           R   7   1   0   0   0   0   0   1   0   2   0  .143  .143  .143 
+Lefty Grove        L  15   3   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Danny MacFayden    R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Firpo Marberry     R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Ed Morris          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jack Ogden         R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Eddie Rommel       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Ruffing        R  13   3   0   0   0   0   0   0   0   0   0  .231  .231  .231 i
+Jack Russell       R   7   2   0   0   0   1   0   0   0   1   0  .286  .375  .286 i
+Joe Shaute         L  11   4   0   0   0   0   0   1   0   0   0  .364  .364  .364 
+George Smith       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Vic Sorrell        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Lil Stoner         R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 i
+Ed Strelecki       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+George Uhle        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rube Walberg       L  12   4   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Tom Zachary        L   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375

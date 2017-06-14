@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Bonham        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Dobson         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Red Embree         R   9   1   0   0   0   0   0   1   0   2   0  .111  .111  .111 
+Bob Feller         R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Dave Ferriss       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Jesse Flores       R   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 
+Dick Fowler        R   9   2   0   0   1   0   0   1   0   0   0  .222  .222  .556 
+Al Gettel          R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Orval Grove        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mickey Haefner     L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ralph Hamner       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mickey Harris      L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Bob Harris         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Fred Hutchinson    R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Bob Lemon          R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Eddie Lopat        L  11   1   0   0   1   0   0   2   0   0   0  .091  .091  .364 
+Phil Marchildon    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walt Masterson     R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Hal Newhouser      L   4   0   0   0   0   1   1   3   0   0   0  .000  .200  .000 
+Bobo Newsom        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allie Reynolds     R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Bob Savage         R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Ray Scarborough    R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Dizzy Trout        R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500

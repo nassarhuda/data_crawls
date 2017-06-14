@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Virgil Barnes      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hi Bell            R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 
+Ted Blankenship    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ben Cantwell       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Watty Clark        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Donohue       R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Red Faber          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+F. Fitzsimmons     R  10   3   0   0   0   1   0   1   0   0   0  .300  .364  .300 i
+Burleigh Grimes    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Jesse Haines       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Bill Hallahan      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Carl Hubbell       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Percy Jones        L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Red Lucas          R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Ted Lyons          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jakie May          L  10   0   0   0   0   1   0   2   0   0   0  .000  .091  .000 i
+Jesse Petty        L   7   2   0   0   0   2   0   1   0   1   0  .286  .444  .286 i
+Eppa Rixey         L   8   5   0   0   0   1   0   0   0   0   0  .625  .667  .625 i
+Bill Sherdel       L   6   2   1   0   0   0   0   3   0   1   0  .333  .333  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Walker        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+C. Willoughby      R   6   2   0   0   0   3   0   0   0   0   0  .333  .556  .333 i

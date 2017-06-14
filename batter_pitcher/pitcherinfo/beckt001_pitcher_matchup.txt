@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Zach Britton       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mark Buehrle       L  11   4   0   0   0   1   0   3   0   0   0  .364  .417  .364 
+Wei-Yin Chen       L  11   3   1   0   0   0   0   1   0   0   2  .273  .231  .364 
+R.A. Dickey        R   3   1   1   0   0   2   0   1   0   0   0  .333  .600  .667 
+Marco Estrada      R   5   1   1   0   0   1   0   2   1   0   0  .200  .429  .400 
+Miguel Gonzalez    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+J.A. Happ          L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Scott Kazmir       L   6   2   0   1   1   0   0   1   0   0   0  .333  .333 1.167 
+Daniel Norris      L   4   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Chris Tillman      R   4   1   0   0   0   1   0   2   1   0   0  .250  .500  .250 
+Adam Warren        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

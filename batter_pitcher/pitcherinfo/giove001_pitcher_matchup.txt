@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sean Bergman       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+John Burkett       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Paul Byrd          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Darren Dreifort    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Freddy Garcia      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dustin Hermanson   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Livan Hernandez    R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Bobby Jones        R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Brian Meadows      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Kevin Millwood     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Mlicki        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Hideo Nomo         R   5   1   0   0   0   0   0   1   0   0   1  .200  .167  .200 
+Chan Ho Park       R   7   2   0   0   0   3   0   2   0   0   0  .286  .500  .286 
+Jay Powell         R   3   1   0   0   0   1   0   1   1   0   0  .333  .600  .333 
+Shane Reynolds     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Armando Reynoso    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Curt Schilling     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jason Schmidt      R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+John Smoltz        R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Russ Springer      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Tapani       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Tewksbury      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ismael Valdez      R  10   2   0   0   0   1   0   1   0   0   0  .200  .273  .200 
+Paul Wagner        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tim Worrell        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

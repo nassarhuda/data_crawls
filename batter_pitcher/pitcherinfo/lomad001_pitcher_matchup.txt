@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Mike Boddicker     R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Oil Can Boyd       R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Mike Brown         R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Storm Davis        R   4   1   0   0   0   3   1   1   0   0   0  .250  .571  .250 
+Mike Moore         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Morris        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Al Nipper          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dickie Noles       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Randy O'Neal       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ron Romanick       R   5   2   0   1   0   0   0   1   0   0   1  .400  .333  .800 
+Dave Rozema        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Bill Scherrer      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Stieb         R   5   2   0   0   0   3   0   0   0   0   0  .400  .625  .400 
+Walt Terrell       R   7   1   0   1   0   0   0   1   0   0   0  .143  .143  .429 
+Milt Wilcox        R   5   0   0   0   0   0   0   2   1   0   0  .000  .167  .000 
+Mike Witt          R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333

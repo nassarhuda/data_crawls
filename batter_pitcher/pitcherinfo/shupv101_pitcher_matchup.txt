@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R  11   5   2   0   0   1   0   0   0   1   0  .455  .500  .636 
+Boom-Boom Beck     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hank Borowy        R   7   3   0   0   0   0   0   1   0   1   0  .429  .429  .429 
+Joe Bowman         R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ralph Branca       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Harry Brecheen     L   9   3   1   0   0   0   0   0   1   0   0  .333  .400  .444 
+Jack Brewer        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Ken Burkhart       R  10   1   0   0   0   2   1   0   0   0   0  .100  .250  .100 
+Frank Dasso        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Paul Derringer     R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+George Dockins     L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Don Fisher         R   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 
+Howie Fox          R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Ken Gables         R  11   3   0   0   0   0   0   2   0   0   0  .273  .273  .273 
+Al Gerheauser      L   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125 
+Hal Gregg          R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Earl Harrist       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Art Herring        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Ed Heusser         R  12   6   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Andy Karl          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Kennedy       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Jack Kraus         L   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Sal Maglie         R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+Dick Mauney        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hugh Mulcahy       R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+F. Ostermueller    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Claude Passeau     R  10   1   0   0   0   1   0   1   0   0   0  .100  .182  .100 
+Ray Prim           L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Preacher Roe       L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Charley Schanz     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Seats          L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Rip Sewell         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Charlie Sproull    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Nick Strincevich   R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Hank Wyse          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333

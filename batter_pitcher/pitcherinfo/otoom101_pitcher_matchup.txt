@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Cheney       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Walt Dickson       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Otto Hess          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bert Humphries     R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Jimmy Lavender     R  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 
+Rube Marquard      L   7   3   1   1   0   0   0   1   0   0   0  .429  .429  .857 i
+C. Mathewson       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Erskine Mayer      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Pol Perritt        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dick Rudolph       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Frank Smith        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Suggs       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Tyler        L  10   3   0   0   0   0   0   2   0   0   0  .300  .300  .300 i
+Earl Yingling      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

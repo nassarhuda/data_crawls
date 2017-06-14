@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boom-Boom Beck     R   6   2   1   0   0   1   1   0   0   0   0  .333  .429  .500 
+Cy Blanton         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Joe Bowman         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hugh Casey         R  13   3   0   0   0   0   0   0   0   0   0  .231  .231  .231 
+Mort Cooper        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Curt Davis         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+F. Fitzsimmons     R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Fred Frankhouse    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Gumbert      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Luke Hamlin        R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bill Lohrman       R  11   5   0   0   0   0   0   1   0   0   0  .455  .455  .455 
+Danny MacFayden    R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Hugh Mulcahy       R   7   0   0   0   0   2   0   0   0   0   0  .000  .222  .000 
+Claude Passeau     R   9   4   1   0   0   0   0   1   0   0   0  .444  .444  .556 
+Ike Pearson        R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Bill Posedel       R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Charlie Root       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Manny Salvo        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Hal Schumacher     R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Tobin          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Turner         R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Whit Wyatt         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   9   2   1   0   0   0   0   2   0   0   0  .222  .222  .333 
+Ivy Andrews        R   5   1   0   1   0   0   0   1   0   1   0  .200  .200  .600 
+Elden Auker        R  13   2   0   0   0   1   0   2   0   0   0  .154  .214  .154 
+G. Blaeholder      R   5   3   0   0   0   0   0   0   0   1   0  .600  .600  .600 
+Tommy Bridges      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Johnny Broaca      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bobby Burke        L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Earl Caldwell      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Joe Cascarella     R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 i
+Jimmie DeShong     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Dietrich      R   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 
+Wes Ferrell        R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Lefty Gomez        L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 i
+Lefty Grove        L   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Bump Hadley        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Henry          R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Chief Hogsett      L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Vern Kennedy       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jack Knott         R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Johnny Marcum      R  11   1   0   0   0   1   0   0   0   1   0  .091  .167  .091 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Murphy      R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Bobo Newsom        R   9   3   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Monte Pearson      R   5   0   0   0   0   3   0   0   0   0   0  .000  .375  .000 
+Red Ruffing        R   9   2   0   0   1   1   0   1   0   0   0  .222  .300  .556 
+Lefty Stewart      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Les Tietje         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Earl Whitehill     L  12   2   0   0   0   1   0   1   0   0   0  .167  .231  .167 
+Jack Wilson        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000

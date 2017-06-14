@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Bennett     L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bob Buhl           R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Jim Bunning        R   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Turk Farrell       R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Bob Hendley        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Juan Marichal      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ron Reed           R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dave Roberts       L   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Ray Sadecki        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Short        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

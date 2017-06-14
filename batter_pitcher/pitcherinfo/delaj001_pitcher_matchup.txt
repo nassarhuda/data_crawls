@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chase Anderson     R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+M. Bumgarner       L   6   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Trevor Cahill      R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Matt Cain          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Andrew Cashner     R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Kevin Correia      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Rubby de la Rosa   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ross Detwiler      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Yovani Gallardo    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Cole Hamels        L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dan Haren          R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Josh Johnson       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Clayton Kershaw    L   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 
+F. Liriano         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Derek Lowe         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Maholm        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ross Ohlendorf     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Clayton Richard    L   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Jonathan Sanchez   L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Joe Saunders       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Max Scherzer       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+S. Strasburg       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Eric Stults        L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Jacob Turner       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ryan Vogelsong     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Edinson Volquez    R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Adam Wainwright    R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Barry Zito         L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

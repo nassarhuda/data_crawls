@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Eddie Fisher       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ken Frailing       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Hardin         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Roric Harrison     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Marshall      R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Denny McLain       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Doug Rau           L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Nolan Ryan         R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Bill Slayback      R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Don Stanhouse      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wilbur Wood        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dick Woodson       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000

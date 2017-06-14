@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Garland Braxton    L   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 i
+Lloyd Brown        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bobby Burke        L   7   4   1   0   0   1   0   0   0   0   0  .571  .625  .714 i
+Rip Collins        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+General Crowder    R   7   4   1   1   0   1   0   0   0   0   0  .571  .625 1.000 i
+George Earnshaw    R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 i
+Howard Ehmke       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Wes Ferrell        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Milt Gaston        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Sam Gray           R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Lefty Grove        L   8   1   0   0   0   2   0   0   0   0   0  .125  .300  .125 i
+Bump Hadley        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Willis Hudlin      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Danny MacFayden    R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Firpo Marberry     R  10   2   1   0   0   1   0   1   0   0   0  .200  .273  .300 i
+Johnny Miljus      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jake Miller        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Herb Pennock       L  12   3   1   0   0   1   0   0   0   0   0  .250  .308  .333 
+George Pipgras     R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Ruffing        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Jack Russell       R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 i
+Roy Sherid         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Lefty Stewart      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Myles Thomas       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+George Uhle        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Rube Walberg       L   8   2   0   0   1   1   0   0   0   0   0  .250  .333  .625 i
+Ed Wells           L   9   1   0   1   0   3   0   1   0   0   0  .111  .333  .333 i
+Earl Whitehill     L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 i

@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Benge          R  12   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Larry Benton       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Erv Brame          R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Guy Bush           R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Allan Collamore    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Phil Collins       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Fritz Coumbe       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Stan Coveleski     R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Pete Donohue       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Howard Ehmke       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jumbo Elliott      L  11   2   0   0   0   1   0   0   0   1   0  .182  .250  .182 i
+F. Fitzsimmons     R  10   2   0   0   0   1   0   0   0   1   0  .200  .273  .200 i
+Larry French       L   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 i
+Clarence Garrett   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Hallahan      L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Harry Harper       L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Carl Hubbell       L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 i
+Si Johnson         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Syl Johnson        R  10   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Kremer         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jim Lindsey        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Red Lucas          R  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+C. Mitchell        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Hub Pruett         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Reb Russell        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Babe Ruth          L   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Ernie Shore        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Glenn Spencer      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Les Sweetland      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Sloppy Thurston    R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bill Walker        L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500

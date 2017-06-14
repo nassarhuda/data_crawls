@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Caldwell       R   9   1   0   0   0   1   0   3   0   0   0  .111  .200  .111 i
+Eddie Cicotte      R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 i
+Stan Coveleski     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Hooks Dauss        R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Jean Dubuc         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Bert Gallia        R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 i
+Earl Hamilton      L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Bill James         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Walt Leverenz      L   1   0   0   0   0   1   0   0   0   2   0  .000  .500  .000 i
+George Mogridge    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Rollie Naylor      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Richardson    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Babe Ruth          L   5   1   0   0   0   3   0   0   0   0   0  .200  .500  .200 
+Jim Shaw           R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Bob Shawkey        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Ernie Shore        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Harry Weaver       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Rasty Wright       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 i
+Weldon Wyckoff     R   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000

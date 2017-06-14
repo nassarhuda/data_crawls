@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Berly         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Guy Bush           R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chet Falk          L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Larry French       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Burleigh Grimes    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jesse Haines       R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pat Malone         R   2   0   0   0   0   0   0   0   1   1   0  .000  .333  .000 
+Bob Smith          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Les Sweetland      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Zachary        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

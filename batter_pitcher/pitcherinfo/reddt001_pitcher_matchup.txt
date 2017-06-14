@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Acevedo       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Miguel Batista     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kris Benson        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Matt Cain          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Doug Davis         L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+B. Duckworth       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Josh Fogg          R   7   1   0   0   0   0   0   0   0   2   0  .143  .143  .143 
+Cole Hamels        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jimmy Haynes       R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Ubaldo Jimenez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kyle Kendrick      R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+John Lannan        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jon Lieber         R   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Greg Maddux        R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Kevin Millwood     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Matt Morris        R   8   1   0   0   0   0   0   6   0   0   0  .125  .125  .125 
+Jamie Moyer        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ricky Nolasco      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Carl Pavano        R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Ben Sheets         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Suppan        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

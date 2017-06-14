@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Beggs          R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Bowman         R   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 i
+Lee Grissom        L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Harry Gumbert      R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Ken Heintzelman    L   8   2   2   0   0   0   0   1   0   1   0  .250  .250  .500 
+Carl Hubbell       L   4   1   0   0   0   0   0   1   0   2   0  .250  .250  .250 i
+Al Javery          R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Johnny Lanning     R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Bill Lohrman       R   8   1   0   0   0   0   0   2   0   2   0  .125  .125  .125 i
+Bill McGee         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Cliff Melton       L   6   1   0   0   0   0   0   4   0   5   0  .167  .167  .167 
+Claude Passeau     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Ike Pearson        R   4   1   0   0   0   1   0   1   0   2   0  .250  .400  .250 
+Charlie Root       R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Joe Sullivan       L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Junior Thompson    R   5   1   0   0   0   1   0   3   0   2   0  .200  .333  .200 
+Jim Tobin          R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Bucky Walters      R  15   1   0   0   0   1   0   3   0   2   0  .067  .125  .067 
+Lon Warneke        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400

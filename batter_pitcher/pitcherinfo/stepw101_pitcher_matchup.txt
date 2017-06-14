@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ralph Birkofer     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lou Fette          R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Al Hollingsworth   L   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 
+Waite Hoyt         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Carl Hubbell       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Smith           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Bare           R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Jim Barr           R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Doug Bird          R   5   1   1   0   0   1   0   0   0   0   1  .200  .286  .400 
+Bert Blyleven      R   6   0   0   0   0   2   0   4   0   0   0  .000  .250  .000 
+Tom Bradley        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Steve Busby        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Reggie Cleveland   R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jim Colborn        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Corbin         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Al Fitzmorris      R  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Ken Forsch         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Goltz         R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Bill Greif         R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Steve Hargan       R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Roric Harrison     R   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Tom Hausman        R   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Jim Hughes         R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Catfish Hunter     R   7   4   1   0   0   1   0   1   0   0   0  .571  .625  .714 
+Jesse Jefferson    R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Dennis Leonard     R   8   1   0   0   0   1   0   4   0   0   0  .125  .222  .125 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Juan Marichal      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Messersmith   R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250 
+Jim Palmer         R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Bill Parsons       R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Marty Pattin       R   3   2   1   0   1   0   0   0   0   0   1  .667  .500 2.000 
+Vern Ruhle         R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Tom Seaver         R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Don Sutton         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Rick Wise          R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

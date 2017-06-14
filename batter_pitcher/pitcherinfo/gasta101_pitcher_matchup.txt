@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Blankenship    R   4   2   1   0   0   0   0   0   0   2   0  .500  .500  .750 i
+Ownie Carroll      R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Rip Collins        R  11   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Stan Coveleski     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+General Crowder    R   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 i
+Wes Ferrell        R   3   3   0   0   0   0   0   0   0   1   0 1.000 1.000 1.000 i
+Milt Gaston        R   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 
+Joe Genewich       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dutch Henry        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ken Holloway       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Waite Hoyt         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Willis Hudlin      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Dutch Levsen       R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Ted Lyons          R  16   4   1   0   0   0   0   0   0   0   0  .250  .250  .313 i
+Rube Marquard      L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Tim McNamara       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jake Miller        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Johnny Morrison    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ernie Nevers       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Jack Ogden         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Curly Ogden        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Herb Pennock       L  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 i
+Jack Quinn         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jimmy Ring         R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eddie Rommel       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dutch Ruether      L  12   2   0   1   0   0   0   0   0   0   0  .167  .167  .333 
+Joe Shaute         L  11   1   0   0   0   0   0   0   0   1   0  .091  .091  .091 i
+Urban Shocker      R   6   2   0   1   0   0   0   2   0   0   0  .333  .333  .667 i
+Sherry Smith       L   9   1   0   0   0   1   0   0   2   0   0  .111  .333  .111 i
+Lil Stoner         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Tommy Thomas       R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 i
+Myles Thomas       R  13   2   1   0   0   2   0   1   0   0   0  .154  .267  .231 i
+George Uhle        R  10   3   0   0   0   1   0   0   0   0   0  .300  .364  .300 
+Elam Vangilder     R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 i
+Earl Whitehill     L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 i
+Tom Zachary        L  13   1   0   1   0   2   0   1   0   0   0  .077  .200  .231 i

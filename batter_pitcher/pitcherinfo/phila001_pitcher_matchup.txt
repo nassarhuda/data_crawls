@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kris Benson        R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+David Bush         R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Paul Byrd          R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Daniel Cabrera     R   5   2   1   0   1   0   0   2   0   1   0  .400  .400 1.200 
+Gustavo Chacin     L   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250 
+F. Cordero         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jorge de la Rosa   L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Casey Fossum       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roy Halladay       R  12   2   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jason Hammel       R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Edwin Jackson      R   9   4   0   1   0   1   0   2   0   0   0  .444  .500  .667 
+Scott Kazmir       L  12   1   0   0   0   0   0   6   0   0   0  .083  .083  .083 
+Brandon League     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Cliff Lee          L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Ted Lilly          L   6   0   0   0   0   1   0   4   0   0   0  .000  .143  .000 
+Rodrigo Lopez      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dustin McGowan     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Gil Meche          R   6   1   1   0   0   1   0   1   0   1   0  .167  .286  .333 
+Odalis Perez       L   6   3   0   0   0   1   0   0   0   1   0  .500  .571  .500 
+Joel Pineiro       R   4   2   0   0   2   0   0   1   0   0   0  .500  .500 2.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Riske        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Nate Robertson     L   6   4   1   0   0   1   0   2   0   0   0  .667  .714  .833 
+CC Sabathia        L   7   2   1   0   0   1   0   2   1   0   0  .286  .444  .429 
+Johan Santana      L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jae Weong Seo      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+James Shields      R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Brian Tallet       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Josh Towers        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Jarrod Washburn    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jake Westbrook     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dontrelle Willis   L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Barry Zito         L   9   2   1   0   0   0   0   2   0   0   0  .222  .222  .333

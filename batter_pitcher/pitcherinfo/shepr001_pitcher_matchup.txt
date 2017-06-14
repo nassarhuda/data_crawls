@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bruce Hurst        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+J. Johnson         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Randy O'Neal       R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Frank Viola        L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Curt Young         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

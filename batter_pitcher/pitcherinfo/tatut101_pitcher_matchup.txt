@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Hank Borowy        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Al Brazle          L   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Harry Brecheen     L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Bob Chipman        L   7   3   1   0   0   1   0   0   0   0   0  .429  .500  .571 
+Mort Cooper        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Paul Erickson      R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Clint Hartung      R   8   2   0   1   0   0   0   1   0   0   0  .250  .250  .500 
+Joe Hatten         L  12   4   0   0   1   2   0   0   0   0   0  .333  .429  .583 
+Jim Hearn          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Ken Heintzelman    L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Kirby Higbe        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tommy Hughes       R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Oscar Judd         L   3   1   1   0   0   2   0   0   0   0   0  .333  .600  .667 
+Al Jurisich        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Monty Kennedy      L   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Dave Koslo         L  11   4   1   0   0   0   0   0   0   0   0  .364  .364  .455 
+Dutch Leonard      R   9   4   0   0   0   0   0   2   0   0   0  .444  .444  .444 
+Vic Lombardi       L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Vern Olsen         L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Howie Pollet       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Schoolboy Rowe     R   7   4   0   0   0   1   0   0   0   0   0  .571  .625  .571 
+Freddy Schmidt     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clyde Shoun        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hank Wyse          R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286

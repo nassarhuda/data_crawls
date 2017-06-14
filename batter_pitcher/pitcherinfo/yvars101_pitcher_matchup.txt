@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Bickford      R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Joe Black          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bob Buhl           R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Lew Burdette       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Cliff Chambers     L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bubba Church       R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Cole          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Murry Dickson      R  17   2   2   0   0   2   0   2   0   0   0  .118  .211  .235 
+Carl Erskine       R   8   2   0   0   0   1   1   1   0   0   0  .250  .333  .250 
+Roy Face           R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Howie Fox          R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Bob Friend         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Warren Hacker      R   6   1   0   0   1   0   0   3   0   0   0  .167  .167  .667 
+Joe Hatten         L   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Ken Heintzelman    L   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ernie Johnson      R   6   2   0   0   0   0   0   0   2   0   0  .333  .500  .333 
+Howie Judson       R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+J. Klippstein      R   5   3   0   0   1   1   1   1   0   0   0  .600  .667 1.200 
+Dave Koslo         L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Clem Labine        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul LaPalme       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dutch Leonard      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Billy Loes         R   8   0   0   0   0   1   1   0   0   1   0  .000  .111  .000 
+Turk Lown          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dutch McCall       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Russ Meyer         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Paul Minner        L  13   1   0   0   0   2   0   2   0   0   0  .077  .200  .077 
+Joe Nuxhall        L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Harry Perkowski    L  13   2   1   0   0   3   0   0   0   0   0  .154  .313  .231 
+Johnny Podres      L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Howie Pollet       L  10   6   1   0   1   1   0   2   0   0   0  .600  .636 1.000 
+K. Raffensberger   L  13   5   1   0   1   0   0   1   0   0   0  .385  .385  .692 
+Robin Roberts      R  15   4   0   0   0   1   0   0   0   0   0  .267  .313  .267 
+Bob Rush           R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Johnny Sain        R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Johnny Schmitz     L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Curt Simmons       L  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Frank Smith        R  11   4   0   0   0   0   0   0   0   0   0  .364  .364  .364 
+Warren Spahn       L  24   4   0   0   2   3   1   5   1   0   0  .167  .286  .417 
+Gerry Staley       R   9   4   0   0   0   0   0   2   1   1   0  .444  .500  .444 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Max Surkont        R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Herm Wehmeier      R  13   4   2   0   0   1   0   1   0   0   0  .308  .357  .462

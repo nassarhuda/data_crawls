@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+R.A. Dickey        R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Roy Halladay       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Tommy Hanson       R   5   2   0   0   0   2   1   0   0   0   0  .400  .571  .400 
+Kyle Lohse         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Derek Lowe         R   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+Mike Pelfrey       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+James Shields      R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750

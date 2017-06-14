@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cloyd Boyer        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Cliff Chambers     L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ken Heintzelman    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Larry Jansen       R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Bob Kelly          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+J. Klippstein      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Turk Lown          R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Sal Maglie         R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+V. Mizell          L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Howie Pollet       L   5   1   0   0   0   1   1   0   0   0   0  .200  .333  .200 
+Robin Roberts      R   4   0   0   0   0   3   0   2   0   0   0  .000  .429  .000 
+Preacher Roe       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bob Rush           R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+J. Rutherford      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Curt Simmons       L   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Warren Spahn       L   8   2   0   0   0   0   0   0   1   0   0  .250  .333  .250 
+Chris Van Cuyk     L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Jim Wilson         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200

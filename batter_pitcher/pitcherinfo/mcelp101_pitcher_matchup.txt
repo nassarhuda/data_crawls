@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cliff Curtis       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Marquard      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Al Mattern         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

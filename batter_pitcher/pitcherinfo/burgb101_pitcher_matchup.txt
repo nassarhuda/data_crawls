@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Borowy        R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Joe Bowman         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Alex Carrasquel    R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Orval Grove        R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Mickey Haefner     L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Joe Haynes         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Joe Heving         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Tex Hughson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Muncrief       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hal Newhouser      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Emmett O'Neill     R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Allie Reynolds     R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Al Smith           L   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 
+Eddie Smith        L   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 
+Steve Sundra       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dizzy Trout        R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Jake Wade          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roger Wolff        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Early Wynn         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

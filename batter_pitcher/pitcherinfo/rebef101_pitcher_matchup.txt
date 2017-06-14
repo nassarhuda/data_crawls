@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Arlin        R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Nelson Briles      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Danny Coombs       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Hands         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Phil Niekro        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+John Noriega       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Lowell Palmer      R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250

@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   6   2   2   0   0   0   0   2   0   0   0  .333  .333  .667 
+Doug Bird          R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Vida Blue          L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bill Butler        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Bill Campbell      R   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 
+Joe Coleman        R   5   4   0   0   0   0   0   0   0   0   0  .800  .800  .800 
+Al Fitzmorris      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Larry Gura         L   6   3   0   0   1   0   0   0   0   0   0  .500  .500 1.000 
+Ken Holtzman       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Hughes         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lerrin LaGrow      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dennis Leonard     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sparky Lyle        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lindy McDaniel     R   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 
+Jim Palmer         R   9   3   1   0   1   0   0   0   0   0   0  .333  .333  .778 
+Nolan Ryan         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Slaton         R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Paul Splittorff    L   7   1   0   0   0   2   0   1   1   0   0  .143  .400  .143 
+Luis Tiant         R   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800

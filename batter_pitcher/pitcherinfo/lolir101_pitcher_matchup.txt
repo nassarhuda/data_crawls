@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bibby          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Vida Blue          L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bert Blyleven      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Cuellar       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Curtis        L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Dick Drago         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Terry Forster      L   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Woodie Fryman      L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Rob Gardner        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Gogolewski    R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Catfish Hunter     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mike Kekich        L   9   2   0   0   0   2   0   1   0   0   0  .222  .364  .222 
+Mickey Lolich      L   6   2   1   0   0   0   0   3   0   0   0  .333  .333  .500 
+Dave McNally       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Merritt        L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roger Moret        L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Roger Nelson       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Paul          L   8   3   0   0   0   0   0   4   0   0   0  .375  .375  .375 
+Fritz Peterson     L  12   3   2   0   0   0   0   4   0   0   0  .250  .250  .417 
+Nolan Ryan         R   4   3   1   0   1   0   0   1   0   0   0  .750  .750 1.750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Ryerson       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Paul Splittorff    L   9   1   1   0   0   2   0   3   0   0   0  .111  .273  .222 
+Mel Stottlemyre    R   2   1   0   0   0   1   1   0   0   0   1  .500  .500  .500 
+Wilbur Wood        L   7   1   0   0   1   0   0   2   0   0   0  .143  .143  .571 
+Clyde Wright       L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167

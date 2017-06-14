@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  14   3   0   1   0   0   0   4   0   0   0  .214  .214  .357 
+Pete Alexander     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jesse Barnes       R   6   3   1   0   0   2   0   1   0   0   0  .500  .625  .667 
+Leon Cadore        R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 i
+Hal Carlson        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Paul Carter        R   3   0   0   0   0   0   0   0   1   1   0  .000  .250  .000 
+Virgil Cheeves     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wilbur Cooper      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Buck Freeman       R   7   3   3   0   0   2   0   0   0   0   0  .429  .556  .857 
+Burleigh Grimes    R  10   5   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Jesse Haines       R   5   1   0   0   0   0   0   1   1   0   0  .200  .333  .200 i
+Ollie Hanson       R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Al Mamaux          R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Speed Martin       R   9   3   0   0   0   1   0   0   0   0   0  .333  .400  .333 i
+Lee Meadows        R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Bill Pertica       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Ferdie Schupp      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Sherdel       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Sherry Smith       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Fred Toney         R   8   4   0   0   1   0   0   1   0   0   0  .500  .500  .875 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Walker         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Mule Watson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

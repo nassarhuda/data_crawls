@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Arlin        R   2   0   0   0   0   2   1   2   0   0   0  .000  .500  .000 
+Steve Carlton      L   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Larry Dierker      R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Pat Dobson         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Gary Gentry        R   3   2   0   0   0   2   0   1   0   0   0  .667  .800  .667 
+Ross Grimsley      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Gullett        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Hall           L   4   2   2   0   0   1   0   2   0   0   0  .500  .600 1.000 
+Ron Herbel         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Tommy John         L   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Tom Kelley         R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Phil Niekro        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Fred Norman        L   4   1   0   0   1   2   0   2   0   0   0  .250  .500 1.000 
+Claude Osteen      L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Ron Reed           R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Dave Roberts       L   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Ray Sadecki        L   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+Don Sutton         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ray Washburn       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Rick Wise          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Baumgartner   L   5   3   2   0   0   2   0   0   0   0   0  .600  .714 1.000 
+Ted Blankenship    R  22  10   0   0   0   2   0   1   0   0   0  .455  .500  .455 i
+Garland Buckeye    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bullet Joe Bush    R  28   6   1   1   0   2   0   3   0   1   0  .214  .267  .321 
+Bert Cole          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Mike Cvengros      L  12   3   1   0   0   3   0   1   0   1   0  .250  .400  .333 i
+Dixie Davis        R   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 
+James Edwards      L  11   2   0   0   0   1   0   2   0   1   0  .182  .250  .182 i
+Howard Ehmke       R   8   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Red Faber          R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+Curt Fullerton     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Milt Gaston        R  14   4   1   0   0   0   0   2   0   0   0  .286  .286  .357 
+Slim Harriss       R   7   2   0   1   0   1   0   0   0   0   0  .286  .375  .571 i
+Fred Heimach       L  20   8   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Waite Hoyt         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Walter Johnson     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Sad Sam Jones      R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Benn Karr          R   9   4   1   0   0   0   0   0   0   0   0  .444  .444  .556 
+Ted Lyons          R   9   3   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+John Martina       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Meeker         L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Jake Miller        L  13   3   0   0   0   1   0   0   0   0   0  .231  .286  .231 
+George Mogridge    L  17   6   1   0   0   2   0   2   0   1   0  .353  .421  .412 i
+Herb Pennock       L  26   5   2   0   0   0   0   3   0   2   0  .192  .192  .269 i
+Herman Pillette    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jack Quinn         R   7   3   1   0   0   0   0   0   0   1   0  .429  .429  .571 i
+C. Robertson       R  14   4   1   0   0   1   0   4   0   1   0  .286  .333  .357 i
+Eddie Rommel       R  15   5   1   0   0   0   0   0   0   0   0  .333  .333  .400 i
+Dutch Ruether      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Shaute         L  15   5   2   0   0   1   0   0   0   2   0  .333  .375  .467 i
+Bob Shawkey        R  11   3   0   0   0   0   0   2   0   0   0  .273  .273  .273 i
+Sherry Smith       L  18   6   1   2   0   1   0   0   0   0   0  .333  .368  .611 i
+Lil Stoner         R   7   2   0   1   0   0   0   0   0   0   0  .286  .286  .571 i
+Sloppy Thurston    R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+George Uhle        R  13   1   0   0   0   0   0   1   0   1   0  .077  .077  .077 i
+Elam Vangilder     R  10   1   0   0   0   2   0   2   0   0   0  .100  .250  .100 i
+Rube Walberg       L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Earl Whitehill     L  11   1   0   0   0   0   0   1   0   1   0  .091  .091  .091 i
+Ernie Wingard      L  21   3   0   0   0   1   0   0   0   1   0  .143  .182  .143 i
+Carl Yowell        L   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Zachary        L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Paul Zahniser      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i

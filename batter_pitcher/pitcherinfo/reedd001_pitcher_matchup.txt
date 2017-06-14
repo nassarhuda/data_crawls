@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Fleming       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Danny Jackson      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+C. Leibrandt       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Terry Mulholland   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Ojeda          L   4   2   0   0   1   2   1   0   0   0   0  .500  .667 1.250 
+Zane Smith         L   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000

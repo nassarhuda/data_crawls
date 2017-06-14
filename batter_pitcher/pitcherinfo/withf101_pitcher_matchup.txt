@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+Jesse Barnes       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Hal Carlson        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Hod Eller          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jesse Haines       R   7   3   1   0   0   0   0   2   0   0   0  .429  .429  .571 
+Earl Hamilton      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Dolf Luque         R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Jakie May          L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Joe Oeschger       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Jeff Pfeffer       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Elmer Ponder       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jimmy Ring         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Jack Scott         R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 i
+Bill Sherdel       L   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000

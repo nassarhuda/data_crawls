@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bullet Joe Bush    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eddie Cicotte      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rip Collins        R   4   1   0   1   0   0   0   0   1   0   0  .250  .400  .750 
+Stan Coveleski     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hooks Dauss        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Howard Ehmke       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Red Faber          R   4   3   0   0   0   1   0   0   1   0   0  .750  .833  .750 
+G. Lowdermilk      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Duster Mails       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Carl Mays          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Elmer Myers        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Allen Russell      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Shawkey        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Roy Wilkinson      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i

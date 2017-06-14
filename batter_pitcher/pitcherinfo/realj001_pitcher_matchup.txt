@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alec Asher         R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Gerrit Cole        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Bartolo Colon      R  15   4   2   0   1   0   0   2   0   0   0  .267  .267  .600 
+Jacob deGrom       R   3   1   0   0   0   0   0   1   0   0   2  .333  .200  .333 
+Rubby de la Rosa   R   6   2   0   0   1   1   0   0   0   0   0  .333  .429  .833 
+O. Despaigne       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jeurys Familia     R   4   0   0   0   0   0   0   1   1   0   0  .000  .200  .000 
+Jaime Garcia       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Dillon Gee         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Erik Goeddel       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jeanmar Gomez      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Gio Gonzalez       L   5   1   0   1   0   0   0   3   0   0   0  .200  .200  .600 
+Cole Hamels        L   6   3   1   0   0   0   0   3   0   0   0  .500  .500  .667 
+Jason Hammel       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Aaron Harang       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Matt Harvey        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+J. Hellickson      R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Kyle Kendrick      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ian Kennedy        R   5   1   0   1   0   1   0   0   0   0   0  .200  .333  .600 
+Craig Kimbrel      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Lackey        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Leake         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Locke         L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carlos Martinez    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shelby Miller      R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Rafael Montero     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Charlie Morton     R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Jon Niese          L   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Jake Odorizzi      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+J. Papelbon        R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Tanner Roark       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Max Scherzer       R   9   1   1   0   0   0   0   4   0   0   0  .111  .111  .222 
+S. Strasburg       R   6   1   0   1   0   0   0   0   0   0   0  .167  .167  .500 
+Julio Teheran      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerome Williams    R   6   1   0   0   0   2   0   0   0   0   1  .167  .333  .167 
+J. Zimmermann      R  17   2   0   0   0   0   0   3   0   0   0  .118  .118  .118

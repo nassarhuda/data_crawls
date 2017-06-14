@@ -1,0 +1,60 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Beazley     R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 i
+Joe Beggs          R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Hank Behrman       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Vern Bickford      R   4   1   0   0   0   3   0   0   0   0   0  .250  .571  .250 
+Ewell Blackwell    R  16   1   0   0   0   0   0   6   0   0   0  .063  .063  .063 
+Hank Borowy        R   7   3   1   0   1   0   0   1   0   0   0  .429  .429 1.000 
+Ralph Branca       R   9   0   0   0   0   2   0   6   0   0   0  .000  .182  .000 
+Al Brazle          L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Harry Brecheen     L  10   2   0   0   0   2   0   5   0   0   0  .200  .333  .200 
+Lew Burdette       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ken Burkhart       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cliff Chambers     L   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+Bob Chipman        L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Murry Dickson      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Blix Donnelly      R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Howie Fox          R   9   2   0   0   1   0   0   2   0   0   0  .222  .222  .556 
+Hal Gregg          R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Harry Gumbert      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Hatten         L  11   2   0   0   0   0   0   6   0   0   0  .182  .182  .182 
+Ed Head            R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Heintzelman    L  10   1   0   0   0   1   0   5   0   0   0  .100  .182  .100 
+Kirby Higbe        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Oscar Judd         L   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Clyde King         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim Konstanty      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Doyle Lade         R  10   3   0   0   0   0   0   5   0   0   0  .300  .300  .300 
+Max Lanier         L   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Bill Lee           R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dutch Leonard      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Fred Martin        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Russ Meyer         R   6   1   0   0   0   0   0   2   1   0   0  .167  .286  .167 
+Paul Minner        L   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Red Munger         R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Don Newcombe       R   6   1   1   0   0   0   0   1   0   1   0  .167  .167  .333 
+Vern Olsen         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+F. Ostermueller    L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Erv Palica         R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Harry Perkowski    L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bud Podbielan      R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Howie Pollet       L  14   1   1   0   0   1   0   5   0   2   0  .071  .133  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Presko         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+K. Raffensberger   L  10   1   0   0   0   0   0   6   0   1   0  .100  .100  .100 
+Preacher Roe       L   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Schoolboy Rowe     R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Bob Rush           R  13   0   0   0   0   1   0   4   0   0   0  .000  .071  .000 
+Johnny Sain        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Curt Simmons       L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Frank Smith        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Warren Spahn       L   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Gerry Staley       R  26   2   1   0   0   0   0  14   0   0   0  .077  .077  .115 
+Nick Strincevich   R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+J. Vander Meer     L   4   0   0   0   0   2   0   3   0   0   0  .000  .333  .000 
+Bill Voiselle      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Herm Wehmeier      R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Ted Wilks          R   6   0   0   0   0   1   0   4   0   1   0  .000  .143  .000 
+Ed Wright          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hank Wyse          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

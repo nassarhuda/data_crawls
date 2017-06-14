@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Brown          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Bunning        R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+Jerry Casale       R   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000 
+Paul Foytack       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mudcat Grant       R   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 
+Ray Herbert        R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Billy Hoeft        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Frank Lary         R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+B. Monbouquette    R   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Willard Nixon      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Milt Pappas        R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Jim Perry          R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Bob Shaw           R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Chuck Stobbs       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Frank Sullivan     R   8   1   0   0   0   0   0   1   0   1   0  .125  .125  .125 
+Ralph Terry        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Urban         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jerry Walker       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Gary Bell          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Joe Horlen         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tommy John         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Lonborg        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Sam McDowell       L   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Blue Moon Odom     R   8   1   0   0   0   0   0   4   0   2   0  .125  .125  .125 
+Phil Ortega        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Jim Palmer         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bill Parsons       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Fritz Peterson     L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Diego Segui        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Gary Waslewski     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Stan Williams      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333

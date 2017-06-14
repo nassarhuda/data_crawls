@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ewell Blackwell    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bubba Church       R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Murry Dickson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Giel          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Warren Hacker      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harvey Haddix      L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Turk Lown          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ramon Monzant      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Joe Nuxhall        L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Tom Poholsky       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Purkey         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Robin Roberts      R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Preacher Roe       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bob Rush           R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Barney Schultz     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Simmons       L   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Herm Wehmeier      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

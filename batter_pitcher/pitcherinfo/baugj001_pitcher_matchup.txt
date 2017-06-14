@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Belcher        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jeff Fassero       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+LaTroy Hawkins     R   6   2   0   0   0   1   0   0   1   0   0  .333  .500  .333 
+Randy Johnson      L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jamie Moyer        L   9   3   2   0   0   0   0   4   0   0   0  .333  .333  .556 
+Mike Oquist        R   8   2   1   0   0   0   0   1   0   1   0  .250  .250  .375 
+Andy Pettitte      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Brad Radke         R   9   2   0   0   0   0   0   0   0   1   0  .222  .222  .222 
+Kenny Rogers       L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Jose Rosado        L  10   3   1   0   0   0   0   1   0   0   0  .300  .300  .400 
+Greg Swindell      L   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250

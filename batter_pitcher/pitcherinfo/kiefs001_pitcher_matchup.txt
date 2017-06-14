@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   7   1   0   1   0   0   0   2   0   0   0  .143  .143  .429 
+Eric Bell          L   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Danny Darwin       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Richard Dotson     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Mike Flanagan      L   5   2   1   0   0   1   0   3   0   0   0  .400  .500  .600 
+Danny Jackson      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Kilgus        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mark Langston      L   7   1   0   1   0   0   0   3   0   0   0  .143  .143  .429 
+Dave LaPoint       L   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Mike Moore         R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Shane Rawley       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jeff Russell       R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Roy Smith          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Smithson      R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dan Spillner       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Swift         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Frank Tanana       L   9   1   0   0   0   0   0   2   0   1   0  .111  .111  .111 
+Bobby Thigpen      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Wills        R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Mike Witt          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Young         L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Collins        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Russ Ford          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Walter Johnson     R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Willie Mitchell    L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Ed Walsh           R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Smoky Joe Wood     R   8   0   0   0   0   0   0   6   1   0   0  .000  .111  .000

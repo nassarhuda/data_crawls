@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Asa Brainard       R  16   1   0   0   0   1   0   0   0   0   0  .063  .118  .063 i
+Candy Cummings     R  19   4   0   0   0   0   0   0   0   0   0  .211  .211  .211 i
+Cherokee Fisher    R  13   5   0   0   0   0   0   0   0   0   0  .385  .385  .385 i
+Bobby Mathews      R  17   1   1   0   0   0   0   1   0   0   0  .059  .059  .118 i
+Dick McBride       R  16   3   1   0   0   0   0   0   0   0   0  .188  .188  .250 i
+Al Spalding        R  27   7   1   0   0   0   0   0   0   0   0  .259  .259  .296 i
+George Zettlein    R  14   5   0   0   0   0   0   0   0   0   0  .357  .357  .357 i

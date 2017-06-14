@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Fred Anderson      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Larry Cheney       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Wheezer Dell       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Al Demaree         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Bob Harmon         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tom Hughes         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Elmer Jacobs       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jimmy Lavender     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Al Mamaux          R   6   0   0   0   0   3   0   0   0   0   0  .000  .333  .000 i
+Rube Marquard      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+C. Mathewson       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Miller       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Gene Packard       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pol Perritt        R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 i
+Jeff Pfeffer       R  11   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dick Rudolph       R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 i
+Pete Schneider     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Jeff Tesreau       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Tyler        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Hippo Vaughn       L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 i

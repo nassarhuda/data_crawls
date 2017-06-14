@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Denny         R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Dennis Eckersley   R   4   2   1   0   0   1   0   0   0   1   0  .500  .600  .750 
+Shane Rawley       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Nolan Ryan         R   2   0   0   0   0   1   0   2   0   0   1  .000  .250  .000 
+Dan Schatzeder     L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eric Show          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+F. Valenzuela      L   6   1   0   0   0   0   0   4   0   1   0  .167  .167  .167

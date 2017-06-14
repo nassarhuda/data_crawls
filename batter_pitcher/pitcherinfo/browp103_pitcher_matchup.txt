@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Buhl           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lew Burdette       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Cardwell       R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Don Drysdale       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Dick Ellsworth     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Roy Face           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Friend         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Gibson         R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Jack Hamilton      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vern Law           R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Juan Marichal      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Moeller        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Ray Washburn       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

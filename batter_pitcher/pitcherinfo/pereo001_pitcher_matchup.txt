@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Brandon Backe      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chris Capuano      L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Shawn Chacon       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Aaron Cook         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Omar Daal          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ryan Dempster      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Elmer Dessens      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Zach Duke          L   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Shawn Estes        L   5   1   0   0   0   0   0   1   0   3   0  .200  .200  .200 
+Josh Fogg          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Casey Fossum       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jeff Francis       L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Rick Helling       R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500 
+Livan Hernandez    R   5   1   0   0   0   0   0   0   0   3   0  .200  .200  .200 
+O. Hernandez       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tim Hudson         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ryan Jensen        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Brian Lawrence     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Esteban Loaiza     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Greg Maddux        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Matt Morris        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Mulder        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Darren Oliver      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Carl Pavano        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Mike Pelfrey       R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Rick Reed          R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kirk Rueter        L   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Curt Schilling     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jason Schmidt      R  13   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Denny Stark        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Michael Tejera     L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Brett Tomko        R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Randy Wolf         L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Kerry Wood         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

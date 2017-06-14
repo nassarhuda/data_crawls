@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Bailes       L  13   2   1   0   0   0   0   0   0   0   0  .154  .154  .231 
+Jeff Ballard       L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Floyd Bannister    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Buddy Black        L   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Carlton      L   7   2   0   0   0   2   0   0   0   0   0  .286  .444  .286 
+John Cerutti       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Farrell       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+George Frazier     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wes Gardner        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Gibson        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+G. Hernandez       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Charlie Hough      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Charles Hudson     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bruce Hurst        L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Danny Jackson      L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Randy Johnson      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jimmy Key          L   9   1   0   0   0   0   0   0   0   1   0  .111  .111  .111 
+Mark Langston      L  12   3   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+C. Leibrandt       L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Tom McCarthy       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Moore         R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Jack Morris        R  10   3   0   0   0   0   0   2   0   0   0  .300  .300  .300 
+Jerry Reed         R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Jerry Reuss        L   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 
+Jeff Robinson      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Dave Stewart       R   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 
+Sammy Stewart      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Swift         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Greg Swindell      L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Frank Tanana       L   8   1   0   0   0   1   0   3   0   1   0  .125  .222  .125 
+Walt Terrell       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Frank Viola        L  10   3   1   0   0   0   0   1   0   0   0  .300  .300  .400 
+Curt Young         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167

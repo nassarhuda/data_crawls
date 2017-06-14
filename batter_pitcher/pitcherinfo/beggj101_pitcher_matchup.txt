@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Carpenter      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hugh Casey         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Davis         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Paul Erickson      R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ed Head            R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Koslo         L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jack Kraus         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Krist        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Claude Passeau     R  10   1   0   0   0   0   0   3   0   2   0  .100  .100  .100 
+Johnny Schmitz     L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Rip Sewell         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nick Strincevich   R   8   3   1   0   0   0   0   4   0   0   0  .375  .375  .500 
+John Whitehead     R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286

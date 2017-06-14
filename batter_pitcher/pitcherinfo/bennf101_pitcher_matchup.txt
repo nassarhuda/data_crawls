@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Brandt          L   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Watty Clark        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jumbo Elliott      L  12   5   1   0   0   0   0   1   0   0   0  .417  .417  .500 i
+F. Fitzsimmons     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Carl Hubbell       L   9   3   1   0   0   1   0   0   0   0   0  .333  .400  .444 
+C. Mitchell        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Moss           R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Joe Shaute         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Les Sweetland      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bud Teachout       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Zachary        L   6   3   0   0   0   2   0   0   0   1   0  .500  .625  .500

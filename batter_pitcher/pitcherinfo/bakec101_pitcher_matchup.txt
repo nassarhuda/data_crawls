@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Caldwell      L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Rick Honeycutt     L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Tommy John         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mickey Mahler      L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Larry McWilliams   L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Niekro         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fred Norman        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+J.R. Richard       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Dave Righetti      L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Paul Splittorff    L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000

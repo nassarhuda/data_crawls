@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Brower         R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Shawn Chacon       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Shawn Estes        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ryan Franklin      R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Darren Oliver      L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Joel Pineiro       R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000

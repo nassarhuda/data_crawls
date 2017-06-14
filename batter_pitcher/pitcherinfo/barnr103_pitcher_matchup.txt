@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hank Borowy        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Cliff Chambers     L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Bob Chesnes        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Murry Dickson      R   8   1   0   0   0   0   0   3   0   1   0  .125  .125  .125 
+Monk Dubiel        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Ed Heusser         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sheldon Jones      R   7   3   1   0   0   0   0   2   0   0   0  .429  .429  .571 
+Monty Kennedy      L   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Dave Koslo         L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Dutch Leonard      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Howie Pollet       L   5   1   0   0   0   2   0   2   0   0   0  .200  .429  .200 
+Nels Potter        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Robin Roberts      R   6   3   1   0   0   0   0   3   0   0   0  .500  .500  .667 
+Schoolboy Rowe     R  10   2   0   0   0   0   0   4   0   2   0  .200  .200  .200 
+Bob Rush           R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Johnny Schmitz     L   9   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 
+Curt Simmons       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Warren Spahn       L   5   1   1   0   0   0   0   4   0   0   0  .200  .200  .400 
+J. Vander Meer     L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

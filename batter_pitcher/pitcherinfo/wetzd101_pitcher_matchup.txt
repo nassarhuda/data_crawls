@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Cole          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Stan Coveleski     R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 i
+Red Faber          R   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 i
+Dickey Kerr        L  12   6   1   0   1   2   0   0   0   0   0  .500  .571  .833 i
+Duster Mails       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Carl Mays          R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Roy Moore          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Oldham         L   8   3   0   0   0   2   0   1   0   0   0  .375  .500  .375 i

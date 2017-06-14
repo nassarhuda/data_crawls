@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Benton       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Erv Brame          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ownie Carroll      R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+Tiny Chaplin       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+F. Fitzsimmons     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Benny Frey         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Carl Hubbell       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Si Johnson         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Red Lucas          R   8   4   1   0   0   0   0   1   0   0   0  .500  .500  .625 
+Jim Mooney         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Glenn Spencer      R   6   2   1   0   0   1   0   0   0   1   0  .333  .429  .500 
+Bill Walker        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

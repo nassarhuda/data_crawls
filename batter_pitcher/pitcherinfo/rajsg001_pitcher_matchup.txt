@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Steve Bedrosian    R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Bruce Berenyi      R  10   2   0   0   1   0   0   2   0   0   0  .200  .200  .500 
+Doug Bird          R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Ray Burris         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Marty Bystrom      R   3   0   0   0   0   2   1   1   0   0   1  .000  .333  .000 
+Rick Camp          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Danny Cox          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jose DeLeon        R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+John Denny         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Dwight Gooden      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Cecilio Guante     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bill Gullickson    R   5   3   1   0   0   1   0   1   1   0   0  .600  .714  .800 
+Andy Hawkins       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Mike Krukow        R   7   5   0   0   0   1   0   1   0   0   0  .714  .750  .714 
+Jeff Lahti         R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Bill Laskey        R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Charlie Lea        R   4   0   0   0   0   2   1   1   0   0   0  .000  .333  .000 
+Tim Lollar         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ed Lynch           R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Mahler        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Niekro         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Dickie Noles       R   8   4   1   0   0   0   0   0   0   0   0  .500  .500  .625 
+Frank Pastore      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Reggie Patterson   R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Mike Proly         R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+Jeff Reardon       R   8   2   1   0   0   3   1   1   0   0   0  .250  .455  .375 
+Rick Rhoden        R   7   3   0   1   0   0   0   0   0   0   0  .429  .429  .714 
+Don Robinson       R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Steve Rogers       R   3   2   1   0   0   1   1   0   0   0   0  .667  .750 1.000 
+Dick Ruthven       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Nolan Ryan         R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Scott Sanderson    R   7   1   0   0   0   0   0   5   0   1   0  .143  .143  .143 
+Mike Scott         R   4   0   0   0   0   3   1   2   0   0   0  .000  .429  .000 
+Tom Seaver         R   2   0   0   0   0   1   0   0   1   0   0  .000  .500  .000 
+Lee Smith          R   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Mario Soto         R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+John Stuper        R   8   4   2   0   0   0   0   0   0   0   0  .500  .500  .750 
+Rick Sutcliffe     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bruce Sutter       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lee Tunnell        R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667

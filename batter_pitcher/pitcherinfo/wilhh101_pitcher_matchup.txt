@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Allen          L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Frank Baumann      L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Gary Bell          R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Joe Black          R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Jim Bouton         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Bunning        R   9   1   0   0   0   0   0   6   0   0   0  .111  .111  .111 
+Jim Coates         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bud Daley          L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Murry Dickson      R   7   0   0   0   0   1   0   3   0   0   0  .000  .125  .000 
+Art Ditmar         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Whitey Ford        L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Art Fowler         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Terry Fox          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Foytack       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Hall          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Herbert        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Russ Kemmerer      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Clem Labine        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Frank Lary         R   7   1   0   0   0   1   0   4   0   0   0  .143  .250  .143 
+Vern Law           R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dutch Leonard      R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Bobby Locke        R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Turk Lown          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Duke Maas          R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Cal McLish         R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tom Morgan         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Don Mossi          L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Narleski       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Billy Pierce       L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Howie Pollet       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+A. Portocarrero    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Radatz        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Pedro Ramos        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bobby Shantz       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Shaw           R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dave Sisler        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Frank Smith        R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Lee Stange         R   4   0   0   0   0   2   0   1   0   1   0  .000  .333  .000 
+Frank Sullivan     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Max Surkont        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Wickersham    R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

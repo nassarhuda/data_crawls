@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A. Alfonseca       R   6   1   0   1   0   0   0   1   0   0   1  .167  .143  .500 
+Miguel Batista     R   5   2   1   0   0   1   0   2   0   0   0  .400  .500  .600 
+Kris Benson        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Brian Boehringer   R   3   1   1   0   0   2   1   0   0   0   0  .333  .600  .667 
+Matt Clement       R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Elmer Dessens      R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Octavio Dotel      R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250 
+Jeff Fassero       L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Nelson Figueroa    R   2   1   0   0   0   1   0   1   0   0   1  .500  .500  .500 
+Josh Fogg          R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+J. Isringhausen    R   4   2   0   0   0   0   0   1   1   0   0  .500  .600  .500 
+Steve Kline        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mike Lincoln       R   7   1   1   0   0   1   0   2   0   0   0  .143  .250  .286 
+Sean Lowe          R   3   1   0   0   1   0   0   1   0   1   0  .333  .333 1.333 
+Wade Miller        R  15   2   0   1   0   2   0   7   0   0   0  .133  .235  .267 
+Dave Mlicki        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Matt Morris        R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Peter Munro        R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Nick Neugebauer    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ramon Ortiz        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Oswalt         R  12   4   0   1   1   0   0   4   0   0   0  .333  .333  .750 
+Vicente Padilla    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Robert Person      R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Tim Redding        R   4   1   1   0   0   1   0   3   0   0   0  .250  .400  .500 
+Glendon Rusch      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Victor Santos      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Schilling     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ben Sheets         R  13   8   1   0   1   0   0   2   0   0   0  .615  .615  .923 
+Chuck Smith        R   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+G. Stephenson      R   8   2   1   0   0   0   0   1   1   0   0  .250  .333  .375 
+Ricky Stone        R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Julian Tavarez     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Salomon Torres     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Javier Vazquez     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dave Veres         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Luis Vizcaino      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+David Weathers     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Brandon Webb       R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Kip Wells          R   9   4   0   0   0   2   0   2   0   0   0  .444  .545  .444 
+Woody Williams     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kerry Wood         R  14   5   1   0   1   0   0   6   0   0   0  .357  .357  .643 
+Carlos Zambrano    R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500

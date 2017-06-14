@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chief Bender       R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Joe Benz           R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 i
+Rube Bressler      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bullet Joe Bush    R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Ray Caldwell       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Pug Cavet          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Eddie Cicotte      R  11   2   0   0   0   1   0   3   0   0   0  .182  .250  .182 i
+Hooks Dauss        R   9   1   1   0   0   0   0   2   0   0   0  .111  .111  .222 i
+Jean Dubuc         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Red Faber          R  13   3   0   1   0   3   0   2   0   0   0  .231  .375  .385 i
+Rube Foster        R  11   4   2   1   0   1   0   2   0   0   0  .364  .417  .727 
+Oscar Harstad      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Hi Jasper          R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Walter Johnson     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Marty McHale       R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 i
+Guy Morton         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Reb Russell        L   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Jim Scott          R   9   2   0   0   0   1   0   5   0   1   0  .222  .300  .222 i
+Jim Shaw           R   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 i
+Bob Shawkey        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Steen         R  10   3   1   0   0   0   0   4   0   0   0  .300  .300  .400 i
+Jack Warhop        R   5   3   0   1   0   0   0   1   0   1   0  .600  .600 1.000 i
+Mellie Wolfgang    R   7   4   1   0   0   1   0   1   0   0   0  .571  .625  .714 i
+Smoky Joe Wood     R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000

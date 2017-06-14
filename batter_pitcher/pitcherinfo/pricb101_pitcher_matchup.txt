@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Beckmann      R   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 
+George Caster      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Atley Donald       R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 
+Oral Hildebrand    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bob Joyce          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vern Kennedy       R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jack Kramer        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Monte Pearson      R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Buck Ross          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Red Ruffing        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Steve Sundra       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dizzy Trout        R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i

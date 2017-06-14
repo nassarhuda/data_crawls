@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Chakales       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bob Feller         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fred Hutchinson    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Lemon          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mickey McDermott   L   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Tom Morgan         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Billy Pierce       L  12   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Duane Pillette     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bob Porterfield    R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Spec Shea          R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333

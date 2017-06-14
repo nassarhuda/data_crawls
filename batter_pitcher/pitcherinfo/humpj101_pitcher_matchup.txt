@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   5   0   0   0   0   3   0   2   0   0   0  .000  .375  .000 i
+Jim Bagby          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Tiny Bonham        R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+Russ Christopher   R   7   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Chubby Dean        L   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jesse Flores       R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i
+Al Gettel          R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Mickey Haefner     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Lum Harris         R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 i
+Lou Lucier         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Phil Marchildon    R  10   1   0   0   0   0   0   6   0   0   0  .100  .100  .100 i
+Walt Masterson     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hal Newhouser      L  10   4   0   0   0   1   0   1   0   0   0  .400  .455  .400 i
+Bobo Newsom        R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Dick Newsome       R   4   1   1   0   0   1   0   1   0   2   0  .250  .400  .500 
+Nels Potter        R  10   3   1   0   0   0   0   2   0   1   0  .300  .300  .400 i
+Allie Reynolds     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Steve Sundra       R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Yank Terry         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Dizzy Trout        R  11   1   0   0   0   0   0   5   0   1   0  .091  .091  .091 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Charlie Wagner     R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Hal White          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jack Wilson        R   7   1   1   0   0   0   0   4   0   0   0  .143  .143  .286 
+Pinky Woods        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Early Wynn         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bill Zuber         R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167

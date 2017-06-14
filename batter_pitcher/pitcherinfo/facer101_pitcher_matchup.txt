@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Baldschun     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Drysdale       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Elston         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Harvey Haddix      L   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Clem Labine        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lindy McDaniel     R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Paul Minner        L   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+V. Mizell          L   3   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Willard Schmidt    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Curt Simmons       L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Warren Spahn       L   3   0   0   0   0   1   0   0   0   2   0  .000  .250  .000

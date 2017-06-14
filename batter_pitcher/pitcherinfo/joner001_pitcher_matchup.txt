@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Bolton         L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Roger Clemens      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jose Guzman        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Charlie Hough      R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Danny Jackson      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Paul Kilgus        L   6   1   1   0   0   1   0   0   0   0   0  .167  .286  .333 
+Jack Morris        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dan Petry          R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Rick Rhoden        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jeff Sellers       R   3   0   0   0   0   1   0   0   0   0   1  .000  .200  .000 
+Walt Terrell       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Wegman        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bobby Witt         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Garrett Mock       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jamie Moyer        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jake Peavy         R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Adam Wainwright    R   2   1   0   0   0   0   0   1   2   0   0  .500  .750  .500

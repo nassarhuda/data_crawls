@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doc Ayers          R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Chief Bender       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Boehling       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ray Caldwell       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Hooks Dauss        R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jean Dubuc         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Ray Fisher         R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Walter Johnson     R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Ray Keating        R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Dutch Leonard      L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jack Warhop        R   8   2   1   0   0   1   0   0   0   1   0  .250  .333  .375 
+Weldon Wyckoff     R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000

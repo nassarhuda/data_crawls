@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doug Davis         L   5   2   1   0   1   0   0   1   0   0   0  .400  .400 1.200 
+Ryan Dempster      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Zach Duke          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ted Lilly          L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Maholm        L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Sean Marshall      L   6   5   0   0   1   0   0   1   0   0   0  .833  .833 1.333 
+Manny Parra        L   6   1   0   0   0   2   0   2   0   0   0  .167  .375  .167 
+Barry Zito         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

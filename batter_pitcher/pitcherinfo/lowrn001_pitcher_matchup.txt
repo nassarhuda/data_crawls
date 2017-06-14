@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Capuano      L   5   1   0   0   1   0   0   1   0   1   0  .200  .200  .800 
+Aaron Cook         R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Josh Fogg          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Livan Hernandez    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Brian Lawrence     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Cory Lidle         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jon Lieber         R   3   0   0   0   0   0   0   1   0   1   1  .000  .000  .000 
+Derek Lowe         R   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Greg Maddux        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Eric Milton        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brian Moehler      R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Roy Oswalt         R   4   0   0   0   0   0   0   2   0   4   0  .000  .000  .000 
+Chan Ho Park       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jake Peavy         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Brad Penny         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chris Sampson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeff Suppan        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Claudio Vargas     R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jeff Weaver        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dontrelle Willis   L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429

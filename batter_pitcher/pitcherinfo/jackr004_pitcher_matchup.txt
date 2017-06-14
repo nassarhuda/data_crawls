@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rolando Arrojo     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Sean Bergman       R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Rocky Biddle       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Kevin Brown        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dave Burba         R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+Chris Carpenter    R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Roger Clemens      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Bartolo Colon      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Chad Durbin        R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Cal Eldred         R   8   5   0   0   0   1   0   2   0   0   0  .625  .667  .625 
+Scott Erickson     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Gardner       R   4   3   2   0   0   0   0   1   0   0   0  .750  .750 1.250 
+Geremi Gonzalez    R   6   3   1   0   0   1   0   0   0   0   0  .500  .571  .667 
+Danny Graves       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pat Hentgen        R   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Dustin Hermanson   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jeff Juden         R   6   3   2   0   0   0   0   0   0   0   0  .500  .500  .833 
+Mark Leiter        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Cory Lidle         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jon Lieber         R   8   3   1   0   1   1   0   0   0   0   0  .375  .444  .875 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Lima          R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Greg Maddux        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ramiro Mendoza     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chan Ho Park       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mark Portugal      R   3   2   0   0   0   0   0   0   0   0   1  .667  .500  .667 
+Ryan Rupe          R   5   2   0   1   0   0   0   2   0   0   0  .400  .400  .800 
+Curt Schilling     R  10   3   1   0   0   1   0   2   0   0   0  .300  .364  .400 
+John Smoltz        R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Todd Stottlemyre   R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Jeff Suppan        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Amaury Telemaco    R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+John Thomson       R   7   1   0   0   1   0   0   2   0   0   0  .143  .143  .571 
+Tim Wakefield      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Woody Williams     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kerry Wood         R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Masato Yoshii      R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333

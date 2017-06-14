@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Bickford      R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Ewell Blackwell    R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Harry Brecheen     L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Bob Chipman        L   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Murry Dickson      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Blix Donnelly      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Howie Fox          R  12   2   0   0   0   1   0   4   0   1   0  .167  .231  .167 
+Harry Gumbert      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ken Heintzelman    L  12   1   0   0   0   0   0   1   0   0   0  .083  .083  .083 
+Bobby Hogue        R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Tommy Hughes       R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Larry Jansen       R   9   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ken Johnson        L   5   1   0   0   0   0   0   2   1   0   0  .200  .333  .200 
+Monty Kennedy      L   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Koslo         L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Doyle Lade         R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Max Lanier         L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Buddy Lively       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dutch McCall       L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Red Munger         R   8   1   0   0   0   1   0   4   0   2   0  .125  .222  .125 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kent Peterson      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Pollet       L  12   3   1   0   0   0   0   2   0   0   0  .250  .250  .333 
+K. Raffensberger   L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Schoolboy Rowe     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Rush           R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Johnny Sain        R  13   4   0   0   0   0   0   4   0   1   0  .308  .308  .308 
+Charley Schanz     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Johnny Schmitz     L  15   3   0   0   0   0   0   7   0   2   0  .200  .200  .200 
+Warren Spahn       L  22   4   0   0   0   0   0   7   0   2   0  .182  .182  .182 
+Gerry Staley       R  10   1   0   0   0   0   0   4   0   0   0  .100  .100  .100 
+Max Surkont        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Voiselle      R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Herm Wehmeier      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Hank Wyse          R   6   2   0   0   0   0   0   1   0   1   0  .333  .333  .333

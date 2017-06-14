@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jack Baldschun     R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Bob Buhl           R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Roger Craig        R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Moe Drabowsky      R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Don Drysdale       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Don Elston         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Carl Erskine       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Turk Farrell       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Friend         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ruben Gomez        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Harvey Haddix      L  10   3   1   0   0   2   0   6   0   1   0  .300  .417  .400 
+John Hiller        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Hal Jeffcoat       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Sam Jones          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+J. Klippstein      R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Lew Krausse        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Clem Labine        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Vern Law           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike McCormick     L   9   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don McMahon        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Don Newcombe       R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Juan Pizarro       L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Johnny Podres      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Bob Purkey         R   6   1   1   0   0   0   0   2   0   2   0  .167  .167  .333 
+Bob Rush           R   7   1   0   0   0   0   0   5   0   1   0  .143  .143  .143 
+Jack Sanford       R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Barney Schultz     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Curt Simmons       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Warren Spahn       L   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750

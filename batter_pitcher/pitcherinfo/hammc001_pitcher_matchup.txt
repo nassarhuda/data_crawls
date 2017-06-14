@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brian Barnes       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tom Browning       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Burkett       R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Tom Candiotti      R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Frank Castillo     R   2   1   1   0   0   1   0   1   0   1   0  .500  .667 1.000 
+Doug Drabek        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kevin Foster       R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Tom Glavine        L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Dwight Gooden      R   5   0   0   0   0   1   0   5   0   0   0  .000  .167  .000 
+Kevin Gross        R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Joey Hamilton      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Harnisch      R   8   2   1   0   0   0   0   5   0   1   0  .250  .250  .375 
+Greg Harris        R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Jimmy Jones        R   3   0   0   0   0   1   0   1   0   1   1  .000  .200  .000 
+Ramon Martinez     R   6   1   1   0   0   2   0   4   0   0   0  .167  .375  .333 
+Kent Mercker       L   2   1   0   0   0   1   0   1   0   1   0  .500  .667  .500 
+Mike Morgan        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bob Ojeda          L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ben Rivera         R   2   1   0   0   0   0   0   1   0   2   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bruce Ruffin       L   1   0   0   0   0   3   0   1   0   0   0  .000  .750  .000 
+Pete Schourek      L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Zane Smith         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Swift         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bob Tewksbury      R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Randy Tomlin       L   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Steve Trachsel     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

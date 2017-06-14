@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boom-Boom Beck     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Josh Billings      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ownie Carroll      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Howard Ehmke       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Grove        L   3   2   1   0   0   0   0   1   0   1   0  .667  .667 1.000 
+Bump Hadley        R   7   2   2   0   0   0   0   1   0   1   0  .286  .286  .571 
+Waite Hoyt         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Firpo Marberry     R   3   3   0   0   0   0   0   0   1   0   0 1.000 1.000 1.000 i
+Wilcy Moore        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Herb Pennock       L   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Red Ruffing        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Shaute         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Urban Shocker      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+George Uhle        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tony Welzer        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750

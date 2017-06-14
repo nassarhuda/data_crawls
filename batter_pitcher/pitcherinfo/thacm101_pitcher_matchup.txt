@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Bennett     L   5   1   1   0   0   1   1   3   0   0   0  .200  .333  .400 
+Ernie Broglio      R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Bob Buhl           R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Gene Conley        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Bob Friend         R   5   1   1   0   0   0   0   1   1   0   0  .200  .333  .400 
+Joe Gibbon         L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Dallas Green       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bill Henry         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Jackson         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Larry Jackson      R  13   1   0   0   0   1   0   4   0   0   0  .077  .143  .077 
+Sandy Koufax       L  10   1   0   0   0   1   0   8   0   0   0  .100  .182  .100 
+Art Mahaffey       R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Lindy McDaniel     R   5   3   1   0   0   1   0   1   0   0   0  .600  .667  .800 
+Stu Miller         R   3   1   0   0   1   2   1   2   0   0   0  .333  .600 1.333 
+V. Mizell          L  11   3   0   0   0   3   2   0   0   0   0  .273  .429  .273 
+Billy O'Dell       L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Jim O'Toole        L   8   1   0   0   0   3   1   2   0   0   0  .125  .364  .125 
+Billy Pierce       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Robin Roberts      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ray Sadecki        L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Sherry       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Short        L   7   0   0   0   0   2   0   6   0   0   0  .000  .222  .000 
+Curt Simmons       L   8   2   0   0   0   2   0   3   0   0   0  .250  .400  .250 
+Warren Spahn       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dean Stone         L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Washburn       R   4   0   0   0   0   2   0   4   0   0   0  .000  .333  .000 
+Carl Willey        R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Hal Woodeshick     L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333

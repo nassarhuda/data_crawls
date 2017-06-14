@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Cole          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dave Danforth      L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+C. Robertson       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sloppy Thurston    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Wells           L   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Earl Whitehill     L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Ernie Wingard      L   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 i
+Tom Zachary        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Baldschun     R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Bobby Bolin        R   9   3   1   0   0   0   0   0   0   1   0  .333  .333  .444 
+Ernie Broglio      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Buhl           R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Don Cardwell       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Drysdale       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Dick Ellsworth     L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Bob Gibson         R   9   2   0   0   1   2   0   4   0   0   0  .222  .364  .556 
+Dallas Green       R   8   4   1   0   0   1   0   4   0   0   0  .500  .556  .625 
+Jack Hamilton      R   9   1   0   0   1   1   0   1   0   0   0  .111  .200  .444 
+Bob Hendley        L   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Jay Hook           R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Al Jackson         L   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Larry Jackson      R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Joey Jay           R   6   4   0   0   1   0   0   1   0   0   0  .667  .667 1.167 
+Cal Koonce         R   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 
+Sandy Koufax       L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Denny Lemaster     L   8   1   1   0   0   2   0   4   0   0   0  .125  .300  .250 
+Bob Miller         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Nuxhall        L   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Billy O'Dell       L   5   1   0   0   0   2   1   1   0   0   0  .200  .429  .200 
+Jim O'Toole        L   4   3   1   0   1   0   0   0   0   0   0  .750  .750 1.750 
+Gaylord Perry      R   5   3   0   0   0   0   0   1   0   1   0  .600  .600  .600 
+Ray Sadecki        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jack Sanford       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Shaw           R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Curt Simmons       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Warren Spahn       L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Paul Toth          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Washburn       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

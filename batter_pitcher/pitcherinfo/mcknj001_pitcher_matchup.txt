@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kyle Abbott        L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Pedro Astacio      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Avery        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Shawn Boskie       R   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+William Brennan    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Chuck Cary         L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Doug Drabek        R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Chuck Finley       L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Tommy Greene       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Danny Jackson      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Michael Jackson    R   4   0   0   0   0   1   0   2   0   0   1  .000  .167  .000 
+Randy Johnson      L   8   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Greg Maddux        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Moore         R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Mike Morgan        R   7   2   0   0   1   1   0   0   0   0   0  .286  .375  .714 
+Jack Morris        R   6   1   0   0   1   0   0   3   0   0   0  .167  .167  .667 
+Chris Nabholz      L   2   1   0   0   0   1   0   0   1   0   0  .500  .750  .500 
+Mark Portugal      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Tim Pugh           R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Jose Rijo          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Curt Schilling     R   9   2   0   0   0   1   0   2   0   0   0  .222  .300  .222 
+Tim Scott          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Lee Smith          R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Greg Swindell      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Tewksbury      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Randy Tomlin       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Paul Wagner        R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Bob Walk           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+David Wells        L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+John Wetteland     R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Mitch Williams     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Curt Young         L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667

@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Ames           R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ralph Comstock     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Doc Crandall       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Al Demaree         R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Bill Doak          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Hod Eller          R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 i
+Erskine Mayer      R   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 
+Pat Ragan          R   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 
+Dick Rudolph       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Slim Sallee        L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pete Schneider     R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 i
+Jack Scott         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Tyler        L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000

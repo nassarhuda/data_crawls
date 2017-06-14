@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Roger Bailey       R   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+Doug Brocail       R   5   1   0   0   0   1   0   3   0   1   0  .200  .333  .200 
+Tom Candiotti      R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Frank Castillo     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Glavine        L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joey Hamilton      R   9   1   0   0   0   0   0   6   0   2   0  .111  .111  .111 
+Pete Harnisch      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jason Jacome       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Darryl Kile        R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Al Leiter          L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Ramon Martinez     R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brian Meadows      R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Denny Neagle       L   3   2   0   1   0   0   0   1   0   1   0  .667  .667 1.333 
+Hideo Nomo         R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Donovan Osborne    L   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Pat Rapp           R   3   2   0   0   0   0   0   1   0   3   0  .667  .667  .667 
+Bryan Rekar        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Curt Schilling     R   6   0   0   0   0   1   0   6   0   2   0  .000  .143  .000 
+John Smoltz        R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Salomon Torres     R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Steve Trachsel     R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Wally Whitehurst   R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brian Williams     R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000

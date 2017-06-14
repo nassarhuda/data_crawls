@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Baumgardner     R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Chief Bender       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Joe Boehling       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Bullet Joe Bush    R   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Ray Collins        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Hooks Dauss        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Jean Dubuc         R  10   3   0   0   0   1   0   1   0   0   0  .300  .364  .300 i
+Cy Falkenberg      R  13   1   0   0   0   0   0   1   0   0   0  .077  .077  .077 i
+Rube Foster        R   4   1   0   0   0   0   0   2   1   1   0  .250  .400  .250 i
+Rip Hagerman       R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Claude Hendrix     R   7   2   0   1   0   1   0   1   0   0   0  .286  .375  .571 
+Pete Henning       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Bill James         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Rankin Johnson     R   4   1   0   0   0   3   0   2   0   0   0  .250  .571  .250 i
+Walter Johnson     R  14   0   0   0   0   2   0   4   0   1   0  .000  .125  .000 i
+Joe Lake           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Dutch Leonard      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Walt Leverenz      L   7   1   0   0   0   0   0   1   1   0   0  .143  .250  .143 i
+Carl Mays          R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Elmer Myers        R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Reb Russell        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Ed Walsh           R   6   2   0   1   0   1   0   1   0   0   0  .333  .429  .667 i
+Ed Willett         R   5   1   0   0   0   2   0   0   0   1   0  .200  .429  .200 i
+Ralph Works        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i

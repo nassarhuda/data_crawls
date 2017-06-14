@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Win Ballou         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Ted Blankenship    R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Garland Buckeye    L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bullet Joe Bush    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Stan Coveleski     R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 i
+Hooks Dauss        R   5   1   0   1   0   0   0   2   0   1   0  .200  .200  .600 i
+Milt Gaston        R   8   4   2   0   0   0   0   0   0   0   0  .500  .500  .750 
+Joe Giard          L   6   1   0   0   0   3   0   1   0   0   0  .167  .444  .167 i
+Sam Gray           R   8   5   3   0   0   0   0   0   0   0   0  .625  .625 1.000 i
+Lefty Grove        L   5   0   0   0   0   1   0   0   0   1   0  .000  .167  .000 i
+Slim Harriss       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Waite Hoyt         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Hank Johnson       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Sad Sam Jones      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Benn Karr          R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Dutch Levsen       R   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Ted Lyons          R  12   3   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Firpo Marberry     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jake Miller        L   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 i
+Herb Pennock       L  12   2   1   0   0   0   0   4   0   0   0  .167  .167  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+C. Robertson       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Sherry Smith       L   9   1   0   0   0   1   0   0   0   0   0  .111  .200  .111 i
+Earl Whitehill     L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i

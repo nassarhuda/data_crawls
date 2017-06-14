@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Aguilera      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sid Fernandez      L   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Neal Heaton        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ricky Horton       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Joe Magrane        L   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Pat Perry          L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Floyd Youmans      R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333

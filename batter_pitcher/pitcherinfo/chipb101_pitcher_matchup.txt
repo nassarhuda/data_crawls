@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Cloyd Boyer        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Brazle          L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Harry Brecheen     L   9   0   0   0   0   1   0   3   0   2   0  .000  .100  .000 i
+Mort Cooper        R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Curt Davis         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eddie Erautt       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rube Fischer       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Howie Fox          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jack Hallett       R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Joe Hatten         L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Sheldon Jones      R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Al Jurisich        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dave Koslo         L   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Rube Melton        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Red Munger         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+F. Ostermueller    L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Howie Pollet       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Willie Ramsdell    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Johnny Sain        R  13   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gerry Staley       R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Hy Vandenberg      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bill Voiselle      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ernie White        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

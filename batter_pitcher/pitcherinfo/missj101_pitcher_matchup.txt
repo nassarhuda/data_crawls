@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R  11   1   0   0   0   0   0   3   0   0   0  .091  .091  .091 
+Cy Barger          R   8   6   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Nick Cullop        L   4   2   0   0   0   1   0   0   0   1   0  .500  .600  .500 i
+Cy Falkenberg      R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 i
+Happy Finneran     R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Russ Ford          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Claude Hendrix     R  11   1   0   0   0   0   0   5   0   0   0  .091  .091  .091 i
+Rankin Johnson     R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Katsy Keifer       L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Elmer Knetzer      R  11   3   0   0   0   1   0   1   0   1   0  .273  .333  .273 
+Gene Krapp         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Erv Lange          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+George LeClair     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+R. McConnaughey    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Earl Moore         R   3   0   0   0   0   3   0   0   0   0   0  .000  .500  .000 i
+Earl Moseley       R  16   4   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+George Mullin      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Gene Packard       L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Mike Prendergast   R   4   0   0   0   0   1   0   2   1   0   0  .000  .333  .000 
+Jack Quinn         R  10   2   1   0   0   1   0   1   0   0   0  .200  .273  .300 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Suggs       R   6   1   0   0   0   2   0   2   0   0   0  .167  .375  .167 i
+Doc Watson         L   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i

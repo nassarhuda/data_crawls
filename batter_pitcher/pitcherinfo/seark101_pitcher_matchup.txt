@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Bridges      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Milo Candini       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Russ Christopher   R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jesse Flores       R   8   5   0   0   0   0   0   0   0   0   0  .625  .625  .625 
+Orval Grove        R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Mel Harder         R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 i
+Lum Harris         R   4   1   0   0   0   1   0   0   1   0   0  .250  .500  .250 
+Tex Hughson        R  12   2   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Dutch Leonard      R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Ted Lyons          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Johnny Niggeling   R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Nels Potter        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Allie Reynolds     R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Mike Ryba          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Ray Scarborough    R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Al Smith           L   6   2   2   0   0   0   0   0   0   0   0  .333  .333  .667 
+Steve Sundra       R   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000 
+Virgil Trucks      R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Hal White          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Early Wynn         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125

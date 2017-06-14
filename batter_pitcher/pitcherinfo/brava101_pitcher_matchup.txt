@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Boswell       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gene Brabender     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Burbach       R   5   2   1   1   0   0   0   2   0   0   0  .400  .400 1.000 
+George Culver      R   4   2   2   0   0   1   0   0   0   0   0  .500  .600 1.000 
+Miguel Fuentes     R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+John Gelnar        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Gary Gentry        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Dave Giusti        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Catfish Hunter     R   7   4   0   0   0   0   0   0   0   1   0  .571  .571  .571 
+Pat Jarvis         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jim McAndrew       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim McGlothlin     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Andy Messersmith   R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Carl Morton        R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Jim Nash           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Blue Moon Odom     R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bill Singer        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Don Sutton         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Chris Zachary      R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600

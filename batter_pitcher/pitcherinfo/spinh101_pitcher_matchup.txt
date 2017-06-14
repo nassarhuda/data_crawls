@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Bill Beckmann      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jack Brewer        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bob Chipman        L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Curt Davis         R   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Atley Donald       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Feller         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ken Gables         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bump Hadley        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Oral Hildebrand    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Thornton Lee       L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Sal Maglie         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Marcum      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Al Milnar          L   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 
+Lynn Nelson        R  12   3   1   0   0   0   0   0   0   0   0  .250  .250  .333 
+Ray Prim           L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Red Ruffing        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Nick Strincevich   R   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Bucky Walters      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Les Webber         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Wyse          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

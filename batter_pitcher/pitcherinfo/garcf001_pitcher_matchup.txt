@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jason Bere         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Mark Clark         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Omar Daal          L   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Shawn Estes        L   8   0   0   0   0   1   0   4   0   0   0  .000  .111  .000 
+Jeff Fassero       L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Mark Gardner       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Glavine        L  13   2   0   0   1   0   0   4   0   0   0  .154  .154  .385 
+Chris Hammond      L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Mike Hampton       L   8   2   1   0   0   1   0   4   0   0   0  .250  .333  .375 
+Dustin Hermanson   R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+John Hudek         R   4   2   0   0   1   0   0   2   0   0   0  .500  .500 1.250 
+Jose Jimenez       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Randy Johnson      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Scott Karl         L   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 
+Ted Lilly          L   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Jose Lima          R   9   2   0   0   1   0   0   2   0   0   0  .222  .222  .556 
+Kent Mercker       L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Terry Mulholland   L   9   3   1   0   1   0   0   2   0   0   0  .333  .333  .778 
+Darren Oliver      L   6   2   0   0   1   2   1   1   0   0   0  .333  .500  .833 
+Donovan Osborne    L   5   3   0   0   0   2   0   1   0   0   0  .600  .714  .600 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carlos Perez       L  19   6   1   1   1   1   0   1   0   0   0  .316  .350  .632 
+Odalis Perez       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Bill Pulsipher     L   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+Mike Remlinger     L   7   4   0   0   1   0   0   1   0   0   0  .571  .571 1.000 
+Shane Reynolds     R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Dan Serafini       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Kevin Tapani       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Brett Tomko        R   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Gabe White         L   5   2   0   0   2   0   0   2   0   0   0  .400  .400 1.600 
+Bobby Witt         R   3   2   1   0   1   1   0   0   0   0   0  .667  .750 2.000 
+Brad Woodall       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Steve Woodard      R   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500

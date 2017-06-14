@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Brennan        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Guy Bush           R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Paul Derringer     R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Bill Lee           R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Red Lucas          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Claude Passeau     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hal Schumacher     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+J. Vander Meer     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Weaver         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Weiland        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Winford        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500

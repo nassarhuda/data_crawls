@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Earnshaw    R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Fred Frankhouse    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lefty Gomez        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Al Grabowski       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Syl Johnson        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pat Malone         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Johnny Marcum      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jesse Petty        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Charlie Root       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Red Ruffing        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

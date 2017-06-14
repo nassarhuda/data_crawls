@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ezequiel Astacio   R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Chris Capuano      L   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Roger Clemens      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Aaron Cook         R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Doug Davis         L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Shawn Estes        L   4   2   1   0   1   1   0   0   0   0   0  .500  .600 1.500 
+Jeff Francis       L  17   4   0   1   1   1   0   0   0   0   0  .235  .278  .529 
+Brian Fuentes      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tom Glavine        L  13   3   1   0   0   0   0   2   0   0   0  .231  .231  .308 
+Brad Halsey        L   9   2   1   0   1   0   0   1   0   0   0  .222  .222  .667 
+Dan Haren          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Aaron Heilman      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mark Hendrickson   L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Rich Hill          L   5   2   1   0   0   2   0   0   0   0   0  .400  .571  .600 
+Trevor Hoffman     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kazuhisa Ishii     L   3   3   1   0   1   1   0   0   0   0   0 1.000 1.000 2.333 
+Jason Jennings     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Josh Johnson       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Joe Kennedy        L   4   3   0   1   0   0   0   0   0   0   1  .750  .600 1.250 
+Brian Lawrence     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Derek Lowe         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Greg Maddux        R   7   4   2   0   1   0   0   0   0   0   0  .571  .571 1.286 
+Eric Milton        L   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Brian Moehler      R   5   3   0   1   1   0   0   0   0   0   0  .600  .600 1.600 
+Matt Morris        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Roy Oswalt         R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+John Patterson     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jake Peavy         R   5   2   0   0   1   1   0   2   0   0   0  .400  .500 1.000 
+Brad Penny         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Odalis Perez       L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Horacio Ramirez    L   7   4   1   0   0   0   0   0   0   0   0  .571  .571  .714 
+Mark Redman        L   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Glendon Rusch      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rudy Seanez        R   3   2   2   0   0   0   0   1   0   0   1  .667  .500 1.333 
+John Smoltz        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jeff Suppan        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Steve Trachsel     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Claudio Vargas     R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Javier Vazquez     R   6   2   0   0   1   1   0   1   0   0   0  .333  .429  .833 
+Brandon Webb       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Woody Williams     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dontrelle Willis   L   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Randy Wolf         L   5   1   0   0   0   1   0   1   1   0   0  .200  .429  .200 
+Barry Zito         L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500

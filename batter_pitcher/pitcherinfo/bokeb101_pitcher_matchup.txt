@@ -1,0 +1,50 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Elden Auker        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Belve Bean         R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Al Benton          R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+G. Blaeholder      R  10   4   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Tommy Bridges      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Johnny Broaca      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Clint Brown        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lloyd Brown        L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sugar Cain         R  12   1   0   0   0   2   0   0   0   1   0  .083  .214  .083 
+Joe Cascarella     R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Dick Coffman       R  16   6   1   0   0   0   0   2   0   0   0  .375  .375  .438 
+General Crowder    R   9   2   0   0   1   1   0   1   0   0   0  .222  .300  .556 
+Bill Dietrich      R   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Wes Ferrell        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Lefty Gomez        L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+Sam Gray           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Paul Gregory       R   5   2   0   0   1   1   0   0   0   1   0  .400  .500 1.000 
+Lefty Grove        L  15   5   1   0   0   1   0   2   0   1   0  .333  .375  .400 
+Bump Hadley        R  15   4   0   0   1   1   0   3   0   0   0  .267  .313  .467 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mel Harder         R   9   3   0   0   0   1   0   0   0   0   0  .333  .400  .333 
+Wally Hebert       L   4   3   1   1   0   0   0   0   0   0   0  .750  .750 1.500 
+Oral Hildebrand    R  13   1   0   0   0   0   0   3   0   0   0  .077  .077  .077 
+Willis Hudlin      R  10   2   0   0   0   0   0   1   1   1   0  .200  .273  .200 
+Hank Johnson       R   9   4   2   0   0   1   0   0   0   0   0  .444  .500  .667 i
+Jack Knott         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Danny MacFayden    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Roy Mahaffey       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Firpo Marberry     R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 i
+Johnny Marcum      R   8   2   0   0   0   2   0   1   0   0   0  .250  .400  .250 
+Alex McColl        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Jake Miller        L   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Mulligan       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bobo Newsom        R  10   3   1   0   0   0   0   1   0   0   0  .300  .300  .400 i
+F. Ostermueller    L   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Monte Pearson      R  15   3   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Herb Pennock       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Gordon Rhodes      R  12   4   0   1   0   0   0   0   0   0   0  .333  .333  .500 i
+Schoolboy Rowe     R   7   0   0   0   0   1   0   1   0   1   0  .000  .125  .000 i
+Red Ruffing        R  11   0   0   0   0   1   1   2   0   0   0  .000  .083  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Russ Van Atta      L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Walberg       L  11   1   1   0   0   1   0   2   0   0   0  .091  .167  .182 i
+Monte Weaver       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Johnny Welch       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ed Wells           L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i
+Earl Whitehill     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ralph Winegarner   R   8   4   0   0   0   1   0   1   0   0   0  .500  .556  .500

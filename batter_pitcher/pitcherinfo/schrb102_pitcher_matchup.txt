@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Blass        R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Nelson Briles      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Buhl           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Bunning        R  14   3   0   0   0   0   0   2   0   1   0  .214  .214  .214 
+Ray Culp           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Don Drysdale       R  12   5   0   0   0   1   0   1   0   0   0  .417  .462  .417 
+Jack Fisher        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Frisella     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Gibson         R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Dave Giusti        R   8   1   0   0   0   0   0   2   1   0   0  .125  .222  .125 
+Dick Hughes        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry Jackson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pat Jarvis         R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Fergie Jenkins     R   6   2   1   0   0   2   0   1   0   0   0  .333  .500  .500 
+Jim Maloney        R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Al McBean          R   7   1   0   0   0   1   0   0   0   1   0  .143  .250  .143 
+Joe Niekro         R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Milt Pappas        R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Tommie Sisk        R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Don Sutton         R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ron Taylor         R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Bruce Von Hoff     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Don Wilson         R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600

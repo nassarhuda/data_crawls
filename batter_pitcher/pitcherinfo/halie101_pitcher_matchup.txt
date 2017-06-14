@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bonham        R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Carlton      L   8   1   0   0   0   0   0   5   0   0   0  .125  .125  .125 
+Don Carrithers     R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Al Downing         L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Dock Ellis         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pete Falcone       L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ken Forsch         R   7   3   1   0   0   0   0   3   0   1   0  .429  .429  .571 
+Bob Forsch         R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Tom Griffin        R   8   2   2   0   0   2   0   2   0   1   0  .250  .400  .500 
+Ross Grimsley      L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Burt Hooton        R   9   1   0   0   0   0   0   4   0   0   0  .111  .111  .111 
+Mark Lemongello    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Mickey Lolich      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jim Lonborg        R   6   1   0   0   0   0   0   3   0   3   0  .167  .167  .167 
+Paul Moskau        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Niekro         R   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Fred Norman        L   3   1   0   0   1   1   0   2   0   1   0  .333  .500 1.333 
+Rick Reuschel      R   1   0   0   0   0   1   0   1   0   2   0  .000  .500  .000 
+Rick Rhoden        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+J.R. Richard       R   9   0   0   0   0   1   0   4   0   1   0  .000  .100  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Rogers       R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 
+Jim Rooker         L   6   2   1   0   0   2   0   1   0   1   0  .333  .500  .500 
+Scott Sanderson    R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Tom Seaver         R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Bob Shirley        L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brent Strom        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Sutton         R  10   1   0   0   0   0   0   7   0   1   0  .100  .100  .100 
+Wayne Twitchell    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+John Urrea         R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000

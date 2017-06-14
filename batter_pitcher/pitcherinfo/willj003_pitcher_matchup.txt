@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andrew Cashner     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Brandon Claussen   L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Roger Clemens      R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Adam Eaton         R   7   2   0   0   0   0   0   2   0   1   0  .286  .286  .286 
+Randy Johnson      L   7   0   0   0   0   1   0   5   0   0   0  .000  .125  .000 
+G. Stephenson      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jeff Weaver        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Brandon Webb       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kip Wells          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

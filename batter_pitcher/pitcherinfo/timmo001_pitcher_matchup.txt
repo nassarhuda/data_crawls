@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L  13   4   1   0   0   0   0   0   0   0   0  .308  .308  .385 
+Kevin Brown        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Burkett       R   5   2   1   0   1   2   0   1   0   0   0  .400  .571 1.200 
+Hector Carrasco    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rheal Cormier      L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Doug Creek         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jim Dougherty      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Mike Dyer          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jeff Fassero       L   9   1   1   0   0   1   0   3   0   0   0  .111  .200  .222 
+Tom Glavine        L  14   5   2   0   0   1   0   4   0   0   0  .357  .400  .500 
+Chris Hammond      L   6   4   3   0   0   0   0   1   0   0   0  .667  .667 1.167 
+Mike Hampton       L  11   4   1   0   1   1   0   2   0   0   0  .364  .417  .727 
+Trevor Hoffman     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rich Hunter        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Al Leiter          L   7   1   0   0   0   2   0   2   0   0   0  .143  .333  .143 
+Mike Mimbs         L   9   1   0   0   1   1   0   1   0   0   0  .111  .200  .444 
+Terry Mulholland   L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Denny Neagle       L  14   5   0   0   0   0   0   2   0   0   0  .357  .357  .357 
+Donovan Osborne    L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jim Parque         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pat Rapp           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Schilling     R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+John Smiley        L   9   2   1   0   0   0   0   2   0   0   0  .222  .222  .333 
+Allen Watson       L   8   3   0   0   1   1   0   1   0   0   0  .375  .444  .750 
+Mike Williams      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

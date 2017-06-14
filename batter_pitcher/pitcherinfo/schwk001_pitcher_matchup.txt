@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Burke Badenhop     R   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250 
+A.J. Burnett       R   4   1   0   0   0   1   0   1   1   0   0  .250  .500  .250 
+Matt Cain          R   5   1   0   0   1   0   0   0   1   0   0  .200  .333  .800 
+Gerrit Cole        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Tyler Cravy        R   3   1   0   0   1   2   0   1   0   0   0  .333  .600 1.333 
+A. DeSclafani      R   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Matt Garza         R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Taylor Jungmann    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kyle Lohse         R   4   2   1   0   0   0   0   0   1   0   0  .500  .600  .750 
+Michael Lorenzen   R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Carlos Martinez    R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Jake Peavy         R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600

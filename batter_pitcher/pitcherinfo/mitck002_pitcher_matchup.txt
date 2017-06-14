@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+John Burkett       R   4   3   0   0   1   0   0   1   0   0   0  .750  .750 1.500 
+Ron Darling        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Scott Erickson     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Juan Guzman        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Greg Harris        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Hesketh        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bruce Hurst        L   8   3   0   0   0   4   0   3   0   0   0  .375  .583  .375 
+Danny Jackson      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jimmy Key          L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Darryl Kile        R   3   2   0   0   1   1   0   0   0   0   0  .667  .750 1.667 
+Joe Magrane        L   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Jamie Moyer        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Darren Oliver      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mike Oquist        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Melido Perez       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kenny Rogers       L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Justin Thompson    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+David Wells        L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200

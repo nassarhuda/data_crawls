@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bibby          R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+L. Christenson     R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Bob Forsch         R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Burt Hooton        R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Fergie Jenkins     R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Tim Leary          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Steve Mura         R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Dickie Noles       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Frank Pastore      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Charlie Puleo      R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Don Robinson       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Seaver         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bruce Sutter       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Don Sutton         R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Craig Swan         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Bob Welch          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ed Whitson         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

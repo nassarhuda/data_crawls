@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Belcher        R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Mike Bielecki      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+David Cone         R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Ron Darling        R   7   1   0   0   0   2   0   2   0   0   1  .143  .300  .143 
+Doug Drabek        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Sid Fernandez      L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Dwight Gooden      R   6   1   0   0   1   1   0   1   0   0   0  .167  .286  .667 
+Kevin Gross        R   3   1   0   0   1   3   0   2   0   0   0  .333  .667 1.333 
+Bill Gullickson    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Brian Holman       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Randy Johnson      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dave LaPoint       L   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Greg Maddux        R   8   3   1   0   0   1   0   2   0   0   0  .375  .444  .500 
+Dennis Martinez    R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Jamie Moyer        L   8   4   1   0   1   0   0   0   0   0   0  .500  .500 1.000 
+Pascual Perez      R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Jeff Pico          R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Reed          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Rick Reuschel      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+John Smiley        L   4   2   0   0   1   0   0   1   0   0   1  .500  .400 1.250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lee Smith          R   4   3   1   0   1   0   0   0   0   0   0  .750  .750 1.750 
+Rick Sutcliffe     R  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Scott Terry        R   9   1   1   0   0   0   0   4   0   0   0  .111  .111  .222 
+Bob Walk           R   4   4   1   0   1   0   0   0   0   0   0 1.000 1.000 2.000 
+Ed Whitson         R   4   3   1   1   0   0   0   1   0   0   0  .750  .750 1.500

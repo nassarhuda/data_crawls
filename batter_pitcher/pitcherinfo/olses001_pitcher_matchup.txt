@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Zach Duke          L   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Tom Glavine        L   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Shawn Hill         R   8   3   1   0   0   0   0   2   0   0   0  .375  .375  .500 
+Tim Hudson         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jair Jurrjens      R   3   0   0   0   0   1   0   2   0   2   0  .000  .250  .000 
+Jon Lieber         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Derek Lowe         R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Pedro Martinez     R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Shairon Martis     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Matt Morris        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jamie Moyer        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Brett Myers        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ricky Nolasco      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Roy Oswalt         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+John Patterson     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Oliver Perez       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jorge Sosa         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jeff Suppan        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Brandon Webb       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Todd Wellemeyer    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000

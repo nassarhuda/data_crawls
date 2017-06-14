@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ernie Broglio      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tony Cloninger     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ray Culp           R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bob Gibson         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dallas Green       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Hendley        L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Denny Lemaster     L   4   1   0   0   0   0   0   1   0   0   1  .250  .200  .250 
+Jim Maloney        R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Joe Nuxhall        L   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Johnny Podres      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jack Sanford       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Don Schwall        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Shaw           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chris Short        L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Curt Simmons       L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Tommie Sisk        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Warren Spahn       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Ray Washburn       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000

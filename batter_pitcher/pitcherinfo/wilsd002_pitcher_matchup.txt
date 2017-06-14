@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Jones        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jon Lieber         R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Esteban Loaiza     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Pedro Martinez     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Morgan        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mike Williams      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

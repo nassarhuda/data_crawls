@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kyle Abbott        L   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Jack Armstrong     R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Steve Avery        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tom Browning       L   5   1   1   0   0   0   0   3   0   1   0  .200  .200  .400 
+Sid Fernandez      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Gardner       R   1   0   0   0   0   1   0   1   0   2   0  .000  .500  .000 
+Greg Maddux        R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Rick Mahler        R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ramon Martinez     R   6   0   0   0   0   0   0   2   1   0   0  .000  .143  .000 
+Mike Morgan        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Vicente Palacios   R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Mark Portugal      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Paul Quantrill     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jose Rijo          R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+John Smoltz        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Bob Tewksbury      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Bob Walk           R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Ed Whitson         R   6   0   0   0   0   0   0   5   0   1   0  .000  .000  .000

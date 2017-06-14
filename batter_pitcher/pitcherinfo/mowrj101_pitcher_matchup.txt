@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boom-Boom Beck     R   9   3   1   0   0   2   0   1   0   0   0  .333  .455  .444 
+Hi Bell            R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ray Benge          R  12   6   0   1   0   0   0   1   1   1   0  .500  .538  .667 
+Larry Benton       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Cy Blanton         R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Guy Bush           R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Tex Carleton       R  21   5   2   0   0   2   1   4   0   0   0  .238  .304  .333 i
+Ownie Carroll      R  10   2   2   0   0   0   0   0   0   0   0  .200  .200  .400 
+Phil Collins       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dizzy Dean         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Paul Dean          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Paul Derringer     R  13   4   1   1   0   1   0   0   0   0   0  .308  .357  .538 
+Jumbo Elliott      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+F. Fitzsimmons     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Tony Freitas       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Larry French       L  13   4   2   0   0   2   0   0   0   0   0  .308  .400  .462 
+Benny Frey         R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jesse Haines       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill Hallahan      L   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Snipe Hansen       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Whitey Hilcher     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ed Holley          R  14   2   1   0   0   0   0   0   1   1   0  .143  .200  .214 i
+Al Hollingsworth   L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Carl Hubbell       L  25   3   1   0   0   2   0   3   0   0   0  .120  .185  .160 i
+Si Johnson         R  11   2   1   1   0   1   0   1   0   1   0  .182  .250  .455 
+Bill Lee           R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Dutch Leonard      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dolf Luque         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pat Malone         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Heinie Meine       R   6   1   0   0   0   0   0   0   0   2   0  .167  .167  .167 i
+Cy Moore           R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 
+Van Mungo          R  16   6   0   0   0   1   0   2   0   1   0  .375  .412  .375 
+Roy Parmelee       R   4   0   0   0   0   1   0   2   1   1   0  .000  .333  .000 
+Charlie Root       R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Gene Schott        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hal Schumacher     R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Al Smith           L   3   3   1   0   0   0   0   0   0   1   0 1.000 1.000 1.333 i
+Hal Smith          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Glenn Spencer      R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Allyn Stout        R   3   1   1   0   0   0   0   0   1   1   0  .333  .500  .667 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Swift         R   9   1   1   0   0   0   0   0   0   0   0  .111  .111  .222 i
+Sloppy Thurston    R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Walker        L  22   5   0   0   0   0   0   1   0   0   0  .227  .227  .227 i
+Lon Warneke        R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 i
+Tom Zachary        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

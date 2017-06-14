@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Baumann      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Brewer         R   7   5   1   0   0   1   0   1   0   0   0  .714  .750  .857 
+Jim Bunning        R   8   1   0   0   0   0   0   5   0   0   0  .125  .125  .125 
+Jerry Casale       R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Tex Clevenger      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rip Coleman        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bud Daley          L  11   5   2   1   0   1   0   1   0   0   0  .455  .500  .818 
+Jack Fisher        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Whitey Ford        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Ned Garver         R  10   3   1   0   0   1   0   1   0   0   0  .300  .364  .400 
+Mudcat Grant       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Eli Grba           R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Grim           R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Billy Hoeft        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Russ Kemmerer      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Johnny Kucks       R   6   4   1   0   0   0   0   0   0   0   0  .667  .667  .833 
+Cal McLish         R   4   3   0   0   0   2   1   0   0   0   0  .750  .833  .750 
+Don Mossi          L  11   2   1   0   0   1   0   0   0   0   0  .182  .250  .273 
+Ray Narleski       R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Billy O'Dell       L  13   2   0   0   0   0   0   4   0   0   0  .154  .154  .154 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A. Portocarrero    R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Howie Reed         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Ralph Terry        R   6   2   0   0   0   0   0   1   1   0   0  .333  .429  .333 
+Jerry Walker       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Hoyt Wilhelm       R   8   1   0   0   0   2   0   5   0   0   0  .125  .300  .125

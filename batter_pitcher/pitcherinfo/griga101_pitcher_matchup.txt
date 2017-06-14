@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+G. Baumgardner     R   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 i
+Chief Bender       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Boardwalk Brown    R   8   2   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Bullet Joe Bush    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ray Caldwell       R   6   3   0   1   0   2   0   1   0   0   0  .500  .625  .833 i
+Carl Cashion       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Eddie Cicotte      R   6   4   2   0   0   0   0   0   0   0   0  .667  .667 1.000 i
+Jack Coombs        R   7   0   0   0   0   1   0   3   0   0   0  .000  .125  .000 i
+Doc Crandall       R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 i
+Dave Danforth      L   4   3   3   0   0   0   0   0   0   0   0  .750  .750 1.500 i
+Iron Davis         R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Cy Falkenberg      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Russ Ford          R   9   2   1   0   0   1   0   1   0   0   0  .222  .300  .333 i
+Bob Groom          R  15   5   2   0   0   2   0   1   0   0   0  .333  .412  .467 i
+Ed Henderson       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Claude Hendrix     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Pete Henning       R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Byron Houck        R  11   1   0   0   0   1   0   5   0   0   0  .091  .167  .091 i
+Rankin Johnson     R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Walter Johnson     R   7   2   1   0   0   1   0   2   0   0   0  .286  .375  .429 i
+Sad Sam Jones      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Lake           R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Frank Lange        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i
+Slim Love          L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 i
+Alex Main          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Carl Mays          R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+George McConnell   R   7   3   0   0   0   2   0   1   0   0   0  .429  .556  .429 i
+George Mogridge    L   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 i
+Harry Moran        L   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250 
+George Mullin      R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 i
+Buck O'Brien       R   7   2   1   1   0   0   0   0   0   1   0  .286  .286  .714 i
+Barney Pelty       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Scott Perry        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Rube Peters        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Eddie Plank        L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 i
+Jack Powell        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Mike Prendergast   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tom Rogers         R   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 
+Babe Ruth          L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hippo Vaughn       L   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ed Walsh           R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 i
+Jack Warhop        R   3   1   0   0   0   2   0   2   0   0   0  .333  .600  .333 i
+Ed Willett         R   9   2   1   0   0   0   0   0   0   1   0  .222  .222  .333 i
+Smoky Joe Wood     R   9   6   0   0   0   0   0   0   0   0   0  .667  .667  .667 i
+Ralph Works        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i

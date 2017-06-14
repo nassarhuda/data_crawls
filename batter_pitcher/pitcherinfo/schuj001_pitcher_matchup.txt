@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Shaw          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dave Stewart       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Todd Stottlemyre   R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Sergio Valdez      R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Frank Wills        R   5   4   2   0   0   0   0   0   0   0   0  .800  .800 1.200

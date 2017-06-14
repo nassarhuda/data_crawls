@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Buddy Carlyle      R   4   4   2   0   2   0   0   0   0   0   0 1.000 1.000 3.000 
+Kevin Correia      R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Yovani Gallardo    R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Tom Glavine        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Hiroki Kuroda      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+John Lannan        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Braden Looper      R   5   1   0   1   0   0   0   2   0   0   0  .200  .200  .600 
+Greg Maddux        R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+John Maine         R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500

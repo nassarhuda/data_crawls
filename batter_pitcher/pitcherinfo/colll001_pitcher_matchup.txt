@@ -1,0 +1,68 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   4   0   0   0   0   1   1   0   0   0   0  .000  .200  .000 
+Jimmy Anderson     L   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Miguel Batista     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Andy Benes         R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Brian Bohanon      L   8   4   1   0   0   1   0   1   0   0   0  .500  .556  .625 
+Kent Bottenfield   R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Kevin Brown        R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Mark Clark         R   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Omar Daal          L   8   1   1   0   0   0   0   5   0   0   0  .125  .125  .250 
+Danny Darwin       R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Lance Davis        L   4   2   2   0   0   2   0   1   0   0   0  .500  .667 1.000 
+Elmer Dessens      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Darren Dreifort    R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Shawn Estes        L   2   1   1   0   0   2   1   1   0   0   0  .500  .750 1.000 
+Mike Fetters       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Hampton       L  17   7   0   0   0   2   0   1   0   0   0  .412  .474  .412 
+Pete Harnisch      R   6   1   0   1   0   0   0   3   0   0   0  .167  .167  .500 
+Dustin Hermanson   R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+S. Hitchcock       L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Chris Holt         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Hudek         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Randy Johnson      L  10   1   0   0   0   2   0   3   1   0   0  .100  .308  .100 
+Bobby Jones        R   6   3   1   1   0   0   0   0   1   0   0  .500  .571 1.000 
+Bobby Jones        L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jeff Juden         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Darryl Kile        R   7   1   0   0   0   1   1   2   0   0   0  .143  .250  .143 
+Steve Kline        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Leiter          L   8   2   2   0   0   0   0   1   0   1   0  .250  .250  .500 
+Jose Lima          R   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Greg Maddux        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tony McKnight      R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Brian Meadows      R   8   4   0   1   0   1   0   0   0   0   0  .500  .556  .750 
+Kent Mercker       L   5   3   1   0   0   0   0   2   0   0   0  .600  .600  .800 
+Wade Miller        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Mohler        L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Matt Morris        R  11   1   0   0   0   0   0   4   0   0   0  .091  .091  .091 
+Jaime Navarro      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Denny Neagle       L  15   2   1   0   0   0   0   7   1   0   1  .133  .176  .200 
+Donovan Osborne    L   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Roy Oswalt         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chan Ho Park       R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Steve Parris       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rick Reed          R  10   4   1   0   0   0   0   0   1   0   0  .400  .455  .500 
+Dennys Reyes       L   4   2   0   0   0   2   0   1   0   0   0  .500  .667  .500 
+Shane Reynolds     R   5   3   0   0   1   0   0   1   0   0   0  .600  .600 1.200 
+Kirk Rueter        L   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Curt Schilling     R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250 
+Pete Schourek      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Dan Serafini       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+John Smoltz        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Scott Sullivan     R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Kevin Tapani       R  11   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Thomson       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Brett Tomko        R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 
+Ismael Valdez      R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Todd Van Poppel    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Javier Vazquez     R   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Ron Villone        L   5   3   1   0   1   1   0   1   0   0   1  .600  .571 1.400 
+Billy Wagner       L   3   2   1   0   0   2   0   1   1   0   0  .667  .833 1.000 
+Gabe White         L   6   1   0   0   1   0   0   2   0   0   0  .167  .167  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Witt         R   7   4   1   0   0   1   0   1   0   0   0  .571  .625  .714 
+Randy Wolf         L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Jamey Wright       R   5   2   0   0   0   0   0   2   1   0   0  .400  .500  .400 
+Masato Yoshii      R   9   4   1   0   0   0   0   1   0   0   0  .444  .444  .556

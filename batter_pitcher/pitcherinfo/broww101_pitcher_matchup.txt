@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Ferriss       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tex Hughson        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Earl Johnson       L   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Vic Raschi         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

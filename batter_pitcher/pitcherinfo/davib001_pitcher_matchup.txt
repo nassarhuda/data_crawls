@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   7   2   0   0   0   1   1   0   0   1   0  .286  .375  .286 
+Kevin Appier       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Keith Atherton     R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Willie Banks       R   3   1   1   0   0   2   0   1   0   0   0  .333  .600  .667 
+Floyd Bannister    L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+John Butcher       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dennis Cook        L   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+John Curtis        L   5   3   0   0   0   0   0   0   0   0   1  .600  .500  .600 
+Danny Darwin       R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Storm Davis        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Scott Erickson     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Filson        L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Chuck Finley       L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Mike Flanagan      L  10   1   0   0   0   0   0   3   0   0   0  .100  .100  .100 
+Ron Guidry         L   9   2   0   0   2   0   0   1   0   0   0  .222  .222  .889 
+Neal Heaton        L   5   0   0   0   0   1   0   0   0   0   1  .000  .143  .000 
+G. Heimueller      L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Charlie Hough      R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Bruce Hurst        L   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 
+Tommy John         L  15   3   0   1   0   0   0   5   0   0   0  .200  .200  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Randy Johnson      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Krueger       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mark Langston      L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Andrew Lorraine    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jon Matlack        L   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Kirk McCaskill     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Scott McGregor     L  10   1   0   0   0   0   0   0   0   0   0  .100  .100  .100 
+Jose Mesa          R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Jack Morris        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Phil Niekro        R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Ed Nunez           R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Melido Perez       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dan Petry          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jay Pettibone      R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Dave Righetti      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Shirley        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mike Smithson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dave Stewart       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Frank Tanana       L   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Kevin Tapani       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Viola        L   5   3   0   2   0   0   0   0   0   0   0  .600  .600 1.400 
+Curt Young         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Young         L   5   3   2   0   0   0   0   1   0   0   1  .600  .500 1.000 
+Geoff Zahn         L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125

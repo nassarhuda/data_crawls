@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Russ Christopher   R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Joe Dobson         R   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Tom Ferrick        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Gromek       R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 i
+Orval Grove        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mickey Haefner     L  11   2   1   0   0   0   0   2   0   0   0  .182  .182  .273 
+Mickey Harris      L  10   3   0   0   0   1   0   4   0   0   0  .300  .364  .300 
+Randy Heflin       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Art Houtteman      R   7   2   0   1   0   0   0   5   0   0   0  .286  .286  .571 
+Sid Hudson         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Earl Johnson       L   6   2   0   0   0   1   0   2   0   1   0  .333  .429  .333 
+Ed Klieman         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Phil Marchildon    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Walt Masterson     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hal Newhouser      L   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 i
+Johnny Niggeling   R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Stubby Overmire    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Marino Pieretti    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Nels Potter        R   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250 
+Dizzy Trout        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Early Wynn         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sam Zoldak         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Mike Armstrong     R   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Keith Atherton     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Floyd Bannister    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mike Boddicker     R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Oil Can Boyd       R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+John Butcher       R   8   2   1   0   0   1   0   0   0   0   0  .250  .333  .375 
+Jim Clancy         R   4   2   0   0   1   1   0   0   0   0   0  .500  .600 1.250 
+Chris Codiroli     R  11   2   1   0   0   2   0   2   0   0   0  .182  .308  .273 
+Danny Darwin       R   3   1   0   0   1   1   1   0   0   0   0  .333  .500 1.333 
+Richard Dotson     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ray Fontenot       L   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Bob Gibson         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Neal Heaton        L   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Teddy Higuera      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bruce Hurst        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bruce Kison        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Dennis Martinez    R   6   4   1   0   1   1   0   0   0   0   0  .667  .714 1.333 
+Kirk McCaskill     R   7   0   0   0   0   1   1   1   0   0   0  .000  .125  .000 
+Donnie Moore       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Moore         R   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Phil Niekro        R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Al Nipper          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Steve Ontiveros    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bret Saberhagen    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Seaver         R   5   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Jim Slaton         R   6   3   0   0   0   1   0   1   0   0   0  .500  .571  .500 
+Don Sutton         R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Roy Thomas         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Frank Viola        L   5   2   0   0   0   0   0   0   0   0   1  .400  .333  .400 
+Rob Woodward       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Matt Young         L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

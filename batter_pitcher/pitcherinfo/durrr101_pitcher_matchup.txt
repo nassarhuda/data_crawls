@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Red Barrett        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Johnny Hutchings   R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Al Javery          R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Van Mungo          R   2   1   0   0   0   2   1   1   0   0   0  .500  .750  .500 
+Rip Sewell         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Tobin          R   5   0   0   0   0   3   0   0   0   0   0  .000  .375  .000 
+Bill Voiselle      R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125

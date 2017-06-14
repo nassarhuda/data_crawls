@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesus Colome       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Matt Morris        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Parque         L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Oliver Perez       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Andy Pettitte      L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Mike Sirotka       L   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Billy Wagner       L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+David Wells        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333

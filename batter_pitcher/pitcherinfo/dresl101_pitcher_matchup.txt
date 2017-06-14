@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   9   1   1   0   0   0   0   0   0   0   0  .111  .111  .222 i
+Doc Ayers          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bullet Joe Bush    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Eddie Cicotte      R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+Fritz Coumbe       L   6   1   1   0   0   1   0   0   1   0   0  .167  .375  .333 
+Stan Coveleski     R   8   1   0   1   0   2   0   0   0   0   0  .125  .300  .375 
+Dave Danforth      L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Dave Davenport     R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Bert Gallia        R  11   2   0   0   0   2   0   1   0   0   0  .182  .308  .182 
+Harry Harper       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bill James         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rube Marshall      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Carl Mays          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Elmer Myers        R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Jeff Pfeffer       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dick Rudolph       R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Allen Sothoron     R   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000 
+Jeff Tesreau       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Lefty Tyler        L   7   4   0   0   0   2   0   1   0   0   0  .571  .667  .571 i
+Lefty Williams     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Zip Zabel          R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250

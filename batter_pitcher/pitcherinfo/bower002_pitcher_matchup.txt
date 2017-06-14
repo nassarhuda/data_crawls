@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Bush         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Kevin Correia      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Kyle Davies        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chad Durbin        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Josh Fogg          R   4   1   1   0   0   1   1   0   0   0   0  .250  .400  .500 
+Jeff Francis       L   6   1   0   0   0   3   0   2   0   0   0  .167  .444  .167 
+Roy Halladay       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Livan Hernandez    R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Felix Hernandez    R   8   2   0   0   1   2   0   6   0   0   0  .250  .400  .625 
+Darrell May        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Kevin Millwood     R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Dustin Nippert     R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Vicente Padilla    R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Tony Pena          R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Nate Robertson     L   7   2   0   0   0   2   0   2   0   0   0  .286  .444  .286 
+F. Rodriguez       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Jamey Wright       R   5   2   1   0   0   0   0   1   1   0   0  .400  .500  .600

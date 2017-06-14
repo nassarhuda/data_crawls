@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vida Blue          L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+L. Christenson     R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Burt Hooton        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Bob Knepper        L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Dan Larson         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Silvio Martinez    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Lynn McGlothen     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Niekro         R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Jerry Reuss        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Nolan Ryan         R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mario Soto         R  13   4   0   0   0   0   0   4   0   0   0  .308  .308  .308 
+Don Sutton         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+F. Valenzuela      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pete Alexander     R  12   1   1   0   0   0   0   4   0   0   0  .083  .083  .167 i
+Frank Allen        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Cy Barger          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Rube Benton        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Buster Brown       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Mordecai Brown     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Leon Cadore        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Howie Camnitz      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+George Chalmers    R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 i
+Larry Cheney       R   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 i
+Gene Dale          R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Al Demaree         R   7   0   0   0   0   1   0   5   0   0   0  .000  .125  .000 i
+Burleigh Grimes    R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Dan Griner         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Bob Harmon         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Claude Hendrix     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Otto Hess          L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Brad Hogg          R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Bert Humphries     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill James         R   9   1   0   0   0   0   0   5   0   1   0  .111  .111  .111 i
+C. Mathewson       R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Al Mattern         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+George McQuillan   R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Art Nehf           L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hub Perdue         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Pol Perritt        R  10   1   0   0   1   1   0   2   0   1   0  .100  .182  .400 i
+Jeff Pfeffer       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pat Ragan          R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Slim Sallee        L  11   6   2   0   0   2   0   1   0   1   0  .545  .615  .727 i
+Pete Schneider     R   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 i
+Tom Seaton         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Toots Shultz       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+George Smith       R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Bob Steele         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+George Suggs       R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Lefty Tyler        L  21   2   0   0   0   2   0   7   0   2   0  .095  .174  .095 i
+Hippo Vaughn       L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i

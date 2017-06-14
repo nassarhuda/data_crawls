@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Guthrie       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Greg Harris        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Greg Hibbard       L   7   3   1   0   0   1   0   1   0   0   0  .429  .500  .571 
+Mark Langston      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Otto          L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Frank Tanana       L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600

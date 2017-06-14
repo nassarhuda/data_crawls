@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Howard Ehmke       R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Urban Shocker      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+George Uhle        R   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333 i

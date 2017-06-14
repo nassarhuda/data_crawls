@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+F. Barrios         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Beattie        R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Nelson Briles      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dick Drago         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Figueroa        R   6   3   1   0   1   0   0   1   0   0   0  .500  .500 1.167 
+Paul Hartzell      R   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+Don Kirkwood       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Dennis Martinez    R  11   5   2   0   0   0   0   3   0   0   0  .455  .455  .636 
+Scott McGregor     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Palmer         R  11   1   0   0   0   0   0   5   0   0   0  .091  .091  .091 
+Jim Slaton         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Don Stanhouse      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Dick Tidrow        R  11   5   2   1   1   0   0   1   0   0   0  .455  .455 1.091 
+Mike Torrez        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Milt Wilcox        R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Kip Young          R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

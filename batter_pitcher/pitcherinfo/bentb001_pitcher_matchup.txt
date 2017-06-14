@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Buddy Black        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Britt Burns        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lynn McGlothen     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Frank Tanana       L   5   2   0   0   0   1   1   0   0   0   0  .400  .500  .400

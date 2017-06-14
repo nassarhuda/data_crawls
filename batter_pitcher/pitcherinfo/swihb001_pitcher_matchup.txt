@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brad Boxberger     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wei-Yin Chen       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Alex Colome        R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+R.A. Dickey        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Yovani Gallardo    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Miguel Gonzalez    R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Felix Hernandez    R   5   3   1   0   0   0   0   2   0   0   0  .600  .600  .800 
+Drew Hutchison     R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Scott Kazmir       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Andrew Miller      L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Matt Moore         L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Roberto Osuna      R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Michael Pineda     R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Chris Sale         L   5   2   0   0   0   0   0   0   1   0   0  .400  .500  .400 
+Alfredo Simon      R   5   4   0   1   0   0   0   0   0   0   0  .800  .800 1.200 
+Drew Smyly         L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Masahiro Tanaka    R   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500

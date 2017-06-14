@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Aase           R   9   2   1   0   1   0   0   1   0   0   0  .222  .222  .667 
+Glenn Abbott       R   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Doyle Alexander    R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Fernando Arroyo    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Bare           R   4   0   0   0   0   2   1   3   0   0   0  .000  .333  .000 
+Bert Blyleven      R   7   0   0   0   0   1   0   5   0   0   0  .000  .125  .000 
+Nelson Briles      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Bill Campbell      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Ken Clay           R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jim Crawford       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Pat Dobson         R   6   0   0   0   0   1   1   1   0   0   0  .000  .143  .000 
+Dick Drago         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dennis Eckersley   R  12   3   0   0   1   0   0   1   0   0   0  .250  .250  .500 
+Dock Ellis         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Ed Figueroa        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Al Fitzmorris      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wayne Garland      R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Dave Goltz         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Moose Haas         R   8   3   0   0   1   0   0   0   0   0   0  .375  .375  .750 
+Paul Hartzell      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Hughes         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Catfish Hunter     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Kern           R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Chris Knapp        R   7   2   1   0   0   0   0   3   0   0   0  .286  .286  .429 
+Ken Kravec         L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Jack Kucek         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rick Langford      R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Dennis Leonard     R  10   2   1   0   0   0   0   4   0   0   0  .200  .200  .300 
+Dennis Martinez    R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Doc Medich         R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Jim Palmer         R  11   2   0   0   1   1   0   0   0   0   0  .182  .250  .455 
+Mike Paxton        R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Gaylord Perry      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pete Redfern       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dave Rozema        R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Nolan Ryan         R  16   1   0   0   0   3   0  13   0   0   0  .063  .211  .063 
+Bill Singer        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Jim Slaton         R   8   1   0   0   0   2   0   1   0   0   0  .125  .300  .125 
+Lary Sorensen      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Luis Tiant         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Torrez        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Milt Wilcox        R   5   2   0   0   0   1   1   1   0   0   0  .400  .500  .400 
+Jim Wright         R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000

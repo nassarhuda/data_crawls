@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Armas         R   5   2   0   0   0   1   0   1   0   2   0  .400  .500  .400 
+Kris Benson        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Matt Cain          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+D.J. Houlton       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+John Smoltz        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Steve Trachsel     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

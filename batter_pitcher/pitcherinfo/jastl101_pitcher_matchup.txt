@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Bolin        R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Jim Bunning        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Don Drysdale       R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Dick Ellsworth     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dave Giusti        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Larry Jackson      R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Pat Jarvis         R   6   3   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Gary Nolan         R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Claude Osteen      L  11   2   0   0   0   0   0   2   0   1   0  .182  .182  .182 
+Jim Ray            R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Seaver         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Shaw           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bill Singer        R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Don Sutton         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167

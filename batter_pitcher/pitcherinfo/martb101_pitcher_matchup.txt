@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Bevens        R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Hank Borowy        R   3   1   0   0   1   0   0   1   0   1   0  .333  .333 1.333 
+Alex Carrasquel    R   6   2   0   1   0   0   0   2   0   0   0  .333  .333  .667 
+Russ Christopher   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Atley Donald       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Dave Ferriss       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Charlie Gassaway   L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Steve Gerkin       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Steve Gromek       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Orval Grove        R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Mickey Haefner     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Joe Haynes         R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Randy Heflin       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lou Knerr          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Thornton Lee       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Eddie Lopat        L  14   1   0   0   0   1   0   1   0   0   0  .071  .133  .071 
+Hal Newhouser      L  12   2   1   0   0   0   0   3   0   0   0  .167  .167  .250 
+Johnny Niggeling   R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Emmett O'Neill     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Marino Pieretti    R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Mike Ryba          R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Al Smith           L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sandy Ullrich      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Wilson         R   7   1   0   0   0   0   0   0   0   1   0  .143  .143  .143 
+Walter Wilson      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Roger Wolff        R   8   1   0   0   0   1   1   1   0   0   0  .125  .222  .125 
+Pinky Woods        R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 i

@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rolando Arrojo     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+James Baldwin      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Andy Benes         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Dave Borkowski     R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Jeff D'Amico       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Eiland        R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Bryce Florie       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Keith Foulke       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Kevin Gross        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Orel Hershiser     R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Steve Karsay       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jose Mercedes      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jose Mesa          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Charles Nagy       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Troy Percival      R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Sidney Ponson      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Ryan Rupe          R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Aaron Sele         R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+Brett Tomko        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tim Wakefield      R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Weaver        R   6   0   0   0   0   2   0   3   0   0   0  .000  .250  .000

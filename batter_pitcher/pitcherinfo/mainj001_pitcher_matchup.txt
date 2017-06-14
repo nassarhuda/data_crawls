@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jason Bergmann     R   4   0   0   0   0   1   0   1   1   0   0  .000  .333  .000 
+Taylor Buchholz    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Aaron Cook         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Cole Hamels        L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Tim Hudson         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Lannan        L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Paul Maholm        L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Scott Mathieson    R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Matt Morris        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jamie Moyer        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Micah Owings       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Anibal Sanchez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Dave Dravecky      L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Sid Fernandez      L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+John Franco        L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+David Palmer       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Shane Rawley       L   8   4   1   0   2   1   0   1   0   0   0  .500  .556 1.375 
+Dan Schatzeder     L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+John Tudor         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

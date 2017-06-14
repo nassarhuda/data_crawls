@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Carpenter    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jesus Colome       R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+F. Cordero         R   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000 
+Kelvim Escobar     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Rick Helling       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Gil Heredia        R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Joe Kennedy        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pedro Martinez     R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jose Mercedes      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Eric Milton        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Dave Mlicki        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jamie Moyer        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Mulder        L   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Dan Reichert       R   1   0   0   0   0   2   0   0   1   0   0  .000  .750  .000 
+S. Schoeneweis     L   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Jason Standridge   R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Wakefield      R   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 
+Paul Wilson        R   9   2   0   0   2   0   0   2   0   0   0  .222  .222  .889

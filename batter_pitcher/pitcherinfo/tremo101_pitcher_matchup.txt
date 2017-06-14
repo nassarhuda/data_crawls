@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sheriff Blake      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Ed Brandt          L   4   3   2   1   0   0   0   0   0   0   0  .750  .750 1.750 
+Pete Donohue       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Genewich       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kent Greenfield    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+John Milligan      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Flint Rhem         R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Bill Sherdel       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Smith          R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Dutch Ulrich       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

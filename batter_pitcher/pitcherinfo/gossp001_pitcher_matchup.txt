@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Bettis        R   5   1   0   1   0   0   0   0   0   0   1  .200  .167  .600 
+Nathan Eovaldi     R   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Gio Gonzalez       L   5   3   1   0   0   1   0   1   0   0   0  .600  .667  .800 
+Cole Hamels        L   5   0   0   0   0   1   0   1   1   0   0  .000  .286  .000 
+Brad Hand          L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Mike Leake         R   4   2   0   0   1   1   0   0   0   0   0  .500  .600 1.250 
+Jon Lester         L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+F. Liriano         L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Jon Niese          L   9   1   0   0   0   2   1   3   0   0   0  .111  .273  .111 
+S. Strasburg       R   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000 
+Zack Wheeler       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jerome Williams    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+J. Zimmermann      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

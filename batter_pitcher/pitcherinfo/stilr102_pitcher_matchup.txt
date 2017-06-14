@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Ray Bare           R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Bill Campbell      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Figueroa        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bob Galasso        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Goltz         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jesse Jefferson    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rick Langford      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Dennis Leonard     R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Dyar Miller        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nolan Ryan         R   6   1   0   0   0   3   0   4   0   0   0  .167  .444  .167 
+Wayne Simpson      R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+P. Thormodsgard    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Torrez        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000

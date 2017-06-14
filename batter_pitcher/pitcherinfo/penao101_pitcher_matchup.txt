@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Bo Belinsky        L  11   3   0   0   0   1   0   3   0   0   0  .273  .333  .273 
+Gary Bell          R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jim Bouton         R   4   0   0   0   0   0   0   2   0   1   1  .000  .000  .000 
+Wally Bunker       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Downing         L   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Art Fowler         R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Ray Herbert        R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Sandy Koufax       L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Rudy May           L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Mike McCormick     L   4   1   0   0   0   2   0   2   0   2   0  .250  .500  .250 
+Dave McNally       L   6   0   0   0   0   2   0   4   0   1   0  .000  .250  .000 
+Dave Morehead      R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Buster Narum       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dan Osinski        R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Claude Osteen      L   7   1   0   0   1   0   0   2   0   0   0  .143  .143  .571 
+Camilo Pascual     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Juan Pizarro       L   8   1   0   0   0   0   0   5   0   1   0  .125  .125  .125 
+Pedro Ramos        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Phil Regan         R   2   0   0   0   0   1   0   2   0   0   1  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Williams      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Earl Wilson        R   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333

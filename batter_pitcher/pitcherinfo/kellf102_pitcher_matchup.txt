@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   9   2   0   1   0   1   0   4   0   0   0  .222  .300  .444 
+Luis Arroyo        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Black          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jim Davis          L   5   2   0   0   0   1   0   0   0   0   1  .400  .429  .400 
+Murry Dickson      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Art Fowler         R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+Hersh Freeman      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Gross          L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Harvey Haddix      L  12   2   2   0   0   1   0   4   0   0   0  .167  .231  .333 
+Larry Jackson      R   4   1   0   0   1   1   0   2   0   0   0  .250  .400 1.000 
+J. Klippstein      R  10   2   0   0   0   1   0   1   0   0   0  .200  .273  .200 
+Brooks Lawrence    R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Don Liddle         L   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Dick Littlefield   L   7   2   1   0   1   0   0   0   0   0   0  .286  .286  .857 
+Joe Margoneri      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Mickey McDermott   L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+V. Mizell          L   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Joe Nuxhall        L   7   2   0   0   0   3   0   4   0   0   1  .286  .455  .286 
+Mel Parnell        L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Billy Pierce       L   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Ridzik       R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Robin Roberts      R   5   2   1   0   1   0   0   2   0   0   0  .400  .400 1.200 
+Bob Rush           R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Curt Simmons       L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Warren Spahn       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dean Stone         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

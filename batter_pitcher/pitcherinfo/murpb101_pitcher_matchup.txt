@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Carlton      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Cuellar       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Woodie Fryman      L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Hoerner        L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Ken Holtzman       L   5   3   1   1   0   0   0   1   0   0   0  .600  .600 1.200 
+Al Jackson         L  10   3   0   0   0   0   0   1   1   0   0  .300  .364  .300 
+Sandy Koufax       L  12   4   1   0   0   0   0   4   0   0   0  .333  .333  .417 
+Billy O'Dell       L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Claude Osteen      L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Ray Sadecki        L   4   1   0   0   1   1   0   1   0   0   1  .250  .333 1.000 
+Chris Short        L   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 
+Curt Simmons       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Veale          L   4   2   1   0   0   1   0   1   0   1   0  .500  .600  .750

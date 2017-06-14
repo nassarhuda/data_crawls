@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willie Adams       R   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 i
+Pete Alexander     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Fred Anderson      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Cy Barger          R   6   1   1   0   0   2   0   1   0   0   0  .167  .375  .333 i
+Mordecai Brown     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Camnitz      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+George Chalmers    R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Larry Cheney       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Snipe Conley       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Nick Cullop        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Al Demaree         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Walt Dickson       R  11   5   0   0   1   1   0   0   0   1   0  .455  .500  .727 i
+Cy Falkenberg      R   5   2   1   0   1   1   0   0   0   0   0  .400  .500 1.200 i
+Happy Finneran     R   7   1   1   0   0   1   0   0   0   1   0  .143  .250  .286 
+Max Fiske          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Russ Ford          R  10   3   0   0   1   0   0   2   0   0   0  .300  .300  .600 i
+Bob Harmon         R   7   4   0   1   0   0   0   0   0   0   0  .571  .571  .857 i
+Claude Hendrix     R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Otto Hess          L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bert Humphries     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Kaiserling      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Elmer Knetzer      R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Gene Krapp         R   8   1   1   0   0   1   0   2   0   0   0  .125  .222  .250 i
+Ed Lafitte         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Erv Lange          R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Jimmy Lavender     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dan Marion         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Earl Moseley       R  16   7   1   0   0   3   0   0   0   0   0  .438  .526  .500 i
+George Mullin      R   7   0   0   0   0   0   0   0   2   0   0  .000  .222  .000 i
+Hub Perdue         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Quinn         R  15   5   1   0   0   0   0   1   0   1   0  .333  .333  .400 i
+Pat Ragan          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Dick Rudolph       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Slim Sallee        L   3   2   0   1   0   0   0   0   0   1   0  .667  .667 1.333 i
+Tom Seaton         R   8   0   0   0   0   1   0   1   0   0   0  .000  .111  .000 i
+George Suggs       R  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 i
+M. Walker          R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Doc Watson         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i

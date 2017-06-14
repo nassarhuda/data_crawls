@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   5   4   0   0   0   0   0   1   0   0   0  .800  .800  .800 i
+Ray Benge          R   6   4   1   1   0   0   0   0   0   0   0  .667  .667 1.167 i
+Tommy Bridges      R   8   3   0   0   0   1   0   1   0   0   0  .375  .444  .375 i
+Spud Chandler      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Slick Coffman      R   8   4   0   0   0   2   0   0   0   0   0  .500  .600  .500 i
+Bill Dietrich      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Wes Ferrell        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Denny Galehouse    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+George Gill        R  11   2   0   0   0   0   0   1   0   1   0  .182  .182  .182 
+Lefty Gomez        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bump Hadley        R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Mel Harder         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Bob Harris         R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Joe Heving         R   7   1   0   0   0   1   0   1   1   0   0  .143  .333  .143 i
+Willis Hudlin      R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Johnny Humphries   R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Fred Hutchinson    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Vern Kennedy       R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Roxie Lawson       R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+Dutch Leonard      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Linke           R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Johnny Marcum      R   6   2   0   1   1   0   0   0   0   0   0  .333  .333 1.167 
+Archie McKain      L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 i
+Johnny Murphy      R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Bobo Newsom        R  17   8   3   0   0   0   0   3   0   0   0  .471  .471  .647 
+Monte Pearson      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Red Ruffing        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Monty Stratton     R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Steve Sundra       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Tommy Thomas       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Walkup         R   4   1   1   0   0   1   1   1   0   0   0  .250  .400  .500 i
+Monte Weaver       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Whitehead     R   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500 i
+Jack Wilson        R  13   2   0   0   0   1   0   3   0   0   0  .154  .214  .154 i

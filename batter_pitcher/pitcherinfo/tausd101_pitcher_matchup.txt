@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Anderson       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Ed Bauta           R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim Brewer         L   6   4   1   0   0   0   0   0   0   0   0  .667  .667  .833 
+Bob Buhl           R   6   1   1   0   0   2   0   1   0   0   0  .167  .375  .333 
+Don Cardwell       R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Roger Craig        R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Jack Curtis        L   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 
+Don Drysdale       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Joe Gibbon         L   4   2   1   0   0   1   0   0   0   1   0  .500  .600  .750 
+Harvey Haddix      L  12   4   1   0   1   1   0   0   0   0   0  .333  .385  .667 
+Bob Hendley        L   8   2   0   1   0   1   0   1   0   0   0  .250  .333  .500 
+Larry Jackson      R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Sam Jones          R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Sandy Koufax       L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Clem Labine        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Dick LeMay         L   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Billy Loes         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Juan Marichal      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike McCormick     L   9   3   0   0   0   2   0   1   0   0   0  .333  .455  .333 
+V. Mizell          L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Billy O'Dell       L   5   4   0   1   1   0   0   0   0   0   0  .800  .800 1.800 
+Jim O'Toole        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Johnny Podres      L  14   5   2   0   1   2   0   2   0   0   0  .357  .438  .714 
+Barney Schultz     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bobby Shantz       L   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Larry Sherry       R   7   3   2   0   0   0   0   1   0   0   0  .429  .429  .714 
+Curt Simmons       L   6   2   0   0   0   1   1   2   0   0   0  .333  .429  .333 
+Warren Spahn       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ray Washburn       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167

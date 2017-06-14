@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bill Beckmann      R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Al Benton          R  10   4   2   0   0   0   0   1   0   1   0  .400  .400  .600 i
+Murry Dickson      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Dobson         R   8   4   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bob Feller         R  12   1   0   0   0   2   0   7   0   0   0  .083  .214  .083 
+Denny Galehouse    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mickey Harris      L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Thornton Lee       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Phil Marchildon    R   5   1   0   0   0   2   0   2   0   0   0  .200  .429  .200 
+Hal Newhouser      L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Bobo Newsom        R   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 i
+Red Ruffing        R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Eddie Smith        L   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000 
+Herm Wehmeier      R   4   0   0   0   0   0   0   1   1   0   0  .000  .200  .000

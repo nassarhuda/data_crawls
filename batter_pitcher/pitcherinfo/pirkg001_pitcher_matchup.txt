@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Chuck Finley       L  10   3   1   0   0   0   0   3   0   0   0  .300  .300  .400 
+Mark Langston      L   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Jamie Moyer        L  10   2   0   0   1   0   0   0   0   0   0  .200  .200  .500 
+Terry Mulholland   L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

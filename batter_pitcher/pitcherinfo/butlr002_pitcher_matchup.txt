@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jason Bere         R   2   0   0   0   0   3   0   0   0   0   1  .000  .500  .000 
+Tom Candiotti      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Juan Guzman        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+LaTroy Hawkins     R   9   3   1   0   1   1   0   0   0   0   0  .333  .400  .778 
+Rick Helling       R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 
+Ken Hill           R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Hideki Irabu       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack McDowell      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brian Moehler      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Mike Mussina       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Oquist        R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Andy Pettitte      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brad Radke         R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Bret Saberhagen    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Aaron Sele         R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Mike Trombley      R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Woody Williams     R   5   2   1   0   0   0   0   0   0   0   1  .400  .333  .600

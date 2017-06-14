@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mack Allison       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+G. Baumgardner     R  11   4   2   1   0   1   0   1   0   0   0  .364  .417  .727 i
+Fred Blanding      R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+Curly Brown        L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Carl Cashion       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Eddie Cicotte      R  10   4   0   1   1   2   0   2   0   1   0  .400  .500  .900 i
+Jack Coombs        R   6   2   0   0   0   2   0   0   0   0   0  .333  .500  .333 i
+Jean Dubuc         R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 i
+Russ Ford          R  11   4   0   1   0   1   0   1   0   0   0  .364  .417  .545 i
+Lefty George       L   5   2   1   1   0   0   0   0   0   0   0  .400  .400 1.000 
+Vean Gregg         L  14   2   1   0   0   1   0   3   0   1   0  .143  .200  .214 i
+Bob Groom          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Byron Houck        R   2   0   0   0   0   0   0   1   1   1   0  .000  .333  .000 i
+Joe Lake           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Frank Lange        R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 i
+George McConnell   R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Roy Mitchell       R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 i
+Willie Mitchell    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Harry Moran        L   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 i
+George Mullin      R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rube Peters        R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Eddie Plank        L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jack Powell        R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 i
+Jack Quinn         R   8   3   0   0   0   0   0   0   1   1   0  .375  .444  .375 i
+Al Schulz          L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Hippo Vaughn       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Ed Walsh           R  18   4   0   0   1   3   0   1   1   2   0  .222  .364  .389 i
+Jack Warhop        R   7   3   0   0   0   0   0   0   1   0   0  .429  .500  .429 i
+Carl Weilman       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Ed Willett         R   9   1   0   0   0   1   0   2   1   1   0  .111  .273  .111 i
+Ralph Works        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i

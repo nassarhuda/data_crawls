@@ -1,0 +1,41 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Al Brazle          L  13   6   3   0   0   0   0   0   0   0   0  .462  .462  .692 
+Harry Brecheen     L  15   8   1   0   3   3   0   2   1   0   0  .533  .632 1.200 i
+Cliff Chambers     L   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Bob Chipman        L  10   4   2   0   0   1   0   0   0   0   0  .400  .455  .600 
+Mort Cooper        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Dagenhard     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tommy de la Cruz   R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 
+Murry Dickson      R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 i
+George Dockins     L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Monk Dubiel        R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hugh East          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Al Gerheauser      L  12   4   0   0   0   1   0   3   0   0   0  .333  .385  .333 i
+Joe Hatten         L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Ken Heintzelman    L   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Monty Kennedy      L  14   1   0   0   0   1   0   2   0   0   0  .071  .133  .071 
+Dave Koslo         L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Max Lanier         L  20   4   1   0   0   1   0   3   0   0   0  .200  .238  .250 
+Vic Lombardi       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Russ Meyer         R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Muncrief       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+F. Ostermueller    L   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Harry Perkowski    L   5   3   1   1   0   2   1   0   0   0   0  .600  .714 1.200 
+Kent Peterson      L  12   3   1   0   0   0   0   0   0   0   0  .250  .250  .333 
+Howie Pollet       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ewald Pyle         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+K. Raffensberger   L  15   8   1   0   1   1   0   3   0   1   0  .533  .563  .800 
+Xavier Rescigno    R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Preacher Roe       L  27   7   0   0   0   0   0   8   0   0   0  .259  .259  .259 i
+Johnny Schmitz     L  12   2   0   0   0   0   0   0   0   2   0  .167  .167  .167 
+Frank Seward       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Rip Sewell         R  16   6   1   0   0   1   0   3   0   0   0  .375  .412  .438 
+Curt Simmons       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nick Strincevich   R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+J. Vander Meer     L  14   5   1   0   0   3   0   2   0   0   0  .357  .471  .429 
+Bucky Walters      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Werle         L  13   3   1   0   0   0   0   1   0   1   0  .231  .231  .308 
+Ted Wilks          R  14   2   1   0   0   1   0   4   0   0   0  .143  .200  .214 
+Adrian Zabala      L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000

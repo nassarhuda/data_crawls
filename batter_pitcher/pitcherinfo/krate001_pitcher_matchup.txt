@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+John Axford        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Homer Bailey       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Mark Buehrle       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+M. Bumgarner       L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+A.J. Burnett       R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Aroldis Chapman    L   4   2   1   0   1   0   0   2   0   0   0  .500  .500 1.500 
+Jorge de la Rosa   L   5   1   0   0   0   0   0   0   0   0   1  .200  .167  .200 
+Marco Estrada      R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Jose Fernandez     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Alfredo Figaro     R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Dillon Gee         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Gio Gonzalez       L  10   2   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Tom Gorzelanny     L   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+Matt Harvey        R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Tim Hudson         R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Edwin Jackson      R   5   1   0   0   0   1   1   2   0   0   0  .200  .333  .200 
+Scott Kazmir       L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tom Koehler        R   6   3   0   0   1   0   0   1   0   0   0  .500  .500 1.000 
+John Lackey        R   4   2   1   0   1   1   0   0   0   0   0  .500  .600 1.500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Leake         R   8   3   0   0   2   0   0   1   0   0   0  .375  .375 1.125 
+Wade LeBlanc       L   4   0   0   0   0   1   1   0   0   0   0  .000  .200  .000 
+Lance Lynn         R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Paul Maholm        L   5   1   1   0   0   1   1   2   0   0   0  .200  .333  .400 
+Kris Medlen        R   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Mike Minor         L   8   4   2   0   0   0   0   0   0   0   0  .500  .500  .750 
+Ricky Nolasco      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bud Norris         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Wily Peralta       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+David Price        L   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+F. Rodriguez       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Alex Sanabia       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Justin Verlander   R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ryan Webb          R   5   0   0   0   0   1   1   2   0   0   0  .000  .167  .000 
+Jake Westbrook     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+J. Zimmermann      R   8   0   0   0   0   0   0   1   0   0   1  .000  .000  .000

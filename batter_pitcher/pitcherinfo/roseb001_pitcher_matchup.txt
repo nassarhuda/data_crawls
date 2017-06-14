@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Ballard       L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Buddy Black        L   6   3   1   1   0   0   0   2   0   0   0  .500  .500 1.000 
+Greg Cadaret       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Charlie Hough      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Randy Johnson      L  13   4   0   0   1   1   0   4   0   0   0  .308  .357  .538 
+Larry McWilliams   L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Charles Nagy       R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Nolan Ryan         R   2   0   0   0   0   0   0   1   1   1   0  .000  .333  .000 
+Jeff Shaw          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Todd Stottlemyre   R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Greg Swindell      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Welch          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Matt Young         L   4   2   0   0   0   1   0   1   0   1   0  .500  .600  .500

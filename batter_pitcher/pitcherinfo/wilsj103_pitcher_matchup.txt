@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ivy Andrews        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Pete Appleton      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Elden Auker        R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 i
+Bill Beckmann      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Marv Breuer        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tommy Bridges      R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 i
+Sugar Cain         R   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 
+George Caster      R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jimmie DeShong     R  13   5   0   0   0   0   0   1   0   0   0  .385  .385  .385 
+Bill Dietrich      R  14   3   1   0   0   0   0   3   0   0   0  .214  .214  .286 i
+Bob Feller         R   9   0   0   0   0   1   0   7   0   0   0  .000  .100  .000 i
+Wes Ferrell        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Denny Galehouse    R   9   1   0   0   0   1   0   1   0   1   0  .111  .200  .111 
+George Gill        R   7   2   1   0   0   0   0   0   0   1   0  .286  .286  .429 i
+Lefty Gomez        L   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bump Hadley        R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 i
+Mel Harder         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Ed Heusser         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Oral Hildebrand    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Humphries   R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Vern Kennedy       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jack Knott         R  13   4   0   0   0   0   0   0   0   0   0  .308  .308  .308 i
+Roxie Lawson       R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 i
+Al Milnar          L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Rene Monteagudo    L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Johnny Murphy      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Lynn Nelson        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Monte Pearson      R  10   2   1   0   0   0   0   0   0   0   0  .200  .200  .300 
+B. Poffenberger    R   8   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Buck Ross          R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Red Ruffing        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Marius Russo       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Sundra       R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bud Thomas         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

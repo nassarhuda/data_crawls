@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 i
+Huck Betts         R   8   2   0   1   0   0   0   0   0   1   0  .250  .250  .500 
+Ownie Carroll      R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Dizzy Dean         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Fred Frankhouse    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Benny Frey         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Red Lucas          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Heinie Meine       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Van Mungo          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hal Smith          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Steve Swetonic     R   8   3   2   0   0   0   0   1   0   0   0  .375  .375  .625 
+Sloppy Thurston    R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Dazzy Vance        R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333

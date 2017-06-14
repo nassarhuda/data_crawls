@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+F. Fitzsimmons     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Carl Hubbell       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+C. Mitchell        L   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Bill Walker        L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500

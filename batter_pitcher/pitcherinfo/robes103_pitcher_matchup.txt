@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Ames           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Cy Falkenberg      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Claude Hendrix     R  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 i
+Ed Lafitte         R   7   1   1   0   0   0   0   2   0   1   0  .143  .143  .286 
+Earl Moore         R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Marty O'Toole      R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Jack Quinn         R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Dick Rudolph       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Tom Seaton         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Frank Smith        R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 i
+George Suggs       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 i
+Kaiser Wilhelm     R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 i

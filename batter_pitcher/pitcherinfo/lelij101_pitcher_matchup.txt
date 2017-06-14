@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mack Allison       R   3   3   0   0   0   1   0   0   0   0   0 1.000 1.000 1.000 i
+Hugh Bedient       R  17   6   0   0   0   2   0   1   0   0   0  .353  .421  .353 i
+Joe Benz           R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Bert Brenner       R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Boardwalk Brown    R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i
+Bullet Joe Bush    R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Eddie Cicotte      R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jack Coombs        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Roy Crabb          R   5   4   0   0   0   0   0   0   0   0   0  .800  .800  .800 
+Joe Engel          L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Vean Gregg         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bob Groom          R  10   2   0   1   0   0   0   0   0   0   0  .200  .200  .400 i
+Byron Houck        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Willie Jensen      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Walter Johnson     R   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 i
+Buck O'Brien       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Herb Pennock       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Eddie Plank        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bill Steen         R   4   1   0   1   0   1   0   1   0   0   0  .250  .400  .750 i
+Ed Walsh           R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Charlie Wheatley   R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Doc White          L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Smoky Joe Wood     R   8   2   1   0   0   0   0   3   0   0   0  .250  .250  .375 i
+Weldon Wyckoff     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

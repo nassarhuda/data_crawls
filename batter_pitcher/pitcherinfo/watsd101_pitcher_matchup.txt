@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bluejacket     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Walt Dickson       R   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125 
+Cy Falkenberg      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Claude Hendrix     R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Earl Moseley       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jack Quinn         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dwight Stone       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Harry Trekell      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Bill Upham         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i

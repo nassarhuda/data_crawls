@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Carlton      L   3   1   1   0   0   2   0   2   0   0   0  .333  .600  .667 
+Tim Lollar         L   7   0   0   0   0   4   0   3   0   0   0  .000  .364  .000 
+Ed Lynch           R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Frank Pastore      R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Dan Schatzeder     L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bryn Smith         R   5   3   0   0   1   0   0   1   0   1   0  .600  .600 1.200

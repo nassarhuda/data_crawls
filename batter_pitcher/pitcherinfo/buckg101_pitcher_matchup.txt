@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Win Ballou         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Guy Cantrell       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rip Collins        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Stan Coveleski     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Howard Ehmke       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Milt Gaston        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sam Gibson         R   5   3   0   0   0   0   0   1   0   1   0  .600  .600  .600 
+Lefty Grove        L   9   0   0   0   0   1   0   3   0   1   0  .000  .100  .000 i
+Ken Holloway       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Sad Sam Jones      R  11   3   1   0   1   0   0   3   0   0   0  .273  .273  .636 i
+Joe Kiefer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Quinn         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+C. Robertson       R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Eddie Rommel       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Urban Shocker      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Rufus Smith        L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Elam Vangilder     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Rube Walberg       L   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 i
+Ed Wells           L   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 i
+Tom Zachary        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Zahniser      R   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 i

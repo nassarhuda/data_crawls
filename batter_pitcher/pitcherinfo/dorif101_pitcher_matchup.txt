@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sandy Consuegra    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mike Garcia        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Gromek       R   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 
+Billy Hoeft        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Art Houtteman      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Fred Hutchinson    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Leo Kiely          L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Lemon          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Dave Madison       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Julio Moreno       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mel Parnell        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Pearce         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Porterfield    R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Allie Reynolds     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dizzy Trout        R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Dick Weik          R   3   1   1   0   0   2   0   1   0   0   0  .333  .600  .667 
+Hal White          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

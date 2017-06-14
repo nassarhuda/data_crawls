@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Brissie        L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Dave Ferriss       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Fowler        R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 
+Orval Grove        R   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250 
+Art Houtteman      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fred Hutchinson    R   7   3   1   0   0   1   0   0   0   0   0  .429  .500  .571 
+Eddie Lopat        L   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Allie Reynolds     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dizzy Trout        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125

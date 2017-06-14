@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Huck Betts         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Atley Donald       R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Larry French       L   7   2   1   0   0   0   0   3   0   0   0  .286  .286  .429 
+Frank Gabler       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bob Harris         R  10   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Si Johnson         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Syl Johnson        R   7   1   1   0   0   0   0   2   0   1   0  .143  .143  .286 
+Thornton Lee       L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Dutch Leonard      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Danny MacFayden    R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Al Milnar          L   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Monte Pearson      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Flint Rhem         R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Eddie Smith        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bud Tinning        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dizzy Trout        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bill Walker        L   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125

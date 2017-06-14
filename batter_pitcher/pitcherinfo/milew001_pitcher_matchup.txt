@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Cain          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chris Capuano      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Johnny Cueto       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Garza         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Zack Greinke       R   6   2   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Kyle Kendrick      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Clayton Kershaw    L   6   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Dallas Keuchel     L   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Kyle Lohse         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Lance Lynn         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jason Marquis      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Franklin Morales   L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Ricky Nolasco      R   3   1   1   0   0   1   0   2   0   0   0  .333  .500  .667 
+Drew Pomeranz      L   4   1   1   0   0   0   0   2   0   2   0  .250  .250  .500 
+Tyson Ross         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Alfredo Simon      R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Tim Stauffer       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ryan Vogelsong     R   7   2   0   0   1   0   0   3   0   0   0  .286  .286  .714 
+Jamey Wright       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

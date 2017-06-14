@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vida Blue          L  14   2   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Bert Blyleven      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Tom Burgmeier      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bill Campbell      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+David Clyde        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mike Cuellar       L   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+John Curtis        L   5   1   1   0   0   0   0   3   0   1   0  .200  .200  .400 
+Rollie Fingers     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eddie Fisher       R   2   2   0   0   0   2   0   0   0   0   0 1.000 1.000 1.000 
+Al Fitzmorris      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gene Garber        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Gogolewski    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dave Goltz         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Rich Hand          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Kaat           L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mike Kekich        L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Rudy May           L  13   3   0   0   1   1   0   3   0   0   0  .231  .286  .462 
+Lindy McDaniel     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave McNally       L   9   2   0   0   0   0   0   1   0   1   0  .222  .222  .222 
+Fritz Peterson     L  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nolan Ryan         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Singer        R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Paul Splittorff    L  16   3   1   0   0   1   0   3   0   0   0  .188  .235  .250 
+Dick Tidrow        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Clyde Wright       L  12   4   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Ken Wright         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500

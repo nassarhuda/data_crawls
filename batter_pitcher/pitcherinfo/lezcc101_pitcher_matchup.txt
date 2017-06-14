@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vida Blue          L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Candelaria    L   7   1   0   1   0   0   0   1   0   0   0  .143  .143  .429 
+Bob Forsch         R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Randy Jones        L   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Silvio Martinez    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Don Robinson       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Kevin Appier       R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Stan Belinda       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jason Bere         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Brian Bohanon      L   7   3   0   0   1   0   0   2   0   0   0  .429  .429  .857 
+Ricky Bones        R   8   2   0   0   2   2   0   2   0   0   0  .250  .400 1.000 
+Kevin Brown        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Byrd          R   3   1   0   0   0   1   0   0   0   0   1  .333  .400  .333 
+Larry Casian       L   2   1   0   0   1   2   0   0   0   0   0  .500  .750 2.000 
+John Cummings      L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Omar Daal          L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Ron Darling        R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Doherty       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Vaughn Eshelman    L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Steve Farr         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Alex Fernandez     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Nelson Figueroa    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Glavine        L  10   2   1   0   0   0   0   1   0   0   0  .200  .200  .300 
+Tom Gordon         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jason Grimsley     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eddie Guardado     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+S. Hitchcock       L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+J. Isringhausen    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Randy Johnson      L   3   1   1   0   0   2   0   1   0   0   0  .333  .600  .667 
+S. Kamieniecki     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Scott Karl         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mark Langston      L   7   2   1   0   0   1   0   3   0   0   0  .286  .375  .429 
+Al Leiter          L  11   2   2   0   0   0   0   2   0   0   0  .182  .182  .364 
+Mark Leiter        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Maddux        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dennis Martinez    R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Kirk McCaskill     R   4   3   0   0   1   0   0   1   0   0   0  .750  .750 1.500 
+Jack McDowell      R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Jose Mesa          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Chris Michalak     L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Milacki        R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Angel Miranda      L   6   3   1   0   1   1   0   0   0   0   0  .500  .571 1.167 
+Omar Olivares      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Darren Oliver      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Donovan Osborne    L   9   3   0   0   1   0   0   2   0   0   0  .333  .333  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Donn Pall          R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Chan Ho Park       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+H. Pichardo        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Arthur Rhodes      L   7   4   1   0   0   2   0   1   0   0   0  .571  .667  .714 
+Dave Righetti      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Kenny Rogers       L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Aaron Sele         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mike Thurman       R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Steve Trachsel     R   6   2   1   0   1   1   0   1   0   0   0  .333  .429 1.000 
+F. Valenzuela      L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Bill Wegman        R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+David Wells        L   6   3   0   1   0   0   0   1   0   0   0  .500  .500  .833

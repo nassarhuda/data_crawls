@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   3   1   1   0   0   0   0   0   1   0   0  .333  .500  .667 
+Joel Adamson       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bobby Ayala        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Scott Erickson     R   9   1   0   0   0   1   0   4   0   0   0  .111  .200  .111 
+Alex Fernandez     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Orel Hershiser     R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+S. Hitchcock       L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Randy Johnson      L   5   1   0   0   0   2   0   4   0   0   0  .200  .429  .200 
+S. Kamieniecki     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Mark Langston      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ben McDonald       R   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+Jose Mercedes      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jamie Moyer        L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Omar Olivares      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Darren Oliver      L   8   3   1   0   0   0   0   2   0   0   0  .375  .375  .500 
+Mike Oquist        R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Andy Pettitte      L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Ariel Prieto       R   6   1   0   0   0   3   0   3   0   0   0  .167  .444  .167 
+Aaron Sele         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Justin Thompson    L   6   4   2   0   0   0   0   0   0   0   0  .667  .667 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Wells          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Steve Woodard      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200

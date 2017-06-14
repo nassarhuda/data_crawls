@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Elden Auker        R   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 
+Jim Bagby          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Marv Breuer        R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Bill Butland       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ken Chase          L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Joe Dobson         R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Feller         R   8   1   0   0   0   2   0   3   1   1   0  .125  .364  .125 
+Denny Galehouse    R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+George Gill        R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Lefty Gomez        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mel Harder         R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 
+Mickey Harris      L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Bob Harris         R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Willis Hudlin      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Sid Hudson         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Vern Kennedy       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Joe Krakauskas     L   3   2   0   1   0   3   0   0   0   0   0  .667  .833 1.333 
+Jack Kramer        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Thornton Lee       L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Milnar          L  10   2   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Bobo Newsom        R  10   3   1   0   0   1   0   2   0   0   0  .300  .364  .400 
+Johnny Niggeling   R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Monte Pearson      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Johnny Rigney      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Schoolboy Rowe     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Red Ruffing        R   4   2   0   0   0   2   0   2   0   1   0  .500  .667  .500 
+Eddie Smith        L   7   2   0   0   0   4   0   2   0   0   0  .286  .545  .286 
+Dizzy Trout        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jack Wilson        R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250

@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jim Brower         R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Dave Burba         R   6   0   0   0   0   2   0   4   0   0   0  .000  .250  .000 
+Bartolo Colon      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Bob Howry          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jaime Navarro      R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Jim Parque         L   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Brad Radke         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tony Saunders      L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Aaron Sele         R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Mike Sirotka       L   8   1   1   0   0   1   0   1   0   0   0  .125  .222  .250 
+Jeff Suppan        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bobby Witt         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143

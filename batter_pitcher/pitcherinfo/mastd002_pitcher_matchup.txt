@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Travis Blackley    L   5   1   0   0   0   0   0   1   0   0   1  .200  .167  .200 
+Bruce Chen         L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Doug Fister        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jeremy Guthrie     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Matt Harrison      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Luke Hochevar      R   8   2   0   0   1   0   0   3   0   0   0  .250  .250  .625 
+Greg Holland       R   3   2   0   1   0   2   0   1   0   0   0  .667  .800 1.333 
+Hisashi Iwakuma    R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Corey Kluber       R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+F. Liriano         L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Derek Lowe         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Luis Mendoza       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Martin Perez       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+David Price        L   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 
+Jose Quintana      L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Chris Sale         L   6   1   0   0   1   1   0   1   1   0   0  .167  .375  .667 
+Max Scherzer       R   5   1   0   0   0   0   0   4   0   1   0  .200  .200  .200 
+Will Smith         L   5   3   0   0   0   2   0   0   0   0   0  .600  .714  .600 
+Jason Vargas       L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143

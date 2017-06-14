@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   8   3   2   0   0   0   0   0   0   0   0  .375  .375  .625 
+Pedro Astacio      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tim Belcher        R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Ricky Bones        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Bosio        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Chris Brock        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Burkett       R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Bobby Chouinard    R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Mark Clark         R   5   2   1   0   1   0   0   0   0   0   0  .400  .400 1.200 
+Roger Clemens      R  11   3   1   0   1   0   0   2   0   0   0  .273  .273  .636 
+David Cone         R   5   1   0   0   0   0   0   1   1   0   0  .200  .333  .200 
+Rocky Coppinger    R   5   2   0   0   1   1   0   1   0   0   0  .400  .500 1.000 
+Ron Darling        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Danny Darwin       R   5   2   2   0   0   0   0   2   0   0   0  .400  .400  .800 
+Cal Eldred         R   5   2   1   0   0   0   0   0   1   0   0  .400  .500  .600 
+Alan Embree        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Scott Erickson     R   5   1   1   0   0   0   0   1   1   0   0  .200  .333  .400 
+Alex Fernandez     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Greg Gohr          R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Tom Gordon         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jason Grimsley     R   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Mark Gubicza       R   8   3   1   0   0   0   0   1   1   0   0  .375  .444  .500 
+Orel Hershiser     R   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Ken Hill           R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Felipe Lira        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Pat Mahomes        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Dennis Martinez    R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Ben McDonald       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ramiro Mendoza     R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Kevin Millwood     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Angel Miranda      L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Mike Mohler        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Mike Mussina       R  12   4   2   0   0   0   0   2   0   0   0  .333  .333  .500 
+Charles Nagy       R   5   3   1   0   0   1   0   0   0   0   1  .600  .571  .800 
+Hideo Nomo         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Chad Ogea          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Oquist        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Russ Ortiz         R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Roger Pavlik       R   7   2   1   1   0   1   0   2   0   0   0  .286  .375  .714 
+Ariel Prieto       R   7   3   0   0   0   0   0   3   0   1   0  .429  .429  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brad Radke         R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Carlos Reyes       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shane Reynolds     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mariano Rivera     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Curt Schilling     R   5   2   1   0   1   1   0   1   0   0   0  .400  .500 1.200 
+Jason Schmidt      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Aaron Sele         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Tapani       R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Julian Tavarez     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Todd Van Poppel    R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Wakefield      R   7   1   0   0   0   2   0   3   0   0   0  .143  .333  .143 
+Bobby Witt         R   9   4   2   0   0   0   0   1   0   0   0  .444  .444  .667

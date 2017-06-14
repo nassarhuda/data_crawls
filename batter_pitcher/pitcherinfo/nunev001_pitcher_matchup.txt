@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Clement       R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Chan Ho Park       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kirk Rueter        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jason Schmidt      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  28  11   2   1   0   1   0   3   0   0   0  .393  .414  .536 i
+Jesse Barnes       R  11   2   0   0   0   1   0   2   0   1   0  .182  .250  .182 i
+Phil Douglas       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Hod Eller          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Dana Fillingim     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Burleigh Grimes    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dan Griner         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Bob Harmon         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Claude Hendrix     R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Brad Hogg          R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Rube Marquard      L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Frank Miller       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Art Nehf           L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Joe Oeschger       R   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 i
+Pol Perritt        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Mike Prendergast   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Slim Sallee        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+George Smith       R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i

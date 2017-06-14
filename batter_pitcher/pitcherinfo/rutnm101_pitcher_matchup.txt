@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Embree         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Feller         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Art Houtteman      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Lemon          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Frank Papish       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Scarborough    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Wight         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+D.J. Carrasco      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Darrell May        L   5   4   2   0   1   0   0   0   0   0   0  .800  .800 1.800 
+Mark Mulder        L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Ramon Ortiz        R   6   2   1   0   1   0   0   1   0   0   0  .333  .333 1.000 
+Aaron Sele         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jimmy Serrano      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jorge Sosa         R   6   2   1   0   1   0   0   3   0   0   0  .333  .333 1.000 
+Barry Zito         L   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000

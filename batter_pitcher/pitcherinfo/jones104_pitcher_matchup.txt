@@ -1,0 +1,98 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 i
+Elden Auker        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Doc Ayers          R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Jim Bagby          R  10   1   0   0   0   1   0   1   0   0   0  .100  .182  .100 i
+Joe Benz           R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+G. Blaeholder      R  12   1   0   0   0   2   0   4   0   0   0  .083  .214  .083 i
+Ted Blankenship    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tommy Bridges      R   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 i
+Johnny Broaca      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Clint Brown        R   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250 
+Jumbo Brown        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Garland Buckeye    L   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 i
+Sugar Cain         R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 i
+Ray Caldwell       R   6   1   1   0   0   0   0   3   1   0   0  .167  .286  .333 i
+Pat Caraway        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Eddie Cicotte      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dick Coffman       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Rip Collins        R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333 i
+Sarge Connally     R   9   1   0   0   0   1   0   3   0   2   0  .111  .200  .111 i
+Stan Coveleski     R  15   4   1   0   0   5   0   0   0   1   0  .267  .450  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+General Crowder    R  10   3   0   0   0   1   0   2   0   0   0  .300  .364  .300 i
+Mike Cvengros      L   8   0   0   0   0   2   0   2   1   1   0  .000  .273  .000 i
+Hooks Dauss        R  15   4   0   0   0   4   0   4   2   1   0  .267  .476  .267 i
+George Earnshaw    R   5   0   0   0   0   4   0   5   0   0   0  .000  .444  .000 i
+James Edwards      L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Howard Ehmke       R   7   0   0   0   0   2   0   2   3   1   0  .000  .417  .000 i
+Eric Erickson      R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 i
+Red Faber          R  13   3   1   0   0   2   0   7   0   1   0  .231  .333  .308 i
+Wes Ferrell        R  12   1   0   0   0   1   0   4   0   1   0  .083  .154  .083 
+Ray Francis        L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Lefty Gomez        L   8   1   0   0   0   1   0   4   0   0   0  .125  .222  .125 i
+Sam Gray           R   3   2   0   0   0   1   0   1   0   1   0  .667  .750  .667 i
+Lefty Grove        L  18   3   0   0   0   1   0   7   0   2   0  .167  .211  .167 
+Bump Hadley        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mel Harder         R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Slim Harriss       R   9   2   0   0   0   0   0   5   0   0   0  .222  .222  .222 i
+Art Herring        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Shovel Hodge       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Chief Hogsett      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Carl Holling       R   5   1   0   0   0   1   0   3   0   1   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Waite Hoyt         R   7   2   0   0   0   0   0   2   1   0   0  .286  .375  .286 i
+Willis Hudlin      R  16   1   0   0   0   1   0   4   0   2   0  .063  .118  .063 i
+Hank Johnson       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Walter Johnson     R  21   3   1   0   0   1   0   6   0   2   0  .143  .182  .190 i
+Benn Karr          R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 i
+Dickey Kerr        L   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 i
+Thornton Lee       L   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Hod Lisenbee       R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Slim Love          L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Ted Lyons          R   9   4   0   0   0   0   0   2   0   1   0  .444  .444  .444 i
+Danny MacFayden    R  10   1   0   0   0   2   0   3   0   1   0  .100  .250  .100 i
+Firpo Marberry     R  12   4   1   0   0   0   0   2   0   1   0  .333  .333  .417 i
+Carl Mays          R   7   0   0   0   0   0   0   2   1   0   0  .000  .125  .000 i
+Jake Miller        L   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 i
+George Mogridge    L  20   5   3   0   0   1   0   3   1   0   0  .250  .318  .400 i
+Jim Moore          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wilcy Moore        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i
+Guy Morton         R   7   2   1   0   0   1   0   3   0   0   0  .286  .375  .429 i
+Rollie Naylor      R  10   2   1   0   0   0   0   3   0   0   0  .200  .200  .300 i
+Red Oldham         L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+F. Ostermueller    L   2   1   1   0   0   1   0   0   0   1   0  .500  .667 1.000 
+Herb Pennock       L  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 i
+Herman Pillette    R  10   3   2   0   0   1   0   2   2   0   0  .300  .462  .500 i
+George Pipgras     R   5   1   0   0   0   1   0   0   0   2   0  .200  .333  .200 i
+Jack Quinn         R   7   1   0   0   0   1   0   0   0   1   0  .143  .250  .143 i
+Eddie Rommel       R  19   2   1   0   0   1   0   8   0   1   0  .105  .150  .158 i
+Schoolboy Rowe     R   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Dutch Ruether      L   7   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 i
+Allen Russell      R   3   0   0   0   0   2   0   1   0   1   0  .000  .400  .000 i
+Reb Russell        L   4   2   0   0   0   1   0   2   0   1   0  .500  .600  .500 i
+Jack Russell       R  15   1   0   0   0   2   0   3   1   2   0  .067  .222  .067 i
+Joe Shaute         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bob Shawkey        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 i
+Urban Shocker      R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Sherry Smith       L   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 i
+Vic Sorrell        R  13   1   0   0   0   0   0   4   0   0   0  .077  .077  .077 i
+Allen Sothoron     R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Lefty Stewart      L   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 i
+Lil Stoner         R   5   0   0   0   0   1   0   3   1   0   0  .000  .286  .000 i
+Tommy Thomas       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sloppy Thurston    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Uhle        R  21   3   0   1   0   3   0   7   0   2   0  .143  .250  .238 i
+Elam Vangilder     R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+Rube Walberg       L   6   1   0   0   0   1   0   1   0   1   0  .167  .286  .167 i
+Cy Warmoth         L   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Monte Weaver       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Carl Weilman       L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ed Wells           L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Earl Whitehill     L  15   2   1   0   0   1   0   1   1   1   0  .133  .235  .200 i
+Roy Wilkinson      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Lefty Williams     L   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 i
+Ernie Wingard      L   4   2   1   0   0   0   0   1   0   1   0  .500  .500  .750 i
+Tom Zachary        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i

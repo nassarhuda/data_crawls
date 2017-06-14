@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+R.A. Dickey        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Marco Estrada      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dillon Gee         R   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250 
+Roy Halladay       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dan Haren          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mat Latos          R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333 
+Mike Leake         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Lincecum       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Matt Magill        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Shaun Marcum       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+D. Matsuzaka       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+James McDonald     R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Juan Nicasio       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jon Niese          L   8   2   1   0   0   0   0   4   0   0   0  .250  .250  .375 
+Ricky Nolasco      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Wily Peralta       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+S. Strasburg       R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Eric Stults        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jacob Turner       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Ryan Vogelsong     R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Adam Wainwright    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

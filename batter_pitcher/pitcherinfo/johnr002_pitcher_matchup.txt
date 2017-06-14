@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Curtis        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pete Filson        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tommy John         L  11   4   0   0   0   1   0   0   0   0   0  .364  .417  .364 
+Matt Keough        R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 
+Geoff Zahn         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

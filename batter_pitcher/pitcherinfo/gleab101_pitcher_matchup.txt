@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Ames           R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Jim Bagby          R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 i
+Stan Coveleski     R   6   2   0   0   0   2   0   0   0   0   0  .333  .500  .333 i
+Hooks Dauss        R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 i
+Dickey Kerr        L   5   0   0   0   0   0   0   0   1   1   0  .000  .167  .000 
+Jim Middleton      R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Red Oldham         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Roy Sanders        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pete Schneider     R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Tom Seaton         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Suds Sutherland    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Fred Toney         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Uhle        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hippo Vaughn       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Aber            L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Harry Byrd         R   8   4   0   0   0   1   0   1   0   1   0  .500  .556  .500 
+Joe Coleman        R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 
+Joe Dobson         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Fritz Dorish       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Cliff Fannin       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Feller         R   6   2   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ned Garver         R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Joe Haynes         R   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Art Houtteman      R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sid Hudson         R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tex Hughson        R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Fred Hutchinson    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Alex Kellner       L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ellis Kinder       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Don Larsen         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bob Lemon          R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Dick Littlefield   L   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Dick Marlowe       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Morrie Martin      L   5   1   0   0   1   1   0   0   0   0   0  .200  .333  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Newhouser      L  18   3   1   0   0   1   0   3   0   2   0  .167  .211  .222 
+Mel Parnell        L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Billy Pierce       L   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Nels Potter        R   3   1   1   0   0   0   0   1   0   2   0  .333  .333  .667 
+Ray Scarborough    R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bobby Shantz       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bryan Stephens     R   4   1   0   1   0   0   0   1   0   1   0  .250  .250  .750 
+Virgil Trucks      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Wight         L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Early Wynn         R  17   3   0   1   0   0   0   5   0   0   0  .176  .176  .294 
+Sam Zoldak         L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000

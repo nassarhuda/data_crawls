@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hooks Dauss        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vean Gregg         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Marc Hall          R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Walter Johnson     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Jack Warhop        R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Carl Zamloch       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

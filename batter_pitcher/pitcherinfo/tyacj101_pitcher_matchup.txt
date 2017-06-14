@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Hank Borowy        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Tommy Bridges      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Milo Candini       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Alex Carrasquel    R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Spud Chandler      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Atley Donald       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tex Hughson        R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Oscar Judd         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Dutch Leonard      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Lou Lucier         R   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 i
+Ewald Pyle         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Jack Salveson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Yank Terry         R  10   4   1   0   0   0   0   1   0   0   0  .400  .400  .500 
+Dizzy Trout        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Butch Wensloff     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bill Zuber         R   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333

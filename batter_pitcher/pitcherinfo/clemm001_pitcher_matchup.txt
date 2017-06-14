@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Beimel         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kris Benson        R   9   5   1   0   0   1   0   3   1   2   0  .556  .636  .667 
+Jason Bere         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Omar Daal          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ryan Dempster      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Darren Dreifort    R   7   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Shawn Estes        L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Josh Fogg          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tom Glavine        L   7   0   0   0   0   1   0   5   0   1   0  .000  .125  .000 
+Dicky Gonzalez     R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Jimmy Haynes       R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Livan Hernandez    R   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Chris Holt         R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Al Leiter          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Millwood     R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Matt Morris        R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Denny Neagle       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Vladimir Nunez     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Darren Oliver      L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vicente Padilla    R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Chan Ho Park       R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Robert Person      R   4   1   0   0   0   2   0   2   0   1   0  .250  .500  .250 
+Jeremy Powell      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Britt Reames       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mark Redman        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Shane Reynolds     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Todd Ritchie       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Glendon Rusch      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Victor Santos      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jason Schmidt      R   7   1   0   0   0   0   0   5   0   1   0  .143  .143  .143 
+Ben Sheets         R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Jeff Suppan        R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Ismael Valdez      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ryan Vogelsong     R   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Brandon Webb       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kip Wells          R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Woody Williams     R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000

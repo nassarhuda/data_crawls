@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Cain          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chris Carpenter    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jhoulys Chacin     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nelson Figueroa    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Yovani Gallardo    R  11   2   0   0   0   0   0   4   0   0   0  .182  .182  .182 
+Jaime Garcia       L   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Zack Greinke       R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Jason Hammel       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Daniel Hudson      R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Edwin Jackson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeff Karstens      R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Joe Kelly          R   7   2   0   0   0   0   0   4   0   0   0  .286  .286  .286 
+Kyle Kendrick      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Clayton Kershaw    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hiroki Kuroda      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+F. Liriano         L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jordan Lyles       R   4   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Charlie Morton     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Roy Oswalt         R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Wily Peralta       R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wandy Rodriguez    L   6   1   0   0   1   0   0   5   0   2   0  .167  .167  .667 
+Jeff Samardzija    R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Jonathan Sanchez   L  11   1   0   0   0   0   0   8   0   0   0  .091  .091  .091 
+Ryan Vogelsong     R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Edinson Volquez    R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Adam Wainwright    R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+J. Zimmermann      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

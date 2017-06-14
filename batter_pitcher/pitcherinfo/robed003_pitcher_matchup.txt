@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Roenis Elias       L   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 
+Scott Feldman      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Josh Fields        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+TJ House           L   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Hisashi Iwakuma    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Scott Kazmir       L   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 
+Dallas Keuchel     L   9   3   2   0   0   0   0   0   0   0   0  .333  .333  .556 
+Collin McHugh      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+B. Oberholtzer     L  10   3   0   0   0   1   0   0   0   0   0  .300  .364  .300 
+James Paxton       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Drew Pomeranz      L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Robbie Ray         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Wandy Rodriguez    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hector Santiago    L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Tyler Skaggs       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Drew Smyly         L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Jason Vargas       L   5   2   2   0   0   2   0   0   0   0   0  .400  .571  .800 
+Chris Young        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

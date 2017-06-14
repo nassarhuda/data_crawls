@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  14   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Frank Allen        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fred Anderson      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Cy Barger          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Rube Benton        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Bluejacket     R   7   3   1   0   0   1   0   0   0   0   0  .429  .500  .571 i
+Ad Brennan         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Buster Brown       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mordecai Brown     R  17   2   0   0   0   0   0   3   0   1   0  .118  .118  .118 i
+Wilbur Cooper      L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Doc Crandall       R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 i
+Nick Cullop        L   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 i
+Dave Davenport     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Walt Dickson       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Bill Doak          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cy Falkenberg      R   5   3   0   1   0   0   0   1   0   0   0  .600  .600 1.000 i
+Happy Finneran     R   7   3   1   0   0   0   0   0   1   0   0  .429  .500  .571 i
+Art Fromme         R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Dan Griner         R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 i
+Bob Groom          R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bunny Hearn        L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Claude Hendrix     R  15   4   0   0   0   1   0   2   1   1   0  .267  .353  .267 i
+Otto Hess          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Rankin Johnson     R   8   4   1   0   0   0   0   0   0   1   0  .500  .500  .625 
+Chief Johnson      R  10   2   0   1   0   1   0   0   0   0   0  .200  .273  .400 i
+Henry Keupper      L   4   2   1   0   1   0   0   0   0   0   0  .500  .500 1.500 i
+Elmer Knetzer      R   9   1   0   0   0   0   0   4   0   0   0  .111  .111  .111 
+Gene Krapp         R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 i
+Ed Lafitte         R   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 i
+George LeClair     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Marquard      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Rube Marshall      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+C. Mathewson       R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+George McConnell   R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Earl Moseley       R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 i
+George Mullin      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Gene Packard       L  16   3   0   0   0   0   0   1   0   0   0  .188  .188  .188 i
+Hank Robinson      L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 i
+Slim Sallee        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Al Schulz          L   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Seaton         R  17   5   1   0   0   2   0   1   0   0   0  .294  .368  .353 
+Frank Smith        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+George Suggs       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeff Tesreau       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Lefty Tyler        L   6   0   0   0   0   1   0   1   0   1   0  .000  .143  .000 i
+M. Walker          R   3   2   0   0   0   1   0   0   1   0   0  .667  .800  .667 i

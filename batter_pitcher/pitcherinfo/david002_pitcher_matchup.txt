@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Miguel Batista     R   4   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Chad Billingsley   R   7   1   0   0   0   0   0   4   0   1   0  .143  .143  .143 
+Brandon Claussen   L   8   1   0   1   0   0   0   5   0   2   0  .125  .125  .375 
+Roger Clemens      R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kevin Correia      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ryan Dempster      R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Zach Duke          L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jeff Francis       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Freddy Garcia      R   6   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Chad Gaudin        R   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+Aaron Harang       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Hendrickson   L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brad Hennessey     R   3   0   0   0   0   0   0   0   1   1   0  .000  .250  .000 
+Clay Hensley       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Randy Johnson      L   7   0   0   0   0   0   0   7   0   1   0  .000  .000  .000 
+Brian Lawrence     R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Cory Lidle         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ted Lilly          L   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Tim Lincecum       R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Greg Maddux        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Matt Morris        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ross Ohlendorf     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roy Oswalt         R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jake Peavy         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Oliver Perez       L   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Andy Pettitte      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tim Redding        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kirk Rueter        L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Glendon Rusch      L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jonathan Sanchez   L   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Ian Snell          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jeff Suppan        R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Steve Trachsel     R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Javier Vazquez     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ryan Vogelsong     R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Brandon Webb       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kip Wells          R   8   0   0   0   0   1   0   4   0   0   0  .000  .111  .000 
+Randy Wolf         L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Chris Young        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carlos Zambrano    R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Barry Zito         L   7   1   0   0   0   0   0   0   0   1   0  .143  .143  .143

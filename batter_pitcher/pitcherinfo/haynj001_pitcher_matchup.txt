@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jimmy Anderson     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bruce Chen         L   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Matt Clement       R   7   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Elmer Dessens      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Shawn Estes        L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Mark Gardner       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pat Hentgen        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dustin Hermanson   R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bobby Jones        R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Wade Miller        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Millwood     R   7   1   0   0   0   0   0   3   0   2   0  .143  .143  .143 
+Curt Schilling     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jason Schmidt      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Jose Silva         R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Brett Tomko        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Steve Trachsel     R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Kip Wells          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Woody Williams     R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Kerry Wood         R   9   0   0   0   0   0   0   4   0   3   0  .000  .000  .000

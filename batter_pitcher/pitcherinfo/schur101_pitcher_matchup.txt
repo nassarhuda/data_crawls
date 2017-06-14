@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Blair       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bill Bonham        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tom Bradley        R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Ron Bryant         L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Mike Corkins       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Al Downing         L   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Alan Foster        R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ross Grimsley      L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jerry Koosman      L   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Juan Marichal      R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Bob Moose          R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Doug Rau           L   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Bill Stoneman      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

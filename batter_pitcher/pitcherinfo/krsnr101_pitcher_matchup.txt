@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Aber            L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gene Bearden       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Mike Blyzka        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Harry Byrd         R   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Joe Coleman        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ike Delock         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Whitey Ford        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dick Fowler        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Garcia        R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Joe Haynes         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Lloyd Hittle       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Billy Hoeft        L   3   2   1   0   0   0   0   0   1   0   0  .667  .750 1.000 
+Alex Kellner       L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Ellis Kinder       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Lemon          R  11   1   0   0   0   1   0   1   0   0   0  .091  .167  .091 
+Dick Littlefield   L   6   2   2   0   0   3   0   0   0   0   0  .333  .556  .667 
+Eddie Lopat        L   7   2   1   0   1   0   0   0   0   0   0  .286  .286  .857 
+Connie Marrero     R  10   1   1   0   0   0   0   1   0   0   0  .100  .100  .200 
+Walt Masterson     R   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 
+Satchel Paige      R   6   0   0   0   0   2   0   0   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mel Parnell        L   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Duane Pillette     R   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 
+Bob Porterfield    R  15   5   1   0   0   0   0   0   0   0   0  .333  .333  .400 
+Ribs Raney         R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Vic Raschi         R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 
+Bobby Shantz       L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Spec Shea          R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Virgil Trucks      R   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+Early Wynn         R  11   2   1   0   0   1   0   2   0   0   0  .182  .250  .273

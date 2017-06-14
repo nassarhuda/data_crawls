@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+M. Bumgarner       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Matt Capps         R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Doug Davis         L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jorge de la Rosa   L   1   1   0   1   0   4   0   0   0   0   0 1.000 1.000 3.000 
+Juan Gutierrez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Cole Hamels        L   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Jason Hammel       R   3   2   0   1   0   1   0   0   0   0   1  .667  .600 1.333 
+Felix Hernandez    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Kennedy        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clayton Kershaw    L   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 
+Hong-Chih Kuo      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Lannan        L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Brandon League     R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500 
+Jon Lester         L   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Ted Lilly          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Paul Maholm        L   8   4   2   0   0   1   0   2   0   0   0  .500  .556  .750 
+Jason Marquis      R   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+Brandon Medders    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Franklin Morales   L   5   3   0   0   1   1   0   0   0   0   0  .600  .667 1.200 
+Jamie Moyer        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ricky Nolasco      R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Leo Nunez          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Parrish       L   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Jonathan Sanchez   L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Johan Santana      L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+James Shields      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Randy Wolf         L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Barry Zito         L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333

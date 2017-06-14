@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Shawn Estes        L   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Chuck Finley       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+LaTroy Hawkins     R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+O. Hernandez       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Pedro Martinez     R   6   0   0   0   0   2   1   4   0   0   0  .000  .250  .000 
+Kent Mercker       L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Sidney Ponson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mark Portugal      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Curt Schilling     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

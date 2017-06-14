@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Baskette       R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 i
+G. Baumgardner     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Hugh Bedient       R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Chief Bender       R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 i
+Fred Blanding      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bullet Joe Bush    R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Ray Caldwell       R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Ray Collins        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Russ Ford          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Earl Hamilton      L   7   1   0   0   0   0   0   4   0   1   0  .143  .143  .143 i
+Harry Harper       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Walter Johnson     R  20   2   0   1   0   0   0   6   0   0   0  .100  .100  .200 i
+Ray Keating        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Walt Leverenz      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Carl Mays          R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Willie Mitchell    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+George Mullin      R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 i
+Buck O'Brien       R   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 i
+Scott Perry        R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Eddie Plank        L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Ruth          L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Bob Shawkey        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tom Sheehan        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Jack Warhop        R  10   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Carl Weilman       L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i

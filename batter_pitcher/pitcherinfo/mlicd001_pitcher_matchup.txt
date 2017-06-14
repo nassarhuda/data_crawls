@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Andy Benes         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tom Candiotti      R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Kevin Foster       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mark Gardner       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jon Lieber         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Kevin Millwood     R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Matt Morris        R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Hideo Nomo         R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Shane Reynolds     R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Jason Schmidt      R  11   1   1   0   0   1   0   4   0   1   0  .091  .167  .182 
+Randy Wolf         L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Jamey Wright       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

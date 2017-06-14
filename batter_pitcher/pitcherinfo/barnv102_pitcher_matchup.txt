@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000 
+Red Barrett        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Dick Barrett       R  10   3   0   0   0   1   0   3   0   0   0  .300  .364  .300 
+Joe Bowman         R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Harry Brecheen     L   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Jack Brewer        R   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Ken Burkhart       R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Bud Byerly         R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+George Dockins     L   3   3   1   0   0   0   0   0   0   1   0 1.000 1.000 1.333 
+Blix Donnelly      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Erickson      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Harry Feldman      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hal Gregg          R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Don Hendrickson    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Heusser         R   9   3   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Johnny Hutchings   R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Andy Karl          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Vern Kennedy       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jack Kraus         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vic Lombardi       L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Mauney        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Van Mungo          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bucky Walters      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Wilks          R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hank Wyse          R   5   4   0   0   0   0   0   1   0   0   0  .800  .800  .800 
+Adrian Zabala      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

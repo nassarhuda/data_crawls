@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+R. Betancourt      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Buehrle       L   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 
+David Bush         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Daniel Cabrera     R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jose Contreras     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jimmy Gobble       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+O. Hernandez       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Mike Maroth        L   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Brandon McCarthy   R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Kevin Millwood     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Kenny Rogers       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+CC Sabathia        L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Josh Towers        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jake Westbrook     R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Mike Wood          R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500

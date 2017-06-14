@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  16   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jesse Barnes       R  10   0   0   0   0   1   0   4   0   0   0  .000  .091  .000 i
+Wilbur Cooper      L   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Al Demaree         R  10   1   0   0   0   0   0   3   0   0   0  .100  .100  .100 
+Bill Doak          R   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 i
+Hod Eller          R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 i
+Oscar Horstmann    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Rube Marquard      L   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+C. Mathewson       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lee Meadows        R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Frank Miller       R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+C. Mitchell        L   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 i
+Art Nehf           L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Gene Packard       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Pol Perritt        R  13   1   0   0   0   0   0   1   0   0   0  .077  .077  .077 i
+Jeff Pfeffer       R  13   0   0   0   0   1   0   5   0   0   0  .000  .071  .000 i
+Pat Ragan          R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 i
+Jimmy Ring         R   8   1   0   0   1   0   0   1   0   0   0  .125  .125  .500 i
+Eppa Rixey         L  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Dick Rudolph       R  13   2   0   0   0   1   0   0   0   1   0  .154  .214  .154 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Slim Sallee        L  11   1   0   0   0   1   0   0   0   0   0  .091  .167  .091 i
+Pete Schneider     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Ferdie Schupp      L  14   3   0   1   0   1   0   4   0   1   0  .214  .267  .357 i
+Sherry Smith       L   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 i
+Jeff Tesreau       R   8   3   1   0   0   3   0   1   0   1   0  .375  .545  .500 i
+Fred Toney         R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 i
+Lefty Tyler        L  11   4   1   0   0   1   0   1   0   1   0  .364  .417  .455 i
+Milt Watson        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+S. Williams        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i

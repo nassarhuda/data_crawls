@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andrew Cashner     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+O. Despaigne       R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Ian Kennedy        R   6   4   2   0   1   0   0   1   0   0   0  .667  .667 1.500 
+Jon Lester         L   6   1   0   0   1   1   0   2   0   0   0  .167  .286  .667 
+Ryan Vogelsong     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Matt Wisler        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Travis Wood        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000

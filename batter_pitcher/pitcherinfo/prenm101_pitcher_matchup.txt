@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   8   0   0   0   0   1   0   3   0   0   0  .000  .111  .000 
+Cy Barger          R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Chief Bender       R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Howie Camnitz      R   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 
+Jack Coombs        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+Dave Davenport     R   6   0   0   0   0   0   0   3   1   0   0  .000  .143  .000 
+Bill Doak          R   6   1   1   0   0   0   0   2   0   1   0  .167  .167  .333 
+Happy Finneran     R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Russ Ford          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Burleigh Grimes    R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Claude Hendrix     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Elmer Knetzer      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dolf Luque         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+C. Mitchell        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Art Nehf           L  13   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Pol Perritt        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Regan         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Clint Rogge        R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Dick Rudolph       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Schulz          L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Jeff Tesreau       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fred Toney         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Lefty Tyler        L   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 i

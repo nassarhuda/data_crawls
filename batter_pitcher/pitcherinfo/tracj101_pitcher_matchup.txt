@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Neil Allen         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Stan Bahnsen       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bruce Berenyi      R   4   4   1   0   0   1   0   0   0   0   0 1.000 1.000 1.250 
+Jim Bibby          R   5   2   0   1   1   1   0   2   0   0   0  .400  .500 1.400 
+Tommy Boggs        R   4   4   1   1   0   0   0   0   0   0   0 1.000 1.000 1.750 
+Marty Bystrom      R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+L. Christenson     R   2   0   0   0   0   1   1   1   0   0   1  .000  .250  .000 
+Bob Forsch         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Bill Gullickson    R   8   1   0   0   1   0   0   3   0   0   0  .125  .125  .500 
+Mike LaCoss        R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Charlie Lea        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Ed Lynch           R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Paul Moskau        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Joe Niekro         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Pascual Perez      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Jeff Reardon       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Rhoden        R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Don Robinson       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Mike Scott         R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Seaver         R   6   1   0   0   0   1   0   4   0   0   0  .167  .286  .167 
+Eddie Solomon      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Vuckovich     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bob Walk           R   7   1   0   1   0   0   0   3   0   0   0  .143  .143  .429

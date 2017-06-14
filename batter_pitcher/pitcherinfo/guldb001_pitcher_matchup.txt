@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Bruce Berenyi      R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Jack Billingham    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Greg Booker        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ron Darling        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Darwin       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bill Dawley        R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Jose DeLeon        R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Dennis Eckersley   R   8   3   1   1   0   0   0   0   0   0   0  .375  .375  .750 
+George Frazier     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dwight Gooden      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Larry Gura         L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Orel Hershiser     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Fergie Jenkins     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Kurt Kepshire      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Mike Krukow        R   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Bill Laskey        R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Charlie Lea        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Rick Mahler        R   9   0   0   0   0   1   0   1   0   0   0  .000  .100  .000 
+Dennis Martinez    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve McCatty      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Craig McMurtry     R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Niekro         R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 
+Dickie Noles       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Alejandro Pena     R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Pascual Perez      R   8   3   0   0   1   1   1   1   0   0   0  .375  .444  .750 
+Rick Rhoden        R   9   6   0   0   1   1   0   0   0   0   0  .667  .700 1.000 
+Don Robinson       R   5   1   0   0   1   2   0   1   0   0   0  .200  .429  .800 
+Jeff Robinson      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Dick Ruthven       R   6   4   1   0   0   0   0   0   0   0   0  .667  .667  .833 
+Nolan Ryan         R   3   0   0   0   0   2   1   3   0   0   0  .000  .400  .000 
+Mike Scott         R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Eric Show          R   7   3   0   0   0   3   0   0   0   0   0  .429  .600  .429 
+Doug Sisk          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bryn Smith         R  11   2   1   0   0   0   0   3   0   1   0  .182  .182  .273 
+Dave Smith         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Splittorff    L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+John Stuper        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Rick Sutcliffe     R   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Ed Whitson         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Milt Wilcox        R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Pat Zachry         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Geoff Zahn         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

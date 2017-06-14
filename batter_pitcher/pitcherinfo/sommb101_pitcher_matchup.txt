@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Borowy        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Lou Brissie        L   2   0   0   0   0   3   0   0   0   0   0  .000  .600  .000 
+Tommy Byrne        L   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Sandy Consuegra    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bob Feller         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Randy Gumpert      R   5   1   1   0   0   0   0   0   0   1   0  .200  .200  .400 
+Mickey Harris      L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Joe Haynes         R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Bob Hooper         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Art Houtteman      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Sid Hudson         R   6   4   0   0   0   1   0   1   0   1   0  .667  .714  .667 
+Ellis Kinder       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Kuzava         L   4   1   1   0   0   1   0   0   0   1   0  .250  .400  .500 
+Connie Marrero     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Walt Masterson     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mickey McDermott   L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mel Parnell        L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Jim Pearce         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Billy Pierce       L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Marv Rotblatt      L   3   1   1   0   0   2   0   0   0   0   0  .333  .600  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Sanford       R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Bill Wight         L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667

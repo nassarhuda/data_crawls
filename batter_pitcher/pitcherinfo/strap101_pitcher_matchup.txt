@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Rip Collins        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Stan Coveleski     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+James Edwards      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Howard Ehmke       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Alex Ferguson      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ken Holloway       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Waite Hoyt         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Walter Johnson     R  15   4   1   1   0   0   0   1   0   0   0  .267  .267  .467 i
+Rube Marquard      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+John Martina       R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 i
+George Mogridge    L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Herb Pennock       L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Jack Quinn         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Joe Shaute         L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Lil Stoner         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Jeff Tesreau       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+George Uhle        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Paul Zahniser      R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 i

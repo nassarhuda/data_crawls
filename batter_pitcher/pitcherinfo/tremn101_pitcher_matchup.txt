@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Chaplin       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Hal Kelleher       R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Fabian Kowalik     R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Johnny Lanning     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Cy Moore           R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Hugh Mulcahy       R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Bobby Reis         R   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667

@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Len Barker         R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Buddy Black        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Britt Burns        L   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 
+Richard Dotson     R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Ron Guidry         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+G. Heimueller      L   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 
+LaMarr Hoyt        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bruce Hurst        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jerry Koosman      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dan Petry          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Righetti      L   5   2   1   0   0   0   0   0   0   2   0  .400  .400  .600 
+Dave Rozema        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Schrom         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Paul Splittorff    L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Stoddard       R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Frank Tanana       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roy Thomas         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

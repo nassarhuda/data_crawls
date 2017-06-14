@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   7   3   0   0   0   0   0   3   0   0   0  .429  .429  .429 
+Don August         R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Bert Blyleven      R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Oil Can Boyd       R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Todd Burns         R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Tom Candiotti      R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Roger Clemens      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rich DeLucia       R   3   1   0   0   1   2   0   1   0   0   0  .333  .600 1.333 
+Kelly Downs        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dennis Eckersley   R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Tom Edens          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Eiland        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Scott Erickson     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chuck Finley       L   6   2   1   0   1   1   0   2   0   0   0  .333  .429 1.000 
+Dave Fleming       L   7   1   1   0   0   0   0   4   0   0   0  .143  .143  .286 
+Mike Gardiner      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Mark Grant         R   5   2   1   0   0   0   0   2   1   0   0  .400  .500  .600 
+Bill Gullickson    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jose Guzman        R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Erik Hanson        R  10   1   1   0   0   0   0   5   0   0   0  .100  .100  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Henke          R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Charlie Hough      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Calvin Jones       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Eric King          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tim Leary          R   4   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Mark Leiter        R  11   4   0   2   2   1   0   2   0   0   0  .364  .417 1.273 
+Terry Mathews      R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Kirk McCaskill     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jack McDowell      R  10   3   1   0   0   0   0   1   0   0   0  .300  .300  .400 
+Mike Moore         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Morris        R  10   4   0   0   1   3   0   3   0   0   1  .400  .500  .700 
+Charles Nagy       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Jaime Navarro      R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Jeff Nelson        R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Rod Nichols        R   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+H. Pichardo        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Nolan Ryan         R   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Bret Saberhagen    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Scott Sanderson    R   7   3   1   0   1   0   0   1   0   0   1  .429  .375 1.000 
+Joe Slusarski      R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Russ Swan          L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Kevin Tapani       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Julio Valera       R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Duane Ward         R   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 
+Bill Wegman        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Welch          R   3   1   0   0   0   1   0   2   0   0   1  .333  .400  .333

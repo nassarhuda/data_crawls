@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Baker        R   9   1   0   0   1   0   0   1   0   0   0  .111  .111  .444 
+Trevor Bauer       R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Nick Blackburn     R   6   0   0   0   0   2   0   1   0   0   0  .000  .250  .000 
+Clay Buchholz      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Mark Buehrle       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Bruce Chen         L   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Wei-Yin Chen       L   9   4   2   0   0   0   0   1   0   0   0  .444  .444  .667 
+Phil Coke          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Kevin Correia      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Felix Doubront     L   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Josh Fields        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Gavin Floyd        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Gio Gonzalez       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Miguel Gonzalez    R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Matt Harrison      L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Luke Hochevar      R   9   0   0   0   0   1   0   7   0   0   0  .000  .100  .000 
+Derek Holland      L   7   1   0   0   1   1   0   1   0   0   0  .143  .250  .571 
+Phil Hughes        R   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 
+Scott Kazmir       L   9   3   0   1   1   2   0   2   0   0   0  .333  .455  .889 
+Dallas Keuchel     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+F. Liriano         L   6   2   1   0   0   2   0   2   0   0   0  .333  .500  .500 
+Tom Milone         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carl Pavano        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Glen Perkins       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+David Phelps       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Rick Porcello      R  11   2   1   0   0   0   0   2   0   0   0  .182  .182  .273 
+Ricky Romero       L   5   2   1   0   0   2   0   1   0   0   0  .400  .571  .600 
+CC Sabathia        L  12   5   1   0   0   3   0   2   0   0   0  .417  .533  .500 
+Anthony Swarzak    R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Chris Tillman      R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Carlos Torres      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Taijuan Walker     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jered Weaver       R   6   0   0   0   0   0   0   1   0   0   1  .000  .000  .000

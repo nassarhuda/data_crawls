@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Miguel Batista     R   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 
+Josh Beckett       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Yhency Brazoban    R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Matt Cain          R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Kevin Correia      R   3   1   0   1   0   2   0   0   0   0   0  .333  .600 1.000 
+Josh Fogg          R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Mike Gonzalez      L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Brad Halsey        L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Aaron Harang       R   5   1   1   0   0   0   0   1   0   1   0  .200  .200  .400 
+Livan Hernandez    R   5   3   1   0   1   1   0   0   0   0   0  .600  .667 1.400 
+Edwin Jackson      R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Brian Lawrence     R  10   3   1   0   0   1   0   0   0   1   0  .300  .364  .400 
+Al Leiter          L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Cory Lidle         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jose Lima          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Scott Linebrink    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Esteban Loaiza     R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Derek Lowe         R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Noah Lowry         L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Jason Marquis      R   8   2   1   0   1   1   0   2   0   0   0  .250  .333  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ramon Ortiz        R   9   3   0   0   1   0   0   2   0   0   0  .333  .333  .667 
+John Patterson     R   6   3   1   0   0   1   0   0   0   0   0  .500  .571  .667 
+Brad Penny         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Duaner Sanchez     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Jason Schmidt      R  12   4   0   0   0   2   0   2   0   1   0  .333  .429  .333 
+Mike Thompson      R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+John Thomson       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Brett Tomko        R   8   3   1   1   0   0   0   2   0   0   0  .375  .375  .750 
+Jeff Weaver        R   8   2   0   0   0   0   0   1   1   0   0  .250  .333  .250 
+Brandon Webb       R  11   1   1   0   0   1   0   4   0   0   0  .091  .167  .182 
+Kip Wells          R   8   2   0   0   0   1   1   1   0   0   0  .250  .333  .250

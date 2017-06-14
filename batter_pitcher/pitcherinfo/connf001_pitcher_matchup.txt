@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Salome Barojas     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Britt Burns        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Pat Clements       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Stew Cliburn       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Danny Jackson      L   3   2   0   0   0   2   0   0   0   0   0  .667  .800  .667 
+Jimmy Key          L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Bill Krueger       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bob Ojeda          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Tanana       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dave Von Ohlen     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

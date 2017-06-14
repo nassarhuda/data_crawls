@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Clint Brown        R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Ed Durham          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Wes Ferrell        R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Fred Frankhouse    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry French       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Sam Gray           R   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 
+Harry Gumbert      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bump Hadley        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Mel Harder         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Ken Heintzelman    L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Roy Henshaw        L   5   3   0   1   0   0   0   0   0   0   0  .600  .600 1.000 
+Chief Hogsett      L   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Waite Hoyt         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bob Kline          R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Wayne LaMaster     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Buck Marrow        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rollie Stiles      R   4   4   2   0   0   0   0   0   0   0   0 1.000 1.000 1.500 
+Bill Swift         R   9   1   1   0   0   0   0   2   0   0   0  .111  .111  .222 
+Jim Tobin          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Welch       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

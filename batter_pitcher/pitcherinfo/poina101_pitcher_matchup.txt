@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bunning        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tony Cloninger     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bruce Dal Canton   R   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Sammy Ellis        R   4   1   0   0   1   1   0   2   1   0   0  .250  .500 1.000 
+Al Jackson         L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ken Johnson        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Billy McCool       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Tug McGraw         L   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Bob Moose          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Claude Osteen      L   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Milt Pappas        R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Hal Brown          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Bunning        R  17   4   1   0   0   0   0   5   0   2   0  .235  .235  .294 
+Pete Burnside      L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+John Buzhardt      R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Dean Chance        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Coates         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bennie Daniels     R   9   1   0   0   0   0   0   2   0   2   0  .111  .111  .111 
+Jim Donohue        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Dick Donovan       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Al Downing         L   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Moe Drabowsky      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Duckworth      R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Chuck Estrada      R   5   1   0   0   0   2   0   2   0   0   0  .200  .429  .200 
+Bill Fischer       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jack Fisher        R   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 
+Eli Grba           R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Dick Hall          R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Ray Herbert        R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Dave Hillman       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Hobaugh         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Don Larsen         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Frank Lary         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Don Lee            R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Lee            R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mickey Lolich      L   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ken McBride        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike McCormick     L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Fred Newman        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Nuxhall        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Milt Pappas        R  12   3   0   0   1   0   0   3   0   0   0  .250  .250  .500 
+Gary Peters        L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Juan Pizarro       L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ed Rakow           R   8   1   0   0   0   0   0   3   0   2   0  .125  .125  .125 
+Pedro Ramos        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Don Rudolph        L   5   1   0   0   0   0   0   2   0   0   1  .200  .167  .200 
+Diego Segui        R   7   1   0   0   0   0   0   5   1   0   0  .143  .250  .143 
+Bob Shaw           R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Bill Stafford      R  13   1   0   0   0   1   0   1   0   0   0  .077  .143  .077 
+Dave Stenhouse     R   7   1   0   1   0   0   0   1   0   1   0  .143  .143  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Walker       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Earl Wilson        R   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000

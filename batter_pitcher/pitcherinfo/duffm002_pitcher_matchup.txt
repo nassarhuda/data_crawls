@@ -1,0 +1,52 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L  12   3   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Chase Anderson     R   5   3   0   0   0   0   0   0   2   0   0  .600  .714  .600 
+Jake Arrieta       R   7   3   0   1   0   0   0   1   0   0   0  .429  .429  .714 
+C. Bergman         R   6   4   0   0   1   1   0   0   0   0   0  .667  .714 1.167 
+Chad Bettis        R   9   4   1   0   0   0   0   2   0   0   0  .444  .444  .556 
+Mike Bolsinger     R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Andrew Cashner     R   9   2   0   0   0   1   0   4   0   0   0  .222  .300  .222 
+Steve Cishek       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Gerrit Cole        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bartolo Colon      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Patrick Corbin     L   8   2   0   0   0   0   0   0   1   0   0  .250  .333  .250 
+Jorge de la Rosa   L   7   2   0   0   0   1   0   3   0   0   0  .286  .375  .286 
+Rubby de la Rosa   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Randall Delgado    R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+O. Despaigne       R   9   3   2   0   0   0   0   0   0   0   0  .333  .333  .556 
+Michael Fiers      R   4   2   0   0   0   0   0   1   1   0   0  .500  .600  .500 
+Yohan Flande       L   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Mike Foltynewicz   R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jaime Garcia       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ken Giles          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gio Gonzalez       L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Zack Greinke       R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Cole Hamels        L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Dan Haren          R   9   3   2   0   0   0   0   1   0   0   0  .333  .333  .556 
+Chris Hatcher      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+J. Hellickson      R   5   3   1   0   0   0   0   0   0   1   0  .600  .600  .800 
+Kyle Hendricks     R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Daniel Hudson      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Kyle Kendrick      R  10   5   1   1   1   0   0   0   0   0   0  .500  .500 1.100 
+Ian Kennedy        R  14   5   1   0   0   1   0   1   0   0   0  .357  .400  .429 
+Clayton Kershaw    L  19   5   0   0   0   0   0   4   0   0   0  .263  .263  .263 
+Mat Latos          R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+F. Liriano         L   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Kyle Lohse         R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Jordan Lyles       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Lance Lynn         R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Evan Marshall      R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Brandon Maurer     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Shelby Miller      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Juan Nicasio       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jon Niese          L   7   1   0   0   0   2   0   0   1   0   0  .143  .400  .143 
+Williams Perez     R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+David Price        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tyson Ross         R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Chris Rusin        L   9   2   0   0   1   1   0   0   0   0   0  .222  .300  .556 
+James Shields      R  12   1   0   1   0   0   0   7   0   0   0  .083  .083  .250 
+S. Strasburg       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Nick Vincent       R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Michael Wacha      R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333

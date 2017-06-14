@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jake Arrieta       R   5   1   1   0   0   1   0   3   0   0   0  .200  .333  .400 
+A. DeSclafani      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Michael Fiers      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Cole Hamels        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jimmy Nelson       R   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000

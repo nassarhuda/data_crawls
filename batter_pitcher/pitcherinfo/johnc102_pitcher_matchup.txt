@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Bailey        L   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 i
+Cy Barger          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Mordecai Brown     R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Russ Ford          R   6   1   0   1   0   0   0   3   0   0   0  .167  .167  .500 
+Dan Griner         R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Bob Harmon         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Claude Hendrix     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rankin Johnson     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rube Marquard      L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Nap Rucker         L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Al Schulz          L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Tom Seaton         R   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 i

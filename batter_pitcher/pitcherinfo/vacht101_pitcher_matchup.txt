@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Blankenship    R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Garland Buckeye    L   9   2   0   1   0   0   0   1   0   0   0  .222  .222  .444 
+Bullet Joe Bush    R   5   2   0   0   0   0   0   0   1   0   0  .400  .500  .400 
+Mike Cvengros      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Giard          L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Sam Gray           R   4   2   0   0   0   0   0   0   1   0   0  .500  .600  .500 
+Lefty Grove        L   4   4   1   0   0   0   0   0   0   0   0 1.000 1.000 1.250 
+Slim Harriss       R   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Walter Johnson     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Sad Sam Jones      R   7   2   0   0   0   2   0   2   0   0   0  .286  .444  .286 
+Benn Karr          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dutch Leonard      L  10   5   0   1   1   2   0   1   0   1   0  .500  .583 1.000 
+Ted Lyons          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jake Miller        L  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+George Mogridge    L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Herb Pennock       L  16   4   1   0   0   1   0   4   0   0   0  .250  .294  .313 
+C. Robertson       R   6   2   0   1   0   0   0   3   0   0   0  .333  .333  .667 
+Eddie Rommel       R   7   2   1   0   0   1   0   2   0   0   0  .286  .375  .429 i
+Dutch Ruether      L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Joe Shaute         L  11   3   0   0   0   0   0   1   0   0   0  .273  .273  .273 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Urban Shocker      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Sherry Smith       L  11   4   2   0   0   0   0   1   0   0   0  .364  .364  .545 
+By Speece          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Lil Stoner         R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 i
+George Uhle        R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Elam Vangilder     R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Rube Walberg       L   6   2   1   0   0   1   0   0   0   1   0  .333  .429  .500 i
+Earl Whitehill     L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Ernie Wingard      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

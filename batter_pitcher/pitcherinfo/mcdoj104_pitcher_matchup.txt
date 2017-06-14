@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Harry Byrd         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bob Cain           L   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Ted Gray           L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Billy Hoeft        L  11   3   2   0   0   0   0   3   0   0   0  .273  .273  .455 
+Sid Hudson         R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Alex Kellner       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Lou Kretlow        R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Bob Lemon          R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+Mickey McDermott   L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Willard Nixon      R   5   0   0   0   0   2   0   3   0   1   0  .000  .286  .000 
+Mel Parnell        L   4   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Billy Pierce       L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

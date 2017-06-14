@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   3   2   1   0   0   0   0   1   1   0   0  .667  .750 1.000 
+M. Bumgarner       L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Gerrit Cole        R   6   1   0   0   1   0   0   3   0   0   0  .167  .167  .667 
+Johnny Cueto       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Michael Fiers      R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Yovani Gallardo    R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+John Lackey        R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kyle Lohse         R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Shelby Miller      R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Jimmy Nelson       R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pat Neshek         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Wily Peralta       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Will Smith         L   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Marcus Stroman     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carlos Torres      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Michael Wacha      R   5   2   2   0   0   0   0   2   0   0   0  .400  .400  .800 
+Tony Watson        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Vance Worley       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500

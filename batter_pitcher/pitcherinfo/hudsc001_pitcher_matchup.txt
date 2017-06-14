@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Ron Darling        R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 
+Jose DeLeon        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dennis Eckersley   R  10   1   1   0   0   0   0   4   0   0   0  .100  .100  .200 
+Bill Gullickson    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mark Knudson       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Krukow        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave LaPoint       L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Larry McWilliams   L   4   0   0   0   0   1   0   3   0   3   0  .000  .200  .000 
+Bob Ojeda          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rick Reuschel      R   3   2   0   0   0   0   0   1   1   0   0  .667  .750  .667 
+Jerry Reuss        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Rick Rhoden        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Scott Sanderson    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Zane Smith         L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jay Tibbs          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Tudor         L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Bob Walk           R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

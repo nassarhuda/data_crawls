@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+H. Alvarez         R   5   0   0   0   0   0   0   2   1   0   0  .000  .167  .000 
+Brett Anderson     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Burke Badenhop     R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Homer Bailey       R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+M. Bumgarner       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Matt Cain          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nick Christiani    R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Tony Cingrani      L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Gerrit Cole        R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Josh Collmenter    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jorge de la Rosa   L   5   3   1   0   0   0   0   1   1   0   0  .600  .667  .800 
+Nathan Eovaldi     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Marco Estrada      R  11   2   2   0   0   1   0   5   0   0   0  .182  .250  .364 
+Yovani Gallardo    R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Jeanmar Gomez      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Gio Gonzalez       L  11   1   0   0   0   1   0   4   0   0   0  .091  .167  .091 
+Zack Greinke       R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jason Grilli       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Dan Haren          R   6   2   1   0   1   0   0   1   0   0   0  .333  .333 1.000 
+J.J. Hoover        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Kelly          R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Ian Kennedy        R   4   3   2   0   1   1   0   0   0   1   0  .750  .800 2.000 
+Clayton Kershaw    L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Mat Latos          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Mike Leake         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Cliff Lee          L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Tim Lincecum       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+F. Liriano         L  12   3   0   0   0   1   0   3   0   0   0  .250  .308  .250 
+Jeff Locke         L   7   3   1   0   0   1   0   1   0   0   0  .429  .500  .571 
+Kyle Lohse         R  16   6   0   0   2   0   0   4   0   0   0  .375  .375  .750 
+Lance Lynn         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tyler Lyons        L   5   3   1   0   1   0   0   0   0   0   0  .600  .600 1.400 
+Mark Melancon      R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Wade Miley         L  10   3   0   1   0   0   0   2   0   0   0  .300  .300  .500 
+Bryan Morris       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ricky Nolasco      R   6   2   0   0   2   0   0   2   0   0   0  .333  .333 1.333 
+Wily Peralta       R  10   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Wandy Rodriguez    L   6   1   0   0   1   0   0   2   0   0   0  .167  .167  .667 
+Trevor Rosenthal   R   4   2   0   1   0   0   0   1   0   0   1  .500  .400 1.000 
+Hyun-Jin Ryu       L   6   4   0   0   0   0   0   2   0   0   0  .667  .667  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Siegrist     L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Tim Stauffer       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+S. Strasburg       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Eric Stults        L   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Masahiro Tanaka    R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Tyler Thornburg    R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Edinson Volquez    R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Michael Wacha      R  11   6   1   0   1   1   0   1   0   0   0  .545  .583  .909 
+Adam Wainwright    R  12   3   1   0   1   0   0   5   0   0   0  .250  .250  .583 
+Jake Westbrook     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Alex Wood          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+J. Zimmermann      R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000

@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Bickford      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Ewell Blackwell    R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ralph Branca       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Alex Carrasquel    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Orval Grove        R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Luke Hamlin        R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Frank Hiller       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Larry Jansen       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sheldon Jones      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Doyle Lade         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dutch Leonard      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cal McLish         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Paul Minner        L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Howie Pollet       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Max Surkont        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+J. Vander Meer     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

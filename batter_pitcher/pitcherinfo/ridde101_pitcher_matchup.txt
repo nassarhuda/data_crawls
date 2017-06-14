@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Nate Andrews       R  10   2   0   0   0   1   0   3   0   1   0  .200  .273  .200 
+Boom-Boom Beck     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Vern Bickford      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Hi Bithorn         R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Ralph Branca       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Harry Brecheen     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Murry Dickson      R   5   2   0   0   0   1   0   1   0   1   0  .400  .500  .400 
+Dutch Dietz        R   8   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Paul Erickson      R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Harry Feldman      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Howie Fox          R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Al Gerheauser      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Gumbert      R   9   2   0   0   0   2   0   3   0   1   0  .222  .364  .222 
+Kirby Higbe        R  10   3   2   0   0   0   0   2   0   1   0  .300  .300  .500 
+Johnny Hutchings   R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Si Johnson         R   8   2   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Sheldon Jones      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Newt Kimball       R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 
+Howie Krist        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Lanning     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andy Lapihuska     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Lohrman       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bill McGee         R   8   4   1   0   0   0   0   2   0   3   0  .500  .500  .625 
+Rube Melton        R  10   2   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Vern Olsen         L   7   2   1   0   0   1   0   1   0   1   0  .286  .375  .429 
+Claude Passeau     R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Johnny Podgajny    R   9   1   0   0   0   0   0   0   0   1   0  .111  .111  .111 
+Tot Pressnell      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Robin Roberts      R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Bob Rush           R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Sayles        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jim Tobin          R   6   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Lon Warneke        R   8   2   1   0   0   1   0   1   0   0   0  .250  .333  .375

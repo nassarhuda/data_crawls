@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Acevedo       R   4   3   0   0   1   1   0   1   0   0   0  .750  .800 1.500 
+Ezequiel Astacio   R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Alan Benes         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chris Carpenter    R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Shawn Chacon       R   5   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Brandon Claussen   L   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 
+Aaron Cook         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Doug Davis         L   6   4   2   0   0   0   0   1   0   0   0  .667  .667 1.000 
+Ryan Dempster      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jeff Fassero       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jeff Francis       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Brian Fuentes      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Aaron Harang       R  11   3   1   0   0   0   0   5   0   0   0  .273  .273  .364 
+Luke Hudson        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Tim Hudson         R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Jason Jennings     R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Randy Johnson      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brian Lawrence     R   6   4   2   0   1   0   0   0   0   0   0  .667  .667 1.500 
+Derek Lowe         R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Noah Lowry         L   5   1   0   0   1   0   0   3   0   0   0  .200  .200  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Greg Maddux        R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Jason Marquis      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Sean Marshall      L   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Brian Moehler      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Matt Morris        R   4   0   0   0   0   1   0   1   0   0   1  .000  .167  .000 
+Mark Mulder        L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Brett Myers        R   7   1   0   0   1   1   0   2   0   0   0  .143  .250  .571 
+Roberto Novoa      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Roy Oswalt         R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+Jake Peavy         R   4   1   0   1   0   1   0   2   0   0   0  .250  .400  .750 
+Odalis Perez       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Pettitte      L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mark Prior         R   8   2   1   0   0   1   0   5   0   0   0  .250  .333  .375 
+Glendon Rusch      L   4   1   0   0   0   2   1   1   0   0   0  .250  .500  .250 
+Jeff Suppan        R   6   2   1   0   0   1   0   2   0   0   1  .333  .375  .500 
+Julian Tavarez     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Brad Thompson      R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Brett Tomko        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Adam Wainwright    R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Jerome Williams    R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Wilson        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Randy Wolf         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kerry Wood         R   3   1   1   0   0   1   1   1   0   0   0  .333  .500  .667 
+Carlos Zambrano    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

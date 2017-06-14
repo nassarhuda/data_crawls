@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ray Caldwell       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Iron Davis         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Bob Harmon         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bill James         R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Erv Kantlehner     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+George McQuillan   R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Jeff Pfeffer       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hippo Vaughn       L   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400

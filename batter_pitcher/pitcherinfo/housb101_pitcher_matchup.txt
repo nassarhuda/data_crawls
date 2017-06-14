@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Rube Benton        L   9   2   1   0   0   2   0   0   0   0   0  .222  .364  .333 i
+Ad Brennan         L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Howie Camnitz      R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 i
+Larry Cheney       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Doc Crandall       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Al Demaree         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Art Fromme         R  12   1   0   0   0   1   0   2   0   0   0  .083  .154  .083 i
+Harry Gaspar       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ted Goulait        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Harmon         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Claude Hendrix     R   8   2   1   0   0   1   0   2   0   0   0  .250  .333  .375 i
+Bert Humphries     R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+LaRue Kirby        R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Elmer Knetzer      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Marquard      L  12   3   1   0   0   0   0   0   0   0   0  .250  .250  .333 i
+C. Mathewson       R  19   5   0   0   0   1   0   2   0   0   0  .263  .300  .263 i
+Red Nelson         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Marty O'Toole      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Phil Redding       R   4   2   1   0   1   1   0   1   0   0   0  .500  .600 1.500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Reulbach        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Slim Sallee        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Tom Seaton         R   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 i
+George Suggs       R   7   3   2   0   0   1   0   0   0   0   0  .429  .500  .714 i
+Jeff Tesreau       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hooks Wiltse       L   7   1   1   0   0   0   0   0   0   1   0  .143  .143  .286 i
+Earl Yingling      L   6   1   0   0   1   1   0   1   0   1   0  .167  .286  .667

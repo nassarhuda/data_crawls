@@ -1,0 +1,51 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Armas         R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Collin Balester    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Josh Beckett       R   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 
+Matt Cain          R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Brandon Claussen   L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Omar Daal          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ryan Dempster      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Zach Duke          L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Tom Glavine        L   2   1   0   0   0   0   0   0   0   3   0  .500  .500  .500 
+Mike Hampton       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Tommy Hanson       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dan Haren          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carlos Hernandez   L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Livan Hernandez    R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Daniel Hudson      R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Josh Johnson       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Brian Lawrence     R   5   2   2   0   0   0   0   0   0   1   0  .400  .400  .800 
+Al Leiter          L   4   1   0   0   0   1   0   0   0   4   0  .250  .400  .250 
+Ted Lilly          L   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 
+Derek Lowe         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Maholm        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Shaun Marcum       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jason Marquis      R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Pedro Martinez     R   4   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Eric Milton        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brian Moehler      R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Chris Narveson     L   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Ricky Nolasco      R   9   2   2   0   0   0   0   2   0   1   0  .222  .222  .444 
+Darren Oliver      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Scott Olsen        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Russ Ortiz         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Roy Oswalt         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Brad Penny         R  12   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Mark Prior         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Horacio Ramirez    L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Saunders       L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Jae Weong Seo      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+John Smoltz        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ian Snell          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Suppan        R   3   2   0   0   0   0   0   1   0   2   0  .667  .667  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Trachsel     R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Claudio Vargas     R   7   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Edinson Volquez    R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Randy Wells        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jake Westbrook     R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Jamey Wright       R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Carlos Zambrano    R   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Barry Zito         L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400

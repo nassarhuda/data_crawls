@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Cuellar       L   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Jerry Garvin       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Ross Grimsley      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Larry Gura         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Catfish Hunter     R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Jim Kaat           L   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Claude Osteen      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Gaylord Perry      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Paul Splittorff    L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Wilbur Wood        L   4   0   0   0   0   0   0   2   1   0   0  .000  .200  .000

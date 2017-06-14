@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Byrd          R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Kyle Farnsworth    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bobby Jones        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jon Lieber         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Greg Maddux        R   4   1   0   0   0   0   0   0   0   2   0  .250  .250  .250 
+Chan Ho Park       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Thomson       R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Brett Tomko        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Javier Vazquez     R   5   2   0   1   0   0   0   2   0   0   0  .400  .400  .800 
+Masato Yoshii      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000

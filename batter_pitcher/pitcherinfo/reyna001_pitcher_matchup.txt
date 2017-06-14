@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Pedro Astacio      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Steve Avery        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Andy Benes         R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Kevin Brown        R   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+John Burkett       R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Frank Castillo     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Scott Elarton      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tom Glavine        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Geremi Gonzalez    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Tommy Greene       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Mike Hampton       L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Pete Harnisch      R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Butch Henry        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+J. Isringhausen    R   4   0   0   0   0   2   0   3   0   0   0  .000  .333  .000 
+Scott Karl         L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Darryl Kile        R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Mark Leiter        R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ramon Martinez     R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Brian Meadows      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kent Mercker       L   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Kevin Millwood     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Portugal      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Shane Reynolds     R   7   3   0   0   0   0   0   3   0   0   0  .429  .429  .429 
+Kirk Rueter        L   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Curt Schilling     R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+John Smiley        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Tewksbury      R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Thurman       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ismael Valdez      R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+F. Valenzuela      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Donne Wall         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Trevor Wilson      L   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000

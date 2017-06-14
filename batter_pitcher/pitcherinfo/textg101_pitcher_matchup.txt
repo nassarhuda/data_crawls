@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Barger          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Howie Camnitz      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Snipe Conley       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Doc Crandall       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Nick Cullop        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pete Henning       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Henry Keupper      L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Gene Packard       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

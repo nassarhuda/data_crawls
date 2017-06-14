@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Fred Archer        L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+G. Blaeholder      R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Lloyd Brown        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Fred Frankhouse    R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Lefty Gomez        L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Mel Harder         R   8   1   1   0   0   0   0   3   0   1   0  .125  .125  .250 
+Wayne LaMaster     L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ted Lyons          R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Gordon Rhodes      R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Vito Tamulis       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jake Wade          L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Rube Walberg       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Monte Weaver       R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Johnny Welch       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Earl Whitehill     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

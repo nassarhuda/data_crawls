@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doc Ayers          R  15   6   1   0   0   0   0   1   0   1   0  .400  .400  .467 i
+Jim Bagby          R  16   3   3   0   0   0   0   4   0   0   0  .188  .188  .375 i
+Bill Bayne         L   8   1   0   0   0   0   0   2   2   0   0  .125  .300  .125 i
+Bullet Joe Bush    R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Ray Caldwell       R  17   5   0   0   0   2   0   1   0   0   0  .294  .368  .294 i
+Eddie Cicotte      R  13   3   1   0   0   1   0   0   0   0   0  .231  .286  .308 
+Rip Collins        R   9   2   0   0   0   1   0   2   0   0   0  .222  .300  .222 i
+Stan Coveleski     R  18   4   1   0   0   1   0   2   0   0   0  .222  .263  .278 i
+Hooks Dauss        R  23   4   0   1   0   0   0   3   0   0   0  .174  .174  .261 i
+Dixie Davis        R  10   2   0   0   0   0   0   1   0   2   0  .200  .200  .200 i
+Joe DeBerry        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Howard Ehmke       R  24   8   1   1   0   1   0   2   0   0   0  .333  .360  .458 i
+Eric Erickson      R  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Red Faber          R  30  12   2   0   0   1   0   3   1   1   0  .400  .438  .467 
+Harry Harper       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Walter Johnson     R  11   1   0   0   0   0   0   0   0   0   0  .091  .091  .091 i
+Sad Sam Jones      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Dickey Kerr        L  12   2   0   0   0   0   0   0   0   2   0  .167  .167  .167 i
+Ray Kolp           R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Lefty Leifield     L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dutch Leonard      L   7   3   1   0   0   0   0   3   1   1   0  .429  .500  .571 i
+G. Lowdermilk      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Duster Mails       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Carl Mays          R  22   3   1   0   0   0   0   1   0   0   0  .136  .136  .182 
+George Mogridge    L   8   5   1   0   0   0   0   0   0   0   0  .625  .625  .750 i
+Bill Morrisette    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Elmer Myers        R   9   2   0   0   0   2   0   0   0   0   0  .222  .364  .222 i
+Jack Quinn         R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+John Russell       L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Al Schacht         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jim Shaw           R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Bob Shawkey        R  14   8   1   0   0   2   0   2   0   1   0  .571  .625  .643 
+Urban Shocker      R  20   5   2   0   0   0   0   3   1   0   0  .250  .286  .350 i
+Ernie Shore        R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+Hank Thormahlen    L   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Roy Wilkinson      R   7   2   0   0   0   2   0   2   0   0   0  .286  .444  .286 i
+Lefty Williams     L   5   1   0   0   0   0   0   3   1   0   0  .200  .333  .200 i
+Mutt Wilson        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Rasty Wright       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Zachary        L  15   3   0   0   0   1   0   1   1   1   0  .200  .294  .200 i

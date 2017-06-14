@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Butler        L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Al Downing         L   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+Dick Drago         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Whitey Ford        L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Grant Jackson      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Kaat           L   9   3   1   0   1   1   1   3   0   0   0  .333  .400  .778 
+Mickey Lolich      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sam McDowell       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave McNally       L   6   1   0   0   1   0   0   4   0   0   0  .167  .167  .667 
+Jim Merritt        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Barry Moore        L   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Claude Osteen      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gaylord Perry      R   3   2   0   0   1   1   0   1   0   0   0  .667  .750 1.667 
+Fritz Peterson     L   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667

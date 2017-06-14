@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Frank Barrett      R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Al Benton          R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Joe Berry          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rex Cecil          R   5   2   0   1   0   0   0   2   0   0   0  .400  .400  .800 
+Russ Christopher   R   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000 i
+Bill Dietrich      R  14   2   0   0   0   1   1   0   0   0   0  .143  .200  .143 i
+Clem Dreisewerd    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rufe Gentry        R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 i
+Steve Gromek       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Orval Grove        R  13   4   1   0   0   0   0   1   1   0   0  .308  .357  .385 i
+Mickey Haefner     L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Luke Hamlin        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Haynes         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Al Hollingsworth   L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Johnny Humphries   R   5   1   1   0   0   0   0   0   0   1   0  .200  .200  .400 i
+Jack Kramer        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Dutch Leonard      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Eddie Lopat        L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 i
+Bob Muncrief       R  10   2   0   0   0   2   0   1   0   0   0  .200  .333  .200 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Newhouser      L  14   5   0   1   0   0   0   1   0   0   0  .357  .357  .500 i
+Johnny Niggeling   R  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 
+Ray Poat           R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Nels Potter        R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 i
+Allie Reynolds     R   8   1   1   0   0   1   0   2   0   0   0  .125  .222  .250 i
+Al Smith           L   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 i
+Yank Terry         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dizzy Trout        R  12   6   0   0   0   2   0   1   0   0   0  .500  .571  .500 i
+Lefty West         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Early Wynn         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667

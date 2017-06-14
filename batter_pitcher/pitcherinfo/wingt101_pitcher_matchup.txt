@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Grove        L   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 i
+Waite Hoyt         R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Hank Johnson       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sad Sam Jones      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Benn Karr          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ted Lyons          R  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Herb Pennock       L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+C. Robertson       R   5   2   0   1   0   0   0   0   0   1   0  .400  .400  .800 
+Urban Shocker      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Sherry Smith       L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Lil Stoner         R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Elam Vangilder     R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Earl Whitehill     L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Carl Yowell        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

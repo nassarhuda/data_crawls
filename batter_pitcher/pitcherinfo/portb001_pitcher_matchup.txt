@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gil Heredia        R   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333 
+Jamie Moyer        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Mulder        L   6   3   0   0   1   0   0   0   0   0   0  .500  .500 1.000 
+Jeff Tam           R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jarrod Washburn    L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Barry Zito         L   7   3   1   1   0   1   0   3   0   0   0  .429  .500  .857

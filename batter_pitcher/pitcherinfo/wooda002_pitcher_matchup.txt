@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gerrit Cole        R   6   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 
+Bartolo Colon      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Nathan Eovaldi     R   8   1   0   0   0   0   0   7   0   0   0  .125  .125  .125 
+Jose Fernandez     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Zack Greinke       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Taylor Jordan      R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Kyle Kendrick      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Lamb          L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Zack Wheeler       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+J. Zimmermann      R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750

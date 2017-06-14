@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Terry Adams        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Rheal Cormier      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Hampton       L  17   5   0   0   0   0   0   1   0   0   0  .294  .294  .294 
+Livan Hernandez    R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Trey Hodges        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ryan Jensen        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Randy Johnson      L   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Matt Kinney        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Braden Looper      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Damian Moss        L   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Brett Myers        R  10   2   0   1   0   2   0   3   0   0   0  .200  .333  .400 
+Darren Oliver      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Russ Ortiz         R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Carl Pavano        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Horacio Ramirez    L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Mark Redman        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kirk Rueter        L   6   3   0   0   0   1   0   0   0   0   0  .500  .571  .500 
+Glendon Rusch      L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Justin Speier      R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Scott Stewart      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ron Villone        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Turk Wendell       R   3   2   0   0   0   0   0   0   0   0   1  .667  .500  .667 
+Randy Wolf         L  19   5   2   0   0   0   0   2   0   0   0  .263  .263  .368

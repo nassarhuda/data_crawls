@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ernie Broglio      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bob Friend         R   7   4   0   0   2   1   0   1   0   0   0  .571  .625 1.429 
+Joe Gibbon         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Glen Hobbie        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joey Jay           R   8   1   1   0   0   1   0   6   0   0   0  .125  .222  .250 
+Clem Labine        R   3   0   0   0   0   1   1   1   0   0   0  .000  .250  .000 
+Johnny Podres      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Purkey         R   9   0   0   0   0   0   0   2   1   0   0  .000  .100  .000

@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 i
+Larry Benton       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Watty Clark        L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bruce Cunningham   R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Dizzy Dean         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jumbo Elliott      L  10   4   0   0   0   1   0   0   0   0   0  .400  .455  .400 i
+Fred Frankhouse    R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jesse Haines       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Bill Hallahan      L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Fred Heimach       L  11   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carl Hubbell       L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Si Johnson         R   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Red Lucas          R  10   3   1   0   0   0   0   1   0   0   0  .300  .300  .400 
+Dolf Luque         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Flint Rhem         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Eppa Rixey         L  12   2   1   0   0   0   0   1   0   1   0  .167  .167  .250 
+Socks Seibold      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Joe Shaute         L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Les Sweetland      L   7   2   2   0   0   1   0   0   0   0   0  .286  .375  .571 
+Bud Teachout       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Walker        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tom Zachary        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tom Browning       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Pat Combs          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Glavine        L  10   4   1   0   0   0   0   2   0   1   0  .400  .400  .500 
+Neal Heaton        L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Bruce Hurst        L   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Danny Jackson      L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+C. Leibrandt       L   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Magrane        L   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Terry Mulholland   L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Randy Myers        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Dennis Rasmussen   L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Bruce Ruffin       L   5   2   1   0   0   1   0   2   0   0   0  .400  .500  .600 
+H. Slocumb         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+John Smiley        L   9   0   0   0   0   2   0   1   0   0   0  .000  .182  .000 
+Randy Tomlin       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

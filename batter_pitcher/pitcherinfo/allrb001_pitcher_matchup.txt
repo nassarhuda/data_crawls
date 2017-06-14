@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Boddicker     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Clemens      R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Storm Davis        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Scott Erickson     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Gullickson    R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Brian Holman       R   4   1   0   0   0   2   0   2   0   0   1  .250  .429  .250 
+Tim Leary          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Scott Lewis        R   4   2   1   0   0   2   0   0   0   0   0  .500  .667  .750 
+Jack McDowell      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Moore         R   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Jack Morris        R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Nolan Ryan         R   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 
+Dave Stewart       R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Walt Terrell       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Bob Welch          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bobby Witt         R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Curt Young         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

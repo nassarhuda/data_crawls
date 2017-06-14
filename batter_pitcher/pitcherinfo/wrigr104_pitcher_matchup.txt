@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dan Boone          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hooks Dauss        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Carl Mays          R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+George Mogridge    L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Bill Piercy        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Eddie Rommel       R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 i
+F. Shellenback     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+George Uhle        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

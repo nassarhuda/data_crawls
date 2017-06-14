@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cody Anderson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Blaine Boyer       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Carlos Carrasco    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Johnny Cueto       R  10   2   0   0   0   1   0   2   0   0   0  .200  .273  .200 
+R.A. Dickey        R   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 
+Tyler Duffey       R   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 
+Danny Duffy        L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Yovani Gallardo    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jeremy Guthrie     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+J.A. Happ          L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Luke Hochevar      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Phil Hughes        R   5   4   2   0   0   0   0   0   0   0   0  .800  .800 1.200 
+Ubaldo Jimenez     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jon Lester         L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Collin McHugh      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jose Quintana      L   7   2   0   1   0   0   0   2   0   1   0  .286  .286  .571 
+David Robertson    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Danny Salazar      R  10   5   0   1   0   1   0   1   0   0   0  .500  .545  .700 
+Chris Sale         L   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jeff Samardzija    R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hector Santiago    L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Yordano Ventura    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Edinson Volquez    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jered Weaver       R   5   2   0   0   1   0   0   1   1   0   0  .400  .500 1.000

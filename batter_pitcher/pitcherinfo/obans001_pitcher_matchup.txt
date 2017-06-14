@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pedro Astacio      R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Matt Beech         L   4   1   0   0   0   1   0   0   1   0   0  .250  .500  .250 
+Alan Benes         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tony Castillo      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Danny Darwin       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+O. Fernandez       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Tom Glavine        L   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Mark Langston      L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Al Leiter          L   7   3   0   0   0   1   0   2   0   0   0  .429  .500  .429 
+Mark Leiter        R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Mike Mimbs         L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Angel Miranda      L   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Terry Mulholland   L  16   3   1   0   0   2   0   4   0   0   0  .188  .278  .250 
+Jaime Navarro      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Denny Neagle       L   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kenny Rogers       L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Curt Schilling     R   3   1   1   0   0   0   0   1   1   0   0  .333  .500  .667 
+Zane Smith         L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+F. Valenzuela      L  10   2   2   0   0   0   0   3   0   0   0  .200  .200  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Wells        L   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500

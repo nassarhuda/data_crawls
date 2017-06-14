@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jhoulys Chacin     R   5   0   0   0   0   1   0   3   0   1   0  .000  .167  .000 
+Gio Gonzalez       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Zack Greinke       R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Aaron Harang       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Kyle Hendricks     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Edwin Jackson      R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Kyle Kendrick      R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike Leake         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Cliff Lee          L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jordan Lyles       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Lance Lynn         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Wade Miley         L   8   1   0   0   0   0   0   6   0   0   0  .125  .125  .125 
+Wandy Rodriguez    L   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 
+Edinson Volquez    R   7   1   0   0   0   1   0   3   0   1   0  .143  .250  .143 
+Adam Wainwright    R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Randy Wolf         L   6   1   1   0   0   0   0   4   0   1   0  .167  .167  .333

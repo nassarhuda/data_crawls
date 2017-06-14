@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Lloyd Brown        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Carl Doyle         R   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 
+Carl Fischer       L   3   1   0   0   0   3   1   0   0   0   0  .333  .667  .333 i
+Lefty Gomez        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Lefty Grove        L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Mel Harder         R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Willis Hudlin      R   5   1   0   0   0   0   0   1   1   0   0  .200  .333  .200 
+Thornton Lee       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ted Lyons          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+F. Ostermueller    L   3   0   0   0   0   3   0   3   0   0   0  .000  .500  .000 
+Vito Tamulis       L   7   3   1   0   0   2   0   0   0   0   0  .429  .556  .571 
+Les Tietje         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Al Veach           R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Whitey Wilshere    L   4   0   0   0   0   5   0   2   1   0   0  .000  .600  .000

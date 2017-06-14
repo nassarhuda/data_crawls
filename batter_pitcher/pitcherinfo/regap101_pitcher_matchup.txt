@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Abernathy      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Frank Baumann      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Gary Bell          R   6   2   0   0   1   0   0   2   0   1   0  .333  .333  .833 
+Ted Bowsfield      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hal Brown          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pete Burnside      L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+John Buzhardt      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Dean Chance        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Galen Cisco        R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Gene Conley        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bennie Daniels     R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chuck Estrada      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Roy Face           R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Joe Gibbon         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Hall          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ray Herbert        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ed Hobaugh         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jim Kaat           L   7   2   0   0   0   1   0   3   0   0   0  .286  .375  .286 
+Russ Kemmerer      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jack Lamabe        R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Lee            R   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Frank Linzy        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ken McBride        R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Dave McNally       L   5   3   0   0   0   0   0   2   0   0   0  .600  .600  .600 
+B. Monbouquette    R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Claude Osteen      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Milt Pappas        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Orlando Pena       R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Jim Perry          R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000 
+Ed Rakow           R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pedro Ramos        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Lee Stange         R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Bob Turley         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jerry Walker       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

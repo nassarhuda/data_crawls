@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Blankenship    R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Guy Cantrell       R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Rip Collins        R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 i
+Red Faber          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sam Gibson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bump Hadley        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Ted Lyons          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Shawkey        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Urban Shocker      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Tommy Thomas       R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Sloppy Thurston    R   5   2   0   0   0   2   0   0   0   1   0  .400  .571  .400 
+George Uhle        R   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400

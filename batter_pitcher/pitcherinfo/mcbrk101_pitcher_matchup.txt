@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bud Daley          L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dick Donovan       R   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 
+Al Downing         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Moe Drabowsky      R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Chuck Estrada      R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Whitey Ford        L  11   1   0   0   0   1   0   4   0   0   0  .091  .167  .091 
+Mudcat Grant       R   8   3   1   0   0   0   0   4   0   0   0  .375  .375  .500 
+Ray Herbert        R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Billy Hoeft        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Kaat           L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Jack Kralick       L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Bill Kunkel        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mickey Lolich      L   5   2   1   0   0   0   0   1   0   1   0  .400  .400  .600 
+Mike McCormick     L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+B. Monbouquette    R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Claude Osteen      L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Milt Pappas        R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Camilo Pascual     R   4   2   1   0   0   0   0   2   0   1   0  .500  .500  .750 
+Jim Perry          R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Juan Pizarro       L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ed Rakow           R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Pedro Ramos        R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Phil Regan         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Steve Ridzik       R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Don Schwall        R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Ralph Terry        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

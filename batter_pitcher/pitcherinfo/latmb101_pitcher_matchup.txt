@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Bolin        R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Jim Bouton         R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Ted Bowsfield      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tom Brewer         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hal Brown          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Galen Cisco        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Tex Clevenger      R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Gene Conley        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bud Daley          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck Estrada      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Fisher        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Whitey Ford        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mike Fornieles     R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Paul Foytack       R   9   1   0   0   0   1   0   3   0   0   0  .111  .200  .111 
+Ned Garver         R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Eli Grba           R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jack Harshman      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Ray Herbert        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ed Hobaugh         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Joe Horlen         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Kucks       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Denny Lemaster     L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Cal McLish         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+B. Monbouquette    R  13   1   0   1   0   0   0   3   0   0   0  .077  .077  .231 
+Tom Morgan         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Don Mossi          L   6   1   0   0   1   1   0   4   0   0   0  .167  .286  .667 
+Milt Pappas        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Gary Peters        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dan Pfister        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Juan Pizarro       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pedro Ramos        R   7   2   0   0   0   0   0   1   0   2   1  .286  .250  .286 
+Don Rudolph        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wes Stock          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jerry Walker       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Hal Woodeshick     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

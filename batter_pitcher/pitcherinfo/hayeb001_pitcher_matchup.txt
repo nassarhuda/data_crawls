@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Manny Acosta       R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Bronson Arroyo     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Anthony Bass       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Miguel Batista     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Samuel Deduno      R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+R.A. Dickey        R  12   1   0   0   0   0   0   3   0   0   0  .083  .083  .083 
+Felix Doubront     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dillon Gee         R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Cole Hamels        L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tommy Hanson       R   5   0   0   0   0   2   1   5   0   0   0  .000  .286  .000 
+Tim Hudson         R   5   1   0   0   0   1   1   2   0   0   0  .200  .333  .200 
+Ian Kennedy        R   4   2   2   0   0   1   0   1   0   0   0  .500  .600 1.000 
+John Lannan        L   3   2   1   0   0   2   0   0   0   0   0  .667  .800 1.000 
+Jon Lester         L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Derek Lowe         R   5   2   0   0   1   1   1   1   0   0   0  .400  .500 1.000 
+Jason Marquis      R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+James McDonald     R   6   2   1   0   1   0   0   2   0   0   0  .333  .333 1.000 
+Pat Misch          L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jon Niese          L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Bud Norris         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jose Quintana      L   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 
+Wandy Rodriguez    L   8   2   2   0   0   0   0   2   0   0   0  .250  .250  .500 
+Jeff Samardzija    R   4   2   1   0   0   1   1   2   0   0   0  .500  .600  .750 
+James Shields      R  10   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ryan Vogelsong     R   8   2   0   0   0   1   1   3   0   0   0  .250  .333  .250 
+Adam Wainwright    R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+C.J. Wilson        L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

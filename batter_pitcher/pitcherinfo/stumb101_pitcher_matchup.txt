@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Blanding      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Boardwalk Brown    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jean Dubuc         R  10   1   0   0   0   1   0   1   0   1   0  .100  .182  .100 i
+Vean Gregg         L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bob Groom          R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Charley Hall       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Earl Hamilton      L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+George Kahler      R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Frank Lange        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+George Mullin      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Buck O'Brien       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Bill Steen         R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Ed Summers         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Doc White          L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Willett         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Smoky Joe Wood     R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ralph Works        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i

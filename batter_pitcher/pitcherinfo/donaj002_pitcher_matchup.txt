@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Blevins      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mark Buehrle       L  10   4   1   0   0   2   0   2   0   0   0  .400  .500  .500 
+A.J. Burnett       R   4   1   0   1   0   0   0   1   0   1   0  .250  .250  .750 
+Trevor Cahill      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bruce Chen         L  10   6   1   0   2   0   0   0   0   0   0  .600  .600 1.300 
+John Danks         L   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+R.A. Dickey        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brian Duensing     L  10   3   0   1   0   0   0   2   0   0   0  .300  .300  .500 
+Danny Duffy        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Doug Fister        R   4   1   0   0   0   0   0   2   1   0   0  .250  .400  .250 
+Gavin Floyd        R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Charlie Furbush    L   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Gio Gonzalez       L   9   1   0   0   0   0   0   3   1   0   0  .111  .200  .111 
+Zack Greinke       R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Felix Hernandez    R   6   2   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Luke Hochevar      R   9   0   0   0   0   0   0   3   1   0   0  .000  .100  .000 
+Derek Holland      L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Greg Holland       R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Edwin Jackson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bobby Jenks        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jon Lester         L   9   4   1   0   0   0   0   3   0   0   0  .444  .444  .556 
+F. Liriano         L   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Jesse Litsch       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Shaun Marcum       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+D. Matsuzaka       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Kevin Millwood     R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Tom Milone         L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Alexi Ogando       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+David Pauley       R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Carl Pavano        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jake Peavy         R   9   1   0   0   1   0   0   3   0   0   0  .111  .111  .444 
+Rick Porcello      R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+David Price        L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+CC Sabathia        L   7   0   0   0   0   1   1   3   1   0   0  .000  .222  .000 
+Chris Sale         L   9   1   0   0   0   0   0   4   0   0   0  .111  .111  .111 
+Sergio Santos      R   3   1   1   0   0   0   0   2   1   0   0  .333  .500  .667 
+Max Scherzer       R   7   2   1   0   0   1   0   3   0   0   0  .286  .375  .429 
+Zach Stewart       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jason Vargas       L   8   0   0   0   0   1   0   1   0   1   0  .000  .111  .000 
+Justin Verlander   R  10   3   1   0   0   0   0   3   1   0   0  .300  .364  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+C.J. Wilson        L   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250

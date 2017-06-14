@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Trevor Bauer       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Aaron Brooks       R   6   1   0   0   0   3   0   0   0   0   0  .167  .444  .167 
+Clay Buchholz      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+M. Bumgarner       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jesse Chavez       R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Josh Collmenter    R   5   2   0   0   2   0   0   1   0   0   0  .400  .400 1.600 
+Rubby de la Rosa   R   5   2   0   0   1   0   0   2   0   0   0  .400  .400 1.000 
+Felix Doubront     L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Danny Duffy        L   5   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Sam Dyson          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roenis Elias       L  12   2   1   0   0   0   0   1   0   0   0  .167  .167  .250 
+Nathan Eovaldi     R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Yovani Gallardo    R   7   2   1   0   0   2   0   2   0   0   0  .286  .444  .429 
+Sonny Gray         R   9   1   0   0   0   0   0   1   0   0   1  .111  .100  .111 
+Jeremy Guthrie     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Cole Hamels        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Andrew Heaney      L   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+J. Hellickson      R   4   1   0   0   1   0   0   1   0   0   1  .250  .200 1.000 
+Derek Holland      L   5   4   1   0   2   1   1   0   0   0   0  .800  .833 2.200 
+Colby Lewis        R   9   4   1   0   2   0   0   1   0   0   0  .444  .444 1.222 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Lowe          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Justin Masterson   R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Vidal Nuno         L   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Jake Odorizzi      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Martin Perez       L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Erasmo Ramirez     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Robbie Ray         L   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+F. Rodriguez       R   4   3   0   0   2   0   0   0   0   0   0  .750  .750 2.250 
+Ervin Santana      R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Hector Santiago    L   7   1   0   0   1   2   0   1   0   0   0  .143  .333  .571 
+Joe Smith          R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Taijuan Walker     R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Jered Weaver       R   5   3   0   0   1   1   0   0   0   0   0  .600  .667 1.200 
+C.J. Wilson        L   4   4   1   0   2   1   0   0   0   0   0 1.000 1.000 2.750

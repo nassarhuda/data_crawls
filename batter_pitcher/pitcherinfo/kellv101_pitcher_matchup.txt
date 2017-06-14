@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Billingham    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Steve Blass        R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Jim Britton        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jim Bunning        R  14   5   2   0   0   1   0   0   0   0   0  .357  .400  .500 
+Tony Cloninger     R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Larry Dierker      R  10   1   0   0   0   1   0   1   0   0   0  .100  .182  .100 
+Dock Ellis         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Jack Fisher        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Alan Foster        R   8   2   1   0   0   0   0   3   0   0   0  .250  .250  .375 
+Gary Gentry        R   3   1   0   0   0   1   0   2   0   1   0  .333  .500  .333 
+Tom Griffin        R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Pat Jarvis         R  13   2   0   0   0   1   0   2   0   0   0  .154  .214  .154 
+Juan Marichal      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Jim McAndrew       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Nash           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Phil Niekro        R  10   4   1   0   0   0   0   1   0   0   0  .400  .400  .500 
+Gaylord Perry      R  12   5   1   0   1   0   0   1   0   0   0  .417  .417  .750 
+Jim Ray            R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Claude Raymond     R   5   1   0   1   0   0   0   2   0   0   0  .200  .200  .600 
+Howie Reed         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ron Reed           R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Renko        R  10   4   0   0   0   1   0   2   0   0   0  .400  .455  .400 
+Jerry Robertson    R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Rich Robertson     R   7   2   0   0   0   2   0   0   0   0   0  .286  .444  .286 
+Tom Seaver         R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Wayne Simpson      R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Bill Singer        R  12   3   0   0   1   1   0   0   0   0   0  .250  .308  .500 
+Don Sutton         R  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck Taylor       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Wilson         R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Rick Wise          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Coveleski     R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Dixie Davis        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sam Gray           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dutch Levsen       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Shaute         L   5   1   0   0   0   1   0   0   1   0   0  .200  .429  .200 
+Sherry Smith       L   5   1   0   0   0   0   0   0   1   0   0  .200  .333  .200 
+George Uhle        R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286

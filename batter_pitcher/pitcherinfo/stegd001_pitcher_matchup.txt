@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Britt Burns        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Flanagan      L  22   4   0   0   1   3   0   5   0   0   1  .182  .269  .318 
+Ray Fontenot       L   5   4   0   0   0   0   0   0   0   0   0  .800  .800  .800 
+Ron Guidry         L  13   5   0   0   2   0   0   2   0   0   0  .385  .385  .846 
+Larry Gura         L  10   3   0   0   2   3   0   1   0   0   0  .300  .462  .900 
+Neal Heaton        L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Rick Honeycutt     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+LaMarr Hoyt        R   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Bruce Hurst        L  14   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Danny Jackson      L   4   0   0   0   0   0   0   0   2   0   0  .000  .333  .000 
+Tommy John         L  17   3   0   0   0   1   0   3   0   0   0  .176  .222  .176 
+Bill Krueger       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Rick Langford      R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Mark Langston      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Dave LaRoche       L   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Tippy Martinez     L   8   2   0   0   0   1   0   4   0   0   0  .250  .333  .250 
+Jon Matlack        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Scott McGregor     L  23   6   1   0   1   3   0   2   0   0   0  .261  .346  .435 
+Sid Monge          L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Bob Ojeda          L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Owchinko       L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Chuck Porter       R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Dave Righetti      L   4   1   0   0   1   3   0   3   0   0   0  .250  .571 1.000 
+Paul Splittorff    L   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Frank Tanana       L   4   2   0   0   1   1   0   2   0   0   0  .500  .600 1.250 
+John Tudor         L  11   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Underwood      L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Frank Viola        L   7   2   0   1   0   1   0   2   0   0   0  .286  .375  .571 
+Rick Waits         L   8   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Matt Young         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Geoff Zahn         L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750

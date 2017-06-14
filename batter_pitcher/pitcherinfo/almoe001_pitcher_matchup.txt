@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Fiore         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Roy Halladay       R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Joe Kennedy        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Rodrigo Lopez      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Joe Mays           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jamie Moyer        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Rick Reed          R   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000 
+Pete Walker        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Victor Zambrano    R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Barry Zito         L   4   1   1   0   0   2   0   2   0   0   0  .250  .500  .500

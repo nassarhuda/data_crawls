@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alfredo Aceves     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Brian Bannister    R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Nick Blackburn     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Matt Cain          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Wade Davis         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Scott Feldman      R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Doug Fister        R   9   1   0   0   1   0   0   4   0   0   0  .111  .111  .444 
+Lucas French       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Garza         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dan Haren          R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Derek Holland      L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Kevin Jepsen       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Cliff Lee          L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Colby Lewis        R   9   1   0   0   0   2   0   4   0   0   0  .111  .273  .111 
+Tim Lincecum       R  10   2   0   0   0   0   0   5   0   0   0  .200  .200  .200 
+Brandon Morrow     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Dustin Nippert     R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Darren Oliver      L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Rick Porcello      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Ricky Romero       L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+CC Sabathia        L   3   0   0   0   0   3   0   0   0   0   0  .000  .500  .000 
+Ervin Santana      R  11   5   0   0   0   1   0   2   0   0   0  .455  .500  .455 
+Joe Saunders       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+James Shields      R   6   2   0   0   0   2   0   2   0   0   0  .333  .500  .333 
+C.J. Wilson        L  12   1   0   0   0   2   0   4   0   0   0  .083  .214  .083 
+Jamey Wright       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

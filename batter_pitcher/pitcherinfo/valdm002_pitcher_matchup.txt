@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roger Clemens      R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Jason Dickson      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Cal Eldred         R   5   2   1   0   1   0   0   1   0   0   0  .400  .400 1.200 
+Jimmy Haynes       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pat Hentgen        R   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+Livan Hernandez    R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Marty Janzen       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Omar Olivares      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Aaron Sele         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bob Tewksbury      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+David Wells        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

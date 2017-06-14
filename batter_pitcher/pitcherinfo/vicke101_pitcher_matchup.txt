@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Bentley       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pete Donohue       R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Burleigh Grimes    R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Bunny Hearn        L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Vic Keen           R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Carl Mays          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Lee Meadows        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jimmy Ring         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Smith          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

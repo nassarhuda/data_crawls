@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Appier       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Andy Benes         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jason Bere         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Dave Burba         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Freddy Garcia      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gary Glover        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jason Grimsley     R   4   0   0   0   0   1   1   2   0   0   0  .000  .200  .000 
+Kevin Gross        R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Juan Guzman        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+LaTroy Hawkins     R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+R. Hernandez       R  16   5   0   0   2   0   0   2   0   0   0  .313  .313  .688 
+Tim Hudson         R  12   1   0   0   0   0   0   3   0   0   0  .083  .083  .083 
+Darryl Kile        R   5   3   2   0   0   1   0   0   0   0   0  .600  .667 1.000 
+Jon Lieber         R   9   3   1   0   0   0   0   0   0   0   0  .333  .333  .444 
+Kyle Lohse         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pedro Martinez     R   7   2   2   0   0   1   0   3   0   0   0  .286  .375  .571 
+Jose Mesa          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Brad Radke         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Rick Reed          R   9   1   0   0   1   0   0   1   0   0   1  .111  .100  .444 
+Curt Schilling     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Shawn Sedlacek     R   2   0   0   0   0   2   1   1   0   0   0  .000  .500  .000 
+Kevin Tapani       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Julian Tavarez     R   7   2   2   0   0   1   0   0   0   0   0  .286  .375  .571 
+Javier Vazquez     R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Tim Wakefield      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Wilson        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Dan Wright         R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000

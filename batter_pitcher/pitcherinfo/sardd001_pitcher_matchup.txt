@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fausto Carmona     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Danks         L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jair Jurrjens      R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Cliff Lee          L   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Jon Niese          L   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250

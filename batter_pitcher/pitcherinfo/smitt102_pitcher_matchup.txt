@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Ray Bare           R   4   2   0   1   0   1   0   0   0   0   0  .500  .600 1.000 
+Gary Beare         R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Doug Bird          R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Bert Blyleven      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tommy Boggs        R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Nelson Briles      R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Campbell      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Colborn        R  11   5   1   0   0   0   0   0   0   0   0  .455  .455  .545 
+Pat Dobson         R   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Dock Ellis         R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Mark Fidrych       R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 
+Al Fitzmorris      R   7   1   0   0   0   1   1   1   0   1   0  .143  .250  .143 
+Wayne Garland      R   8   5   1   0   1   0   0   0   0   0   0  .625  .625 1.125 
+Dave Goltz         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bart Johnson       R   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Jim Palmer         R   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Marty Pattin       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Gaylord Perry      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dick Pole          R   6   0   0   0   0   0   0   1   1   0   1  .000  .125  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+E. Rodriguez       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Gary Ross          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Nolan Ryan         R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Jim Slaton         R  10   2   0   0   0   1   0   0   0   0   0  .200  .273  .200 
+Mel Stottlemyre    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Luis Tiant         R  13   2   1   0   1   0   0   1   0   0   0  .154  .154  .462 
+Mike Torrez        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rick Wise          R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250

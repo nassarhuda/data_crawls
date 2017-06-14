@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Armstrong     R   6   1   0   0   0   0   0   1   0   2   0  .167  .167  .167 
+Steve Avery        L   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Bobby Ayala        R   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Brian Barnes       L  10   2   0   0   1   0   0   4   0   0   0  .200  .200  .500 
+Buddy Black        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Oil Can Boyd       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Frank Castillo     R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Rheal Cormier      L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jim Deshaies       L   9   2   0   0   0   1   0   4   0   0   0  .222  .300  .222 
+Doug Drabek        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Dave Eiland        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kevin Gross        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Orel Hershiser     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Ken Hill           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Magrane        L   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Mike Morgan        R   6   2   0   0   0   1   0   3   0   1   0  .333  .429  .333 
+Armando Reynoso    R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+John Smiley        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Zane Smith         L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Swift         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Randy Tomlin       L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250

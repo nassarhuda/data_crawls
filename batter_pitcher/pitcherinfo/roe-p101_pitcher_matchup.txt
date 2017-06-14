@@ -1,0 +1,73 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Red Barrett        R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 i
+Vern Bickford      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ewell Blackwell    R  10   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Hank Borowy        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Roger Bowman       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Cloyd Boyer        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Brazle          L   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Harry Brecheen     L   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Jack Brewer        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Cliff Chambers     L   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Bob Chipman        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bubba Church       R  10   1   0   0   0   1   0   2   0   2   0  .100  .182  .100 
+Mike Clark         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Derringer     R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Murry Dickson      R   8   2   0   0   0   1   0   4   0   1   0  .250  .333  .250 
+Monk Dubiel        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eddie Erautt       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Paul Erickson      R   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 
+Harry Feldman      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Howie Fox          R  10   1   0   0   0   1   0   5   0   0   0  .100  .182  .100 
+Bob Friend         R   5   3   1   0   0   0   0   0   0   1   0  .600  .600  .800 
+Ruben Gomez        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hal Gregg          R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Warren Hacker      R   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Harvey Haddix      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Hall           R   8   3   0   0   1   3   0   3   0   0   0  .375  .545  .750 
+Andy Hansen        R   6   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 i
+Clint Hartung      R   5   0   0   0   0   1   0   4   0   1   0  .000  .167  .000 
+Art Herring        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Larry Jansen       R  10   1   0   0   0   0   0   0   0   2   0  .100  .100  .100 
+Sheldon Jones      R  11   2   0   0   0   1   0   0   0   1   0  .182  .250  .182 
+Al Jurisich        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Bob Kelly          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Monty Kennedy      L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Konstanty      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dave Koslo         L   5   2   0   0   0   1   0   1   0   1   0  .400  .500  .400 
+Max Lanier         L   9   2   0   0   0   0   0   2   0   2   0  .222  .222  .222 
+Dutch Leonard      R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Sal Maglie         R  11   0   0   0   0   1   0   5   0   0   0  .000  .083  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rube Melton        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Russ Meyer         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Miller         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Paul Minner        L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Red Munger         R  14   3   0   0   0   0   0   6   0   0   0  .214  .214  .214 i
+Chet Nichols       L   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+Bud Podbielan      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tom Poholsky       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Pollet       L  20   2   0   0   0   1   0   7   0   2   0  .100  .143  .100 
+Joe Presko         R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+K. Raffensberger   L  13   2   0   0   0   1   0   3   0   2   0  .154  .214  .154 
+Willie Ramsdell    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Robin Roberts      R   9   1   0   0   0   1   0   1   0   1   0  .111  .200  .111 
+Bob Rush           R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Johnny Sain        R  19   2   0   0   0   0   0   6   0   3   0  .105  .105  .105 
+Johnny Schmitz     L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Frank Smith        R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Warren Spahn       L  17   2   0   0   0   2   0   7   0   0   0  .118  .211  .118 
+George Spencer     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Gerry Staley       R  19   1   0   0   0   0   0   8   0   0   0  .053  .053  .053 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Max Surkont        R   4   1   0   0   0   0   0   1   0   2   0  .250  .250  .250 
+Jim Tobin          R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Bill Voiselle      R   9   1   0   0   0   1   0   4   0   0   0  .111  .200  .111 
+Bucky Walters      R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Herm Wehmeier      R  33   2   0   0   0   1   0  15   0   3   0  .061  .088  .061 
+Ted Wilks          R  11   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Jim Wilson         R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Ed Wright          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hank Wyse          R   5   1   0   0   0   1   0   2   0   2   0  .200  .333  .200 i

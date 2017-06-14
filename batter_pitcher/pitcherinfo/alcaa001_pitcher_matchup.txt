@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+M. Bumgarner       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Gerrit Cole        R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Michael Fiers      R   5   1   1   0   0   0   0   4   0   0   0  .200  .200  .400 
+Yohan Flande       L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Yovani Gallardo    R   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Brandon Kintzler   R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+John Lackey        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jordan Lyles       R   6   1   0   0   1   0   0   2   0   0   0  .167  .167  .667 
+Wade Miley         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Shelby Miller      R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Minor         L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jimmy Nelson       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Wily Peralta       R   6   3   1   1   0   0   0   2   0   0   0  .500  .500 1.000 
+Hyun-Jin Ryu       L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Alfredo Simon      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Julio Teheran      R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500 
+Adam Wainwright    R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167

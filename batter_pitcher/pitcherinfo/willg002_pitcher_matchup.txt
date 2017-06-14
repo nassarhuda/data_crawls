@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   7   2   2   0   0   1   0   0   0   0   0  .286  .375  .571 
+Kevin Appier       R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Roger Bailey       R   2   1   1   0   0   3   0   0   0   0   0  .500  .800 1.000 
+James Baldwin      R   3   1   0   0   0   5   0   0   0   0   0  .333  .750  .333 
+Ricky Bones        R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Norm Charlton      L   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+David Cone         R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Rheal Cormier      L   4   2   1   0   0   1   0   2   0   0   0  .500  .600  .750 
+Mike Fetters       R   2   1   0   0   1   2   1   1   0   0   0  .500  .750 2.000 
+Chuck Finley       L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Kevin Gross        R   6   0   0   0   0   1   0   3   0   0   1  .000  .125  .000 
+Ryan Hancock       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Chris Haney        L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Pat Hentgen        R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 
+Orel Hershiser     R   4   3   1   0   0   1   0   1   1   0   0  .750  .833 1.000 
+Mike James         R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Randy Johnson      L   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Scott Karl         L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Felipe Lira        R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 
+Jack McDowell      R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Montgomery    R   6   2   1   0   0   0   0   3   0   0   0  .333  .333  .500 
+Jamie Moyer        L   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Charles Nagy       R   4   2   0   0   0   0   0   1   1   0   0  .500  .600  .500 
+Jeff Nelson        R   4   3   1   0   1   0   0   0   0   0   0  .750  .750 1.750 
+Omar Olivares      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Roger Pavlik       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Robert Person      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Andy Pettitte      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Paul Quantrill     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Brad Radke         R   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Todd Ritchie       R   4   2   1   0   1   0   0   2   0   0   0  .500  .500 1.500 
+Mariano Rivera     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rich Robertson     L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+F. Rodriguez       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Kenny Rogers       L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jose Rosado        L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Julio Santana      R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Salomon Torres     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Allen Watson       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Wetteland     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Whiteside     R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Bob Wickman        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bobby Witt         R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 
+Bob Wolcott        R   5   1   0   0   0   0   0   1   0   0   1  .200  .167  .200

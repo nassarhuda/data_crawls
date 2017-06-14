@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Mogridge    L   8   3   0   0   0   0   0   0   0   1   0  .375  .375  .375 i
+Eddie Rommel       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Paul Zahniser      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

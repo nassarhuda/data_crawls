@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Hal Carlson        R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Pete Donohue       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jumbo Elliott      L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Alex Ferguson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Kolp           R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ray Kremer         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jakie May          L   5   2   0   0   0   2   0   1   1   0   0  .400  .625  .400 i
+Lee Meadows        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Johnny Miljus      R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Hub Pruett         L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Eppa Rixey         L  12   4   1   0   0   0   0   1   0   0   0  .333  .333  .417 
+Jack Scott         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Sherdel       L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dutch Ulrich       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

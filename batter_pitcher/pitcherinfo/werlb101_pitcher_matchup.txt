@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rex Barney         R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Ewell Blackwell    R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Ralph Branca       R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Howie Fox          R   6   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Bob Hall           R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Larry Jansen       R  10   4   1   0   0   1   0   2   0   0   0  .400  .455  .500 
+Sheldon Jones      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Russ Meyer         R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Paul Minner        L   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Don Newcombe       R  13   2   0   0   0   0   0   1   0   0   0  .154  .154  .154 
+Erv Palica         R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+K. Raffensberger   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Johnny Sain        R   8   1   0   0   0   2   0   1   0   0   0  .125  .300  .125 
+Frank Smith        R   4   2   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Warren Spahn       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Gerry Staley       R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Bill Voiselle      R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Herm Wehmeier      R   9   2   0   0   0   1   0   3   0   0   0  .222  .300  .222 
+Ted Wilks          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gerrit Cole        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Matt Garza         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Kyle Hendricks     R   5   3   1   0   0   0   0   1   1   0   0  .600  .667  .800 
+Jon Lester         L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+F. Liriano         L   8   3   1   0   1   2   0   2   0   0   0  .375  .500  .875 
+Kyle Lohse         R   5   1   0   0   1   0   0   3   0   0   0  .200  .200  .800 
+Jacob Turner       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Travis Wood        L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vance Worley       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Alexander     R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 i
+Ed Appleton        R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Joe Conzelman      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jack Coombs        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Harry Coveleski    L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Doak          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Dan Griner         R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 i
+Otto Hess          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Hughes         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bert Humphries     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill James         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Lee Meadows        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pol Perritt        R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 i
+Ed Reulbach        R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Dick Rudolph       R  12   2   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jeff Tesreau       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Tyler        L  13   2   0   0   0   0   0   4   0   1   0  .154  .154  .154 i

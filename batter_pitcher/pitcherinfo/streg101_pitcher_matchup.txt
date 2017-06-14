@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chief Bender       R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 i
+Elmer Brown        R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Bob Groom          R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 i
+Walter Johnson     R   9   2   1   0   0   1   0   0   0   0   0  .222  .300  .333 i
+Eddie Plank        L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hippo Vaughn       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Smoky Joe Wood     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

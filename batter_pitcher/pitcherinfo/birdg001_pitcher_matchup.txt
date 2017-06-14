@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Archer       R   5   2   2   0   0   1   0   1   0   0   0  .400  .500  .800 
+Trevor Bauer       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Marco Estrada      R   8   1   1   0   0   0   0   3   0   0   0  .125  .125  .250 
+Ubaldo Jimenez     R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jake Odorizzi      R   5   2   0   0   2   1   0   2   0   0   0  .400  .500 1.600 
+Rick Porcello      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+David Price        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+E. Rodriguez       L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333

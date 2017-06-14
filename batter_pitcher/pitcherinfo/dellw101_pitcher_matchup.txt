@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Jesse Barnes       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Larry Cheney       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Gene Dale          R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Claude Hendrix     R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 i
+Joe Oeschger       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dick Rudolph       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Slim Sallee        L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Jeff Tesreau       R   8   0   0   0   0   1   0   4   0   0   0  .000  .111  .000

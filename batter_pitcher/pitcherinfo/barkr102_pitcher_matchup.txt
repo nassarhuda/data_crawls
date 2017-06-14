@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Bennett     L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Dave Boswell       R   7   1   0   0   1   0   0   3   0   0   0  .143  .143  .571 
+Wally Bunker       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Dean Chance        R   9   1   0   0   0   1   1   0   0   0   0  .111  .200  .111 
+Joe Coleman        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Arnold Earley      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Eddie Fisher       R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Mudcat Grant       R   6   2   2   0   0   0   0   1   0   0   0  .333  .333  .667 
+Dick Hall          R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jim Hannan         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Joe Horlen         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Kaat           L  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ron Kline          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Bob Lee            R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jim Lonborg        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Denny McLain       R   8   2   0   0   2   0   0   4   0   0   0  .250  .250 1.000 
+Don McMahon        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jim Merritt        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Stu Miller         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+B. Monbouquette    R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Morehead      R   8   2   0   0   1   3   0   1   0   0   0  .250  .455  .625 
+Buster Narum       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+John O'Donoghue    L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Milt Pappas        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Gary Peters        L   4   0   0   0   0   0   0   1   1   1   0  .000  .200  .000 
+Dick Radatz        R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Pete Richert       L   9   2   1   0   0   0   0   5   0   0   0  .222  .222  .333 
+Robin Roberts      R   3   1   0   0   0   1   1   1   0   0   0  .333  .500  .333 
+Jack Sanford       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jose Santiago      R   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Diego Segui        R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Rollie Sheldon     R   9   1   0   0   0   1   0   0   0   0   0  .111  .200  .111 
+Sonny Siebert      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Sparma         R   6   1   0   0   1   1   0   1   0   0   0  .167  .286  .667 
+Lee Stange         R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Wes Stock          R   2   0   0   0   0   1   0   2   1   0   0  .000  .500  .000 
+Fred Talbot        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Luis Tiant         R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Earl Wilson        R   6   4   1   0   1   1   0   0   0   0   0  .667  .714 1.333 
+Al Worthington     R   6   3   1   0   0   1   0   2   0   0   0  .500  .571  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Wyatt         R   3   0   0   0   0   2   2   1   0   0   0  .000  .400  .000

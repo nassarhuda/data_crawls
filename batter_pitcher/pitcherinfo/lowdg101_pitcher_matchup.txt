@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bullet Joe Bush    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Fritz Coumbe       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Harry Coveleski    L   4   1   0   1   0   1   0   1   0   0   0  .250  .400  .750 i
+Hooks Dauss        R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Jean Dubuc         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Ray Fisher         R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jing Johnson       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Sad Sam Jones      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Scott Perry        R   9   2   1   0   0   0   0   3   0   0   0  .222  .222  .333 
+Weldon Wyckoff     R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 i

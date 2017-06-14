@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Ryan Dempster      R   8   3   0   0   0   1   0   4   0   0   0  .375  .444  .375 
+R.A. Dickey        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Aaron Harang       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Dan Haren          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Lannan        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Tim Lincecum       R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Chris Narveson     L   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Brad Penny         R   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Anibal Sanchez     R   4   2   0   0   0   0   0   0   1   0   0  .500  .600  .500 
+Carlos Silva       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Adam Wainwright    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Barry Zito         L   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000

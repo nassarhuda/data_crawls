@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Bennett     L   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Dave Boswell       R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+George Brunet      L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Wally Bunker       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Jim Coates         R   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Casey Cox          R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Al Downing         L   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Hank Fischer       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Whitey Ford        L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Tommy John         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jim Kaat           L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Dick Lines         L   4   1   1   0   0   3   1   2   0   0   0  .250  .571  .500 
+Marcelino Lopez    L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Mike McCormick     L   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 
+Sam McDowell       L   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Don McMahon        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Merritt        L  10   3   2   0   0   0   0   3   0   0   0  .300  .300  .500 
+Barry Moore        L  12   1   0   0   0   1   0   0   0   0   0  .083  .154  .083 
+Orlando Pena       R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Gary Peters        L   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fritz Peterson     L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Johnny Podres      L   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Pedro Ramos        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pete Richert       L   8   0   0   0   0   3   0   2   0   0   0  .000  .273  .000 
+Rollie Sheldon     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Joe Sparma         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Mel Stottlemyre    R  11   4   1   0   0   0   0   0   0   0   0  .364  .364  .455 
+Fred Talbot        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+John Wyatt         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

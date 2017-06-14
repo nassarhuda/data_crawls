@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   6   1   0   0   1   2   0   2   0   0   0  .167  .375  .667 
+Ken Brett          L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Tom Burgmeier      L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Mike Caldwell      L   9   4   0   0   0   1   1   2   0   0   0  .444  .500  .444 
+David Clyde        L   8   3   1   1   0   0   0   3   0   0   0  .375  .375  .750 
+Mike Flanagan      L   8   0   0   0   0   1   0   0   0   1   0  .000  .111  .000 
+Ron Guidry         L  11   2   0   0   0   2   0   3   0   0   0  .182  .308  .182 
+Larry Gura         L  10   3   1   0   2   3   0   0   0   0   0  .300  .462 1.000 
+Andy Hassler       L   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400 
+Dave Heaverlo      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Rich Hinton        L   9   5   0   0   0   1   0   2   0   1   0  .556  .600  .556 
+Rick Honeycutt     L   9   3   1   0   0   0   0   2   0   0   0  .333  .333  .444 
+Don Hood           L   3   1   0   0   1   2   0   0   0   0   0  .333  .600 1.333 
+Tom House          L   9   4   1   0   0   0   0   1   0   0   0  .444  .444  .556 
+Al Hrabosky        L   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+Tommy John         L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerry Koosman      L   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Ken Kravec         L  15   4   0   0   0   6   0   4   0   0   0  .267  .476  .267 
+Bob Lacey          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Lee           L   6   1   0   0   0   0   0   0   0   0   1  .167  .143  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sparky Lyle        L   2   1   1   0   0   1   0   0   0   1   0  .500  .667 1.000 
+Jon Matlack        L  10   0   0   0   0   2   0   2   0   0   0  .000  .167  .000 
+Scott McGregor     L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Doc Medich         R  10   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Sid Monge          L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+John Montague      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Balor Moore        L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Roger Moret        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jack Morris        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike Paxton        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Shane Rawley       L   2   0   0   0   0   2   0   0   0   0   1  .000  .400  .000 
+Paul Reuschel      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+E. Rodriguez       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Paul Splittorff    L  12   1   0   0   0   0   0   0   0   1   0  .083  .083  .083 
+Frank Tanana       L  13   6   3   0   0   2   0   0   0   0   0  .462  .533  .692 
+Bill Travers       L  13   3   1   0   0   0   0   1   0   0   1  .231  .214  .308 
+Steve Trout        L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jim Umbarger       L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Tom Underwood      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Rick Waits         L   4   1   0   0   0   3   0   1   0   0   0  .250  .571  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilbur Wood        L   8   1   0   0   0   2   0   0   0   0   0  .125  .300  .125 
+Rich Wortham       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Geoff Zahn         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

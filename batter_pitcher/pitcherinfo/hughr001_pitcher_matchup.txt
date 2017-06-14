@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A.J. Burnett       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+John Lackey        R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Tim Wakefield      R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750

@@ -1,0 +1,56 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+R. Aitchison       L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Pete Alexander     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Mack Allison       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Red Ames           R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+G. Baumgardner     R  10   2   0   0   0   0   0   3   0   1   0  .200  .200  .200 i
+Chief Bender       R  12   1   0   1   0   1   0   2   0   0   0  .083  .154  .250 i
+Rube Benton        L   9   2   0   0   0   2   0   3   0   0   0  .222  .364  .222 i
+Fred Blanding      R   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 i
+Carl Cashion       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Gene Cocreham      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ray Collins        L   2   0   0   0   0   3   0   0   0   0   0  .000  .600  .000 i
+Jack Coombs        R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Wilbur Cooper      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Al Demaree         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Bill Doak          R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Phil Douglas       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jean Dubuc         R   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Art Fromme         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Vean Gregg         L   6   2   0   0   0   1   0   0   1   0   0  .333  .500  .333 i
+Dan Griner         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Groom          R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Charley Hall       R   6   0   0   0   0   1   0   1   0   1   0  .000  .143  .000 i
+Earl Hamilton      L   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 
+Bob Harmon         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Tom Hughes         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Elmer Jacobs       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill James         R  11   1   0   0   0   1   0   1   1   0   0  .091  .231  .091 
+Walter Johnson     R   4   0   0   0   0   0   0   1   2   0   0  .000  .333  .000 i
+George Kahler      R   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000 i
+Joe Lake           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jimmy Lavender     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Al Mamaux          R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+C. Mathewson       R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+George McQuillan   R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Roy Mitchell       R   2   0   0   0   0   1   0   0   1   0   0  .000  .500  .000 
+George Mogridge    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Mullin      R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Joe Oeschger       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hub Perdue         R  12   5   0   0   0   0   0   1   0   0   0  .417  .417  .417 i
+Pol Perritt        R  13   1   0   0   0   0   0   1   0   1   0  .077  .077  .077 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Pfeffer       R  13   4   0   1   0   2   0   0   0   0   0  .308  .400  .462 
+Jack Powell        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Pat Ragan          R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Ed Reulbach        R  14   2   0   0   0   3   0   2   0   0   0  .143  .294  .143 i
+Hank Robinson      L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 i
+Dick Rudolph       R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Pete Schneider     R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 i
+Jeff Tesreau       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hippo Vaughn       L  11   4   0   0   0   1   0   2   0   0   0  .364  .417  .364 i
+Dixie Walker       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Doc White          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Willett         R   4   0   0   0   0   3   0   0   0   1   0  .000  .429  .000 
+Earl Yingling      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i

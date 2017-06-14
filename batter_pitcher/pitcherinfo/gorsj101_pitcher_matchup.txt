@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 i
+Atley Donald       R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Bob Feller         R   8   4   0   0   0   1   0   2   0   0   0  .500  .556  .500 
+Orval Grove        R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mel Harder         R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Lum Harris         R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Dutch Leonard      R   5   2   0   2   0   0   0   0   0   0   0  .400  .400 1.200 
+Eddie Lopat        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Niggeling   R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Early Wynn         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i

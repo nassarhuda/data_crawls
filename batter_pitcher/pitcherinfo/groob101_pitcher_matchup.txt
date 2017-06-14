@@ -1,0 +1,41 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Mack Allison       R   7   0   0   0   0   1   0   4   0   2   0  .000  .125  .000 i
+Fred Anderson      R  13   4   0   1   0   1   0   4   0   0   0  .308  .357  .462 i
+G. Baumgardner     R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Hugh Bedient       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Ray Caldwell       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Nick Cullop        L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hooks Dauss        R  14   2   0   0   0   1   0   3   0   0   0  .143  .200  .143 i
+Iron Davis         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Cy Falkenberg      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Russ Ford          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bert Gallia        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Claude Hendrix     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pete Henning       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jing Johnson       R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+G. Kaiserling      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Elmer Knetzer      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Frank Lange        R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dutch Leonard      L   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 i
+Alex Main          R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+R. McConnaughey    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+George McConnell   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Roy Mitchell       R   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 i
+Willie Mitchell    L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Earl Moore         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Earl Moseley       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+George Mullin      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Elmer Myers        R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Buck O'Brien       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Eddie Plank        L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Jack Quinn         R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 i
+Clint Rogge        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Reb Russell        L   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 i
+Tom Sheehan        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Suggs       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Doc Watson         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kaiser Wilhelm     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ed Willett         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Smoky Joe Wood     R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 i

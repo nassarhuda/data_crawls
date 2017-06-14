@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Grady Adkins       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Ownie Carroll      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+George Earnshaw    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Grove        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Willis Hudlin      R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Sad Sam Jones      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Danny MacFayden    R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Herb Pennock       L   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Pipgras     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Augie Prudhomme    R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jack Quinn         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Red Ruffing        R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Joe Shaute         L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Tommy Thomas       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Elam Vangilder     R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Rube Walberg       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+John Wilson        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i

@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Armas         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Miguel Batista     R   4   1   0   0   0   1   1   1   0   0   0  .250  .400  .250 
+Matt Cain          R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Chris Carpenter    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Scott Cassidy      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Adam Eaton         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Sean Gallagher     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Glavine        L   3   2   0   0   0   1   0   1   0   1   0  .667  .750  .667 
+Aaron Harang       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Brad Hennessey     R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+O. Hernandez       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+D.J. Houlton       R   5   1   1   0   0   2   0   1   0   0   0  .200  .429  .400 
+Tim Hudson         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brian Lawrence     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jon Lieber         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Esteban Loaiza     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Ryan Madson        R   4   2   0   0   0   0   0   0   1   0   0  .500  .600  .500 
+Tomo Ohka          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Chan Ho Park       R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Jake Peavy         R   7   2   1   0   1   0   0   4   0   0   0  .286  .286  .857 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brad Penny         R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Nate Robertson     L   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Wandy Rodriguez    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jeff Suppan        R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Claudio Vargas     R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Jeff Weaver        R   6   1   0   0   0   1   0   1   1   0   0  .167  .375  .167 
+David Wells        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+David Williams     L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Chris Young        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Victor Zambrano    R   5   0   0   0   0   0   0   4   1   0   0  .000  .167  .000 
+Barry Zito         L   7   2   1   0   1   1   0   1   0   0   0  .286  .375  .857

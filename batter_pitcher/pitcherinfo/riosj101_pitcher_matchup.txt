@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Aker          R   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Frank Bertaina     L   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Gene Brabender     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+George Brunet      L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Joe Coleman        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Casey Cox          R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Mike Cuellar       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chuck Dobson       R  11   5   0   0   0   0   0   1   0   0   0  .455  .455  .455 
+Al Downing         L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+John Gelnar        R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Catfish Hunter     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Jim Kaat           L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+G. Lauzerique      R   4   3   1   0   0   0   0   0   1   0   0  .750  .800 1.000 
+Sam McDowell       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Tom Murphy         R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Marty Pattin       R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Gary Peters        L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Vicente Romo       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Diego Segui        R   5   1   0   0   0   1   1   1   0   0   0  .200  .333  .200 
+Earl Wilson        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Woodson       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

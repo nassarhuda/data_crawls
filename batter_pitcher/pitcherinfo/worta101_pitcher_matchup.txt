@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Buhl           R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Lew Burdette       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gene Conley        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Carl Erskine       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Art Fowler         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bob Friend         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Harvey Haddix      L   7   2   1   0   0   1   0   2   0   0   0  .286  .375  .429 
+Dick Hall          R   4   2   2   0   0   0   0   1   0   0   0  .500  .500 1.000 
+Ron Kline          R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Sandy Koufax       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Paul LaPalme       L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ken Lehman         L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Turk Lown          R   4   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Don McMahon        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Russ Meyer         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Stu Miller         R   1   0   0   0   0   1   0   1   0   2   0  .000  .500  .000 
+V. Mizell          L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Newcombe       R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Don Nottebart      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joe Nuxhall        L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Presko         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Robin Roberts      R   6   2   0   0   1   0   0   1   0   1   0  .333  .333  .833 
+Bob Rush           R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Warren Spahn       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Trowbridge     R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333

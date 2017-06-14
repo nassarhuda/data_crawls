@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Neal Cotts         L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Nathan Eovaldi     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Sonny Gray         R  10   2   1   0   0   1   0   1   0   0   0  .200  .273  .300 
+Jesse Hahn         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Felix Hernandez    R  12   1   0   0   0   1   0   2   0   0   0  .083  .154  .083 
+Hisashi Iwakuma    R   6   3   1   0   0   1   0   0   0   0   0  .500  .571  .667 
+Colby Lewis        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nick Martinez      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Collin McHugh      R  11   4   0   0   0   0   0   3   0   0   0  .364  .364  .364 
+Ricky Nolasco      R   4   2   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Bud Norris         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nick Tepesch       R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Chris Tillman      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Taijuan Walker     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Allen Webster      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Chris Young        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500

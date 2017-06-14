@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Howard Bailey      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tom Burgmeier      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Britt Burns        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Mike Caldwell      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry Gura         L  12   5   2   0   0   0   0   2   0   1   0  .417  .417  .583 
+Rick Honeycutt     L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Darrell Jackson    L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jerry Koosman      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jon Matlack        L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Paul Mirabella     L   4   1   0   0   1   1   0   2   0   0   0  .250  .400 1.000 
+Dan Schatzeder     L   1   0   0   0   0   3   1   0   0   1   0  .000  .750  .000 
+Paul Splittorff    L   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Dave Tobik         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Steve Trout        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rick Waits         L  13   3   0   0   0   1   0   1   0   0   0  .231  .286  .231

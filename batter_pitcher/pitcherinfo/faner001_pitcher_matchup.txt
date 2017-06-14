@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Jim Bullinger      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Chris Hammond      L   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Mike Hampton       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Darryl Kile        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jaime Navarro      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Pulsipher     L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Shane Reynolds     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+F. Valenzuela      L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Allen Watson       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500

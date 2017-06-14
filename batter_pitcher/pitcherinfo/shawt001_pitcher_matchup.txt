@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Archer       R   2   1   1   0   0   2   0   1   0   0   0  .500  .750 1.000 
+Mark Buehrle       L   5   4   0   0   0   0   0   0   0   0   0  .800  .800  .800 
+Kyle Crockett      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+R.A. Dickey        R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Kevin Gausman      R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Ubaldo Jimenez     R   4   0   0   0   0   1   0   2   1   0   0  .000  .333  .000 
+Corey Kluber       R   5   2   0   0   1   1   0   2   0   0   0  .400  .500 1.000 
+Brian Matusz       L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Matt Moore         L   7   5   1   0   1   1   0   0   0   0   0  .714  .750 1.286 
+Ivan Nova          R   5   3   0   0   1   1   0   1   0   0   0  .600  .667 1.200 
+Michael Pineda     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Salazar      R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Aaron Sanchez      R   4   0   0   0   0   2   1   0   0   0   0  .000  .333  .000 
+Drew Smyly         L   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 
+Masahiro Tanaka    R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800

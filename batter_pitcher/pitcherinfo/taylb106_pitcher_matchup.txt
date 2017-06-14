@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sandy Consuegra    R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Bob Feller         R   9   3   0   0   1   0   0   2   0   0   0  .333  .333  .667 
+Ned Garver         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ken Holcombe       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Bob Hooper         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Sid Hudson         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Fred Hutchinson    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Leo Kiely          L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Lou Kretlow        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Lemon          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Willard Nixon      R   7   3   0   0   0   1   0   2   0   0   0  .429  .500  .429 
+Mel Parnell        L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Bob Porterfield    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Vic Raschi         R   8   1   0   0   0   0   0   5   0   0   0  .125  .125  .125 
+Ray Scarborough    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Chuck Stobbs       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dizzy Trout        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Virgil Trucks      R   3   1   0   0   0   1   1   2   0   0   0  .333  .500  .333

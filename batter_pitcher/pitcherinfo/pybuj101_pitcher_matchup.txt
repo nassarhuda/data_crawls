@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Brewer         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Art Ceccarelli     L   5   1   0   1   0   2   0   0   0   0   0  .200  .429  .600 
+Ike Delock         R  10   1   0   0   0   3   0   5   0   0   0  .100  .308  .100 
+Bob Feller         R   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Whitey Ford        L  10   3   0   1   0   3   0   2   0   1   0  .300  .462  .500 
+Ned Garver         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bob Grim           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Gromek       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Harshman      L  25   5   0   0   0   1   0   1   0   1   0  .200  .231  .200 
+Billy Hoeft        L  11   3   0   0   1   2   0   2   0   0   0  .273  .385  .545 
+Alex Kellner       L  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Leo Kiely          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Lopat        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mickey McDermott   L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Don Mossi          L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Mel Parnell        L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Camilo Pascual     R  11   2   1   0   0   0   0   6   0   0   0  .182  .182  .273 
+Billy Pierce       L  19   2   0   0   0   4   0   8   0   0   0  .105  .261  .105 
+Bob Porterfield    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Johnny Schmitz     L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Herb Score         L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bobby Shantz       L   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Chuck Stobbs       L  13   3   0   1   0   2   0   0   0   0   0  .231  .333  .385 
+Dean Stone         L  18   4   0   0   0   3   0   2   0   0   1  .222  .318  .222 
+Tom Sturdivant     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Virgil Trucks      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Wiesler        L   5   1   1   0   0   1   0   1   0   0   1  .200  .286  .400 
+Early Wynn         R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143

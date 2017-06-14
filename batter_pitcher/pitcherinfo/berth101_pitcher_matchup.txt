@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cherokee Fisher    R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Bobby Mathews      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Dick McBride       R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John McMullin      L   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Al Pratt           R  13   4   0   0   0   0   0   0   0   0   0  .308  .308  .308 
+Al Spalding        R  18   4   0   0   0   1   0   1   0   0   0  .222  .263  .222 
+Rynie Wolters      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Zettlein    R  10   2   0   1   0   0   0   0   0   0   0  .200  .200  .400 i

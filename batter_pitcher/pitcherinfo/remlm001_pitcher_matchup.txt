@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Bobby Jones        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Scott Karl         L   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Greg Maddux        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ramon Martinez     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kurt Miller        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

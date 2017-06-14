@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Baumgartner   L   3   2   0   0   0   0   0   0   1   1   0  .667  .750  .667 
+Sarge Connally     R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+James Edwards      L   6   1   1   0   0   1   0   1   1   0   0  .167  .375  .333 i
+Howard Ehmke       R  13   4   1   0   0   1   0   5   1   2   0  .308  .400  .385 
+Red Faber          R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Sam Gray           R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Lefty Grove        L  11   1   1   0   0   3   0   2   0   0   0  .091  .286  .182 
+Jesse Haines       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ken Holloway       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Waite Hoyt         R  13   2   1   0   0   2   0   0   0   0   0  .154  .267  .231 i
+Walter Johnson     R   9   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Sad Sam Jones      R   6   2   0   0   1   1   0   3   0   0   0  .333  .429  .833 i
+Benn Karr          R   7   1   0   0   0   0   0   2   1   1   0  .143  .250  .143 i
+Dutch Leonard      L   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Hod Lisenbee       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ted Lyons          R  10   2   1   0   0   0   0   2   0   0   0  .200  .200  .300 i
+Herb Pennock       L  10   3   1   0   0   0   0   0   0   0   0  .300  .300  .400 i
+George Pipgras     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jack Quinn         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eddie Rommel       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Buster Ross        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Dutch Ruether      L   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Joe Shaute         L  18   1   0   0   0   3   0   2   0   2   0  .056  .190  .056 
+Urban Shocker      R  15   3   0   0   0   1   0   1   0   0   0  .200  .250  .200 i
+Sherry Smith       L   8   1   0   1   0   0   0   0   0   0   0  .125  .125  .375 i
+Sloppy Thurston    R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+George Uhle        R   8   0   0   0   0   0   0   3   1   0   0  .000  .111  .000 
+Ed Wells           L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Tom Zachary        L  13   5   1   1   0   1   0   0   0   0   0  .385  .429  .615 
+Paul Zahniser      R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167

@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Don Black          R   9   2   0   1   0   0   0   3   0   0   0  .222  .222  .444 
+Marv Breuer        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bill Dietrich      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Red Embree         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Orval Grove        R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Lum Harris         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Joe Haynes         R   3   2   0   1   0   0   0   1   0   2   0  .667  .667 1.333 i
+Al Hollingsworth   L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Johnny Humphries   R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dutch Leonard      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Les Mueller        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Bob Muncrief       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Hal Newhouser      L  12   1   0   0   0   0   0   4   0   2   0  .083  .083  .083 i
+Dick Newsome       R   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 i
+Nels Potter        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Marius Russo       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jake Wade          L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Roger Wolff        R   7   2   0   1   0   0   0   2   0   0   0  .286  .286  .571

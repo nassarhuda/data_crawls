@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Gray           L   4   0   0   0   0   4   0   2   0   1   0  .000  .500  .000 
+Bob Hooper         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Alex Kellner       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eddie Lopat        L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Connie Marrero     R   3   2   2   0   0   2   0   1   0   0   0  .667  .800 1.333 
+Carl Scheib        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bill Wight         L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Sam Zoldak         L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400

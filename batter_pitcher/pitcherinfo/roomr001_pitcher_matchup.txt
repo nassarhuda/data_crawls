@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Acker          R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Juan Agosto        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Tim Belcher        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Jeff Brantley      R   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Jose Cano          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dennis Cook        L  10   2   0   0   0   0   0   4   0   0   1  .200  .182  .200 
+Ron Darling        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Deshaies       L  15   4   1   0   0   0   0   3   0   0   0  .267  .267  .333 
+Mark Eichhorn      R   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Sid Fernandez      L  16   5   2   0   0   0   0   4   0   0   0  .313  .313  .438 
+Bob Forsch         R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Scott Garrelts     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tom Glavine        L  13   2   0   0   0   1   0   5   0   0   0  .154  .214  .154 
+Mark Grant         R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Greg Harris        R   5   3   0   0   1   0   0   2   1   0   0  .600  .667 1.200 
+Neal Heaton        L   7   3   0   1   0   0   0   1   0   0   0  .429  .429  .714 
+Ricky Horton       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Howell         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bruce Hurst        L  10   4   1   0   0   0   0   3   0   0   0  .400  .400  .500 
+Danny Jackson      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Randy Johnson      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Paul Kilgus        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Kipper         L   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Mark Langston      L   6   0   0   0   0   1   0   4   0   0   0  .000  .143  .000 
+Craig Lefferts     L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Derek Lilliquist   L  12   6   3   0   0   0   0   2   0   0   1  .500  .462  .750 
+Greg Maddux        R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+Joe Magrane        L  15   4   1   0   0   0   0   3   0   0   0  .267  .267  .333 
+Larry McWilliams   L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Terry Mulholland   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Ojeda          L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Dennis Rasmussen   L   6   1   1   0   0   1   0   2   1   0   0  .167  .375  .333 
+Rick Rhoden        R   7   2   1   0   0   1   0   2   0   0   0  .286  .375  .429 
+Jeff Robinson      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bruce Ruffin       L   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 
+Calvin Schiraldi   R   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+John Smiley        L   7   2   0   0   1   0   0   5   0   0   0  .286  .286  .714 
+Pete Smith         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Zane Smith         L   7   4   0   0   1   0   0   0   0   0   0  .571  .571 1.000 
+John Tudor         L   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+F. Valenzuela      L  12   3   0   0   0   1   0   6   0   0   0  .250  .308  .250 
+Frank Viola        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mitch Williams     L   5   2   0   1   0   0   0   2   0   0   0  .400  .400  .800

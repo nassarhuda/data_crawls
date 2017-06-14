@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Miguel Batista     R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Kris Benson        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mark Clark         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Omar Daal          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Fassero       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Mark Gardner       R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bobby Jones        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Al Leiter          L   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Greg Maddux        R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Steve Parris       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Carlos Perez       L   4   2   0   0   0   0   0   2   0   0   1  .500  .400  .500 
+Armando Reynoso    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+J. Simontacchi     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Suppan        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ivy Andrews        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tommy Bridges      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+General Crowder    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+George Earnshaw    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Milt Gaston        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Lefty Gomez        L   6   1   0   1   0   0   0   1   0   0   0  .167  .167  .500 
+Lefty Grove        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hod Lisenbee       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Danny MacFayden    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Wilcy Moore        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Herb Pennock       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Eddie Rommel       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Red Ruffing        R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Jack Russell       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Ed Walsh           R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Earl Whitehill     L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429

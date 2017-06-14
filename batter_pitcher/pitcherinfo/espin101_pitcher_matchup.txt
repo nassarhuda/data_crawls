@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Neil Allen         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bruce Berenyi      R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Bert Blyleven      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Ray Burris         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Candelaria    L   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Carlton      L   5   1   0   0   0   1   0   2   0   2   0  .200  .333  .200 
+John Curtis        L   2   1   1   0   0   2   0   1   0   0   0  .500  .750 1.000 
+Tom Dixon          R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Pete Falcone       L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bob Forsch         R   3   1   1   0   0   1   0   2   0   0   0  .333  .500  .667 
+Preston Hanna      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Burt Hooton        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bruce Kison        R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Bill Lee           L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Randy Lerch        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rudy May           L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Lynn McGlothen     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Phil Niekro        R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fred Norman        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gaylord Perry      R   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Eric Rasmussen     R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Doug Rau           L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Rick Reuschel      R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jerry Reuss        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Don Robinson       R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Steve Rogers       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Eddie Solomon      R   6   2   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Pat Zachry         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

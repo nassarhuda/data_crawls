@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Pete Alexander     R  15   5   1   0   0   0   0   2   0   0   0  .333  .333  .400 i
+Frank Allen        L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Red Ames           R   6   1   0   1   0   2   0   0   0   0   0  .167  .375  .500 i
+Ad Brennan         L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Larry Cheney       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Wilbur Cooper      L   9   2   0   0   0   2   0   1   0   0   0  .222  .364  .222 i
+Al Demaree         R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 i
+Bill Doak          R  11   3   1   0   0   0   0   2   0   0   0  .273  .273  .364 i
+Phil Douglas       R   7   2   0   1   0   1   0   4   0   0   0  .286  .375  .571 i
+Art Fromme         R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Dan Griner         R   7   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 i
+Bob Harmon         R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Chief Johnson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Erv Kantlehner     L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+King Lear          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Al Mamaux          R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Rube Marquard      L  12   3   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Rube Marshall      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+C. Mathewson       R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Marty O'Toole      R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Orval Overall      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Hub Perdue         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Pol Perritt        R   7   1   0   0   0   0   0   0   1   0   0  .143  .250  .143 i
+George Pierce      L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Ed Reulbach        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Eppa Rixey         L  11   2   1   0   0   1   0   2   0   1   0  .182  .250  .273 i
+Hank Robinson      L  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 i
+Nap Rucker         L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Tom Seaton         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Sherry Smith       L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Eddie Stack        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+George Suggs       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jeff Tesreau       R  11   2   2   0   0   1   0   4   0   1   0  .182  .250  .364 i
+Fred Toney         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hippo Vaughn       L   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 i
+Earl Yingling      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lloyd Brown        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Wes Ferrell        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Lefty Grove        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Oral Hildebrand    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Johnny Marcum      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bobo Newsom        R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Monte Pearson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Red Ruffing        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rube Walberg       L   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333

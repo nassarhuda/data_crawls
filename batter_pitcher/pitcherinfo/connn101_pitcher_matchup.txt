@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Asa Brainard       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cherokee Fisher    R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Rynie Wolters      R  11   1   0   0   0   0   0   0   0   0   0  .091  .091  .091 
+George Zettlein    R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333

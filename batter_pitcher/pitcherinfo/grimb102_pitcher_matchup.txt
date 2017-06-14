@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Brown          R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Jim Bunning        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jack Harshman      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Billy Hoeft        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Barry Latman       R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Duke Maas          R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Morrie Martin      L   4   2   0   0   1   0   0   2   0   1   0  .500  .500 1.250 
+Mickey McDermott   L   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 
+Herb Moford        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Willard Nixon      R   8   1   0   0   1   0   0   1   1   1   0  .125  .222  .500 
+Camilo Pascual     R   2   0   0   0   0   0   0   1   0   4   0  .000  .000  .000 
+Billy Pierce       L   4   1   0   0   0   1   0   3   0   1   0  .250  .400  .250 
+Pedro Ramos        R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Art Schallock      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Shaw           R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Chuck Stobbs       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Wilson         R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Early Wynn         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+George Zuverink    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

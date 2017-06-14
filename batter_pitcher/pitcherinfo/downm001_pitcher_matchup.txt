@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000 
+M. Bumgarner       L   7   2   0   0   0   1   0   1   1   0   0  .286  .444  .286 
+Trevor Cahill      R   4   3   1   0   0   0   0   0   0   1   0  .750  .750 1.000 
+Chris Capuano      L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Aroldis Chapman    L   6   0   0   0   0   0   0   5   1   0   0  .000  .143  .000 
+Casey Coleman      R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Johnny Cueto       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+R.A. Dickey        R   5   2   0   0   2   0   0   0   0   0   0  .400  .400 1.600 
+Yovani Gallardo    R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jaime Garcia       L   7   3   0   0   1   1   0   1   0   0   0  .429  .500  .857 
+Gio Gonzalez       L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Cole Hamels        L   7   3   1   0   1   1   0   2   1   0   0  .429  .556 1.000 
+Tommy Hanson       R   5   2   1   0   1   1   0   1   0   0   0  .400  .500 1.200 
+Derek Holland      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jeff Karstens      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Clayton Kershaw    L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Mat Latos          R  11   1   0   0   1   2   0   2   0   0   0  .091  .231  .364 
+Colby Lewis        R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Rodrigo Lopez      R   7   2   2   0   0   0   0   2   0   0   0  .286  .286  .571 
+Derek Lowe         R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Maholm        L  10   3   0   0   0   0   0   0   1   0   0  .300  .364  .300 
+Carlos Marmol      R   2   1   1   0   0   3   0   1   0   0   0  .500  .800 1.000 
+Sean Marshall      L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Vin Mazzaro        R   4   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Charlie Morton     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Logan Ondrusek     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Clayton Richard    L  12   4   0   0   3   0   0   1   0   0   0  .333  .333 1.083 
+Wandy Rodriguez    L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Anibal Sanchez     R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Edinson Volquez    R   3   1   0   0   0   1   0   0   0   0   1  .333  .400  .333 
+Ryan Webb          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Travis Wood        L   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 
+Carlos Zambrano    R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500

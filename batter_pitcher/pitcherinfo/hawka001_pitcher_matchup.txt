@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Browning       L   5   0   0   0   0   0   0   5   0   4   0  .000  .000  .000 
+Marty Bystrom      R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Steve Carlton      L   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Danny Cox          R   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+Ron Darling        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jose DeLeon        R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+John Denny         R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Bob Forsch         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Orel Hershiser     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Hesketh        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Bob Knepper        L   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mike LaCoss        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave LaPoint       L  10   1   0   0   0   0   0   1   0   2   0  .100  .100  .100 
+Rick Mahler        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Craig McMurtry     R   4   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Larry McWilliams   L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Niekro         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+David Palmer       R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Charlie Puleo      R   2   0   0   0   0   2   0   0   0   1   0  .000  .500  .000 
+Shane Rawley       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Reuschel      R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Jerry Reuss        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Steve Rogers       R  12   2   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Nolan Ryan         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Scott Sanderson    R   7   1   0   0   0   0   0   1   0   2   0  .143  .143  .143 
+Dan Schatzeder     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Scott         R   6   1   0   0   0   0   0   2   0   0   1  .167  .143  .167 
+Bryn Smith         R   9   4   0   0   0   0   0   1   0   0   0  .444  .444  .444 
+Zane Smith         L   8   0   0   0   0   2   0   1   0   2   0  .000  .200  .000 
+Mario Soto         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rick Sutcliffe     R  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jay Tibbs          R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+John Tudor         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Welch          R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Floyd Youmans      R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Baumgartner   L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bert Cole          L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Mike Cvengros      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Dave Danforth      L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 i
+Dixie Davis        R   7   2   0   1   0   1   0   1   0   0   0  .286  .375  .571 
+Red Faber          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Fred Heimach       L  12   3   2   0   0   1   0   0   0   1   0  .250  .308  .417 i
+Ray Kolp           R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Dixie Leverett     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Roy Meeker         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+George Mogridge    L   6   1   1   0   0   3   0   0   0   1   0  .167  .444  .333 i
+Herb Pennock       L   7   3   1   0   0   1   0   1   0   0   0  .429  .500  .571 i
+Herman Pillette    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hub Pruett         L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 i
+Jimmy Ring         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Urban Shocker      R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 i
+Elam Vangilder     R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 i
+Rube Walberg       L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Rasty Wright       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Tom Zachary        L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i

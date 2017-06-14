@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rene Arocha        R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Andy Ashby         R   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Pedro Astacio      R   7   2   0   0   0   0   0   3   0   1   0  .286  .286  .286 
+Steve Avery        L   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Andy Benes         R   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 
+Ryan Bowen         R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Doug Brocail       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+John Burkett       R   5   2   2   0   0   2   0   1   0   0   0  .400  .571  .800 
+Tom Candiotti      R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Doug Drabek        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jeff Fassero       L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Sid Fernandez      L   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Tom Glavine        L   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Tommy Greene       R   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Jose Guzman        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Chris Hammond      L   6   1   0   1   0   0   0   4   0   0   0  .167  .167  .500 
+Pete Harnisch      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Gil Heredia        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Orel Hershiser     R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bryan Hickerson    L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Hope          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Danny Jackson      L  11   2   0   0   0   2   0   2   0   0   0  .182  .308  .182 
+Bobby Jones        R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Larry Luebbers     R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Ramon Martinez     R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Roger Mason        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Greg McMichael     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Morgan        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Mark Portugal      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pat Rapp           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shane Reynolds     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ben Rivera         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+John Roper         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Kirk Rueter        L   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Curt Schilling     R   6   3   0   0   1   0   0   3   0   0   0  .500  .500 1.000 
+Pete Schourek      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Smoltz        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Bill Swift         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Greg Swindell      L   6   0   0   0   0   2   1   1   0   0   0  .000  .250  .000 
+Bob Tewksbury      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Trachsel     R   6   2   0   0   1   1   0   1   0   0   0  .333  .429  .833 
+Tim Wakefield      R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Bob Walk           R   4   0   0   0   0   2   1   0   0   0   0  .000  .333  .000

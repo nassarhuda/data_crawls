@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Art Ditmar         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Turk Farrell       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ned Garver         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Lary         R   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Frank Linzy        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Willard Nixon      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

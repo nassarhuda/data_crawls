@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Augustine    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Figueroa        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jerry Garvin       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jon Matlack        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Mirabella     L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Rick Waits         L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

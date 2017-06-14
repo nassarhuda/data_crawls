@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Wilbur Cooper      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jeff Pfeffer       R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jimmy Ring         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jeff Tesreau       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Fred Toney         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Tyler        L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i

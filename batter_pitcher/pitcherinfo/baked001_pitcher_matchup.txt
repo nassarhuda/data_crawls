@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mike Armstrong     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Floyd Bannister    L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Ron Guidry         L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Pete Harnisch      R   1   0   0   0   0   1   0   0   2   0   0  .000  .750  .000 
+Dave Johnson       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mark Langston      L   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250 
+Bob Milacki        R   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000 
+Mike Moore         R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Kevin Ritz         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bret Saberhagen    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave J. Schmidt    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Walt Terrell       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mike Witt          R   5   1   0   0   0   0   0   0   0   0   1  .200  .167  .200

@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Ankiel        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Sean Bergman       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+F. Cordova         R   8   0   0   0   0   1   0   1   0   1   0  .000  .111  .000 
+Pete Harnisch      R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Livan Hernandez    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Darryl Kile        R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Matt Morris        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Carlos Perez       L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Robert Person      R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Mike Remlinger     L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Shane Reynolds     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Armando Reynoso    R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Kirk Rueter        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Curt Schilling     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Bannister    R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 
+Miguel Batista     R   4   2   0   0   1   0   0   0   0   0   2  .500  .333 1.250 
+Josh Beckett       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Joe Borowski       R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+A.J. Burnett       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Paul Byrd          R  14   5   2   0   0   1   0   2   0   0   0  .357  .400  .500 
+Trevor Cahill      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Fausto Carmona     R   9   5   0   0   1   2   0   1   0   0   0  .556  .636  .889 
+Kyle Davies        R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+R.A. Dickey        R   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Gavin Floyd        R   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 
+A. Galarraga       R  10   3   1   0   0   0   0   2   0   0   0  .300  .300  .400 
+Roy Halladay       R   7   5   1   0   0   0   0   0   0   0   0  .714  .714  .857 
+Felix Hernandez    R   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Bobby Jenks        R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Radhames Liz       R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+D. Matsuzaka       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Seth McClung       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gil Meche          R   9   3   1   0   0   0   0   2   0   0   0  .333  .333  .444 
+Vicente Padilla    R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Papelbon        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brad Penny         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sidney Ponson      R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Darrell Rasner     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Nate Robertson     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Smith         L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Julian Tavarez     R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Javier Vazquez     R   8   1   1   0   0   0   0   3   0   0   0  .125  .125  .250 
+Jose Veras         R   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 
+Justin Verlander   R  10   2   0   0   0   2   0   6   0   0   0  .200  .333  .200 
+Jake Westbrook     R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333

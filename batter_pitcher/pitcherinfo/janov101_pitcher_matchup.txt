@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L  10   1   0   0   0   0   0   5   0   0   0  .100  .100  .100 
+Ralph Beard        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Buhl           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jackie Collum      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Karl Drews         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Art Fowler         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Harvey Haddix      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jim Hearn          R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+J. Klippstein      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Don Liddle         L   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Sal Maglie         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Paul Minner        L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+V. Mizell          L  11   3   0   0   0   0   0   2   0   0   0  .273  .273  .273 
+Joe Nuxhall        L  11   3   1   0   0   1   0   2   0   0   0  .273  .333  .364 
+Johnny Podres      L   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+K. Raffensberger   L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Robin Roberts      R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Preacher Roe       L   8   4   1   0   1   1   0   2   0   0   0  .500  .556 1.000 
+Curt Simmons       L  15   3   0   0   0   2   0   5   1   0   0  .200  .333  .200 
+Warren Spahn       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hoyt Wilhelm       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Wilson         R   6   1   0   0   0   1   1   1   0   0   0  .167  .286  .167 
+Al Worthington     R   6   2   0   1   0   0   0   2   0   1   0  .333  .333  .667

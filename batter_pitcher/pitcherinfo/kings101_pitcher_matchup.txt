@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Bentley         U  23   8   2   0   0   0   0   0   0   0   0  .348  .348  .435 
+Asa Brainard       R  32  10   2   1   0   0   0   0   0   0   0  .313  .313  .438 
+Jim Britt          U  12   2   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Candy Cummings     R  21   5   1   0   0   0   0   0   0   0   0  .238  .238  .286 
+Cherokee Fisher    R  19   6   1   1   0   0   0   0   0   0   0  .316  .316  .474 
+Bobby Mathews      R  17   4   0   0   0   0   0   1   0   0   0  .235  .235  .235 
+Dick McBride       R  24   6   2   0   0   1   0   0   0   0   0  .250  .280  .333 
+James McDermott    U  11   3   1   0   0   1   0   0   0   0   0  .273  .333  .364 
+ O'Rourke          U   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Al Pratt           R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 i
+Al Spalding        R  23  13   2   0   0   0   0   0   0   0   0  .565  .565  .652 i
+Bill Stearns       R   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Rynie Wolters      R  18   8   2   2   0   0   0   1   0   0   0  .444  .444  .778 i
+George Zettlein    R  11   6   1   0   0   0   0   0   0   0   0  .545  .545  .636

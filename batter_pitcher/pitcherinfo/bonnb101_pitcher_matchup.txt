@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Bomback       R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Jim Clancy         R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+John Denny         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Erickson     R   5   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Jerry Koosman      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Mike Norris        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Albert Williams    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333

@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Lloyd Brown        L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Hugh Casey         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Davis         R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+F. Fitzsimmons     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bump Hadley        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Kirby Higbe        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Oral Hildebrand    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ira Hutchinson     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Hugh Mulcahy       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Claude Passeau     R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Ike Pearson        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Vito Tamulis       L   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 i

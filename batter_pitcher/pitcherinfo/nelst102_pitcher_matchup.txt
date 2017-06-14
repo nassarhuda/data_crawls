@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Abernathy      R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Ike Delock         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Art Ditmar         R   5   2   0   1   0   1   0   2   0   0   0  .400  .500  .800 
+Dick Donovan       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Paul Foytack       R   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Mike Garcia        R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Tom Gorman         R   3   1   0   0   0   1   0   1   0   0   1  .333  .400  .333 
+Evelio Hernandez   R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Johnny Kucks       R   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500 
+Willard Nixon      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Turley         R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Early Wynn         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

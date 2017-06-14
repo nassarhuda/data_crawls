@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mordecai Brown     R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Doc Crandall       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bob Groom          R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 i
+Pete Henning       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Henry Keupper      L   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Earl Moore         R   3   2   0   1   0   0   0   0   0   1   0  .667  .667 1.333 
+Gene Packard       L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Tom Seaton         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+George Suggs       R   6   1   0   0   0   1   0   0   0   2   0  .167  .286  .167 
+Doc Watson         L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Ed Willett         R   7   0   0   0   0   0   0   0   1   2   0  .000  .125  .000

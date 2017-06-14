@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jim Bunning        R   8   2   0   0   0   3   1   3   0   0   0  .250  .455  .250 
+John Buzhardt      R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Jim Coates         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Murry Dickson      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Chuck Estrada      R   3   0   0   0   0   3   2   1   0   0   0  .000  .500  .000 
+Jack Fisher        R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Paul Foytack       R   7   2   1   0   0   1   0   0   0   0   0  .286  .375  .429 
+Billy Hoeft        L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Joe Horlen         R   1   0   0   0   0   3   2   0   0   0   0  .000  .750  .000 
+B. Monbouquette    R   6   3   1   0   0   1   0   0   0   0   0  .500  .571  .667 
+Milt Pappas        R   8   3   1   0   1   1   1   1   0   0   0  .375  .444  .875 
+Jim Perry          R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Dan Pfister        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dick Radatz        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Pedro Ramos        R   4   1   1   0   0   1   0   0   0   1   1  .250  .333  .500 
+Phil Regan         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Don Schwall        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Wes Stock          R   3   0   0   0   0   2   1   0   0   0   0  .000  .400  .000 
+Ralph Terry        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Wickersham    R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Earl Wilson        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

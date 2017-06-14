@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jesse Barnes       R   9   3   1   0   0   0   0   0   0   1   0  .333  .333  .444 i
+Virgil Barnes      R  11   4   0   0   0   0   0   0   0   0   0  .364  .364  .364 i
+Jack Bentley       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Larry Benton       R  12   3   1   0   0   1   0   1   1   0   0  .250  .357  .333 i
+Hal Carlson        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Johnny Couch       R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 i
+Wayland Dean       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Art Decatur        R  11   4   0   0   0   0   0   1   0   0   0  .364  .364  .364 i
+Bill Doak          R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Pete Donohue       R  19   3   0   0   0   0   0   1   0   0   0  .158  .158  .158 i
+Rube Ehrhardt      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Joe Genewich       R   5   0   0   0   0   1   0   2   1   0   0  .000  .286  .000 i
+Kent Greenfield    R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+Burleigh Grimes    R  21  10   1   1   0   0   0   1   0   1   0  .476  .476  .619 i
+Jesse Haines       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bill Hubbell       R  10   2   0   0   0   2   0   0   0   0   0  .200  .333  .200 i
+Ray Kremer         R  15   3   2   0   0   0   0   2   0   1   0  .200  .200  .333 i
+Dolf Luque         R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i
+Jakie May          L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carl Mays          R  14   5   3   0   0   1   0   1   0   0   0  .357  .400  .571 i
+Tim McNamara       R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 i
+Hugh McQuillan     R  11   1   0   0   0   1   0   0   0   0   0  .091  .167  .091 i
+Lee Meadows        R   9   4   0   0   0   0   0   0   0   2   0  .444  .444  .444 i
+Johnny Morrison    R  13   2   0   0   0   1   0   1   0   0   0  .154  .214  .154 i
+Art Nehf           L   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 i
+Tiny Osborne       R   6   2   0   0   0   2   0   0   0   2   0  .333  .500  .333 i
+Jimmy Ring         R  16   3   1   0   0   2   0   2   0   1   0  .188  .278  .250 i
+Dutch Ruether      L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Jack Scott         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Tom Sheehan        R   8   7   1   0   1   0   0   0   0   0   0  .875  .875 1.375 i
+Allen Sothoron     R  20   4   1   0   0   3   0   3   0   0   0  .200  .304  .250 
+Johnny Stuart      R  11   3   1   0   0   1   0   0   0   0   0  .273  .333  .364 
+Dazzy Vance        R  22   3   1   0   0   3   0   8   1   1   0  .136  .269  .182 i

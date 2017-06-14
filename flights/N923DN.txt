@@ -1,0 +1,43 @@
+22-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	San Diego Intl (KSAN)	08:09PM CDT	09:31PM PDT	Taxiing	
+22-Jul-2016 	MD90	McCarran Intl (KLAS)	Minneapolis/St Paul Intl (KMSP)	02:43PM PDT	07:16PM CDT	2:33	
+22-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	McCarran Intl (KLAS)	12:50PM CDT	01:36PM PDT	2:46	
+22-Jul-2016 	MD90	San Jose Int'l (KSJC)	Minneapolis/St Paul Intl (KMSP)	06:41AM PDT	11:45AM CDT	3:04	
+21-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	San Jose Int'l (KSJC)	08:55PM CDT	10:14PM PDT	3:19	
+20-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	Phoenix Sky Harbor Intl (KPHX)	06:20PM CDT	06:59PM MST	2:39	
+20-Jul-2016 	MD90	McCarran Intl (KLAS)	Minneapolis/St Paul Intl (KMSP)	11:52AM PDT	04:26PM CDT	2:34	
+20-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	McCarran Intl (KLAS)	09:36AM CDT	10:28AM PDT	2:52	
+20-Jul-2016 	MD90	Boston Logan Intl (KBOS)	Minneapolis/St Paul Intl (KMSP)	06:24AM EDT	08:05AM CDT	2:40	
+19-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Boston Logan Intl (KBOS)	11:13PM EDT	01:15AM EDT (+1)	2:02	
+19-Jul-2016 	MD90	Lambert-St Louis Intl (KSTL)	Hartsfield-Jackson Intl (KATL)	06:59PM CDT	09:50PM EDT	1:51	
+19-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Lambert-St Louis Intl (KSTL)	05:37PM EDT	05:54PM CDT	1:17	
+19-Jul-2016 	MD90	San Antonio Intl (KSAT)	Hartsfield-Jackson Intl (KATL)	01:09PM CDT	04:06PM EDT	1:57	
+19-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	San Antonio Intl (KSAT)	11:03AM EDT	11:51AM CDT	1:48	
+19-Jul-2016 	MD90	John Glenn Columbus International Airport (KCMH)	Hartsfield-Jackson Intl (KATL)	08:37AM EDT	09:39AM EDT	1:02	
+18-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	John Glenn Columbus International Airport (KCMH)	07:36PM EDT	08:42PM EDT	1:06	
+18-Jul-2016 	MD90	LaGuardia (KLGA)	Hartsfield-Jackson Intl (KATL)	04:18PM EDT	06:16PM EDT	1:58	
+18-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	LaGuardia (KLGA)	12:00PM EDT	01:48PM EDT	1:48	
+18-Jul-2016 	MD90	Chicago O'Hare Intl (KORD)	Hartsfield-Jackson Intl (KATL)	08:35AM CDT	10:54AM EDT	1:19	
+17-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Chicago O'Hare Intl (KORD)	07:28PM EDT	07:55PM CDT	1:27	
+17-Jul-2016 	MD90	LaGuardia (KLGA)	Hartsfield-Jackson Intl (KATL)	03:31PM EDT	05:07PM EDT	1:36	
+17-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	LaGuardia (KLGA)	12:00PM EDT	01:46PM EDT	1:46	
+17-Jul-2016 	MD90	LaGuardia (KLGA)	Hartsfield-Jackson Intl (KATL)	08:15AM EDT	09:59AM EDT	1:44	
+16-Jul-2016 	MD90	Detroit Metro Wayne Co (KDTW)	LaGuardia (KLGA)	05:24PM EDT	06:38PM EDT	1:14	
+16-Jul-2016 	MD90	Baltimore/Washington Intl (KBWI)	Detroit Metro Wayne Co (KDTW)	01:08PM EDT	02:07PM EDT	0:59	
+16-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	Baltimore/Washington Intl (KBWI)	09:03AM CDT	12:03PM EDT	2:00	
+16-Jul-2016 	MD90	Greater Rochester Intl (KROC)	Minneapolis/St Paul Intl (KMSP)	06:44AM EDT	07:38AM CDT	1:53	
+15-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	Greater Rochester Intl (KROC)	08:18PM CDT	10:52PM EDT	1:34	
+15-Jul-2016 	MD90	Miami Intl (KMIA)	Minneapolis/St Paul Intl (KMSP)	04:05PM EDT	06:11PM CDT	3:06	
+15-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	Miami Intl (KMIA)	10:18AM CDT	02:20PM EDT	3:02	
+15-Jul-2016 	MD90	Gowen Field (KBOI)	Minneapolis/St Paul Intl (KMSP)	05:26AM MDT	08:44AM CDT	2:18	
+14-Jul-2016 	MD90	Minneapolis/St Paul Intl (KMSP)	Gowen Field (KBOI)	10:21PM CDT	11:58PM MDT	2:37	
+14-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Minneapolis/St Paul Intl (KMSP)	07:21PM EDT	08:37PM CDT	2:15	
+14-Jul-2016 	MD90	Jacksonville Intl (KJAX)	Hartsfield-Jackson Intl (KATL)	04:55PM EDT	05:36PM EDT	0:41	
+14-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Jacksonville Intl (KJAX)	01:42PM EDT	02:25PM EDT	0:43	
+14-Jul-2016 	MD90	Denver Intl (KDEN)	Hartsfield-Jackson Intl (KATL)	07:36AM MDT	12:17PM EDT	2:41	
+13-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Denver Intl (KDEN)	06:31PM EDT	07:04PM MDT	2:33	
+13-Jul-2016 	MD90	Tampa Intl (KTPA)	Hartsfield-Jackson Intl (KATL)	04:03PM EDT	05:04PM EDT	1:01	
+13-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Tampa Intl (KTPA)	02:09PM EDT	03:05PM EDT	0:56	
+13-Jul-2016 	MD90	LaGuardia (KLGA)	Hartsfield-Jackson Intl (KATL)	11:19AM EDT	01:00PM EDT	1:41	
+13-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	LaGuardia (KLGA)	07:58AM EDT	09:39AM EDT	1:41	
+13-Jul-2016 	MD90	Daytona Beach Intl (KDAB)	Hartsfield-Jackson Intl (KATL)	05:49AM EDT	06:42AM EDT	0:53	
+12-Jul-2016 	MD90	Hartsfield-Jackson Intl (KATL)	Daytona Beach Intl (KDAB)	11:58PM EDT	12:50AM EDT (+1)	0:52	

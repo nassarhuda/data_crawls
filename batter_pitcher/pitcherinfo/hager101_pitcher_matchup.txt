@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boardwalk Brown    R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Jean Dubuc         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ray Keating        R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Eddie Plank        L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Wiley Taylor       R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000

@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Burkhart       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ben Chapman        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Paul Derringer     R   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Ken Heintzelman    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bill Lee           R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hugh Mulcahy       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+F. Ostermueller    L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Elmer Riddle       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rip Sewell         R   6   3   1   0   0   0   0   2   0   0   0  .500  .500  .667 
+Bucky Walters      R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Whit Wyatt         R   7   3   1   0   0   1   0   2   0   0   0  .429  .500  .571

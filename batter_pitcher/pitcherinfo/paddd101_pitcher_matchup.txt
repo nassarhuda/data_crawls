@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mack Allison       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Joe Benz           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Fred Blanding      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Boardwalk Brown    R   4   1   0   1   0   1   0   1   0   0   0  .250  .400  .750 i
+Carl Cashion       R   2   2   0   0   0   1   0   0   1   0   0 1.000 1.000 1.000 
+Eddie Cicotte      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jack Coombs        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Roy Crabb          R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Jean Dubuc         R   6   1   1   0   0   0   0   0   2   0   0  .167  .375  .333 i
+Joe Engel          L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Vean Gregg         L   6   1   0   0   1   2   0   4   0   0   0  .167  .375  .667 
+Bob Groom          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+George Kahler      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Joe Lake           R   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 i
+Roy Mitchell       R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+George Mullin      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Steen         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Doc White          L   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 
+Ed Willett         R   7   3   1   0   0   1   0   0   0   0   0  .429  .500  .571

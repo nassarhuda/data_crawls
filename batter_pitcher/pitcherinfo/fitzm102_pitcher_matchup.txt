@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilbur Cooper      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Doc Crandall       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Bill Doak          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Dan Griner         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dolf Luque         R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Erskine Mayer      R   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 
+Lee Meadows        R   3   0   0   0   0   2   0   0   1   1   0  .000  .500  .000 i
+Art Nehf           L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pol Perritt        R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Mike Regan         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Jimmy Ring         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Pete Schneider     R   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 i
+Bill Sherdel       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+George Smith       R   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 
+Jeff Tesreau       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Fred Toney         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Lefty Tyler        L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i

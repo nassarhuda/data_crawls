@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Russ Christopher   R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Feller         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jesse Flores       R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dutch Leonard      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Emmett O'Neill     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Tex Shirley        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Sam Zoldak         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Babich      R   5   1   0   0   1   0   0   1   1   0   0  .200  .333  .800 
+Cy Blanton         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Brennan        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ben Cantwell       R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Watty Clark        L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Curt Davis         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dizzy Dean         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Paul Derringer     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+George Earnshaw    R   6   1   1   0   0   1   1   1   0   0   0  .167  .286  .333 
+Fred Frankhouse    R   7   4   2   0   0   0   0   0   0   0   0  .571  .571  .857 
+Benny Frey         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bill Hallahan      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Ed Heusser         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Orville Jorgens    R   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250 
+Red Lucas          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Van Mungo          R   8   2   0   0   2   0   0   3   0   0   0  .250  .250 1.000 
+Les Munns          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Flint Rhem         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Charlie Root       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bob Smith          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lon Warneke        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500

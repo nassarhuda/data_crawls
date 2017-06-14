@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Anderson       R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+Herman Besse       L   4   4   1   0   0   0   0   0   0   0   0 1.000 1.000 1.250 
+Cy Blanton         R  12   0   0   0   0   1   0   5   0   0   0  .000  .077  .000 i
+Tiny Bonham        R  24   5   1   0   0   0   0   4   0   1   0  .208  .208  .250 i
+Charlie Bowles     R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Joe Bowman         R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Tommy Bridges      R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 i
+Spud Chandler      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Ken Chase          L   6   1   1   0   0   1   0   1   0   1   0  .167  .286  .333 i
+Chubby Dean        L   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Paul Dean          R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Paul Derringer     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Bill Dietrich      R   8   1   1   0   0   0   0   4   0   0   0  .125  .125  .250 
+Atley Donald       R   4   0   0   0   0   2   0   0   0   1   0  .000  .333  .000 
+Jesse Flores       R   8   4   1   1   0   0   0   0   0   0   0  .500  .500  .875 
+Larry French       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Benny Frey         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Denny Galehouse    R   2   0   0   0   0   1   0   0   1   0   0  .000  .500  .000 
+Lefty Gomez        L   6   1   1   0   0   0   0   4   0   1   0  .167  .167  .333 
+Orval Grove        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bump Hadley        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Mickey Harris      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Haynes         R   9   4   0   0   0   0   0   1   0   0   0  .444  .444  .444 i
+Sid Hudson         R   7   3   1   0   0   0   0   2   0   0   0  .429  .429  .571 i
+Jack Kramer        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Thornton Lee       L  13   1   0   0   0   0   0   6   0   0   0  .077  .077  .077 i
+Dutch Leonard      R  16   4   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Ted Lyons          R  13   0   0   0   0   1   0   2   0   0   0  .000  .071  .000 
+Bobo Newsom        R  12   3   0   0   0   2   0   4   0   0   0  .250  .357  .250 i
+Johnny Niggeling   R   7   3   0   0   1   1   0   0   0   1   0  .429  .500  .857 i
+Stubby Overmire    L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Marino Pieretti    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Nels Potter        R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Johnny Rigney      R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Red Ruffing        R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Gene Schott        R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Eddie Smith        L  10   2   1   0   0   2   0   4   0   1   0  .200  .333  .300 
+Steve Sundra       R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bill Swift         R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Jake Wade          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roger Wolff        R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Early Wynn         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 i
+Bullet Joe Bush    R   9   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 i
+Bert Cole          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hooks Dauss        R  12   3   1   0   0   0   0   1   0   2   0  .250  .250  .333 i
+Howard Ehmke       R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Red Faber          R  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 i
+Ray Francis        L   4   1   0   0   0   2   0   0   0   1   0  .250  .500  .250 i
+Curt Fullerton     R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Slim Harriss       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Waite Hoyt         R  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Walter Johnson     R  20   3   1   0   0   0   0   1   0   0   0  .150  .150  .200 i
+George Mogridge    L   7   3   0   0   0   0   0   1   0   1   0  .429  .429  .429 i
+Roy Moore          L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Curly Ogden        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Herb Pennock       L  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Jack Quinn         R  11   1   0   0   0   0   0   2   0   1   0  .091  .091  .091 i
+Red Ruffing        R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i
+Allen Russell      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Sloppy Thurston    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+George Uhle        R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Earl Whitehill     L   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 i
+George Winn        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Zachary        L  12   2   0   0   0   1   0   1   0   0   0  .167  .231  .167 i

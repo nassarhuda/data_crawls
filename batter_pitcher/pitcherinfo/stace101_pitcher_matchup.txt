@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rube Benton        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ad Brennan         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Walt Dickson       R   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 i
+Rube Geyer         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bob Harmon         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Rube Marquard      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill Schardt       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Tyler        L   6   2   1   0   0   1   0   3   0   0   0  .333  .429  .500 i

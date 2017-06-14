@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Walter Johnson     R   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000 i
+George Kahler      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Jim Scott          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Smoky Joe Wood     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

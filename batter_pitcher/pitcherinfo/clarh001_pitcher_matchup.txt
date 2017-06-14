@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Burkett       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chris Carpenter    R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Jose Contreras     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Zach Day           R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Jon Garland        R  13   3   2   0   0   1   0   0   0   1   0  .231  .286  .385 
+Roy Halladay       R   5   1   0   0   0   1   0   0   1   0   0  .200  .429  .200 
+Dustin Hermanson   R   2   2   1   0   0   1   0   0   0   0   1 1.000  .750 1.500 
+Livan Hernandez    R   8   3   0   0   0   2   0   1   0   0   0  .375  .500  .375 
+Tim Hudson         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Brian Lawrence     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Esteban Loaiza     R  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Matt Morris        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joel Pineiro       R   5   1   1   0   0   0   0   1   0   1   0  .200  .200  .400 
+Cliff Politte      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Sidney Ponson      R  11   1   1   0   0   0   0   0   0   0   0  .091  .091  .182 
+Brad Radke         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Curt Schilling     R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Carlos Silva       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Sparks       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Javier Vazquez     R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Wilson        R   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 
+Dan Wright         R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Victor Zambrano    R   9   2   0   0   0   2   0   0   0   0   0  .222  .364  .222

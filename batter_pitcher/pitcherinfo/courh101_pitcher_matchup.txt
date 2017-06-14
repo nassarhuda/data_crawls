@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bullet Joe Bush    R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Stan Coveleski     R   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 i
+Hooks Dauss        R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 i
+Dixie Davis        R   3   1   1   0   0   1   0   0   0   1   0  .333  .500  .667 i
+Howard Ehmke       R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Bert Gallia        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sad Sam Jones      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Dickey Kerr        L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Carl Mays          R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Allen Russell      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Urban Shocker      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Elam Vangilder     R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Lefty Williams     L   8   2   0   1   0   0   0   3   0   0   0  .250  .250  .500 i

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Red Barrett        R   7   2   0   0   0   2   0   0   0   0   0  .286  .444  .286 
+Dick Barrett       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Joe Bowman         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jack Brewer        R  10   4   1   0   0   1   0   1   0   0   0  .400  .455  .500 
+Cy Buker           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Burkhart       R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Max Butcher        R   8   1   1   0   0   2   0   0   0   1   0  .125  .300  .250 
+Bud Byerly         R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Mort Cooper        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Curt Davis         R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Paul Derringer     R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Blix Donnelly      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tom Earley         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Slim Emmerich      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Harry Feldman      R  11   2   0   0   0   1   0   0   0   0   0  .182  .250  .182 
+Hal Gregg          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Andy Hansen        R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Art Herring        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Andy Karl          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Kennedy       R  12   2   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bob Logan          L   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Van Mungo          R  13   2   0   0   0   2   0   2   0   0   0  .154  .267  .154 
+Claude Passeau     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Prim           L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nick Strincevich   R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hy Vandenberg      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Voiselle      R  10   3   1   0   0   4   1   2   0   0   0  .300  .500  .400 
+Bucky Walters      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hank Wyse          R   7   5   0   1   0   0   0   0   0   0   0  .714  .714 1.000

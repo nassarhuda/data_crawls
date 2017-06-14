@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Brewer         R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Jim Bunning        R  11   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wally Burnette     R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Tommy Byrne        L   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Dick Donovan       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ned Garver         R  14   1   0   0   0   1   0   4   0   0   0  .071  .133  .071 
+Jack Harshman      L  10   5   3   0   1   1   0   3   1   0   0  .500  .583 1.100 
+Billy Hoeft        L  18   4   0   0   0   0   0   2   0   1   0  .222  .222  .222 
+Bob Keegan         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Russ Kemmerer      R   8   3   2   0   0   1   0   1   0   0   0  .375  .444  .625 
+Johnny Kucks       R  10   4   0   0   1   0   0   3   0   0   0  .400  .400  .700 
+Don Larsen         R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Frank Lary         R  10   4   0   0   0   1   0   1   0   0   0  .400  .455  .400 
+Billy Loes         R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Duke Maas          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Ray Moore          R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Willard Nixon      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Billy O'Dell       L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Camilo Pascual     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Billy Pierce       L  16   5   0   0   0   2   1   1   0   0   0  .313  .389  .313 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Shantz       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Chuck Stobbs       L   7   2   2   0   0   4   0   2   0   0   0  .286  .545  .571 
+Tom Sturdivant     R   8   4   0   0   0   1   0   0   0   0   0  .500  .556  .500 
+Frank Sullivan     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ralph Terry        R   6   2   1   0   0   0   0   4   0   0   0  .333  .333  .500 
+Bill Wight         L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+George Zuverink    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

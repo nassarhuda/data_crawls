@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Bechtel     U   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Cy Bentley         U   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Asa Brainard       R  25   6   0   1   0   1   0   2   0   0   0  .240  .269  .320 i
+Jim Britt          U  26   7   0   0   0   0   0   0   0   0   0  .269  .269  .269 i
+Frank Buttery      U   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Candy Cummings     R   9   1   0   0   0   1   0   0   0   0   0  .111  .200  .111 i
+Denny Mack         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Martin Malone      U   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bobby Mathews      R  13   3   0   0   0   0   0   0   0   0   0  .231  .231  .231 i
+Dick McBride       R  27   9   1   1   0   0   0   0   0   0   0  .333  .333  .444 i
+James McDermott    U   5   3   3   0   0   0   0   0   0   0   0  .600  .600 1.200 
+John McMullin      L  24   7   0   0   0   2   0   1   0   0   0  .292  .346  .292 i
+Al Pratt           R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 i
+Rynie Wolters      R  15   2   0   1   0   0   0   0   0   0   0  .133  .133  .267 i
+George Zettlein    R  18   3   0   0   0   0   0   0   0   0   0  .167  .167  .167 i

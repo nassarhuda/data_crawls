@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  12   2   1   0   0   0   0   0   0   0   0  .167  .167  .250 i
+R. Aitchison       L  18   5   0   0   0   1   0   4   1   0   0  .278  .350  .278 i
+Pete Alexander     R  45  13   4   1   0   3   0   4   0   1   0  .289  .333  .422 i
+Frank Allen        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Red Ames           R  28   6   0   0   0   1   0   3   1   1   0  .214  .267  .214 i
+Rube Benton        L   4   1   0   0   0   1   0   1   1   1   0  .250  .500  .250 i
+George Chalmers    R   7   4   0   1   0   0   0   0   0   1   0  .571  .571  .857 i
+Larry Cheney       R   9   1   0   1   0   3   0   3   0   0   0  .111  .333  .333 i
+Jack Coombs        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Wilbur Cooper      L  21   3   0   0   0   1   0   4   0   1   0  .143  .182  .143 i
+Gene Dale          R   9   1   0   0   0   2   0   1   0   0   0  .111  .273  .111 i
+Wheezer Dell       R   8   1   0   0   0   0   0   0   0   1   0  .125  .125  .125 i
+Al Demaree         R  12   5   0   0   0   0   0   1   0   0   0  .417  .417  .417 i
+Bill Doak          R  18   3   2   0   0   0   0   2   0   0   0  .167  .167  .278 i
+Phil Douglas       R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Dan Griner         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Bob Harmon         R  21   4   2   0   0   2   0   1   0   0   0  .190  .261  .286 i
+Elmer Jacobs       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Erv Kantlehner     L   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 i
+Jimmy Lavender     R   9   2   0   0   0   2   0   1   1   0   0  .222  .417  .222 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+King Lear          R   8   3   1   0   0   0   0   2   1   0   0  .375  .444  .500 i
+Al Mamaux          R  11   4   3   0   0   2   0   3   0   0   0  .364  .462  .636 i
+Rube Marquard      L  16   2   0   0   0   1   0   3   0   0   0  .125  .176  .125 i
+Rube Marshall      R  12   4   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+C. Mathewson       R  16   6   1   0   0   1   0   3   0   0   0  .375  .412  .438 i
+Erskine Mayer      R  17   6   1   2   0   4   0   2   0   0   0  .353  .476  .647 i
+Limb McKenry       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Lee Meadows        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Joe Oeschger       R   5   3   0   0   0   1   0   0   1   0   0  .600  .714  .600 i
+Hub Perdue         R  11   2   0   1   0   0   0   1   0   1   0  .182  .182  .364 i
+Pol Perritt        R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 i
+Jeff Pfeffer       R  21   5   0   0   0   0   0   2   0   0   0  .238  .238  .238 i
+George Pierce      L  11   0   0   0   0   4   0   2   0   1   0  .000  .267  .000 i
+Ed Reulbach        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Eppa Rixey         L  14   5   0   1   0   0   0   4   1   0   0  .357  .400  .500 i
+Hank Robinson      L   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Nap Rucker         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Slim Sallee        L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Rube Schauer       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pete Schneider     R  20   6   1   0   0   1   0   5   0   0   0  .300  .333  .350 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Seaton         R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Jeff Tesreau       R  17   3   0   0   0   1   0   4   1   0   0  .176  .263  .176 i
+Fred Toney         R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 i
+Hippo Vaughn       L  18   2   0   0   0   1   0   3   2   2   0  .111  .238  .111 i
+Earl Yingling      L  11   4   1   0   0   0   0   1   0   0   0  .364  .364  .455 i

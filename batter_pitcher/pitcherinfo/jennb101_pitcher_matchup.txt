@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Bearden       L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Bob Cain           L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sandy Consuegra    R   8   4   1   1   0   0   0   1   0   0   0  .500  .500  .875 
+Bob Feller         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Mike Garcia        R   9   2   1   0   0   1   0   3   0   0   0  .222  .300  .333 
+Ted Gray           L  11   1   0   0   0   2   0   5   0   0   0  .091  .231  .091 
+Randy Gumpert      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sid Hudson         R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Don Johnson        R   9   1   1   0   0   0   0   3   0   0   0  .111  .111  .222 
+Leo Kiely          L   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 
+Bob Kuzava         L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Bob Lemon          R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Eddie Lopat        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Morrie Martin      L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Tom Morgan         R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Willard Nixon      R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Mel Parnell        L   9   3   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Bob Porterfield    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vic Raschi         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Allie Reynolds     R  10   3   1   0   0   1   0   4   0   0   0  .300  .364  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Scarborough    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Marlin Stuart      R   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Dizzy Trout        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Virgil Trucks      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Early Wynn         R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286

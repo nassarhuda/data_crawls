@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Vic Aldridge       R   7   4   1   0   1   0   0   0   0   0   0  .571  .571 1.143 
+Pete Alexander     R  21   4   0   1   0   1   0   0   0   1   0  .190  .227  .286 
+Jesse Barnes       R  15   2   0   0   1   0   0   2   0   0   0  .133  .133  .333 i
+Huck Betts         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Clint Blume        R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Leon Cadore        R  12   6   2   0   1   3   0   3   0   0   0  .500  .600  .917 i
+Hal Carlson        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Paul Carter        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Red Causey         R   9   2   1   0   0   0   0   0   0   0   0  .222  .222  .333 i
+Virgil Cheeves     R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Wilbur Cooper      L   8   2   0   0   0   0   0   1   1   1   0  .250  .333  .250 
+Johnny Couch       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Bill Doak          R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Pete Donohue       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Phil Douglas       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ray Fisher         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Whitey Glazner     R  11   2   0   0   0   1   0   1   0   0   0  .182  .250  .182 
+Burleigh Grimes    R  11   2   0   0   0   1   0   2   0   0   0  .182  .250  .182 
+Bill Hubbell       R  14   5   0   0   0   0   0   1   0   0   0  .357  .357  .357 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Percy Jones        L   5   2   0   0   0   0   0   0   1   0   0  .400  .500  .400 
+Tony Kaufmann      R   6   2   2   0   0   6   0   1   0   0   0  .333  .667  .667 
+Dolf Luque         R   8   3   0   0   0   2   0   1   0   0   0  .375  .500  .375 i
+Al Mamaux          R   5   3   0   0   0   2   0   0   0   0   0  .600  .714  .600 
+Cliff Markle       R   4   3   0   0   0   4   0   0   0   0   0  .750  .875  .750 
+Lee Meadows        R  21   4   0   0   0   2   0   3   1   0   0  .190  .292  .190 
+C. Mitchell        L   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 i
+Johnny Morrison    R  12   1   0   0   0   1   0   2   0   0   0  .083  .154  .083 
+Art Nehf           L   5   2   0   0   0   0   0   1   1   0   0  .400  .500  .400 i
+Tiny Osborne       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jeff Pfeffer       R   9   2   0   0   0   0   0   2   0   1   0  .222  .222  .222 i
+Jimmy Ring         R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 i
+Eppa Rixey         L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Rosy Ryan          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Red Shea           R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+George Smith       R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 i
+George Stueland    R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Fred Toney         R   8   4   0   0   1   2   0   0   0   0   0  .500  .600  .875 
+Dazzy Vance        R   5   2   1   0   0   2   0   0   0   0   0  .400  .571  .600 
+C. Yellow Horse    R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667

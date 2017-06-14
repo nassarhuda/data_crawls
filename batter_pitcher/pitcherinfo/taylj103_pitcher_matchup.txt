@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   8   2   1   0   1   0   0   1   0   1   0  .250  .250  .750 
+Tom Brewer         R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Jim Brosnan        R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Lew Burdette       R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Bud Daley          L   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Don Elston         R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Don Ferrarese      L   9   4   1   0   0   1   0   1   0   0   0  .444  .500  .556 
+Bill Fischer       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Whitey Ford        L   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Ned Garver         R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ruben Gomez        R   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Steve Gromek       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Herbert        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Dave Hillman       R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Billy Hoeft        L   7   4   1   0   0   0   0   2   0   0   0  .571  .571  .714 
+Russ Kemmerer      R  13   3   0   0   2   1   0   1   0   0   0  .231  .286  .692 
+Gus Keriazakos     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Don Larsen         R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Mike McCormick     L   3   3   1   0   0   1   0   0   0   0   1 1.000  .800 1.333 
+Danny McDevitt     L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don McMahon        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ramon Monzant      R   6   2   2   0   0   0   0   2   0   0   0  .333  .333  .667 
+Don Mossi          L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Camilo Pascual     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Johnny Podres      L   7   3   0   0   2   0   0   1   0   0   0  .429  .429 1.286 
+Pedro Ramos        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bob Rush           R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Herb Score         L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Bob Smith          L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Warren Spahn       L  18   3   1   0   0   2   0   3   0   0   0  .167  .250  .222

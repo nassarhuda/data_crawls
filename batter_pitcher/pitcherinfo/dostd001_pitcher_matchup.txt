@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Marvin Freeman     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Jarvis       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Randy Johnson      L   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Denny Neagle       L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Donovan Osborne    L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Mark Portugal      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Kevin Ritz         R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Ugueth Urbina      R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333

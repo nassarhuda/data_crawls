@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pete Alexander     R   6   2   0   0   0   3   0   1   0   0   0  .333  .556  .333 i
+Red Ames           R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Mordecai Brown     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bill Burns         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Howie Camnitz      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+King Cole          R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Cliff Curtis       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Art Fromme         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Harry Gaspar       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Roy Golden         R   2   2   0   0   0   1   0   0   0   1   0 1.000 1.000 1.000 i
+Bob Harmon         R   7   1   0   0   0   2   0   2   0   0   0  .143  .333  .143 i
+Bobby Keefe        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Rube Marquard      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+C. Mathewson       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Earl Moore         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Ed Reulbach        R   7   1   1   0   0   1   0   0   0   0   0  .143  .250  .286 i
+Lew Richie         R   6   2   0   1   0   1   0   0   0   0   0  .333  .429  .667 i
+Bill Steele        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+George Suggs       R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 i

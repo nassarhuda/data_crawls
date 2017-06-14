@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Brewer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Bunning        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mudcat Grant       R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Ray Herbert        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Bob Keegan         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Duke Maas          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Shaw           R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Tom Sturdivant     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Frank Sullivan     R   4   3   0   0   0   0   0   0   0   2   0  .750  .750  .750 
+Ralph Terry        R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Earl Wilson        R   2   0   0   0   0   0   0   2   0   2   0  .000  .000  .000

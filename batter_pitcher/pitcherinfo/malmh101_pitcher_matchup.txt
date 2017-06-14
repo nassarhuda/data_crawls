@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Baumann      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Hal Brown          R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Harry Byrd         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tommy Byrne        L   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Art Ceccarelli     L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Bob Chakales       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Art Ditmar         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Whitey Ford        L   8   0   0   0   0   2   0   0   0   0   0  .000  .200  .000 
+Mike Fornieles     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Garcia        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Ted Gray           L   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Bob Grim           R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Don Johnson        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Leo Kiely          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Konstanty      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Johnny Kucks       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mickey McDermott   L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tom Morgan         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Willard Nixon      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Billy Pierce       L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Sain        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Art Schallock      L   7   1   0   0   0   3   1   1   0   0   0  .143  .400  .143 
+Johnny Schmitz     L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Herb Score         L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Chuck Stobbs       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dean Stone         L  13   7   0   0   0   3   1   0   0   0   1  .538  .588  .538 
+Tom Sturdivant     R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+George Susce       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Virgil Trucks      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Wiesler        L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Bill Wight         L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Jim Wilson         R   6   1   0   1   0   0   0   1   0   0   0  .167  .167  .500

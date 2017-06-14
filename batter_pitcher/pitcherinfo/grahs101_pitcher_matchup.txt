@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Eddie Dyer         L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jack Russell       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

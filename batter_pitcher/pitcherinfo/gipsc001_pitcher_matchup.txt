@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Brian Cooper       R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Doug Davis         L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Chuck Finley       L   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Tim Hudson         R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Eric Milton        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Mark Mulder        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Darren Oliver      L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Andy Pettitte      L   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+Kenny Rogers       L  11   2   1   0   0   0   0   1   0   0   0  .182  .182  .273 
+Johan Santana      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Blake Stein        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mike Venafro       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jarrod Washburn    L   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 
+David Wells        L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny Cox          R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Jim Deshaies       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Dopson        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Guy Hoffman        L   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Jamie Moyer        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bruce Ruffin       L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Zane Smith         L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Gary Bell          R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Dick Bosman        R  10   1   0   0   0   0   0   5   0   2   0  .100  .100  .100 
+George Brunet      L   5   1   0   0   0   1   0   4   0   1   0  .200  .333  .200 
+Les Cain           L   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Dean Chance        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Vince Colbert      R   2   2   0   0   0   0   0   0   0   2   0 1.000 1.000 1.000 
+Joe Coleman        R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Mike Cuellar       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ray Culp           R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Mudcat Grant       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jim Hannan         R   4   1   0   0   0   0   0   1   0   0   1  .250  .200  .250 
+Joe Horlen         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mickey Lolich      L   5   1   0   0   1   0   0   3   0   0   0  .200  .200  .800 
+Jim Lonborg        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Denny McLain       R   8   1   0   0   0   0   0   5   0   0   0  .125  .125  .125 
+Tom Murphy         R   9   2   1   0   0   0   0   2   0   0   0  .222  .222  .333 
+Jim Palmer         R   8   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 
+Jim Perry          R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Gary Peters        L  14   0   0   0   0   4   0   7   0   0   0  .000  .222  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fritz Peterson     L  12   2   0   0   1   0   0   4   0   0   0  .167  .167  .417 
+Vicente Romo       R   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Sonny Siebert      R   7   1   0   0   0   0   0   5   0   1   0  .143  .143  .143 
+Lee Stange         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Floyd Weaver       R   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 
+Dave Wickersham    R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Hoyt Wilhelm       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Stan Williams      R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Earl Wilson        R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Clyde Wright       L   9   1   0   0   0   1   0   4   0   0   0  .111  .200  .111

@@ -1,0 +1,54 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chase Anderson     R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Joaquin Benoit     R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+C. Bergman         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Chad Bettis        R   4   0   0   0   0   1   0   1   1   0   0  .000  .333  .000 
+M. Bumgarner       L   8   2   1   0   1   0   0   3   0   0   0  .250  .250  .750 
+Enrique Burgos     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Eddie Butler       R   5   1   1   0   0   1   0   3   1   0   0  .200  .429  .400 
+Andrew Cashner     R   9   1   0   0   0   3   0   3   0   0   0  .111  .333  .111 
+Andrew Chafin      L   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Jesse Chavez       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Gerrit Cole        R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Josh Collmenter    R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Jarred Cosart      R   5   2   1   0   1   1   0   0   0   0   0  .400  .500 1.200 
+Jorge de la Rosa   L   8   1   0   0   1   2   0   4   0   0   0  .125  .300  .500 
+Rubby de la Rosa   R  10   3   0   0   1   0   0   2   0   0   0  .300  .300  .600 
+A. DeSclafani      R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Michael Fiers      R   4   0   0   0   0   2   0   4   0   0   0  .000  .333  .000 
+Doug Fister        R   4   1   0   0   0   2   0   2   1   0   0  .250  .571  .250 
+C. Friedrich       L   5   2   0   0   1   0   0   2   0   0   0  .400  .400 1.000 
+Chi Chi Gonzalez   R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sonny Gray         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+David Hale         R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Matt Harvey        R   5   2   0   0   1   1   0   1   0   0   0  .400  .500 1.000 
+J. Hellickson      R   4   0   0   0   0   2   0   4   0   0   0  .000  .333  .000 
+Chris Heston       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Daniel Hudson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tim Hudson         R   4   2   1   0   1   2   0   0   0   0   0  .500  .667 1.500 
+Taylor Jungmann    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Shawn Kelley       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Kyle Kendrick      R  10   0   0   0   0   1   1   2   0   0   0  .000  .091  .000 
+Ian Kennedy        R   6   2   0   0   1   0   0   2   2   0   0  .333  .500  .833 
+Tom Koehler        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Mike Leake         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tim Lincecum       R   9   4   2   0   0   0   0   2   0   0   0  .444  .444  .667 
+Boone Logan        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Kyle Lohse         R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Jordan Lyles       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Jean Machi         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Carlos Martinez    R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Jimmy Nelson       R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jake Peavy         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Wily Peralta       R   4   2   0   0   2   0   0   1   0   0   0  .500  .500 2.000 
+Tyson Ross         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Chris Rusin        L   4   0   0   0   0   1   1   2   0   0   0  .000  .200  .000 
+James Shields      R   8   2   1   0   0   3   0   4   0   0   0  .250  .455  .375 
+Julio Teheran      R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Dale Thayer        R   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Ryan Vogelsong     R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Michael Wacha      R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Alex Wood          L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+J. Zimmermann      R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250

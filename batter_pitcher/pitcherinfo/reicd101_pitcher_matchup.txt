@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Phil Bedgood       R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 i
+Ted Blankenship    R   8   1   0   0   0   0   0   0   1   0   0  .125  .222  .125 i
+Bullet Joe Bush    R  11   3   1   0   0   1   0   1   0   0   0  .273  .333  .364 
+Stan Coveleski     R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 i
+Mike Cvengros      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Dave Danforth      L   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Hooks Dauss        R  12   3   1   1   0   1   0   0   0   0   0  .250  .308  .500 i
+Red Faber          R   9   6   1   1   0   0   0   0   0   0   0  .667  .667 1.000 i
+Slim Harriss       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Bob Hasty          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ken Holloway       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Syl Johnson        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Walter Johnson     R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Sad Sam Jones      R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Ray Kolp           R   8   1   0   0   0   0   0   1   1   0   0  .125  .222  .125 i
+Dixie Leverett     R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Dewey Metivier     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+George Mogridge    L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Rollie Naylor      R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 i
+Ole Olsen          R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Herman Pillette    R  13   3   0   0   0   0   0   0   0   0   0  .231  .231  .231 i
+George Pipgras     R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+C. Robertson       R  12   1   0   0   0   2   0   1   0   1   0  .083  .214  .083 i
+Eddie Rommel       R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+Bob Shawkey        R   9   1   0   0   0   1   0   1   0   0   0  .111  .200  .111 
+Urban Shocker      R  14   1   0   1   0   1   0   3   1   0   0  .071  .188  .214 i
+Sherry Smith       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Sloppy Thurston    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+George Uhle        R  14   5   1   0   0   0   0   0   0   0   0  .357  .357  .429 i
+Elam Vangilder     R  13   2   0   0   0   0   0   2   1   0   0  .154  .214  .154 i
+Rasty Wright       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Paul Zahniser      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i

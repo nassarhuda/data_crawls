@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Bevens        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tiny Bonham        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hank Borowy        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Brewer        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Cy Buker           R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Ken Burkhart       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Max Butcher        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ben Chapman        R   5   0   0   0   0   3   0   0   0   0   0  .000  .375  .000 
+Mort Cooper        R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Curt Davis         R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Blix Donnelly      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Monk Dubiel        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Earley         R   5   1   1   0   0   2   0   1   0   0   0  .200  .429  .400 
+Slim Emmerich      R   7   4   1   0   0   0   0   0   0   0   0  .571  .571  .714 
+Harry Feldman      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Jesse Flores       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hal Gregg          R  12   6   0   0   0   2   0   0   0   0   0  .500  .571  .500 
+Andy Hansen        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Art Herring        R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Hutchings   R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Van Mungo          R   7   2   0   0   0   1   1   0   0   0   0  .286  .375  .286 
+Ray Prim           L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mel Queen          R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Tom Seats          L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rip Sewell         R   4   2   0   0   0   2   0   0   0   0   0  .500  .667  .500 
+Nick Strincevich   R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 
+Jim Tobin          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bill Voiselle      R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Les Webber         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ted Wilks          R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jack Wilson        R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Hank Wyse          R   5   4   2   0   0   0   0   0   0   0   0  .800  .800 1.200

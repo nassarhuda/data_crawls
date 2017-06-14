@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Baumann      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Gary Bell          R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Ted Bowsfield      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Bunning        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jim Coates         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ike Delock         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Chuck Estrada      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jack Fisher        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Whitey Ford        L  10   4   0   0   0   1   0   4   0   1   0  .400  .455  .400 
+Paul Foytack       R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Wynn Hawkins       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ray Herbert        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jack Kralick       L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Johnny Kucks       R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+B. Monbouquette    R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Ray Moore          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Phil Regan         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Stigman       L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Frank Sullivan     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Early Wynn         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Browning       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeff Dedmon        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Gullickson    R   3   2   0   0   1   1   0   1   0   0   0  .667  .750 1.667 
+Shawn Hillegas     R   5   1   0   0   1   0   0   3   0   0   0  .200  .200  .800 
+Mike Krukow        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Rick Mahler        R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Larry McWilliams   L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Shane Rawley       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Scott Sanderson    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bryn Smith         R   6   2   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Mario Soto         R   3   0   0   0   0   1   0   0   0   2   0  .000  .250  .000

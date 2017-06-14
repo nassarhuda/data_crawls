@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+John Denny         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Dravecky      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Knepper        L   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Bill Laskey        R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Larry McWilliams   L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Mike Scott         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Eric Show          R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Bryn Smith         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Walt Terrell       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+F. Valenzuela      L   7   0   0   0   0   1   0   3   0   1   0  .000  .125  .000

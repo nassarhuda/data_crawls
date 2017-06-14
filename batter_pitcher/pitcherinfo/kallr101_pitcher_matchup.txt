@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willie Adams       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Bullet Joe Bush    R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Vean Gregg         L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+G. Lowdermilk      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Carl Mays          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Tom Rogers         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Allen Russell      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250

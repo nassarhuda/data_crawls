@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 i
+Pete Alexander     R  14   2   1   0   0   3   0   3   0   0   0  .143  .294  .214 i
+Bill Burns         L   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000 i
+Howie Camnitz      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+King Cole          R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Harry Gaspar       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bobby Keefe        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Leifield     L   9   1   0   0   0   0   0   0   0   1   0  .111  .111  .111 i
+Rube Marquard      L  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 i
+C. Mathewson       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Earl Moore         R   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 i
+Ed Reulbach        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lew Richie         R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 i
+Slim Sallee        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Toots Shultz       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Frank Smith        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Bill Steele        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+George Suggs       R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 i

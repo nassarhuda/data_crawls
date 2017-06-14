@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ivy Andrews        R   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 
+General Crowder    R   5   1   0   1   0   0   0   1   0   1   0  .200  .200  .600 
+Willis Hudlin      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Hank Johnson       R   4   3   1   2   0   0   0   0   0   0   0  .750  .750 2.000 
+George Pipgras     R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Gordon Rhodes      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Lefty Stewart      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bob Weiland        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Earl Whitehill     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

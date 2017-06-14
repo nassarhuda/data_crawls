@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Atchison     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Zach Britton       L   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Clay Buchholz      R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Wei-Yin Chen       L   5   2   0   0   1   0   0   2   0   0   0  .400  .400 1.000 
+Logan Darnell      L   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Wade Davis         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Felix Doubront     L   4   2   0   0   1   1   0   0   0   0   0  .500  .600 1.250 
+Roenis Elias       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Kyle Farnsworth    R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Miguel Gonzalez    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+J. Hellickson      R   7   3   0   0   1   0   0   2   0   0   0  .429  .429  .857 
+David Huff         L   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Phil Hughes        R  16   8   1   0   1   1   0   2   1   0   1  .500  .526  .750 
+Tommy Hunter       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dallas Keuchel     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hiroki Kuroda      R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Jon Lester         L  10   1   0   0   0   2   0   4   0   0   0  .100  .250  .100 
+Derek Lowe         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brandon McCarthy   R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Tom Milone         L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Moore         L  11   3   0   0   0   1   0   2   0   0   0  .273  .333  .273 
+Ivan Nova          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Pettitte      L  11   3   1   0   0   1   0   3   0   0   0  .273  .333  .364 
+Jose Quintana      L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Garrett Richards   R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+David Robertson    R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+CC Sabathia        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+James Shields      R   8   2   2   0   0   0   0   1   0   0   0  .250  .250  .500 
+Anthony Swarzak    R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Chris Tillman      R   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 
+Jason Vargas       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Justin Verlander   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+C.J. Wilson        L   5   3   2   1   0   0   0   0   0   0   0  .600  .600 1.400

@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ezequiel Astacio   R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jose Capellan      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bruce Chen         L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jeff D'Amico       R   9   4   0   0   0   0   0   2   0   0   0  .444  .444  .444 
+Doug Davis         L   6   1   1   0   0   2   0   1   0   1   0  .167  .375  .333 
+Ryan Dempster      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kyle Farnsworth    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Josh Fogg          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jeremy Guthrie     R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Livan Hernandez    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+S. Hitchcock       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Matt Kinney        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Wade Miller        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Matt Morris        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hideo Nomo         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tomo Ohka          R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Roy Oswalt         R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Vicente Padilla    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Mark Prior         R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Tim Redding        R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Robertson       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Steve Trachsel     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Ron Villone        L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Ryan Vogelsong     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Brandon Webb       R  12   5   0   1   0   0   0   1   0   0   0  .417  .417  .583 
+Kip Wells          R   8   2   0   1   0   1   0   2   0   2   0  .250  .333  .500 
+Randy Wolf         L   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Kerry Wood         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Carlos Zambrano    R  11   1   0   0   0   2   0   1   0   0   0  .091  .231  .091

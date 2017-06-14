@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roger Bowman       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Murry Dickson      R   7   1   0   0   0   0   0   1   0   1   0  .143  .143  .143 
+Carl Erskine       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Friend         R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Warren Hacker      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Hall           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Hearn          R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Larry Jansen       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Konstanty      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Koslo         L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Max Lanier         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Russ Meyer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Minner        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Robin Roberts      R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Preacher Roe       L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Bob Rush           R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Curt Simmons       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Warren Spahn       L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Chris Van Cuyk     L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Worthington     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667

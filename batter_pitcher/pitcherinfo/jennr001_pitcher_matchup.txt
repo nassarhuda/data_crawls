@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Coggin        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+F. Cordova         R   6   3   2   0   0   0   0   0   0   0   0  .500  .500  .833 
+Kevin Jarvis       R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Jon Lieber         R  10   1   0   0   1   0   0   2   0   0   0  .100  .100  .400 
+Esteban Loaiza     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tony McKnight      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Mlicki        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Matt Morris        R   7   2   1   0   0   0   0   1   0   0   1  .286  .250  .429 
+Roy Oswalt         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jason Schmidt      R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+Randy Wolf         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kerry Wood         R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Masato Yoshii      R   4   3   2   0   1   0   0   0   0   0   0  .750  .750 2.000

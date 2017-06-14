@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Baker        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Josh Beckett       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+R. Betancourt      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Joe Blanton        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeremy Bonderman   R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Fausto Carmona     R   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 
+Chris Carpenter    R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Jose Contreras     R   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Kelvim Escobar     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Ryan Franklin      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Freddy Garcia      R   6   2   1   0   0   1   1   0   0   0   0  .333  .429  .500 
+Jon Garland        R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jeremy Guthrie     R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Dan Haren          R  12   4   3   0   0   0   0   4   0   0   0  .333  .333  .583 
+Felix Hernandez    R   6   1   0   1   0   0   0   2   0   0   0  .167  .167  .500 
+Jason Johnson      R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Kyle Lohse         R   5   2   1   0   0   0   0   1   1   0   0  .400  .500  .600 
+Gil Meche          R   8   4   1   0   0   0   0   0   0   0   0  .500  .500  .625 
+Kevin Millwood     R   5   1   1   0   0   0   0   0   1   0   0  .200  .333  .400 
+Mike Mussina       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Nathan         R   5   1   0   0   0   1   1   1   0   0   0  .200  .333  .200 
+Joel Pineiro       R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+J.J. Putz          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Brad Radke         R   7   1   1   0   0   0   0   0   0   1   1  .143  .125  .286 
+F. Rodriguez       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Carlos Silva       R  12   6   3   0   1   0   0   0   1   0   0  .500  .538 1.000 
+Jeff Suppan        R   2   1   0   0   0   0   0   0   2   0   0  .500  .750  .500 
+Javier Vazquez     R  10   1   0   0   0   0   0   1   0   0   0  .100  .100  .100 
+Justin Verlander   R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Chien-Ming Wang    R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Jered Weaver       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

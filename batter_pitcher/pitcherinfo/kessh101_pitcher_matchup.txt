@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Candy Cummings     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Cherokee Fisher    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bobby Mathews      R  15   2   0   0   0   0   0   1   0   0   0  .133  .133  .133 i
+Dick McBride       R   6   4   1   0   0   0   0   1   0   0   0  .667  .667  .833 i
+George Zettlein    R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 i

@@ -1,0 +1,57 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   7   2   1   0   0   0   0   3   0   0   0  .286  .286  .429 
+Salome Barojas     R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Jim Beattie        R   8   0   0   0   0   1   0   1   0   0   0  .000  .111  .000 
+Juan Berenguer     R   4   3   0   0   0   1   0   0   0   0   1  .750  .667  .750 
+Bert Blyleven      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Mike Boddicker     R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Oil Can Boyd       R   6   1   1   0   0   1   0   3   0   0   0  .167  .286  .333 
+Steve Brown        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Burris         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+John Butcher       R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Bill Caudill       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Jim Clancy         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Clemens      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Steve Crawford     R   2   1   1   0   0   1   0   0   0   0   1  .500  .500 1.000 
+Storm Davis        R   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 
+Richard Dotson     R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Jamie Easterly     L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Brian Fisher       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Gubicza       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mark Huismann      R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob James          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Bruce Kison        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Luis Leal          R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+C. Leibrandt       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Aurelio Lopez      R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Tippy Martinez     L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Dennis Martinez    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Steve McCatty      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jack Morris        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Phil Niekro        R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Al Nipper          R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Bob Ojeda          L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Dan Petry          R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ron Romanick       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bret Saberhagen    R   8   1   0   0   0   2   0   3   0   0   0  .125  .300  .125 
+Luis Sanchez       R   3   1   0   0   0   1   1   1   0   0   0  .333  .500  .333 
+Dave J. Schmidt    R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Ken Schrom         R   9   4   1   0   1   2   0   0   0   0   0  .444  .545  .889 
+Don Schulze        R   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Slaton         R  14   5   2   0   0   1   0   1   0   0   0  .357  .400  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Smith          R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Mike Smithson      R  10   3   0   0   0   1   0   2   0   0   0  .300  .364  .300 
+Dave Stieb         R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Bob Stoddard       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Ed Vande Berg      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Pete Vuckovich     R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Tom Waddell        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Mike Warren        R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Dave Wehrmeister   R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Milt Wilcox        R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Frank Wills        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Trevor Wilson      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Witt          R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Curt Young         L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200

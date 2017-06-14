@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Ellsworth     L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Billy McCool       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Lindy McDaniel     R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+John Romonosky     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Don Schwall        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Rollie Sheldon     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Paul Toth          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400

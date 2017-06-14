@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dixie Davis        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Waite Hoyt         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+George Mogridge    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roy Moore          L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500

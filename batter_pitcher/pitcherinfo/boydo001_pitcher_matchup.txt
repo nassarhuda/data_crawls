@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Armstrong     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Avery        L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+John Burkett       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+David Cone         R   5   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Jose DeLeon        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim Deshaies       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Greg Maddux        R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Joe Magrane        L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ramon Martinez     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Ed Whitson         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

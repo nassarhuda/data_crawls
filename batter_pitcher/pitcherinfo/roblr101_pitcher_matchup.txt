@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Billingham    R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bill Champion      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry Dierker      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Forsch         R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Tom Griffin        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Pat Jarvis         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Juan Marichal      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Jim McGlothlin     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mike McQueen       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Nash           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Claude Osteen      L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Gaylord Perry      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Frank Reberger     R   6   3   0   0   0   1   0   0   0   0   0  .500  .571  .500 
+Rich Robertson     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Sadecki        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Sutton         R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Milt Wilcox        R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Don Wilson         R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143

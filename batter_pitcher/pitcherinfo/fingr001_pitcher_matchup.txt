@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Atkinson      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Doug Bair          R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Joe Coleman        R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Eddie Fisher       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lew Krausse        R   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Rudy May           L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tom Murphy         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ron Reed           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

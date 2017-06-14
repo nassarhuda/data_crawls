@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bullet Joe Bush    R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Mike Cvengros      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dixie Davis        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Milt Gaston        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Waite Hoyt         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Walter Johnson     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Benn Karr          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dutch Leonard      L   8   2   1   0   0   1   0   0   0   0   0  .250  .333  .375 
+Ted Lyons          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eddie Rommel       R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Urban Shocker      R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Sherry Smith       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Lil Stoner         R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+George Uhle        R   5   3   2   0   0   0   0   0   0   0   0  .600  .600 1.000 
+Elam Vangilder     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

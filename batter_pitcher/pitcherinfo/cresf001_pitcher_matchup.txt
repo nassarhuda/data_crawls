@@ -1,0 +1,41 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A. Alfonseca       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Kevin Appier       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rolando Arrojo     R   5   4   0   1   1   0   0   0   1   1   0  .800  .833 1.800 
+Pedro Astacio      R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Armando Benitez    R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+John Burkett       R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Tom Candiotti      R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Mike DeJean        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Adam Eaton         R   6   2   0   0   2   1   0   2   0   0   0  .333  .429 1.333 
+Scott Erickson     R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Alex Fernandez     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mike Fetters       R   3   1   0   0   1   0   0   0   0   1   0  .333  .333 1.333 
+Eric Gagne         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dwight Gooden      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Geraldo Guzman     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jimmy Haynes       R   5   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Chris Holt         R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+J. Isringhausen    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Jason Johnson      R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Bobby Jones        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Darryl Kile        R   4   1   1   0   0   0   0   0   1   0   0  .250  .400  .500 
+Byung-Hyun Kim     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Leskanic      R   4   2   0   0   1   1   0   0   0   0   1  .500  .500 1.250 
+Jose Lima          R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Greg Maddux        R   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Mike Mussina       R   8   3   1   0   0   0   0   3   0   0   0  .375  .375  .500 
+Jaime Navarro      R   6   2   2   0   0   1   0   0   0   0   0  .333  .429  .667 
+Chan Ho Park       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Carlos Perez       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Pulsipher     L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Curt Schilling     R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+John Smoltz        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Kevin Tapani       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ed Vosberg         L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Tim Wakefield      R   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400 
+Rick White         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Woody Williams     R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Mike Williams      R   3   1   0   1   0   1   0   2   0   0   0  .333  .500 1.000 
+Masato Yoshii      R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000

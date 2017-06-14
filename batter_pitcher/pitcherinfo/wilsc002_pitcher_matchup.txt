@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Kevin Appier       R  10   2   0   0   0   1   0   1   0   0   0  .200  .273  .200 
+Tim Belcher        R   7   1   0   0   0   1   0   1   0   0   1  .143  .222  .143 
+Kent Bottenfield   R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dave Burba         R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+Esteban Loaiza     R   8   1   0   0   0   0   0   1   0   2   0  .125  .125  .125 
+Ramiro Mendoza     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Eric Milton        L   9   4   2   0   0   0   0   0   0   0   0  .444  .444  .667 
+Dave Mlicki        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Brian Moehler      R   5   0   0   0   0   1   0   0   0   1   0  .000  .167  .000 
+Jamie Moyer        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+C.J. Nitkowski     L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Andy Pettitte      L  13   8   2   0   0   1   0   0   0   0   0  .615  .643  .769 
+Sidney Ponson      R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dan Reichert       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jose Rosado        L  11   4   0   0   0   0   0   1   0   0   0  .364  .364  .364 
+Brian Rose         R   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+Bret Saberhagen    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pete Schourek      L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jeff Suppan        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Justin Thompson    L   9   6   0   0   2   0   0   1   0   1   0  .667  .667 1.333 
+Steve Trachsel     R   4   1   1   0   0   0   0   0   1   0   0  .250  .400  .500 
+Mike Trombley      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Wasdin        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+David Wells        L   6   4   1   0   0   1   0   0   0   0   0  .667  .714  .833 
+Rick White         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167

@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Boswell       R   6   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Jim Bouton         R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Jim Bunning        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dean Chance        R   6   1   0   0   0   1   0   3   1   0   0  .167  .375  .167 
+Ike Delock         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Al Downing         L   4   0   0   0   0   1   0   1   0   1   0  .000  .200  .000 
+Fred Gladding      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mudcat Grant       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Hall          R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Jim Hannan         R   9   1   0   0   0   1   0   3   0   2   0  .111  .200  .111 
+Steve Hargan       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Joe Horlen         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim Kaat           L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Lamabe        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Mickey Lolich      L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jim McGlothlin     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Denny McLain       R   5   0   0   0   0   2   0   1   0   1   0  .000  .286  .000 
+Dave McNally       L  12   1   0   0   0   3   0   8   0   2   0  .083  .267  .083 
+John Miller        R   7   0   0   0   0   2   0   4   0   0   0  .000  .222  .000 
+B. Monbouquette    R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Phil Ortega        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Orlando Pena       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Tom Phoebus        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Sparma         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dave Stenhouse     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Wes Stock          R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Mel Stottlemyre    R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Luis Tiant         R   9   0   0   0   0   0   0   8   0   1   0  .000  .000  .000 
+Hoyt Wilhelm       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Earl Wilson        R   4   0   0   0   0   1   0   2   0   0   1  .000  .167  .000

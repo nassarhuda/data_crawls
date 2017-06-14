@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Bill Bevens        R   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Joe Bowman         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Paul Calvert       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Dietrich      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Denny Galehouse    R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Steve Gromek       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Orval Grove        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Sid Hudson         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Fred Hutchinson    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Eddie Lopat        L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Phil Marchildon    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Muncrief       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Johnny Murphy      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Emmett O'Neill     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Bob Savage         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Smith           L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dizzy Trout        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Butch Wensloff     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Early Wynn         R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Zuber         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167

@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Barnes       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Rube Bressler      L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 i
+Leon Cadore        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Wilbur Cooper      L  11   1   0   0   0   0   0   0   0   0   0  .091  .091  .091 i
+Al Demaree         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Doak          R   7   1   0   0   0   0   0   2   0   2   0  .143  .143  .143 
+Dana Fillingim     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bunny Hearn        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Claude Hendrix     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Hughes         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Rube Marquard      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jakie May          L  10   3   0   0   0   0   0   2   0   0   0  .300  .300  .300 i
+C. Mitchell        L   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+Art Nehf           L  13   2   1   0   0   1   0   3   0   0   0  .154  .214  .231 
+Pol Perritt        R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pat Ragan          R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i
+Mike Regan         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Jimmy Ring         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dick Rudolph       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Slim Sallee        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Smith       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Jeff Tesreau       R   8   2   1   0   0   4   0   0   0   0   0  .250  .500  .375 
+Fred Toney         R  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Tyler        L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Upham         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hippo Vaughn       L   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000

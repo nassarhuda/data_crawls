@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Blanton         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Max Butcher        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hugh Casey         R   8   2   0   1   0   0   0   2   0   1   0  .250  .250  .500 i
+Curt Davis         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Paul Derringer     R  13   2   1   0   0   0   0   4   0   1   0  .154  .154  .231 i
+Larry French       L   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125 i
+Luke Hamlin        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Tommy Hughes       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Bill Lee           R   7   2   0   0   1   1   0   0   0   0   0  .286  .375  .714 i
+Danny MacFayden    R   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+Claude Passeau     R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Johnny Podgajny    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Elmer Riddle       R   5   1   0   1   0   0   0   3   0   0   0  .200  .200  .600 
+Manny Salvo        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Rip Sewell         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Clyde Shoun        L   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Nick Strincevich   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Junior Thompson    R  21   6   2   0   0   0   0   4   0   2   0  .286  .286  .381 
+Jim Tobin          R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lou Tost           L   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Turner         R  12   0   0   0   0   0   0   7   0   1   0  .000  .000  .000 
+J. Vander Meer     L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Bucky Walters      R   8   0   0   0   0   1   0   5   0   1   0  .000  .111  .000

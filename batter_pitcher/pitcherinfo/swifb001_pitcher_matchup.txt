@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Ryan Bowen         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Dave Burba         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Tom Candiotti      R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Frank Castillo     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Cooke        L   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mark Gardner       R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Chris Hammond      L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Mike Harkey        R   4   3   1   0   0   1   0   0   0   1   0  .750  .800 1.000 
+Pete Harnisch      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Orel Hershiser     R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Danny Jackson      L   6   1   0   0   0   1   0   2   0   1   0  .167  .286  .167 
+Greg Maddux        R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Ramon Martinez     R   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Chris Nabholz      L   3   0   0   0   0   2   0   2   0   1   0  .000  .400  .000 
+David Nied         R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Hideo Nomo         R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Donovan Osborne    L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pat Rapp           R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+John Smiley        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Benton       R   7   4   1   1   0   0   0   0   0   1   0  .571  .571 1.000 i
+Sheriff Blake      R  10   5   2   0   0   0   0   1   0   0   0  .500  .500  .700 
+Erv Brame          R  11   3   0   0   1   2   0   1   0   0   0  .273  .385  .545 i
+Guy Bush           R   9   6   1   0   0   1   0   1   0   0   0  .667  .700  .778 i
+Bullet Joe Bush    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Phil Collins       R   9   4   1   0   0   0   0   0   0   0   0  .444  .444  .556 i
+Stan Coveleski     R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Clise Dudley       R   3   2   0   0   1   0   0   0   0   1   0  .667  .667 1.667 
+F. Fitzsimmons     R   6   2   1   0   1   0   0   1   0   0   0  .333  .333 1.000 i
+Benny Frey         R   7   2   1   0   0   1   0   0   0   0   0  .286  .375  .429 i
+Waite Hoyt         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Ray Kremer         R  16   4   1   1   0   1   0   3   0   2   0  .250  .294  .438 
+Red Lucas          R  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Pat Malone         R   9   2   0   0   0   0   0   0   1   0   0  .222  .300  .222 i
+Bob Osborn         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Ray Phelps         R  16   5   0   0   0   0   0   2   0   0   0  .313  .313  .313 
+Eppa Rixey         L   6   4   0   0   1   1   0   1   0   0   0  .667  .714 1.167 
+Eddie Rommel       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Charlie Root       R   6   3   1   0   1   2   1   0   0   0   0  .500  .625 1.167 i
+Socks Seibold      R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Smith          R   6   1   0   0   0   3   0   1   0   0   0  .167  .444  .167 i
+Glenn Spencer      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Steve Swetonic     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Sloppy Thurston    R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+George Uhle        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dazzy Vance        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333

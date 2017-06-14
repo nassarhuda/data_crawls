@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Homer Bailey       R   4   3   1   0   0   1   0   1   0   0   1  .750  .667 1.000 
+Antonio Bastardo   L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Trevor Cahill      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Johnny Cueto       R   2   1   1   0   0   1   0   1   0   0   1  .500  .500 1.000 
+R.A. Dickey        R   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Roy Halladay       R   7   3   0   0   0   1   0   2   0   0   0  .429  .500  .429 
+Matt Harvey        R   8   4   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Edwin Jackson      R   3   1   0   0   0   1   0   0   1   0   0  .333  .600  .333 
+Kyle Kendrick      R  10   1   0   0   0   1   0   4   0   0   0  .100  .182  .100 
+Craig Kimbrel      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mat Latos          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Shaun Marcum       R   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Kris Medlen        R  11   2   2   0   0   1   0   2   0   0   1  .182  .231  .364 
+Charlie Morton     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+J. Papelbon        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+J. Pettibone       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Scott Rice         L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+S. Strasburg       R   9   2   0   0   1   2   0   2   0   0   0  .222  .364  .556 
+Julio Teheran      R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 
+Chris Young        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Zimmermann      R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Don Black          R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Spud Chandler      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Russ Christopher   R   3   0   0   0   0   2   1   0   0   0   0  .000  .400  .000 
+Bill Dietrich      R   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Atley Donald       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Monk Dubiel        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Johnny Humphries   R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Bob Muncrief       R   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000

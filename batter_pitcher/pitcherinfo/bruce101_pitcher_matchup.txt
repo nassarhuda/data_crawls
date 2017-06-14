@@ -1,0 +1,72 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R  16   3   1   0   0   3   0   2   0   1   0  .188  .316  .250 
+Ivy Andrews        R   9   0   0   0   0   1   0   1   0   0   0  .000  .100  .000 
+Pete Appleton      R   8   4   2   0   0   3   0   0   0   0   0  .500  .636  .750 
+Elden Auker        R  13   5   1   0   0   1   0   1   0   0   0  .385  .429  .462 
+Al Benton          R   3   2   0   0   1   1   0   0   0   0   0  .667  .750 1.667 
+Tommy Bridges      R  15   5   1   0   1   2   0   3   0   1   0  .333  .412  .600 i
+Clint Brown        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Lloyd Brown        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Cascarella     R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Spud Chandler      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Ken Chase          L  17   7   3   0   0   4   0   1   0   0   0  .412  .524  .588 
+Slick Coffman      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Syd Cohen          L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jimmie DeShong     R   8   3   1   0   0   4   0   0   0   0   0  .375  .583  .500 
+Bill Dietrich      R  16  10   1   1   0   4   0   1   0   0   0  .625  .700  .813 
+Joe Dobson         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Feller         R  17   3   1   0   0   1   0   2   0   0   0  .176  .222  .235 
+Wes Ferrell        R  12   1   0   0   0   2   0   4   0   0   0  .083  .214  .083 i
+Carl Fischer       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Denny Galehouse    R  10   3   1   1   0   1   0   0   0   0   0  .300  .364  .600 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Gill        R  12   4   1   0   0   0   0   0   0   0   0  .333  .333  .417 i
+Lefty Gomez        L  15   2   1   0   0   2   0   3   0   0   0  .133  .235  .200 
+Lefty Grove        L   8   3   0   0   1   1   0   1   0   0   0  .375  .444  .750 
+Bump Hadley        R   8   1   0   0   1   0   0   1   0   0   0  .125  .125  .500 
+Mel Harder         R   8   1   1   0   0   1   0   0   0   0   0  .125  .222  .250 
+Mickey Harris      L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Bob Harris         R   7   3   2   0   0   2   0   2   0   0   0  .429  .556  .714 
+Joe Heving         R  12   3   0   0   0   1   1   0   0   0   0  .250  .308  .250 
+Oral Hildebrand    R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 
+Chief Hogsett      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Willis Hudlin      R  12   1   1   0   0   0   0   1   0   0   0  .083  .083  .167 
+Sid Hudson         R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Johnny Humphries   R   6   3   0   0   0   1   0   2   0   0   0  .500  .571  .500 
+Fred Hutchinson    R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Harry Kelley       R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Vern Kennedy       R  10   2   1   0   0   3   0   1   0   0   0  .200  .385  .300 i
+Jack Knott         R  17   5   1   0   0   1   0   3   0   0   0  .294  .333  .353 
+Lou Koupal         R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 i
+Joe Krakauskas     L  10   4   1   0   0   5   0   1   0   0   0  .400  .600  .500 i
+Roxie Lawson       R   6   1   1   0   0   4   0   1   0   0   0  .167  .500  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Linke           R  12   4   0   0   2   2   0   1   0   0   0  .333  .429  .833 
+Ted Lyons          R   8   6   1   2   0   0   0   1   0   0   0  .750  .750 1.375 
+Johnny Marcum      R   9   4   1   0   0   0   0   0   0   0   0  .444  .444  .556 
+Archie McKain      L  10   4   1   0   0   1   0   0   0   0   0  .400  .455  .500 
+Al Milnar          L  18   3   0   0   0   3   0   0   0   0   0  .167  .286  .167 
+Johnny Murphy      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bobo Newsom        R  26   3   0   0   0   4   0   5   0   0   0  .115  .233  .115 i
+F. Ostermueller    L   9   3   0   1   0   0   0   2   0   0   0  .333  .333  .556 
+Monte Pearson      R  11   6   2   0   2   0   0   2   0   0   0  .545  .545 1.273 
+Bill Phebus        R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+B. Poffenberger    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Woody Rich         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Johnny Rigney      R  18   4   1   0   0   2   0   3   0   1   0  .222  .300  .278 i
+Schoolboy Rowe     R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Red Ruffing        R  14   3   1   1   0   0   0   2   0   0   0  .214  .214  .429 
+Marius Russo       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Eddie Smith        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Monty Stratton     R  19   5   4   0   0   1   0   1   0   0   0  .263  .300  .474 
+Steve Sundra       R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Les Tietje         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Trotter       R  12   2   1   1   0   0   0   2   0   0   0  .167  .167  .417 
+Dizzy Trout        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Jim Walkup         R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+John Whitehead     R  14   3   1   0   0   0   0   0   0   0   0  .214  .214  .286 
+Earl Whitehill     L  17   4   1   0   0   2   0   0   0   0   0  .235  .316  .294 
+Kemp Wicker        L   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Jack Wilson        R  11   5   1   0   0   2   0   1   0   0   0  .455  .538  .545 
+Whit Wyatt         R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

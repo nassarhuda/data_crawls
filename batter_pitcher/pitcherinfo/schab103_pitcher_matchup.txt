@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chief Bender       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Jean Dubuc         R   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500 
+Vean Gregg         L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Earl Hamilton      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tom Hughes         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Walter Johnson     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+George Kahler      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Buck O'Brien       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Dwight Stone       R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Ed Willett         R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Smoky Joe Wood     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Carl Zamloch       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333

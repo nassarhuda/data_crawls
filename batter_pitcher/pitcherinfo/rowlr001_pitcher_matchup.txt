@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L  10   2   0   0   0   1   0   4   0   0   0  .200  .273  .200 
+Cal Eldred         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Chuck Finley       L   9   3   1   0   0   3   0   3   0   0   0  .333  .500  .444 
+Jason Grimsley     R   4   0   0   0   0   2   0   3   0   0   0  .000  .333  .000 
+Pat Hentgen        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Teddy Higuera      L   6   1   0   0   0   1   0   4   0   0   0  .167  .286  .167 
+Randy Johnson      L  10   1   1   0   0   0   0   5   0   0   0  .100  .100  .200 
+Jimmy Key          L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Al Leiter          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jamie Moyer        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Terry Mulholland   L   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Bob Patterson      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Frank Viola        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333

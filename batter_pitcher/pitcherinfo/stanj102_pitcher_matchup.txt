@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Bill Bailey        L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Eddie Cicotte      R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Hooks Dauss        R   3   1   1   0   0   0   0   0   1   0   0  .333  .500  .667 
+Vean Gregg         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Walter Johnson     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Reb Russell        L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222

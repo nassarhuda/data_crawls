@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Willie Adams       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+G. Baumgardner     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ad Brennan         L   1   1   0   0   0   3   0   0   0   0   0 1.000 1.000 1.000 
+Cy Falkenberg      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Bert Maxwell       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Tom McGuire        R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 
+Earl Moore         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Earl Moseley       R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+George Mullin      R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Tom Seaton         R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250

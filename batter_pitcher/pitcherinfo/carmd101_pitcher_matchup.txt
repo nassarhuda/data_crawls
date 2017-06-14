@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Anderson       R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Ernie Broglio      R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Don Cardwell       R   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+Art Ceccarelli     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dean Chance        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Don Drysdale       R  11   1   0   0   0   0   0   4   0   0   0  .091  .091  .091 
+Dick Ellsworth     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hank Fischer       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Friend         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Hendley        L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Glen Hobbie        R   5   1   0   0   0   2   1   2   0   0   0  .200  .429  .200 
+Larry Jackson      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Ken Johnson        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Maloney        R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Juan Marichal      R  11   2   0   0   0   0   0   4   0   0   0  .182  .182  .182 
+Al McBean          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Nottebart      R   8   1   1   0   0   0   0   2   0   0   0  .125  .125  .250 
+Ron Perranoski     L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Bob Purkey         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Ken Rowe           R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Sadowski       R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Bob Shaw           R   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Bobby Tiefenauer   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Toth          R   5   3   0   0   1   1   0   1   0   0   0  .600  .667 1.200 
+John Tsitouris     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Chris Zachary      R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000

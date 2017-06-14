@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Milo Candini       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Russ Christopher   R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 i
+Jesse Flores       R   5   1   1   0   0   0   0   2   0   1   0  .200  .200  .400 i
+Johnny Humphries   R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Dutch Leonard      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Muncrief       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hal Newhouser      L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Dizzy Trout        R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200

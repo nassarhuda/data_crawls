@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   5   1   0   0   0   1   0   1   0   2   0  .200  .333  .200 i
+Bill Bevens        R   7   1   0   0   0   1   0   3   0   2   0  .143  .250  .143 
+Don Black          R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Milo Candini       R  10   3   0   0   0   2   0   4   0   0   0  .300  .417  .300 
+Alex Carrasquel    R   8   3   0   0   0   0   0   4   0   2   0  .375  .375  .375 
+Spud Chandler      R   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 
+Ken Chase          L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Joe Dobson         R  11   1   0   0   0   2   0   5   0   0   0  .091  .231  .091 
+Atley Donald       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Red Embree         R   9   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 i
+Cliff Fannin       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dave Ferriss       R  12   1   0   0   0   0   0   0   0   0   0  .083  .083  .083 
+Denny Galehouse    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Al Gettel          R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Bob Gillespie      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Lefty Gomez        L   5   2   0   1   0   1   0   1   0   0   0  .400  .500  .800 
+Orval Grove        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Mickey Haefner     L   6   1   1   0   0   0   0   0   0   1   0  .167  .167  .333 
+Joe Haynes         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Joe Heving         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Art Houtteman      R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Sid Hudson         R   6   2   0   0   1   1   0   1   0   1   0  .333  .429  .833 
+Johnny Humphries   R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 i
+Don Johnson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ellis Kinder       R  12   0   0   0   0   1   0   5   0   0   0  .000  .077  .000 
+Thornton Lee       L   6   1   1   0   0   1   0   2   0   0   0  .167  .286  .333 
+Bob Lemon          R   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Eddie Lopat        L   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Walt Masterson     R   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 i
+Bob Muncrief       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Hal Newhouser      L   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Joe Page           L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Nels Potter        R   6   1   0   0   0   0   0   4   0   2   0  .167  .167  .167 
+Allie Reynolds     R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Red Ruffing        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ray Scarborough    R  10   2   1   0   0   1   0   2   0   0   0  .200  .273  .300 i
+Eddie Smith        L   7   1   0   0   0   2   0   3   0   0   0  .143  .333  .143 i
+Dizzy Trout        R   6   3   0   0   0   1   0   3   0   2   0  .500  .571  .500 i
+Virgil Trucks      R   7   0   0   0   0   1   0   1   0   2   0  .000  .125  .000 
+Charlie Wagner     R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Early Wynn         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

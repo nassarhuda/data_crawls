@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Francis       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Kazuhisa Ishii     L   3   0   0   0   0   1   0   1   0   0   1  .000  .200  .000 
+Jason Jennings     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Kyle Lohse         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Noah Lowry         L   4   1   1   0   0   1   0   0   0   0   0  .250  .400  .500 
+Guillermo Mota     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Andy Pettitte      L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Brett Tomko        R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Ismael Valdez      R   5   1   0   0   0   2   0   0   0   0   0  .200  .429  .200 
+Jeff Weaver        R   4   2   0   0   0   0   0   2   0   0   1  .500  .400  .500 
+David Wells        L   5   2   1   0   1   0   0   2   0   0   0  .400  .400 1.200

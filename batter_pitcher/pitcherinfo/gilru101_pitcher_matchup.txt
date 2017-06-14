@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Bond         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Candy Cummings     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bobby Mathews      R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 i
+Al Spalding        R  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 i
+Bill Stearns       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i

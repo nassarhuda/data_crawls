@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chief Bender       R  10   3   1   0   0   0   0   6   0   1   0  .300  .300  .400 i
+Fred Blanding      R  10   2   1   0   0   1   0   2   0   1   0  .200  .273  .300 i
+Howie Camnitz      R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Carl Cashion       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Doc Crandall       R  11   3   1   0   0   0   0   1   0   0   0  .273  .273  .364 
+Hooks Dauss        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Jean Dubuc         R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Cy Falkenberg      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Vean Gregg         L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+Bob Groom          R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Earl Hamilton      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Tom Hughes         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Walter Johnson     R   9   4   0   0   0   0   0   1   0   0   0  .444  .444  .444 i
+George Kahler      R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 i
+Elmer Knetzer      R   5   1   0   0   0   1   0   2   0   1   0  .200  .333  .200 i
+Frank Lange        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Roy Mitchell       R   7   3   0   0   0   0   0   1   1   0   0  .429  .500  .429 i
+George Mullin      R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Jim Scott          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Suggs       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+M. Walker          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Doc White          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ed Willett         R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Smoky Joe Wood     R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 i

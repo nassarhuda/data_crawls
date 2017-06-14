@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Bosio        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Deshaies       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Eichhorn      R   3   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Mark Grant         R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Greg Harris        R   3   1   1   0   0   2   1   0   0   0   0  .333  .600  .667 
+Charlie Lea        R   3   2   2   0   0   1   0   1   0   0   0  .667  .750 1.333 
+Derek Lilliquist   L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Joe Magrane        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Portugal      R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Dennis Rasmussen   L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Rick Rhoden        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Smithson      R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Frank Viola        L   5   3   3   0   0   0   0   1   0   0   0  .600  .600 1.200 
+Bill Wegman        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Whitson         R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800

@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Andy Benes         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mike Bielecki      R   3   1   0   0   0   3   1   0   0   0   0  .333  .667  .333 
+Tom Candiotti      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+David Cone         R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Jose DeLeon        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Doug Drabek        R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Scott Garrelts     R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Jason Grimsley     R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Mike Harkey        R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Greg Harris        R   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500 
+Greg Maddux        R   5   0   0   0   0   1   1   2   0   0   0  .000  .167  .000 
+Ramon Martinez     R   7   1   0   0   1   1   0   4   0   0   0  .143  .250  .571 
+Jim Neidlinger     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Armando Reynoso    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Smoltz        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ed Whitson         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000

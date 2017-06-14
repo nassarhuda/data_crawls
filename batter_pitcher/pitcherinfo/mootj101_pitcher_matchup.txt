@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Max Butcher        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Paul Derringer     R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 
+Harry Gumbert      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Cliff Melton       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hugh Mulcahy       R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jim Tobin          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Whit Wyatt         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

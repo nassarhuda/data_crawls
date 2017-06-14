@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Brown          R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Don Drysdale       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dick Ellsworth     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jack Fisher        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bob Gibson         R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Al Jackson         L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Juan Marichal      R   8   1   0   0   0   2   0   0   0   0   0  .125  .300  .125 
+Jim O'Toole        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Shaw           R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+Curt Simmons       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Assenmacher   L   5   4   0   0   0   1   0   1   0   0   0  .800  .833  .800 
+Tom Browning       L  17   3   0   0   0   0   0   2   0   0   0  .176  .176  .176 
+Chuck Cary         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Norm Charlton      L   8   1   1   0   0   0   0   3   0   0   0  .125  .125  .250 
+Rheal Cormier      L   4   0   0   0   0   1   1   2   0   0   0  .000  .200  .000 
+Jim Deshaies       L  16   4   0   0   1   0   0   0   0   0   0  .250  .250  .438 
+Sid Fernandez      L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Chris Hammond      L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Orel Hershiser     R   5   3   2   0   0   0   0   1   0   0   0  .600  .600 1.000 
+Bruce Hurst        L  14   3   0   0   0   0   0   2   0   0   0  .214  .214  .214 
+Danny Jackson      L   9   3   1   0   1   0   0   2   0   0   0  .333  .333  .778 
+Darryl Kile        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Derek Lilliquist   L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Magrane        L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Terry Mulholland   L   6   3   2   0   0   0   0   0   0   0   0  .500  .500  .833 
+Bob Ojeda          L   3   2   0   0   0   0   0   0   0   0   1  .667  .500  .667 
+Omar Olivares      R   7   4   2   0   0   0   0   0   0   0   0  .571  .571  .857 
+Dennis Rasmussen   L   8   3   0   0   2   0   0   0   0   0   0  .375  .375 1.125 
+Rich Rodriguez     L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bruce Ruffin       L   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Smiley        L   8   2   0   0   1   0   0   0   0   0   0  .250  .250  .625 
+Zane Smith         L   5   2   1   1   0   0   0   0   0   0   0  .400  .400 1.000 
+Greg Swindell      L   4   2   0   0   2   1   0   1   0   0   0  .500  .600 2.000 
+Randy Tomlin       L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Mitch Williams     L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Trevor Wilson      L   6   1   0   0   1   1   0   0   0   0   0  .167  .286  .667

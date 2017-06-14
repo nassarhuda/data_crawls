@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ryan Jensen        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Greg Maddux        R   4   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Pedro Martinez     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wade Miller        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roy Oswalt         R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Kirk Rueter        L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+John Thomson       R   4   1   0   0   0   1   0   2   0   1   0  .250  .400  .250

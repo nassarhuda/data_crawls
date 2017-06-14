@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   9   2   0   0   0   0   0   3   0   1   0  .222  .222  .222 
+Miguel Batista     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Matt Beech         L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Andy Benes         R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Jason Bere         R   3   1   0   0   0   1   0   0   0   2   0  .333  .500  .333 
+Frank Castillo     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dennis Cook        L   3   1   0   0   0   1   0   0   0   0   1  .333  .400  .333 
+F. Cordova         R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Omar Daal          L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Mike Hampton       L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Dustin Hermanson   R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+Livan Hernandez    R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Chris Holt         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Randy Johnson      L   2   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Greg Maddux        R   5   1   0   0   0   0   0   1   0   0   1  .200  .167  .200 
+Brian Meadows      R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Kirt Ojala         L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chan Ho Park       R  10   3   2   0   0   0   0   4   0   0   0  .300  .300  .500 
+Carl Pavano        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Odalis Perez       L   6   3   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Robert Person      R   2   0   0   0   0   0   0   0   0   1   1  .000  .000  .000 
+Kirk Rueter        L   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Pete Smith         R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+John Smoltz        R  12   3   1   0   0   0   0   5   0   1   0  .250  .250  .333 
+John Thomson       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Brett Tomko        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Wolf         L   2   0   0   0   0   0   0   1   0   2   1  .000  .000  .000 
+Kerry Wood         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Masato Yoshii      R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000

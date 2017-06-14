@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Anderson       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dennis Bennett     L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Ernie Broglio      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bob Buhl           R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tony Cloninger     R   7   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Roger Craig        R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Dick Ellsworth     L  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 
+Turk Farrell       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Woodie Fryman      L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jim Golden         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Cal Koonce         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jim Owens          R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Johnny Podres      L   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 
+Robin Roberts      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jim Rooker         L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jack Sanford       R   8   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Bob Shaw           R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Warren Spahn       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Stan Williams      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jason Berken       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Doug Davis         L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Jorge de la Rosa   L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cole Hamels        L   7   3   0   0   0   0   0   2   0   0   1  .429  .375  .429 
+J.A. Happ          L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Phil Hughes        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jair Jurrjens      R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+John Lannan        L  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Derek Lowe         R   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 
+Jamie Moyer        L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Chan Ho Park       R   6   3   1   0   0   1   1   1   0   0   1  .500  .500  .667 
+Joel Pineiro       R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+CC Sabathia        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Anibal Sanchez     R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+James Shields      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Todd Wellemeyer    R   4   4   0   0   0   0   0   0   0   0   0 1.000 1.000 1.000 
+Sean West          L   9   2   0   0   1   0   0   1   0   0   1  .222  .200  .556

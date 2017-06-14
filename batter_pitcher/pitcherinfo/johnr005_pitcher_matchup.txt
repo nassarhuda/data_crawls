@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jimmy Anderson     L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Andy Ashby         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jason Bere         R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Brian Bohanon      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Kevin Brown        R  11   1   0   0   0   0   0   7   0   0   0  .091  .091  .091 
+Omar Daal          L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Doug Davis         L   6   1   0   0   1   0   0   3   0   1   0  .167  .167  .667 
+Ryan Dempster      R  11   3   1   0   0   0   0   3   0   1   0  .273  .273  .364 
+Darren Dreifort    R   5   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Adam Eaton         R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Shawn Estes        L  13   2   0   0   0   1   0   4   0   1   0  .154  .214  .154 
+Josh Fogg          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mark Gardner       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Tom Glavine        L  13   0   0   0   0   0   0   6   0   3   0  .000  .000  .000 
+Mike Hampton       L   6   0   0   0   0   0   0   4   1   0   0  .000  .143  .000 
+Livan Hernandez    R   9   3   0   0   0   1   0   2   0   1   0  .333  .400  .333 
+S. Hitchcock       L   7   2   1   0   0   0   0   3   1   0   0  .286  .375  .429 
+Kevin Jarvis       R   7   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Jason Jennings     R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Jose Jimenez       R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ubaldo Jimenez     R  10   1   0   0   0   0   0   4   0   0   0  .100  .100  .100 
+Darryl Kile        R  10   1   0   0   0   0   0   6   0   0   0  .100  .100  .100 
+Al Leiter          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andrew Lorraine    L   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Brian Meadows      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jamie Moyer        L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Denny Neagle       L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Nick Neugebauer    R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Hideo Nomo         R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Darren Oliver      L   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Russ Ortiz         R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Vicente Padilla    R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jake Peavy         R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Robert Person      R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Rick Reed          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Shane Reynolds     R   5   1   0   0   0   0   0   1   0   2   0  .200  .200  .200 
+Jason Schmidt      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Stan Spencer       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Brian Sweeney      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Mike Thurman       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Tomko        R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 
+Todd Van Poppel    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Javier Vazquez     R   8   1   0   0   0   0   0   5   0   0   0  .125  .125  .125 
+Jeff Weaver        R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Jerome Williams    R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Dontrelle Willis   L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Randy Wolf         L   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Masato Yoshii      R   6   2   0   0   0   0   0   3   0   1   0  .333  .333  .333 
+Carlos Zambrano    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Barry Zito         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

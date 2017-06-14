@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jerry Bell         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bert Blyleven      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Catfish Hunter     R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Marty Pattin       R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+Gaylord Perry      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Perry          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Fritz Peterson     L  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 
+Clyde Wright       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

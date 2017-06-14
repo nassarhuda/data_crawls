@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jackie Brown       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Steve Busby        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ed Figueroa        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ross Grimsley      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Larry Gura         L   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Andy Hassler       L   4   2   0   0   0   2   0   1   0   0   0  .500  .667  .500 
+Ken Holtzman       L  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Grant Jackson      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Kekich        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Lee           L   7   2   0   0   0   2   0   0   0   0   0  .286  .444  .286 
+Rudy May           L   3   0   0   0   0   4   0   1   0   0   0  .000  .571  .000 
+Doc Medich         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Marty Pattin       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Fritz Peterson     L  12   5   2   0   2   0   0   2   0   0   0  .417  .417 1.083 
+Jim Slaton         R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Frank Tanana       L   9   1   0   0   0   1   0   4   0   0   0  .111  .200  .111 
+Bill Travers       L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Rick Waits         L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Clyde Wright       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

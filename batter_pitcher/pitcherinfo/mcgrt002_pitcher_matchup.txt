@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Deshaies       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kelly Downs        R   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+Bob Forsch         R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Scott Garrelts     R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Tom Glavine        L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mark Grant         R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Atlee Hammaker     L   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Greg Harris        R   5   2   2   0   0   0   0   1   0   0   0  .400  .400  .800 
+Orel Hershiser     R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jimmy Jones        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Mike Krukow        R   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Mike LaCoss        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Greg Maddux        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Larry McWilliams   L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+David Palmer       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Armando Reynoso    R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Don Robinson       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Nolan Ryan         R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Mike Scott         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Eric Show          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Smith         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pete Smith         R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Zane Smith         L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Greg Swindell      L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Ed Whitson         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

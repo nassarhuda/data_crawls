@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Kris Benson        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brandon Claussen   L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Kevin Correia      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Josh Fogg          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Francis       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Livan Hernandez    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Cory Lidle         R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jon Lieber         R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ted Lilly          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Braden Looper      R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Noah Lowry         L   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Greg Maddux        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pedro Martinez     R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Brad Penny         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ben Sheets         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Brandon Webb       R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000

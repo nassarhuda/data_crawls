@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Wally Bunker       R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Dean Chance        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Donovan       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Al Downing         L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dick Ellsworth     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Joe Horlen         R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mickey Lolich      L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jim McGlothlin     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave McNally       L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jim Merritt        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+John Miller        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Fritz Peterson     L   5   2   0   0   0   1   0   3   0   1   0  .400  .500  .400 
+Tom Phoebus        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Lee Stange         R   7   1   0   0   0   0   0   4   0   1   0  .143  .143  .143 
+Luis Tiant         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

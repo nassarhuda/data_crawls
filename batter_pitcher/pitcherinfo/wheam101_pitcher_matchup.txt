@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Pete Alexander     R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 i
+Red Ames           R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Rube Benton        L  12   2   1   0   0   0   0   1   0   0   0  .167  .167  .250 i
+Leon Cadore        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Ralph Comstock     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wilbur Cooper      L  18   2   0   0   0   0   0   4   2   0   0  .111  .200  .111 i
+Bill Doak          R  12   2   0   0   0   1   0   5   1   1   0  .167  .286  .167 i
+Phil Douglas       R  12   2   0   0   1   1   0   2   0   0   0  .167  .231  .417 i
+Dana Fillingim     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Burleigh Grimes    R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jesse Haines       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Claude Hendrix     R  15   1   1   0   0   1   0   2   0   1   0  .067  .125  .133 i
+Brad Hogg          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Elmer Jacobs       R  10   2   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Dolf Luque         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Speed Martin       R   5   3   0   1   0   0   0   1   0   0   0  .600  .600 1.000 i
+Jakie May          L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Erskine Mayer      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 i
+Hugh McQuillan     R  12   3   1   0   0   2   0   3   0   1   0  .250  .357  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lee Meadows        R   7   2   0   0   0   0   0   2   0   1   0  .286  .286  .286 i
+Frank Miller       R  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 i
+C. Mitchell        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Art Nehf           L  12   1   0   0   0   0   0   1   0   0   0  .083  .083  .083 i
+Joe Oeschger       R  16   4   0   0   0   2   0   2   0   1   0  .250  .333  .250 i
+Gene Packard       L   9   4   1   0   0   0   0   1   0   0   0  .444  .444  .556 i
+Jeff Pfeffer       R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+Mike Prendergast   R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Pat Ragan          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Regan         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jimmy Ring         R   8   3   0   0   0   0   0   3   0   0   0  .375  .375  .375 i
+Dutch Ruether      L   9   3   1   0   0   0   0   1   0   1   0  .333  .333  .444 i
+Rosy Ryan          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Slim Sallee        L  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Roy Sanders        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Schneider     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ferdie Schupp      L   7   2   2   0   0   0   0   1   2   0   0  .286  .444  .571 i
+Bill Sherdel       L   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Cy Slapnicka       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Fred Toney         R  13   3   1   0   0   0   0   0   1   0   0  .231  .286  .308 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Tyler        L  13   2   0   0   0   0   0   1   0   0   0  .154  .154  .154 i
+Hippo Vaughn       L  26   5   0   1   0   2   0   5   0   0   0  .192  .250  .269 i

@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Caldwell      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Tim Conroy         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Krueger       L   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Mark Langston      L   6   4   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Frank Viola        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750

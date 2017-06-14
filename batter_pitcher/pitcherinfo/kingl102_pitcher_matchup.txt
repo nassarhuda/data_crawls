@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mace Brown         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Guy Bush           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Peaches Davis      R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Paul Derringer     R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Benny Frey         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Luke Hamlin        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Ira Hutchinson     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Johnny Lanning     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Lee           R   9   2   0   0   0   1   0   2   0   0   0  .222  .300  .222 i
+Danny MacFayden    R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Hugh Mulcahy       R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Van Mungo          R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 i
+Bill Posedel       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bobby Reis         R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Charlie Root       R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i
+Milt Shoffner      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Smith          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Tobin          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bucky Walters      R  11   1   1   0   0   1   0   1   0   0   0  .091  .167  .182 
+Lon Warneke        R   6   3   0   0   0   2   0   0   0   0   0  .500  .625  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Weaver         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i

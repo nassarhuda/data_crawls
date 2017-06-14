@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doc Ayers          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Bernie Boland      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jim Brillheart     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bullet Joe Bush    R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 i
+Ray Caldwell       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bert Cole          L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Howard Ehmke       R   6   1   0   0   0   1   0   1   0   1   0  .167  .286  .167 i
+Eric Erickson      R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Red Faber          R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 i
+Bert Gallia        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Harry Harper       L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Bob Hasty          R   8   3   0   0   0   0   0   2   0   1   0  .375  .375  .375 
+Waite Hoyt         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Walter Johnson     R  17   3   1   0   0   0   0   1   0   0   0  .176  .176  .235 i
+Sad Sam Jones      R  10   0   0   0   0   1   0   2   0   0   0  .000  .091  .000 i
+Tom Knowlson       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Carl Mays          R   6   1   0   1   0   0   0   3   0   0   0  .167  .167  .500 i
+George Mogridge    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+George Murray      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rollie Naylor      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Park           R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Herb Pennock       L   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 i
+Tom Rogers         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Eddie Rommel       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Babe Ruth          L  14   3   0   0   0   0   0   2   0   1   0  .214  .214  .214 i
+Jim Scott          R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Jim Shaw           R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Bob Shawkey        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ernie Shore        R   9   3   0   1   0   0   0   2   0   0   0  .333  .333  .556 
+Allen Sothoron     R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 i
+Hank Thormahlen    L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Lefty Williams     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Smoky Joe Wood     R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i

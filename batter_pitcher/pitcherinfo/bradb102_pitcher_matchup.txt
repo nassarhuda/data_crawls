@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Allen        L  10   2   1   0   0   0   0   1   0   0   0  .200  .200  .300 i
+Fred Anderson      R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 i
+Bill Bailey        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Hugh Bedient       R   6   3   0   0   0   1   0   0   0   0   0  .500  .571  .500 i
+Jim Bluejacket     R   9   2   0   1   0   0   0   1   0   0   0  .222  .222  .444 i
+Mordecai Brown     R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Happy Finneran     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Russ Ford          R   6   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Rankin Johnson     R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+G. Kaiserling      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Elmer Knetzer      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dan Marion         R   8   3   2   0   0   0   0   0   0   0   0  .375  .375  .625 i
+George McConnell   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Eddie Plank        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ed Reulbach        R  13   2   1   0   0   0   0   0   0   0   0  .154  .154  .231 
+M. Walker          R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 i

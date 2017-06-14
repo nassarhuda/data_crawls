@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Casey         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mort Cooper        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Johnny Hetki       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Oscar Judd         L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Monty Kennedy      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Dave Koslo         L   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Lee           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Claude Passeau     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Kent Peterson      L   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+K. Raffensberger   L   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Preacher Roe       L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Clyde Shoun        L   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Elmer Singleton    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Trinkle        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bill Voiselle      R   6   2   1   0   0   0   0   3   0   0   0  .333  .333  .500 
+Herm Wehmeier      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Wright          R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

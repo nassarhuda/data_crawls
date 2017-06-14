@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Augustine    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bert Blyleven      R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Jim Clancy         R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Larry Demery       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Dennis Eckersley   R   6   2   0   0   2   0   0   1   0   0   0  .333  .333 1.333 
+Dock Ellis         R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dave Lemanczyk     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Dennis Leonard     R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Doc Medich         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jim Palmer         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dave Rozema        R   8   3   0   0   2   0   0   1   0   0   0  .375  .375 1.125 
+Lary Sorensen      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+P. Thormodsgard    R   3   0   0   0   0   1   0   1   0   0   1  .000  .200  .000 
+Bill Travers       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Rick Wise          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143

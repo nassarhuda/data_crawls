@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   7   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Pedro Astacio      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+David Cone         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Doug Drabek        R   2   0   0   0   0   0   0   1   0   1   1  .000  .000  .000 
+Chris Hammond      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Orel Hershiser     R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Al Leiter          L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Carlton Loewer     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Greg Maddux        R   8   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Brian Meadows      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Morgan        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Terry Mulholland   L   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 
+Hideo Nomo         R   4   0   0   0   0   1   0   2   0   2   0  .000  .200  .000 
+Carlos Perez       L   7   1   0   0   0   0   0   2   0   2   0  .143  .143  .143 
+Shane Reynolds     R   9   3   2   0   0   0   0   4   0   0   0  .333  .333  .556 
+Curt Schilling     R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jason Schmidt      R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Scott Sullivan     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

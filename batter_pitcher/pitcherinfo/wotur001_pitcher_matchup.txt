@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Shane Rawley       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ron Robinson       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Jay Tibbs          R   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000

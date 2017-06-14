@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rod Beck           R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Mike Birkbeck      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Candiotti      R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Frank Castillo     R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Sean Douglass      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Doug Drabek        R   5   0   0   0   0   0   0   2   1   0   0  .000  .167  .000 
+Joey Hamilton      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Ken Hill           R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Todd Jones         R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Mark Leiter        R   5   2   0   0   1   1   0   0   0   0   0  .400  .500 1.000 
+Calvin Maduro      R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Ramon Martinez     R   8   3   0   0   0   0   0   1   1   0   0  .375  .444  .375 
+Jaime Navarro      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mark Petkovsek     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mark Portugal      R   3   1   1   0   0   2   0   1   0   0   0  .333  .600  .667 
+Shane Reynolds     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kevin Ritz         R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 
+Jason Schmidt      R   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000 
+John Smoltz        R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Steve Trachsel     R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ismael Valdez      R   7   1   1   0   0   1   0   2   0   0   0  .143  .250  .286 
+Kerry Wood         R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250

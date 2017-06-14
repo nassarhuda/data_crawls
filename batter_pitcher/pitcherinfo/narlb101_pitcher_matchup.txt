@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Grady Adkins       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Clint Brown        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lloyd Brown        L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bobby Burke        L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Pat Caraway        L   3   2   1   0   0   0   0   0   1   0   0  .667  .750 1.000 
+Ownie Carroll      R   8   3   0   0   0   2   0   0   0   1   0  .375  .500  .375 
+General Crowder    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+George Earnshaw    R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Red Faber          R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i
+Wes Ferrell        R   9   3   3   0   0   1   0   1   0   0   0  .333  .400  .667 i
+Skinny Graham      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Sam Gray           R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 i
+Lefty Grove        L  10   3   0   0   0   0   0   3   0   0   0  .300  .300  .300 i
+Bump Hadley        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chief Hogsett      L   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 
+Waite Hoyt         R  11   3   2   0   0   1   0   1   0   0   0  .273  .333  .455 i
+Willis Hudlin      R  13   3   1   0   0   0   0   0   0   0   0  .231  .231  .308 
+Hank Johnson       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ad Liska           R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ted Lyons          R  14   3   1   0   0   1   0   0   0   0   0  .214  .267  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Firpo Marberry     R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Herb Pennock       L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Jack Quinn         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Joe Shaute         L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 i
+Vic Sorrell        R  11   3   0   0   0   0   0   0   0   1   0  .273  .273  .273 i
+Lefty Stewart      L   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tommy Thomas       R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 i
+Myles Thomas       R  11   3   0   0   0   0   0   1   0   0   0  .273  .273  .273 i
+George Uhle        R  13   2   1   0   0   1   0   1   0   0   0  .154  .214  .231 
+Ed Walsh           R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Ed Wells           L   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Earl Whitehill     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Tom Zachary        L  11   6   0   0   0   0   0   0   0   0   0  .545  .545  .545 i
+Jimmy Zinn         R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000

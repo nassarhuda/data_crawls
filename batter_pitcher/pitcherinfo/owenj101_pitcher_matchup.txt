@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ernie Broglio      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Buhl           R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Don Cardwell       R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Art Ceccarelli     L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jack Curtis        L   4   1   1   0   0   0   0   1   0   2   0  .250  .250  .500 
+Don Elston         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Friend         R   5   1   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Bob Gibson         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Harvey Haddix      L   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Bill Henry         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Glen Hobbie        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jay Hook           R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Sam Jones          R   9   0   0   0   0   1   0   7   0   1   0  .000  .100  .000 
+Sandy Koufax       L   5   1   0   0   0   1   0   3   0   1   0  .200  .333  .200 
+Vern Law           R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike McCormick     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Miller         R   8   3   1   0   0   0   0   3   0   0   0  .375  .375  .500 
+V. Mizell          L  12   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim O'Toole        L   4   1   0   0   0   3   0   1   0   0   0  .250  .571  .250 
+Orlando Pena       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Juan Pizarro       L   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000 
+Jack Sanford       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Willard Schmidt    R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Don Schwall        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Curt Simmons       L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Warren Spahn       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Tom Sturdivant     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Stan Williams      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

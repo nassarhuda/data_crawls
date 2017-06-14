@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rex Barney         R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Dick Barrett       R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Joe Beggs          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ewell Blackwell    R   5   0   0   0   0   1   0   1   0   2   0  .000  .167  .000 
+Hank Borowy        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Joe Bowman         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Harry Brecheen     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bob Chipman        L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Paul Derringer     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Blix Donnelly      R   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Harry Feldman      R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 i
+Hal Gregg          R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 i
+Harry Gumbert      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Hansen        R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ed Heusser         R   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Kirby Higbe        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry Jansen       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Al Jurisich        R   6   1   1   0   0   0   0   2   0   1   0  .167  .167  .333 
+Emil Kush          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doyle Lade         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Max Lanier         L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Vic Lombardi       L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Rube Melton        R   3   0   0   0   0   1   0   1   1   0   0  .000  .400  .000 i
+Red Munger         R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Claude Passeau     R   7   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 i
+Kent Peterson      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ray Prim           L   5   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+K. Raffensberger   L  13   3   1   0   0   0   0   1   0   0   0  .231  .231  .308 i
+Preacher Roe       L   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Rip Sewell         R  13   3   2   0   0   0   0   2   0   0   0  .231  .231  .385 i
+Walter Signer      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Starr          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+J. Vander Meer     L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Bill Voiselle      R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Bucky Walters      R  12   3   2   0   0   0   0   2   0   1   0  .250  .250  .417 
+Ted Wilks          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hank Wyse          R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 i

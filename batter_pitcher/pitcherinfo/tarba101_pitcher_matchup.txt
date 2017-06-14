@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Garland Buckeye    L   5   2   0   0   0   2   0   0   0   1   0  .400  .571  .400 
+Bobby Burke        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lefty Grove        L   7   1   0   0   0   1   0   3   0   1   0  .143  .250  .143 i
+Waite Hoyt         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Herb Pennock       L  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dutch Ruether      L   5   2   0   0   0   0   0   1   1   2   0  .400  .500  .400 
+Lefty Stewart      L   9   2   0   0   0   0   0   1   1   0   0  .222  .300  .222 
+Rube Walberg       L   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250

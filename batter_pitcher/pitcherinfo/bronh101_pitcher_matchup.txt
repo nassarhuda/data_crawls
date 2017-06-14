@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Red Causey         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Cicotte      R  10   1   0   0   0   0   0   0   0   0   0  .100  .100  .100 i
+Doc Crandall       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Hooks Dauss        R   5   1   0   1   0   0   0   0   0   1   0  .200  .200  .600 i
+Howard Ehmke       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Ray Francis        L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Burleigh Grimes    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Bob Hasty          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Brad Hogg          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Elmer Jacobs       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jing Johnson       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Walter Johnson     R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 i
+Sad Sam Jones      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Walt Kinney        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Dutch Leonard      L   4   3   1   0   0   0   0   1   0   1   0  .750  .750 1.000 
+Rube Marquard      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Carl Mays          R   9   2   1   0   0   0   0   3   0   1   0  .222  .222  .333 i
+George Mogridge    L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Guy Morton         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rollie Naylor      R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Jake Northrop      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Herb Pennock       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Pol Perritt        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Scott Perry        R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 i
+Jack Powell        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Mike Prendergast   R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Jack Quinn         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Eddie Rommel       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Allen Russell      R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Babe Ruth          L   2   2   0   0   0   1   0   0   1   0   0 1.000 1.000 1.000 
+Jim Shaw           R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bob Shawkey        R   9   4   1   0   0   0   0   1   0   0   0  .444  .444  .556 i
+Bob Steele         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Uhle        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Lefty Williams     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tom Zachary        L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i

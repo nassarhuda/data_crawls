@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Burba         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Shawn Estes        L   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Mike Hampton       L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Holt         R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Scott Karl         L   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Jon Lieber         R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Carlos Perez       L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Rick Reed          R   5   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Shane Reynolds     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brett Tomko        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ismael Valdez      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Terrell Wade       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Masato Yoshii      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167

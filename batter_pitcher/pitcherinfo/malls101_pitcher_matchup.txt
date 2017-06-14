@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+F. Barrios         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Dennis Eckersley   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Figueroa        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Dave Goltz         R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Fergie Jenkins     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Palmer         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ron Schueler       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Wayne Simpson      R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+P. Thormodsgard    R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Luis Tiant         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mike Torrez        R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Rick Wise          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500

@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  12   1   1   0   0   0   0   1   0   0   0  .083  .083  .167 i
+Pete Alexander     R  16   3   0   0   0   1   0   4   0   0   0  .188  .235  .188 i
+Red Causey         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Larry Cheney       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L  20   8   1   0   0   1   0   3   0   1   0  .400  .429  .450 i
+Bill Doak          R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 i
+Dana Fillingim     R  11   1   0   0   0   0   0   1   0   0   0  .091  .091  .091 
+Marv Goodwin       R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Jesse Haines       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Earl Hamilton      L   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 i
+Bob Harmon         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Bill Hubbell       R  16   2   0   0   0   0   0   1   0   2   0  .125  .125  .125 
+Dolf Luque         R  13   2   0   0   0   0   0   4   0   0   0  .154  .154  .154 i
+Rube Marquard      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+George McQuillan   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lee Meadows        R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+C. Mitchell        L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Johnny Morrison    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Art Nehf           L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Joe Oeschger       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pol Perritt        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jeff Pfeffer       R   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Mike Prendergast   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jimmy Ring         R   9   1   0   0   0   1   1   1   0   2   0  .111  .200  .111 i
+Eppa Rixey         L  18   3   0   0   0   0   0   6   0   0   0  .167  .167  .167 i
+Dick Rudolph       R   9   2   0   0   0   0   0   1   0   2   0  .222  .222  .222 i
+Dutch Ruether      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Schneider     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ferdie Schupp      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Sherry Smith       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Ben Tincup         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Lefty Tyler        L   9   0   0   0   0   1   0   4   0   0   0  .000  .100  .000 i
+Dazzy Vance        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hippo Vaughn       L   5   1   0   0   1   1   0   2   0   0   0  .200  .333  .800 i
+Lefty York         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

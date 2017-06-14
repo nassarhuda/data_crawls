@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chad Billingsley   R   4   4   0   0   1   0   0   0   0   0   0 1.000 1.000 1.750 
+Mark Buehrle       L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Burns         R   4   2   1   0   1   0   0   0   0   0   0  .500  .500 1.500 
+David Bush         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bruce Chen         L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Johnny Cueto       R   2   0   0   0   0   0   0   0   2   0   0  .000  .500  .000 
+Doug Davis         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jorge de la Rosa   L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Zach Duke          L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+A. Galarraga       R  10   5   1   0   2   0   0   1   0   0   0  .500  .500 1.200 
+Derek Holland      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Casey Janssen      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Scott Kazmir       L   5   2   0   0   1   0   0   0   1   0   0  .400  .500 1.000 
+Cliff Lee          L  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Jon Lester         L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+F. Liriano         L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Braden Looper      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Brian Matusz       L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Garrett Mock       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Charlie Morton     R   4   1   1   0   0   2   0   0   0   0   0  .250  .500  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Porcello      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+David Price        L   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 
+Ricky Romero       L   8   2   1   0   0   0   0   2   0   0   0  .250  .250  .375 
+R. Rowland-Smith   L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+CC Sabathia        L  12   1   1   0   0   0   0   4   0   0   0  .083  .083  .167 
+Jonathan Sanchez   L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Joe Saunders       L   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+James Shields      R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Jeff Suppan        R   5   1   0   0   0   0   0   0   1   0   0  .200  .333  .200 
+Virgil Vasquez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Javier Vazquez     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+C.J. Wilson        L   7   2   0   0   0   1   0   3   0   0   0  .286  .375  .286 
+Barry Zito         L   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222

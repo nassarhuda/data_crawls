@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Abbott         L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Wilson Alvarez     L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Willie Banks       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Tim Belcher        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Clark         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Doherty       R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Cal Eldred         R   3   1   1   0   0   1   0   1   1   0   0  .333  .600  .667 
+Alex Fernandez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sid Fernandez      L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Chuck Finley       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Juan Guzman        R   5   1   1   0   0   3   0   2   0   0   0  .200  .500  .400 
+Pat Hentgen        R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Joe Hesketh        L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Teddy Higuera      L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Miguel Jimenez     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jimmy Key          L   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Mark Langston      L   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Joe Magrane        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack McDowell      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Angel Miranda      L   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Moore         R   4   2   1   0   0   1   0   1   0   1   0  .500  .600  .750 
+Jamie Moyer        L   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Terry Mulholland   L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chris Nabholz      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Donn Pall          R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Roger Pavlik       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Melido Perez       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Arthur Rhodes      L   3   1   1   0   0   4   0   0   0   0   0  .333  .714  .667 
+Dave Stewart       R   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Todd Stottlemyre   R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Kevin Tapani       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+F. Valenzuela      L   7   4   2   0   0   0   0   1   0   0   0  .571  .571  .857 
+David Wells        L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143

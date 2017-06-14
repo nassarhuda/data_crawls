@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Caldwell       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Nick Cullop        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Dave Davenport     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bert Gallia        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Walter Johnson     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dutch Leonard      L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+George Mogridge    L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Allen Russell      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Babe Ruth          L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Jim Shaw           R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ernie Shore        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i

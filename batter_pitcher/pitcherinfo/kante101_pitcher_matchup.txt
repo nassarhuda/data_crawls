@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Doak          R   3   0   0   0   0   2   0   0   0   1   0  .000  .400  .000 
+Jimmy Lavender     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pol Perritt        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jeff Pfeffer       R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 
+Dick Rudolph       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333

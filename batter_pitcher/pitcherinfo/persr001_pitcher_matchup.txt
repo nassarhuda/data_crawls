@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jimmy Anderson     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Benes         R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Brian Bohanon      L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+A.J. Burnett       R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Matt Clement       R   7   0   0   0   0   1   0   5   0   1   0  .000  .125  .000 
+Ryan Dempster      R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Tom Glavine        L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Randy Johnson      L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Scott Karl         L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Albie Lopez        R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Greg Maddux        R   8   1   1   0   0   0   0   5   0   1   0  .125  .125  .250 
+Calvin Maduro      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Wade Miller        R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Carl Pavano        R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Rick Reed          R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+John Smiley        L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Masato Yoshii      R   6   2   1   0   1   0   0   1   0   0   0  .333  .333 1.000

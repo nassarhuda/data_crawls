@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Archer       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Alex Cobb          R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+R.A. Dickey        R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Scott Feldman      R   5   4   2   0   0   0   0   0   0   0   0  .800  .800 1.200 
+J.A. Happ          L   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Casey Janssen      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Marcus Stroman     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Tillman      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Jered Weaver       R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600

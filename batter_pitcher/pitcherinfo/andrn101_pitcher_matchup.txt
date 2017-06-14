@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hi Bithorn         R   7   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Ken Burkhart       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Arnold Carter      L   3   1   1   0   0   1   0   0   0   1   0  .333  .500  .667 
+Ben Chapman        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Curt Davis         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Gerheauser      L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Hank Gornicki      R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Wally Hebert       L   2   2   0   0   0   0   0   0   0   2   0 1.000 1.000 1.000 
+Ed Heusser         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Si Johnson         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Lohrman       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Cal McLish         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Cliff Melton       L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Rube Melton        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Van Mungo          R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 i
+F. Ostermueller    L  10   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Claude Passeau     R  12   1   0   0   0   1   0   6   0   1   0  .083  .154  .083 
+Xavier Rescigno    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Elmer Riddle       R   8   0   0   0   0   3   0   2   0   0   0  .000  .273  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Preacher Roe       L   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 i
+Charley Schanz     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+J. Vander Meer     L   5   0   0   0   0   1   0   1   0   1   0  .000  .167  .000 
+Bill Voiselle      R   2   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Bucky Walters      R   4   2   0   0   0   0   0   2   0   2   0  .500  .500  .500

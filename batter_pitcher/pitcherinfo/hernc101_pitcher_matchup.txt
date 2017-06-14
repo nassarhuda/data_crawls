@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Beggs          R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Mort Cooper        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Paul Derringer     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Larry French       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Luke Hamlin        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ed Head            R   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333 
+Kirby Higbe        R   7   3   0   0   0   0   0   1   1   0   0  .429  .500  .429 
+Si Johnson         R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Max Lanier         L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 i
+Bill Lohrman       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Earl Naylor        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bobo Newsom        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Elmer Riddle       R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Rip Sewell         R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 
+Clyde Shoun        L   3   1   0   0   0   2   1   0   0   0   0  .333  .600  .333 i
+Ray Starr          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+J. Vander Meer     L  12   1   0   0   0   1   0   0   0   0   0  .083  .154  .083 
+Bucky Walters      R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Les Webber         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Ernie White        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i

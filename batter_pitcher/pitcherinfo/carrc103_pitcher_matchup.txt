@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Boozer        R   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Jim Brewer         L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ron Herbel         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tug McGraw         L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Pete Mikkelsen     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Ray            R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Ruthven       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Chris Short        L   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Ron Taylor         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

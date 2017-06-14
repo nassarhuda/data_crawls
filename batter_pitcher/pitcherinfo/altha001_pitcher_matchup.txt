@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bartolo Colon      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Adam Conley        L   8   1   1   0   0   0   0   2   0   0   1  .125  .111  .250 
+Jeurys Familia     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Gio Gonzalez       L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Brad Hand          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Koehler        R   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+Wade Miley         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bryan Morris       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Justin Nicolino    L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jon Niese          L   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Williams Perez     R   4   1   0   1   0   0   0   1   1   0   1  .250  .333  .750 
+Julio Teheran      R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+J. Zimmermann      R   6   3   0   0   2   0   0   1   0   0   0  .500  .500 1.500

@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+R. Aitchison       L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 i
+Pete Alexander     R  21   3   2   0   0   0   0   6   0   0   0  .143  .143  .238 i
+Frank Allen        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Red Ames           R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Rube Benton        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Larry Cheney       R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Jack Coombs        R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Dave Davenport     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Wheezer Dell       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Doak          R   4   1   0   0   0   3   0   0   0   0   0  .250  .571  .250 i
+Phil Douglas       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Elmer Jacobs       R   2   2   0   0   0   1   0   0   0   1   0 1.000 1.000 1.000 
+Jimmy Lavender     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Rube Marquard      L   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 i
+Rube Marshall      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+C. Mathewson       R  11   1   0   0   0   0   0   3   0   0   0  .091  .091  .091 
+Erskine Mayer      R  14   3   0   0   0   2   0   1   0   0   0  .214  .313  .214 i
+Lee Meadows        R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i
+Joe Oeschger       R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Hub Perdue         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pol Perritt        R  10   2   1   0   0   2   0   1   0   0   0  .200  .333  .300 i
+Jeff Pfeffer       R   6   2   0   0   0   3   0   0   0   0   0  .333  .556  .333 i
+Ed Reulbach        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Eppa Rixey         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Hank Robinson      L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Nap Rucker         L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jeff Tesreau       R   8   3   1   0   0   2   0   2   0   0   0  .375  .500  .500

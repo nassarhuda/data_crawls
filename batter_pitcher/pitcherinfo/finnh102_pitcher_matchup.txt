@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Stan Coveleski     R   9   3   1   0   0   1   0   0   0   0   0  .333  .400  .444 
+Walt Dickson       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Cy Falkenberg      R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Vean Gregg         L   2   1   0   0   0   0   0   1   1   1   0  .500  .667  .500 
+Bunny Hearn        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Elmer Knetzer      R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+George LeClair     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Gene Packard       L   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Eddie Plank        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Mike Prendergast   R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Ed Willett         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

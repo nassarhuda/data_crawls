@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Barnes       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jeff Bittiger      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Buddy Black        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+John Candelaria    L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Storm Davis        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Chuck Finley       L   3   2   1   1   0   0   0   0   0   0   1  .667  .500 1.667 
+Tom Glavine        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ray Hayward        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bruce Hurst        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Les Lancaster      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Greg Maddux        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Joe Magrane        L   6   3   1   1   0   0   0   1   0   0   1  .500  .429 1.000 
+Chris Nabholz      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dan Schatzeder     L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dave Stewart       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Greg Swindell      L   3   2   0   1   0   0   0   1   0   1   0  .667  .667 1.333 
+Frank Viola        L  12   3   0   0   1   0   0   4   0   0   0  .250  .250  .500 
+Mitch Williams     L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Steve Wilson       L   4   1   0   0   0   3   0   0   0   0   0  .250  .571  .250

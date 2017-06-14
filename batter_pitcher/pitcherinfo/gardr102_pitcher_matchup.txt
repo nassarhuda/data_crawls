@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Garland Braxton    L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Lloyd Brown        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Rip Collins        R   3   2   0   0   0   1   0   0   0   1   0  .667  .750  .667 i
+General Crowder    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+George Earnshaw    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Red Faber          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Milt Gaston        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Lefty Grove        L   8   2   0   0   0   2   0   1   0   1   0  .250  .400  .250 i
+Sad Sam Jones      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ted Lyons          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Danny MacFayden    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Ed Morris          R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 i
+Bill Shores        R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 i
+Fred Stiely        L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Tommy Thomas       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rube Walberg       L   5   0   0   0   0   3   0   1   0   0   0  .000  .375  .000 i
+Ed Wells           L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Earl Whitehill     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Tom Zachary        L  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 i

@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fausto Carmona     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Samuel Deduno      R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Scott Diamond      L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Gavin Floyd        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Gio Gonzalez       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dan Haren          R  12   3   1   0   0   1   0   6   0   0   0  .250  .308  .333 
+Matt Harrison      L  10   1   0   0   0   1   0   2   0   0   0  .100  .182  .100 
+J. Hellickson      R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Liam Hendriks      R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Derek Holland      L   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Steve Johnson      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Zach McAllister    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Jake Peavy         R   6   3   0   0   1   0   0   2   0   0   0  .500  .500 1.000 
+Garrett Richards   R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Ervin Santana      R   9   2   0   0   1   2   1   5   0   0   1  .222  .333  .556 
+Anthony Swarzak    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jered Weaver       R   7   2   0   0   0   2   0   2   0   0   0  .286  .444  .286 
+Jerome Williams    R   8   2   0   0   1   0   0   3   0   0   0  .250  .250  .625 
+C.J. Wilson        L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000

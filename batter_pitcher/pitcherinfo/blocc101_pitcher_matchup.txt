@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Donovan       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Gables         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+J. Vander Meer     L   8   4   1   0   0   0   0   1   0   0   0  .500  .500  .625

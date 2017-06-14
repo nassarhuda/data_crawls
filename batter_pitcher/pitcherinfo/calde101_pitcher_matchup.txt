@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tiny Bonham        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bob Feller         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Lefty Grove        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mel Harder         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Harry Kelley       R   6   2   1   0   1   0   0   1   0   0   0  .333  .333 1.000 
+Johnny Marcum      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mike Meola         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bobo Newsom        R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Marino Pieretti    R   5   3   0   0   0   0   0   0   0   1   0  .600  .600  .600 
+Nels Potter        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Virgil Trucks      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

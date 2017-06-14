@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Ames           R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 i
+Rube Benton        L   7   0   0   0   0   1   0   1   0   1   0  .000  .125  .000 i
+Ad Brennan         L   5   2   0   1   0   2   0   0   0   0   0  .400  .571  .800 i
+Larry Cheney       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Otto Hess          L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Lou Lowdermilk     L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Rube Marquard      L   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 i
+Jim Moroney        L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Hank Robinson      L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Slim Sallee        L  11   4   0   1   0   0   0   0   0   0   0  .364  .364  .545 i
+George Suggs       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Lefty Tyler        L   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 i
+Joe Willis         L   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 i

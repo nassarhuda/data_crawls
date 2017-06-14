@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Glenn Abbott       R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Len Barker         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+F. Barrios         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Brett          L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Mike Caldwell      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Steve Carlton      L  10   1   0   0   0   0   0   4   0   0   1  .100  .091  .100 
+Jim Clancy         R   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jim Colborn        R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Jim Crawford       L   7   2   1   0   1   0   0   0   0   0   0  .286  .286  .857 
+Dennis Eckersley   R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Dock Ellis         R   7   3   1   0   0   1   0   2   0   0   0  .429  .500  .571 
+Dave Freisleben    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ross Grimsley      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ron Guidry         L   9   2   0   0   0   1   0   4   0   0   0  .222  .300  .222 
+Moose Haas         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Andy Hassler       L   4   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+John Hiller        L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jerry Johnson      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ken Kravec         L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Dave Lemanczyk     R   6   3   1   0   0   1   0   0   0   1   0  .500  .571  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Leonard     R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Mark Littell       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jon Matlack        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Rudy May           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Andy Messersmith   R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Roger Moret        L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Claude Osteen      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jim Palmer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Pole          R   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500 
+Enrique Romo       R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Jim Rooker         L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Dave Rozema        R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Ray Sadecki        L   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Lary Sorensen      R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Paul Splittorff    L   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+P. Thormodsgard    R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Luis Tiant         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bill Travers       L   7   3   0   0   1   0   0   0   0   0   0  .429  .429  .857 
+Pete Vuckovich     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Rick Waits         L   6   2   0   0   1   1   0   0   0   0   0  .333  .429  .833 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Wise          R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Wilbur Wood        L   4   2   0   0   0   1   0   0   0   0   1  .500  .500  .500 
+Geoff Zahn         L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500

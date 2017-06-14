@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Bowman         R   4   0   0   0   0   1   0   2   1   0   0  .000  .333  .000 
+Paul Derringer     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+J. Vander Meer     L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

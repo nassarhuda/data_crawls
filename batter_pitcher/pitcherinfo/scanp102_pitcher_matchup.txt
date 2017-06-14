@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Apodaca        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Rick Baldwin       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Barr           R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Bill Bonham        R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Jackie Brown       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Burris         R   6   1   0   0   0   1   1   2   0   0   0  .167  .286  .167 
+John Denny         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Freisleben    R   6   2   0   1   0   0   0   2   0   0   0  .333  .333  .667 
+Ed Halicki         R   4   2   1   0   1   0   0   1   0   0   0  .500  .500 1.500 
+Burt Hooton        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bruce Kison        R   8   3   2   0   0   1   0   0   0   0   0  .375  .444  .625 
+Jim Lonborg        R  10   1   0   0   0   1   0   1   0   0   0  .100  .182  .100 
+Andy Messersmith   R  14   1   0   0   0   0   0   4   0   0   0  .071  .071  .071 
+Carl Morton        R   5   1   0   0   1   1   0   1   0   0   0  .200  .333  .800 
+Phil Niekro        R   7   0   0   0   0   2   0   1   0   0   0  .000  .222  .000 
+Gary Nolan         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ron Reed           R   9   3   0   0   0   3   1   2   0   0   0  .333  .500  .333 
+Rick Reuschel      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Ron Schueler       R   5   2   1   0   1   1   0   2   0   0   0  .400  .500 1.200 
+Don Sutton         R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Craig Swan         R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Kent Tekulve       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Wayne Twitchell    R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400

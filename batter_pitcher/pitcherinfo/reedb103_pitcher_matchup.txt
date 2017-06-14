@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Karl Drews         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Max Lanier         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Russ Meyer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Robin Roberts      R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Preacher Roe       L   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Gerry Staley       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chris Van Cuyk     L   7   1   0   0   0   0   0   3   1   0   0  .143  .250  .143

@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lew Burdette       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Gene Conley        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Corwin          R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Dick Drott         R   4   0   0   0   0   2   0   4   0   0   0  .000  .333  .000 
+Turk Farrell       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Art Fowler         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Howie Fox          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hersh Freeman      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Ruben Gomez        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Warren Hacker      R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Harvey Haddix      L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jim Hearn          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Larry Jackson      R   6   2   1   0   1   0   0   0   1   0   0  .333  .429 1.000 
+Hal Jeffcoat       R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Ron Kline          R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Brooks Lawrence    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Turk Lown          R   7   1   1   0   0   0   0   3   0   1   0  .143  .143  .286 
+Sal Maglie         R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bob Miller         R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Robin Roberts      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Rush           R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Herm Wehmeier      R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333

@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Tony Armas         R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 
+Brandon Backe      R   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Miguel Batista     R   7   3   0   0   0   0   0   0   0   1   0  .429  .429  .429 
+Shawn Estes        L   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Tom Glavine        L   8   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Rick Helling       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Livan Hernandez    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bobby Jones        R   3   0   0   0   0   0   0   3   0   0   1  .000  .000  .000 
+Al Leiter          L   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Greg Maddux        R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Dave Mlicki        R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Russ Ortiz         R   7   2   0   0   0   0   0   3   0   1   0  .286  .286  .286 
+Vicente Padilla    R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Brad Penny         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Rick Reed          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jesus Sanchez      L   4   1   0   0   0   1   0   2   0   3   0  .250  .400  .250 
+Curt Schilling     R   7   1   0   0   0   0   0   4   0   1   0  .143  .143  .143 
+Jason Schmidt      R   7   1   1   0   0   1   0   2   0   0   0  .143  .250  .286 
+Brett Tomko        R   6   1   0   0   0   0   0   2   0   0   1  .167  .143  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Trachsel     R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Dontrelle Willis   L   7   0   0   0   0   0   0   2   0   2   0  .000  .000  .000

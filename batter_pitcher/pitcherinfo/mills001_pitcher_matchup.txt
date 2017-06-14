@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jake Arrieta       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bronson Arroyo     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+David Buchanan     R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Gerrit Cole        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Marco Estrada      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Aaron Harang       R   5   1   0   0   0   0   0   4   0   2   0  .200  .200  .200 
+Kyle Hendricks     R   2   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Ian Kennedy        R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Clayton Kershaw    L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tom Koehler        R   4   1   0   0   0   1   0   2   0   1   0  .250  .400  .250 
+Mike Leake         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kyle Lohse         R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+S. Strasburg       R   4   2   2   0   0   0   0   2   0   0   0  .500  .500 1.000 
+J. Zimmermann      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

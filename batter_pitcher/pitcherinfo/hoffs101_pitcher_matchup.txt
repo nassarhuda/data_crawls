@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dick Barrett       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Boom-Boom Beck     R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Joe Bowman         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ralph Branca       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Harry Brecheen     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ken Burkhart       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Max Butcher        R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 i
+Arnold Carter      L  11   1   0   0   0   1   0   0   0   0   0  .091  .167  .091 
+Ben Chapman        R   3   0   0   0   0   2   0   0   0   1   0  .000  .400  .000 
+Bob Chipman        L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Curt Davis         R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 i
+George Dockins     L   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Blix Donnelly      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Paul Erickson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Howie Fox          R  10   4   0   0   0   1   0   1   0   0   0  .400  .455  .400 
+Ken Gables         R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Al Gerheauser      L   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Hal Gregg          R   8   1   0   0   0   1   0   2   0   1   0  .125  .222  .125 i
+Harry Gumbert      R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Art Herring        R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Ed Heusser         R   6   0   0   0   0   1   1   0   0   0   0  .000  .143  .000 
+Kirby Higbe        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vern Kennedy       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Monty Kennedy      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Konstanty      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Max Lanier         L   6   0   0   0   0   1   1   0   0   0   0  .000  .143  .000 i
+Red Lynn           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Cliff Melton       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Rube Melton        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+F. Ostermueller    L   8   1   0   0   1   0   0   1   0   0   0  .125  .125  .500 i
+Claude Passeau     R  30   6   1   0   0   0   0   0   0   0   0  .200  .200  .233 
+K. Raffensberger   L   8   2   0   1   0   0   0   0   0   0   0  .250  .250  .500 
+Preacher Roe       L  11   1   0   0   0   0   0   0   0   0   0  .091  .091  .091 i
+Charley Schanz     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Schmitz     L   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Tom Seats          L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Clyde Shoun        L   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 
+Nick Strincevich   R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Hy Vandenberg      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Voiselle      R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bucky Walters      R  13   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Les Webber         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ted Wilks          R  10   4   0   0   1   0   0   0   0   0   0  .400  .400  .700 i
+Hank Wyse          R  13   2   0   0   0   0   0   0   0   0   0  .154  .154  .154

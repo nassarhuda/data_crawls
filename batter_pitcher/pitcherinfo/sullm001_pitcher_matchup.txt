@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Joaquin Andujar    R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Scott Bailes       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Floyd Bannister    L   8   3   0   0   0   1   0   2   0   1   0  .375  .444  .375 
+Buddy Black        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Candelaria    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Tom Candiotti      R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Cerutti       L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Ken Dixon          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jamie Easterly     L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Mark Eichhorn      R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Flanagan      L   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Ron Guidry         L   8   1   0   0   0   1   0   5   0   0   0  .125  .222  .125 
+Neal Heaton        L   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 
+Teddy Higuera      L  11   2   1   0   0   0   0   5   0   0   0  .182  .182  .273 
+Charlie Hough      R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250 
+Danny Jackson      L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jimmy Key          L  11   1   1   0   0   0   0   0   0   0   0  .091  .091  .182 
+Bill Krueger       L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Mark Langston      L  10   2   0   0   2   0   0   2   0   1   0  .200  .200  .800 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Nelson        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dennis Rasmussen   L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Stieb         R   8   1   0   0   1   0   0   3   0   0   0  .125  .125  .500 
+Greg Swindell      L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Tewksbury      R   6   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Frank Viola        L  11   2   0   0   0   1   0   4   0   0   0  .182  .250  .182 
+Bill Wegman        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Bobby Witt         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Curt Young         L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143

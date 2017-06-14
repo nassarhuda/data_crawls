@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Barnes       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Jack Bentley       L  13   2   0   0   0   1   0   2   0   1   0  .154  .214  .154 i
+Rube Benton        L   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Wilbur Cooper      L   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Joe Genewich       R   8   0   0   0   0   0   0   0   1   0   0  .000  .111  .000 i
+Burleigh Grimes    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jesse Haines       R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Dutch Henry        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jakie May          L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+C. Mitchell        L   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Art Nehf           L  11   1   0   0   0   0   0   1   0   1   0  .091  .091  .091 i
+Jimmy Ring         R   4   2   0   0   1   1   0   1   0   0   0  .500  .600 1.250 
+Eppa Rixey         L   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 i
+Dutch Ruether      L  10   3   1   0   0   3   0   2   0   0   0  .300  .462  .400 i
+Rosy Ryan          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Sherdel       L  15   5   1   0   1   0   0   1   1   0   0  .333  .375  .600 
+Johnny Stuart      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Lefty Weinert      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i

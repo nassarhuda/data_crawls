@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Bennett     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bobby Bolin        R   6   1   1   0   0   0   0   3   0   1   0  .167  .167  .333 
+Jim Brosnan        R   2   1   0   0   0   0   0   1   0   2   0  .500  .500  .500 
+John Buzhardt      R  11   1   0   0   0   0   0   2   0   1   0  .091  .091  .091 
+Don Cardwell       R   8   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Galen Cisco        R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Gene Conley        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Craig        R  13   1   1   0   0   1   0   4   0   1   0  .077  .143  .154 
+Don Drysdale       R   9   4   0   0   0   1   0   1   0   2   0  .444  .500  .444 
+Dick Ellsworth     L  11   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Don Ferrarese      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bob Friend         R  14   0   0   0   0   1   0   7   0   1   0  .000  .067  .000 
+Joe Gibbon         L   9   3   0   0   0   1   0   2   0   2   0  .333  .400  .333 
+Bob Gibson         R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Harvey Haddix      L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Jack Hamilton      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Glen Hobbie        R  15   1   0   0   0   0   0   5   0   1   0  .067  .067  .067 
+Jay Hook           R   6   1   1   0   0   0   0   0   0   1   0  .167  .167  .333 
+Larry Jackson      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Joey Jay           R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Johnson        R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Sam Jones          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Sandy Koufax       L   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Clem Labine        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Vern Law           R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Denny Lemaster     L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Jim Maloney        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Juan Marichal      R   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike McCormick     L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Cal McLish         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bob Miller         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+V. Mizell          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Nuxhall        L   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jim O'Toole        L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Johnny Podres      L   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 
+Bob Purkey         R  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 
+Jack Sanford       R  10   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Larry Sherry       R   9   0   0   0   0   2   0   4   0   0   0  .000  .182  .000 
+Chris Short        L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Warren Spahn       L  15   4   0   0   0   0   0   1   0   1   0  .267  .267  .267 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Veale          L   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 
+Carl Willey        R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Stan Williams      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

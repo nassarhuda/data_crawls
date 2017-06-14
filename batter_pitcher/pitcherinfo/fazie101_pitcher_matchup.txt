@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dennis Bennett     L   3   0   0   0   0   2   0   2   0   0   0  .000  .400  .000 
+Bobby Bolin        R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Dave Boswell       R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Don Cardwell       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tony Cloninger     R   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000 
+Don Drysdale       R   6   1   0   0   0   0   0   3   1   0   0  .167  .286  .167 
+Dick Ellsworth     L   5   0   0   0   0   2   0   2   0   0   0  .000  .286  .000 
+Earl Francis       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bob Friend         R   4   1   1   0   0   1   0   3   0   0   0  .250  .400  .500 
+Joe Gibbon         L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Gibson         R   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000 
+Bob Hendley        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Glen Hobbie        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Al Jackson         L   6   2   1   0   0   1   0   2   0   0   0  .333  .429  .500 
+Larry Jackson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Sandy Koufax       L  11   2   1   0   0   1   0   7   0   0   0  .182  .250  .273 
+Vern Law           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Denny Lemaster     L  18   3   0   0   1   0   0   7   0   0   0  .167  .167  .333 
+Juan Marichal      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Miller         R   8   3   0   1   0   1   0   0   0   0   0  .375  .444  .625 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Nuxhall        L  10   3   2   0   0   0   0   3   0   0   0  .300  .300  .500 
+Billy O'Dell       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jim O'Toole        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Johnny Podres      L   9   2   1   0   0   0   0   2   0   0   0  .222  .222  .333 
+Bob Purkey         R  11   2   0   0   0   0   0   4   0   0   0  .182  .182  .182 
+Ray Sadecki        L  11   5   1   0   0   0   0   2   0   0   0  .455  .455  .545 
+Jack Sanford       R  11   2   0   0   0   1   0   2   0   0   0  .182  .250  .182 
+Don Schwall        R   4   0   0   0   0   2   1   0   0   1   0  .000  .333  .000 
+Bob Shaw           R   8   3   2   0   0   2   0   2   0   0   0  .375  .500  .625 
+Chris Short        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Warren Spahn       L  11   3   0   1   1   0   0   3   0   0   0  .273  .273  .727 
+John Tsitouris     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Al Worthington     R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

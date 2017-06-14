@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carlos Carrasco    R   3   1   0   0   0   2   0   2   0   0   0  .333  .600  .333 
+Danny Duffy        L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Andrew Heaney      L   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 
+Kris Medlen        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Wade Miley         L   4   3   1   1   0   0   0   0   0   0   0  .750  .750 1.500 
+Tom Milone         L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Daniel Norris      L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Kyle Ryan          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Josh Tomlin        R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Justin Verlander   R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Edinson Volquez    R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Randy Wolf         L   3   2   1   1   0   1   0   0   0   0   0  .667  .750 1.667

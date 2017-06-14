@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Barrett       R   5   3   1   1   0   0   0   1   0   0   0  .600  .600 1.200 
+Al Benton          R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Tiny Bonham        R   6   3   0   1   0   1   0   0   0   0   0  .500  .571  .833 
+Ken Burkhart       R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Max Butcher        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mort Cooper        R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Frank Dasso        R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+George Dockins     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Harry Feldman      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Jesse Flores       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Denny Galehouse    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Gerheauser      L   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+Hal Gregg          R   7   2   0   1   0   0   0   0   0   0   0  .286  .286  .571 
+Orval Grove        R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Randy Gumpert      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mickey Haefner     L   8   4   1   0   0   1   0   1   0   0   0  .500  .556  .625 
+Joe Haynes         R  10   5   1   0   0   0   0   0   1   0   0  .500  .545  .600 
+Wally Hebert       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Art Herring        R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Heusser         R   6   4   0   0   1   1   0   0   0   0   0  .667  .714 1.167 
+Sid Hudson         R   5   1   1   0   0   1   1   1   0   0   0  .200  .333  .400 
+Fred Hutchinson    R   5   2   0   0   0   1   1   1   0   0   0  .400  .500  .400 
+Vern Kennedy       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bob Klinger        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lou Knerr          R   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400 
+Max Lanier         L   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 i
+Dutch Leonard      R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Hod Lisenbee       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Logan          L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bill Lohrman       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Vic Lombardi       L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Eddie Lopat        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Van Mungo          R   5   1   0   0   0   0   0   0   1   0   0  .200  .333  .200 i
+Bobo Newsom        R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+F. Ostermueller    L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Nels Potter        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Xavier Rescigno    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Savage         R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Ray Scarborough    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Seats          L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Rip Sewell         R  15   1   0   0   0   3   0   0   0   0   0  .067  .222  .067 
+Tex Shirley        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Clyde Shoun        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Nick Strincevich   R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Jim Tobin          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dizzy Trout        R   8   2   0   0   0   0   0   2   1   0   0  .250  .333  .250 
+J. Vander Meer     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ernie White        L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Early Wynn         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400

@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Carpenter    R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Brandon Claussen   L   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Roger Clemens      R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Todd Coffey        R   4   2   0   0   1   0   0   2   0   0   0  .500  .500 1.250 
+Doug Davis         L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Aaron Harang       R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Luke Hudson        R   3   0   0   0   0   0   0   3   2   0   0  .000  .400  .000 
+Greg Maddux        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jason Marquis      R   4   2   0   0   2   0   0   0   0   0   0  .500  .500 2.000 
+Eric Milton        L  10   3   1   0   0   0   0   4   0   0   0  .300  .300  .400 
+Mark Mulder        L   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Brett Myers        R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Tomo Ohka          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Roy Oswalt         R   7   1   0   0   1   0   0   1   0   0   0  .143  .143  .571 
+Odalis Perez       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

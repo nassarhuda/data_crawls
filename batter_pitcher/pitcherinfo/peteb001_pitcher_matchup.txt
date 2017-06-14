@@ -1,0 +1,47 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Manny Acosta       R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bronson Arroyo     R   5   1   0   0   0   0   0   1   1   0   0  .200  .333  .200 
+Miguel Batista     R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Brandon Beachy     R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Sean Burnett       L   5   2   0   0   0   0   0   2   0   1   0  .400  .400  .400 
+Matt Cain          R   5   3   1   0   0   0   0   1   0   0   0  .600  .600  .800 
+D.J. Carrasco      R   3   1   0   0   0   0   0   1   1   0   0  .333  .500  .333 
+Jhoulys Chacin     R   4   2   0   2   0   0   0   1   0   0   0  .500  .500 1.500 
+Aaron Cook         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Johnny Cueto       R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Randall Delgado    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+R.A. Dickey        R  15   2   1   0   0   2   0   4   0   0   0  .133  .235  .200 
+Dillon Gee         R   5   1   0   0   0   0   0   2   1   0   0  .200  .333  .200 
+Roy Halladay       R  13   3   1   0   0   2   0   4   0   0   0  .231  .333  .308 
+Cole Hamels        L  10   3   0   0   0   0   0   2   0   0   0  .300  .300  .300 
+Tommy Hanson       R   6   1   1   0   0   1   0   1   0   0   0  .167  .286  .333 
+Aaron Harang       R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Jeremy Hefner      R   7   3   2   0   0   0   0   1   0   0   0  .429  .429  .714 
+Livan Hernandez    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+David Herndon      R   3   2   0   0   0   1   1   0   0   0   0  .667  .750  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Hudson         R   7   1   0   1   0   2   0   0   0   0   0  .143  .333  .429 
+Edwin Jackson      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Kyle Kendrick      R  12   2   1   0   0   0   0   1   1   0   0  .167  .231  .250 
+John Lannan        L   3   1   0   0   0   3   0   0   0   0   0  .333  .667  .333 
+Mat Latos          R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Cliff Lee          L   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Tim Lincecum       R   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Derek Lowe         R   8   1   0   0   0   0   0   0   0   1   1  .125  .111  .125 
+Jordan Lyles       R   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 
+Ryan Madson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kris Medlen        R  11   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Minor         L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Eric O'Flaherty    L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Pelfrey       R   4   0   0   0   0   1   0   0   0   0   1  .000  .167  .000 
+Ramon Ramirez      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Craig Stammen      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+S. Strasburg       R   9   1   0   0   0   3   0   2   0   0   0  .111  .333  .111 
+Michael Stutes     R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jonny Venters      L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chien-Ming Wang    R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alex White         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Vance Worley       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chris Young        R   8   1   0   0   0   0   0   1   0   0   1  .125  .111  .125 
+J. Zimmermann      R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571

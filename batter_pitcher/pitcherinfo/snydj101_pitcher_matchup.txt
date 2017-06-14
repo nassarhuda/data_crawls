@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Frank Buttery      U   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Candy Cummings     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dick McBride       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Charlie Pabor      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Al Spalding        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Zettlein    R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125

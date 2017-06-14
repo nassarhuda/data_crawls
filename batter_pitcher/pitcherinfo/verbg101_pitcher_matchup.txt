@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Brissie        L   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Tommy Byrne        L   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 
+Joe Coleman        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Joe Dobson         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Whitey Ford        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ted Gray           L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Steve Gromek       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Holcombe       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Hooper         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Fred Hutchinson    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Alex Kellner       L   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 
+Leo Kiely          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lou Kretlow        R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Bob Kuzava         L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Eddie Lopat        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Morrie Martin      L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Tom Morgan         R  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Duane Pillette     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Allie Reynolds     R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Saul Rogovin       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carl Scheib        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Bobby Shantz       L   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 
+Lou Sleater        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Early Wynn         R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Sam Zoldak         L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333

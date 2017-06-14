@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Murry Dickson      R   7   4   0   0   1   0   0   0   0   0   0  .571  .571 1.000 
+Art Fowler         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jim Hearn          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Sam Jones          R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ron Kline          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Brooks Lawrence    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Joe Nuxhall        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Willard Schmidt    R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Curt Simmons       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Gerry Staley       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200

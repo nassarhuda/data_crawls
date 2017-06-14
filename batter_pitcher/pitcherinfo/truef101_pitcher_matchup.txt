@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Baumgardner     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Chief Bender       R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 i
+George Boehler     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Joe Boehling       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Bullet Joe Bush    R   7   3   0   0   0   1   0   2   0   0   0  .429  .500  .429 i
+Eddie Cicotte      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Harry Coveleski    L   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+Hooks Dauss        R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Red Faber          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bob Geary          R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Rip Hagerman       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Bill James         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Walter Johnson     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Dutch Leonard      L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Scott Perry        R   4   3   0   0   0   0   0   0   0   1   0  .750  .750  .750 
+Reb Russell        L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jim Shaw           R   8   2   0   0   0   5   0   0   0   0   0  .250  .538  .250 i
+Bob Shawkey        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Steen         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Smoky Joe Wood     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

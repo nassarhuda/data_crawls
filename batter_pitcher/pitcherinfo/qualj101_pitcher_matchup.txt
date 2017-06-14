@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Gentry        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Bob Gibson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave McNally       L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Lowell Palmer      R   4   2   0   1   0   2   0   0   0   0   0  .500  .667 1.000 
+Steve Renko        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Seaver         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Bill Singer        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Don Sutton         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333

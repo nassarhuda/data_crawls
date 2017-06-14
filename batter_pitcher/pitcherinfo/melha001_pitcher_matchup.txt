@@ -1,0 +1,56 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   7   1   0   0   0   0   0   1   1   0   0  .143  .250  .143 
+Joaquin Benoit     R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Jeremy Bonderman   R  12   5   1   0   1   1   0   4   0   0   0  .417  .462  .750 
+Doug Brocail       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Daniel Cabrera     R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Matt Clement       R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Bartolo Colon      R   8   3   0   0   1   0   0   2   0   0   0  .375  .375  .750 
+F. Cordero         R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+R.A. Dickey        R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Lenny DiNardo      L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Adam Eaton         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mike Fetters       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ryan Franklin      R  10   0   0   0   0   1   0   1   0   0   0  .000  .091  .000 
+Aaron Fultz        L   3   2   0   0   1   1   0   0   0   0   0  .667  .750 1.667 
+Freddy Garcia      R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Zack Greinke       R   9   4   1   0   0   0   0   3   0   0   0  .444  .444  .556 
+Jeremy Guthrie     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Luke Hudson        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jason Johnson      R   7   2   2   0   0   0   0   3   0   0   0  .286  .286  .571 
+Randy Johnson      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Lackey        R  13   4   1   0   0   0   0   2   0   0   0  .308  .308  .385 
+Jon Lieber         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ted Lilly          L   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Esteban Loaiza     R   9   3   2   0   1   0   0   2   0   0   0  .333  .333  .889 
+Rodrigo Lopez      R   7   3   0   0   1   2   0   1   0   0   0  .429  .556  .857 
+Derek Lowe         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pedro Martinez     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Seth McClung       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Gil Meche          R  18   4   2   0   0   0   0   4   0   0   0  .222  .222  .333 
+Kevin Millwood     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dustin Moseley     R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Mike Mussina       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Russ Ortiz         R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Chan Ho Park       R   5   2   0   0   1   1   0   1   0   0   1  .400  .429 1.000 
+Brad Penny         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Joel Pineiro       R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+J.J. Putz          R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+F. Rodriguez       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ervin Santana      R  11   3   0   0   1   0   0   4   0   0   0  .273  .273  .545 
+Curt Schilling     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Aaron Sele         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Scot Shields       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Carlos Silva       R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+John Smoltz        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ian Snell          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Justin Speier      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Julian Tavarez     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Josh Towers        R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Pete Walker        R   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 
+Jered Weaver       R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Jake Westbrook     R  13   2   0   0   0   0   0   2   0   0   0  .154  .154  .154 
+Randy Wolf         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Esteban Yan        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L  10   2   0   0   0   1   0   1   0   0   0  .200  .273  .200 
+Lew Burdette       R   5   0   0   0   0   0   0   1   1   0   1  .000  .143  .000 
+Murry Dickson      R   8   0   0   0   0   1   1   0   0   0   0  .000  .111  .000 
+Lino Donoso        L   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Don Liddle         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Littlefield   L   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Windy McCall       L   7   1   1   0   0   1   0   1   0   0   0  .143  .250  .286 
+Paul Minner        L  12   1   0   0   0   0   0   0   0   0   0  .083  .083  .083 
+Don Newcombe       R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Joe Nuxhall        L   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Johnny Podres      L   6   3   2   0   0   0   0   2   0   0   0  .500  .500  .833 
+Robin Roberts      R   8   3   1   0   0   1   0   0   0   0   0  .375  .444  .500 
+Warren Spahn       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Karl Spooner       L  10   3   0   0   0   0   0   3   0   0   0  .300  .300  .300

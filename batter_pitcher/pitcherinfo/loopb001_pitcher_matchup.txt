@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R  11   2   0   1   0   0   0   3   0   0   0  .182  .182  .364 
+Joe Blanton        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Shawn Chacon       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Johnny Cueto       R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Rich Harden        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ted Lilly          L   7   2   0   0   0   0   0   3   0   2   0  .286  .286  .286 
+Derek Lowe         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Brian Moehler      R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Ricky Nolasco      R   7   3   0   0   0   0   0   3   0   0   0  .429  .429  .429 
+Micah Owings       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Chris Sampson      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ben Sheets         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Ian Snell          R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Jeff Suppan        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Chris Young        R   3   1   1   0   0   0   0   2   1   0   0  .333  .500  .667

@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   6   4   1   0   0   0   0   0   0   0   0  .667  .667  .833 
+Skip Lockwood      R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Mickey Lolich      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Mike Nagy          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Blue Moon Odom     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

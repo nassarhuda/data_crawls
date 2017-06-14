@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Emil Bildilli      L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Don Black          R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+Tiny Bonham        R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tommy Bridges      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Rex Cecil          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Atley Donald       R   8   2   1   0   0   2   0   2   0   0   0  .250  .400  .375 
+Denny Galehouse    R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Lefty Grove        L   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Bump Hadley        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Harris        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Joe Heving         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dutch Leonard      R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Eddie Lopat        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Al Milnar          L   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 i
+F. Ostermueller    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Buck Ross          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Marius Russo       L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Bud Thomas         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jack Wilson        R   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Early Wynn         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 i

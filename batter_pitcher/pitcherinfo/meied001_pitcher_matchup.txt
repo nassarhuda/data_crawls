@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L  16   6   1   0   1   1   0   0   0   0   0  .375  .412  .625 
+Buddy Black        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mike Boddicker     R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Britt Burns        L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Mike Caldwell      L   9   3   0   0   0   0   0   1   0   0   1  .333  .300  .333 
+John Candelaria    L   5   4   1   0   0   1   0   0   0   0   0  .800  .833 1.000 
+Ron Guidry         L  12   5   1   1   0   1   0   1   0   0   0  .417  .462  .667 
+Neal Heaton        L  13   4   1   0   0   0   0   0   0   0   0  .308  .308  .385 
+Bruce Hurst        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+J. Johnson         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Randy Johnson      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Mark Langston      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+C. Leibrandt       L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Mike Mason         L   9   2   1   0   0   1   0   0   0   0   0  .222  .300  .333 
+Bob McClure        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Scott McGregor     L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Ojeda          L   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Dennis Rasmussen   L   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Jerry Reuss        L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dan Spillner       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Stieb         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Frank Tanana       L   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Ed Vande Berg      L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Matt Young         L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Geoff Zahn         L  12   7   1   0   0   1   0   1   0   0   0  .583  .615  .667

@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jimmy Anderson     L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Andy Ashby         R   5   1   1   0   0   0   0   1   0   1   0  .200  .200  .400 
+Kris Benson        R   2   1   0   0   0   0   0   1   0   2   0  .500  .500  .500 
+Jeff D'Amico       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Ryan Dempster      R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Seth Etherton      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Mike Hampton       L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Jimmy Haynes       R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Rick Helling       R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Pat Hentgen        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Matt Morris        R  14   1   1   0   0   0   0   3   0   1   0  .071  .071  .143 
+Damian Moss        L   4   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Hideo Nomo         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jake Peavy         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Robert Person      R   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 
+Chris Reitsma      R   2   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Todd Ritchie       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Glendon Rusch      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ben Sheets         R   9   1   0   0   0   1   0   6   0   1   0  .111  .200  .111 
+G. Stephenson      R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mac Suzuki         R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Woody Williams     R   9   2   1   0   0   0   0   3   0   0   0  .222  .222  .333 
+Dontrelle Willis   L   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Kerry Wood         R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Carlos Zambrano    R  10   2   0   0   0   0   0   4   0   1   0  .200  .200  .200

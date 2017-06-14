@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lloyd Brown        L   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 
+General Crowder    R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Curt Davis         R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Paul Derringer     R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Wes Ferrell        R   9   4   0   1   0   0   0   0   0   1   0  .444  .444  .667 
+Mel Harder         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Roy Henshaw        L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Willis Hudlin      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hank Johnson       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Van Mungo          R   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Claude Passeau     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Pipgras     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Lefty Stewart      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Nick Strincevich   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+J. Vander Meer     L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Voiselle      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Bucky Walters      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Weiland        L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Earl Whitehill     L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000

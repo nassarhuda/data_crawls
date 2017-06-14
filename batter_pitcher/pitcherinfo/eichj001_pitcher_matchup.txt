@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Bomback       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Steve Carlton      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Knepper        L   3   2   1   0   0   0   0   1   0   1   0  .667  .667 1.000 
+Rick Mahler        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Phil Niekro        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Scott Sanderson    R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Rick Sutcliffe     R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+F. Valenzuela      L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bob Welch          R   8   0   0   0   0   0   0   6   0   1   0  .000  .000  .000

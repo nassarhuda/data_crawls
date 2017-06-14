@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kevin Brown        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bruce Chen         L   3   0   0   0   0   1   1   1   0   1   0  .000  .250  .000 
+Omar Daal          L   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Zach Day           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Glavine        L   5   1   0   0   0   0   0   0   0   0   1  .200  .167  .200 
+Danny Graves       R   3   0   0   0   0   1   1   2   0   0   1  .000  .200  .000 
+Mark Guthrie       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mike Hampton       L   3   1   0   0   1   0   0   1   0   0   1  .333  .250 1.333 
+Pete Harnisch      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Livan Hernandez    R   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 
+R. Hernandez       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Orel Hershiser     R   6   3   0   0   1   0   0   1   0   0   0  .500  .500 1.000 
+Chris Holt         R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Randy Johnson      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Steve Kline        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Al Leiter          L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Greg Maddux        R  10   2   1   0   0   1   0   4   0   0   0  .200  .273  .300 
+Brian Meadows      R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Brian Moehler      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Damian Moss        L   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Darren Oliver      L   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Odalis Perez       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Robert Person      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Rick Reed          R   3   1   1   0   0   0   0   2   0   1   0  .333  .333  .667 
+Shane Reynolds     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Brett Tomko        R   7   1   0   0   1   1   1   3   0   0   0  .143  .250  .571 
+Steve Trachsel     R   9   4   0   0   1   0   0   2   0   0   0  .444  .444  .778 
+Ismael Valdez      R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Javier Vazquez     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Randy Wolf         L   6   2   0   0   1   0   0   3   0   0   0  .333  .333  .833 
+Masato Yoshii      R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500

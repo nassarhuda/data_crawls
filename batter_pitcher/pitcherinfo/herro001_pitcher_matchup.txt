@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chase Anderson     R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Jake Arrieta       R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+Chad Bettis        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Gerrit Cole        R   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Josh Collmenter    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bartolo Colon      R  13   4   0   0   0   0   0   3   0   0   0  .308  .308  .308 
+Jarred Cosart      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Jacob deGrom       R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Michael Dunn       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jeurys Familia     R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Doug Fister        R   6   0   0   0   0   2   0   3   0   0   0  .000  .250  .000 
+Matt Garza         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Sean Gilmartin     L   4   1   0   0   0   0   0   1   1   0   0  .250  .400  .250 
+Brad Hand          L   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Dan Haren          R  11   2   1   0   0   0   0   2   0   0   0  .182  .182  .273 
+Matt Harvey        R   9   1   0   0   0   0   0   4   0   0   0  .111  .111  .111 
+J. Hellickson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jim Johnson        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clayton Kershaw    L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Tom Koehler        R   8   3   0   0   0   1   0   2   0   0   0  .375  .444  .375 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Lackey        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Mike Leake         R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Wade Miley         L   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Shelby Miller      R  12   3   1   0   0   0   0   4   0   0   0  .250  .250  .333 
+Jon Niese          L   9   4   2   1   0   2   0   3   0   0   0  .444  .545  .889 
+Williams Perez     R   8   3   0   0   0   0   0   1   1   0   0  .375  .444  .375 
+A.J. Ramos         R   2   1   0   0   0   1   0   0   1   0   0  .500  .750  .500 
+Tanner Roark       R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+E. Rodriguez       L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Max Scherzer       R  13   4   1   1   0   1   0   1   0   0   0  .308  .357  .538 
+James Shields      R   6   4   0   0   0   0   0   1   0   0   0  .667  .667  .667 
+S. Strasburg       R   9   2   2   0   0   0   0   5   0   0   0  .222  .222  .444 
+Noah Syndergaard   R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Julio Teheran      R  12   2   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Blake Treinen      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Logan Verrett      R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Ryan Vogelsong     R   6   1   0   0   1   0   0   3   0   0   0  .167  .167  .667 
+Ryan Weber         R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Alex Wood          L  12   2   1   0   0   1   0   4   0   0   0  .167  .231  .250 
+Travis Wood        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Zimmermann      R   7   1   1   0   0   1   0   3   1   0   0  .143  .333  .286

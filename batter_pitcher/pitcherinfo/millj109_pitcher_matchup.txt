@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Grady Adkins       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Garland Braxton    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ownie Carroll      R   4   2   0   1   0   0   0   0   0   2   0  .500  .500 1.000 
+Stan Coveleski     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+General Crowder    R  13   4   0   0   0   0   0   6   0   0   0  .308  .308  .308 i
+Howard Ehmke       R  11   3   0   1   0   0   0   3   1   0   0  .273  .333  .455 i
+Red Faber          R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Milt Gaston        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Sam Gray           R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Lefty Grove        L   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125 
+Bump Hadley        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Fred Heimach       L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Waite Hoyt         R  11   1   0   0   0   0   0   3   0   1   0  .091  .091  .091 i
+Sad Sam Jones      R   7   1   0   0   0   0   0   1   0   1   0  .143  .143  .143 i
+Ted Lyons          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Danny MacFayden    R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Firpo Marberry     R  10   1   0   0   0   0   0   3   0   1   0  .100  .100  .100 i
+Ed Morris          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Herb Pennock       L   6   2   0   0   0   0   0   4   0   0   0  .333  .333  .333 i
+George Pipgras     R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Quinn         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Dutch Ruether      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Shores        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Lefty Stewart      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Tommy Thomas       R   9   1   0   0   0   1   0   4   0   0   0  .111  .200  .111 
+Rube Walberg       L  13   0   0   0   0   1   0   6   0   0   0  .000  .071  .000 i
+Earl Whitehill     L   6   0   0   0   0   0   0   6   0   3   0  .000  .000  .000 i
+Ted Wingfield      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Zachary        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i

@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Blyleven      R   3   1   0   0   1   1   0   2   0   0   0  .333  .500 1.333 
+Gene Brabender     R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Bill Butler        L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Les Cain           L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Moe Drabowsky      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dick Drago         R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Al Fitzmorris      R   5   2   1   0   0   2   0   1   0   0   0  .400  .571  .600 
+Jim Hardin         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Johnson        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Jim Kaat           L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Kilkenny      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Skip Lockwood      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Mike Nagy          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Marty Pattin       R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Jim Perry          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Diego Segui        R   5   1   0   0   1   0   0   1   1   0   0  .200  .333  .800 
+Sonny Siebert      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Mel Stottlemyre    R   8   2   0   0   0   0   0   1   0   0   1  .250  .222  .250

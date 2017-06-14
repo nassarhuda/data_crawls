@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Donovan       R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Bill Faul          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Kaat           L   3   0   0   0   0   0   0   3   1   0   0  .000  .250  .000 
+Jack Kralick       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mickey Lolich      L   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+John Miller        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Dave Morehead      R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Robin Roberts      R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000

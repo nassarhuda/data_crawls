@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Tom Brewer         R   3   0   0   0   0   0   0   1   0   2   1  .000  .000  .000 
+Hal Brown          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jim Bunning        R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Murry Dickson      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Art Ditmar         R   6   1   1   0   0   1   0   2   0   0   0  .167  .286  .333 
+Dick Donovan       R  10   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Whitey Ford        L   9   1   0   0   0   1   0   3   0   0   0  .111  .200  .111 
+Paul Foytack       R  10   1   0   0   0   1   0   5   0   1   0  .100  .182  .100 
+Mike Garcia        R  10   1   0   0   0   1   0   5   0   0   0  .100  .182  .100 
+Ned Garver         R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Dick Hall          R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Jack Harshman      L   4   0   0   0   0   1   0   1   0   1   0  .000  .200  .000 
+Ray Herbert        R   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125 
+Billy Hoeft        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Connie Johnson     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Frank Lary         R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Milt Pappas        R   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Billy Pierce       L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Pedro Ramos        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ralph Terry        R   9   2   0   0   0   0   0   5   0   0   0  .222  .222  .222 
+Bob Turley         R   9   1   0   0   0   2   0   5   0   0   0  .111  .273  .111 
+Early Wynn         R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333

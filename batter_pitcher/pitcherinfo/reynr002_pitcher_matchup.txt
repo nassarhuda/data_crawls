@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Danny Cox          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Dave Dravecky      L   9   0   0   0   0   2   0   0   0   0   0  .000  .182  .000 
+Sid Fernandez      L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ray Fontenot       L   7   2   1   0   1   0   0   1   0   0   0  .286  .286  .857 
+Bob Forsch         R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Bill Gullickson    R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Atlee Hammaker     L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Orel Hershiser     R   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Shawn Hillegas     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brian Holton       R   4   2   1   0   0   0   0   2   0   0   0  .500  .500  .750 
+Jimmy Jones        R   7   3   1   0   1   1   0   1   0   0   0  .429  .500 1.000 
+Bob Knepper        L   9   3   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Mike Krukow        R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Dave LaPoint       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Leary          R   6   3   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Greg Mathews       L   5   2   0   0   1   1   0   0   0   0   0  .400  .500 1.000 
+Larry McWilliams   L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ted Power          R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Joe Price          L   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Rick Reuschel      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Reuss        L   6   5   1   0   0   0   0   1   0   0   0  .833  .833 1.000 
+Ron Robinson       R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Nolan Ryan         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Steve Trout        L   5   3   0   0   0   1   1   1   0   0   0  .600  .667  .600 
+John Tudor         L   4   2   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+F. Valenzuela      L  10   1   0   0   0   1   0   0   0   0   0  .100  .182  .100 
+Bob Welch          R   7   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Ed Whitson         R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

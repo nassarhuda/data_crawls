@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Archer       R   3   1   0   0   0   3   0   0   0   0   0  .333  .667  .333 
+Matt Boyd          L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+M. Bumgarner       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chris Capuano      L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Carlos Carrasco    R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Felix Doubront     L   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Scott Feldman      R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Josh Fields        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Kevin Gausman      R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Trevor Gott        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeremy Guthrie     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Will Harris        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Andrew Heaney      L   5   2   1   0   0   1   0   2   0   0   0  .400  .500  .600 
+Felix Hernandez    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Hisashi Iwakuma    R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Nathan Karns       R   4   2   0   0   0   1   0   1   1   0   0  .500  .667  .500 
+Scott Kazmir       L  12   2   1   0   0   0   0   5   1   0   0  .167  .231  .250 
+Joe Kelly          R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Ian Kennedy        R   5   1   1   0   0   2   0   2   0   0   0  .200  .429  .400 
+Dallas Keuchel     L  12   2   1   0   0   2   0   4   0   0   0  .167  .286  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lance McCullers    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Collin McHugh      R  11   3   0   0   0   0   0   1   0   0   0  .273  .273  .273 
+Wade Miley         L   6   3   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Mike Montgomery    L   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Sean Nolin         L   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Mike Pelfrey       R   6   3   3   0   0   0   0   0   0   0   0  .500  .500 1.000 
+Robbie Ray         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Garrett Richards   R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+E. Rodriguez       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tyson Ross         R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+CC Sabathia        L   5   3   0   0   0   0   0   2   0   0   0  .600  .600  .600 
+Jeff Samardzija    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ervin Santana      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Hector Santiago    L   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Alfredo Simon      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dan Straily        R   3   2   0   1   0   1   0   1   0   0   0  .667  .750 1.333 
+Masahiro Tanaka    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Yordano Ventura    R   5   3   1   1   0   0   0   1   0   0   0  .600  .600 1.200 
+Justin Verlander   R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Edinson Volquez    R   2   1   0   1   0   2   0   0   0   1   0  .500  .750 1.500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Taijuan Walker     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jered Weaver       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Randy Wolf         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Red Barrett        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ralph Branca       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Cliff Chambers     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ben Chapman        R   7   3   2   0   1   0   0   0   0   0   0  .429  .429 1.143 
+Bob Chipman        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curt Davis         R   8   5   2   0   1   0   0   0   0   0   0  .625  .625 1.250 
+Hal Gregg          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Javery          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Max Lanier         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Vic Lombardi       L  12   4   0   0   0   1   0   1   0   0   0  .333  .385  .333 
+Dutch McCall       L   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+F. Ostermueller    L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+K. Raffensberger   L  12   2   0   0   0   1   0   2   0   0   0  .167  .231  .167 
+Preacher Roe       L  10   2   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Charley Schanz     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Freddy Schmidt     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jocko Thompson     L   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+Jim Tobin          R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Lefty Wallace      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Wilks          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Bielecki      R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 
+Tim Birtsas        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeff Brantley      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jose DeLeon        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Jim Deshaies       L   5   1   0   1   0   1   0   2   0   0   0  .200  .333  .600 
+Doug Drabek        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Andy Hawkins       R   7   2   2   0   0   1   0   0   0   0   0  .286  .375  .571 
+Orel Hershiser     R   9   2   0   0   0   1   1   1   0   0   0  .222  .300  .222 
+Danny Jackson      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jimmy Jones        R   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 
+Bob Knepper        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lance McCullers    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeff Pico          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Dan Quisenberry    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dennis Rasmussen   L   5   2   1   0   0   0   0   3   0   0   0  .400  .400  .600 
+Rick Reuschel      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Jose Rijo          R   2   2   0   0   0   2   1   0   0   0   0 1.000 1.000 1.000 
+Don Robinson       R   8   1   0   0   0   2   1   1   0   0   0  .125  .300  .125 
+Calvin Schiraldi   R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Scott         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Eric Show          R  12   2   0   0   1   1   0   0   0   0   0  .167  .231  .417 
+Bob Walk           R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429

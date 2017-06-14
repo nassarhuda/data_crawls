@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Armas         R   4   0   0   0   0   1   1   1   0   0   0  .000  .200  .000 
+Jason Bergmann     R   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Chad Billingsley   R   6   2   0   0   1   2   0   3   0   0   0  .333  .500  .833 
+Blaine Boyer       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Cain          R   8   1   0   0   0   3   0   3   1   0   0  .125  .417  .125 
+Aaron Cook         R   6   2   0   1   0   0   0   2   0   0   0  .333  .333  .667 
+Kevin Correia      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Hudson         R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Tim Lincecum       R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Derek Lowe         R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Greg Maddux        R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Jake Peavy         R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+John Smoltz        R   7   1   1   0   0   0   0   1   0   1   0  .143  .143  .286 
+Ian Snell          R   3   2   0   0   0   2   0   0   0   0   0  .667  .800  .667 
+Claudio Vargas     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+C. Villanueva      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Adam Wainwright    R   4   1   0   1   0   1   0   1   0   0   0  .250  .400  .750 
+Carlos Zambrano    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

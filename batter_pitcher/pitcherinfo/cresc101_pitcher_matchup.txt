@@ -1,0 +1,50 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Boom-Boom Beck     R   7   1   0   0   1   0   0   1   0   0   0  .143  .143  .571 i
+Joe Beggs          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Cy Blanton         R  10   4   1   0   0   0   0   1   1   0   0  .400  .455  .500 i
+Mace Brown         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Max Butcher        R  12   4   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Bob Carpenter      R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Hugh Casey         R   8   2   0   0   0   2   0   2   0   1   0  .250  .400  .250 i
+Bill Crouch        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Curt Davis         R  11   6   1   0   0   0   0   1   0   0   0  .545  .545  .636 
+Paul Derringer     R   8   2   0   0   0   1   0   1   0   1   0  .250  .333  .250 
+Dutch Dietz        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Donovan       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Tom Earley         R   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 i
+Paul Erickson      R   5   1   1   0   0   4   0   0   0   0   0  .200  .556  .400 i
+F. Fitzsimmons     R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 i
+Larry French       L  14   2   0   0   0   0   0   3   0   2   0  .143  .143  .143 i
+Lee Grissom        L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i
+Luke Hamlin        R   8   6   0   1   0   0   0   1   1   0   0  .750  .778 1.000 i
+Ken Heintzelman    L  29  11   4   0   0   1   0   2   0   0   0  .379  .400  .517 i
+Kirby Higbe        R  16   4   1   0   0   6   0   1   1   1   0  .250  .478  .313 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Hoerst       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Carl Hubbell       L  16   3   1   0   0   0   0   3   0   1   0  .188  .188  .250 i
+Tommy Hughes       R   7   1   0   0   0   1   0   1   0   2   0  .143  .250  .143 i
+Al Javery          R  11   0   0   0   0   1   0   2   0   0   0  .000  .083  .000 i
+Art Johnson        L   8   2   2   0   0   1   0   2   0   0   0  .250  .333  .500 i
+Si Johnson         R  19   5   0   0   0   1   0   2   0   0   0  .263  .300  .263 i
+Bob Klinger        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Bill Lee           R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Cliff Melton       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Rube Melton        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Claude Passeau     R  12   3   0   0   0   1   0   1   0   0   0  .250  .308  .250 i
+Ike Pearson        R   6   0   0   0   0   0   0   0   1   0   0  .000  .143  .000 i
+Elmer Riddle       R  18   4   0   0   0   3   0   2   0   0   0  .222  .333  .222 
+Charlie Root       R   3   2   1   0   1   0   0   1   0   1   0  .667  .667 2.000 i
+Manny Salvo        R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Hal Schumacher     R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Rip Sewell         R  16   3   0   0   0   2   0   2   0   0   0  .188  .278  .188 i
+Ray Starr          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Joe Sullivan       L   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 i
+Vito Tamulis       L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Junior Thompson    R   7   2   0   0   0   2   1   2   0   0   0  .286  .444  .286 
+Jim Tobin          R  16   2   1   0   0   0   0   3   0   0   0  .125  .125  .188 i
+Lou Tost           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+J. Vander Meer     L  28   6   1   0   0   6   0   6   0   1   0  .214  .353  .250 
+Bucky Walters      R  31  11   1   0   0   1   0   3   0   0   0  .355  .375  .387 
+Kemp Wicker        L   8   3   1   0   1   1   0   0   0   0   0  .375  .444  .875 
+Whit Wyatt         R  27   7   3   0   0   2   1   2   0   0   0  .259  .310  .370

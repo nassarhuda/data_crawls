@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Decker         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Ross Grimsley      L   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Tom Hall           L   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Tommy John         L   4   1   0   0   1   2   0   1   0   0   0  .250  .500 1.000 
+Jerry Koosman      L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Jon Matlack        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ernie McAnally     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tug McGraw         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jerry Reuss        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rene Arocha        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Willie Blair       R   5   4   0   0   0   1   0   0   0   0   0  .800  .833  .800 
+Dwight Gooden      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Jose Guzman        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Orel Hershiser     R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Darryl Kile        R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 
+Greg Maddux        R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Dennis Martinez    R   5   0   0   0   0   0   0   2   1   0   0  .000  .167  .000 
+Pat Rapp           R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jose Rijo          R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Pete Smith         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Smoltz        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Turk Wendell       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333

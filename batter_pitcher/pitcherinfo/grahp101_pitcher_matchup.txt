@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 i
+Pete Alexander     R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i
+Cy Barger          R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 i
+Fred Beebe         R   7   3   2   0   0   0   0   0   0   0   1  .429  .375  .714 i
+George Bell        R   5   2   1   0   0   3   0   1   0   0   0  .400  .625  .600 i
+Ad Brennan         L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Buster Brown       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ed Donnelly        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Art Fromme         R   9   2   0   0   0   2   0   1   0   0   0  .222  .364  .222 i
+Bob Harmon         R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Bobby Keefe        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Rube Marquard      L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 i
+C. Mathewson       R  14   4   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Al Mattern         L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 i
+Hub Perdue         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Bugs Raymond       R   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 i
+Slim Sallee        L   4   1   0   0   0   4   0   0   0   0   0  .250  .625  .250 i
+Bill Schardt       R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Frank Smith        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Eddie Stack        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Steele        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Jeff Tesreau       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Tyler        L   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 i
+Joe Willis         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

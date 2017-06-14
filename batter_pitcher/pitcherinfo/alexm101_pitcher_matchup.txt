@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tom Bradley        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ken Brett          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John D'Acquisto    R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Ed Figueroa        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Gibson         R   4   0   0   0   0   2   0   0   0   2   0  .000  .333  .000 
+Lynn McGlothen     R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Harry Parker       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Pole          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jerry Reuss        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Sonny Siebert      R   6   3   0   0   0   0   0   0   0   2   0  .500  .500  .500 
+Luis Tiant         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

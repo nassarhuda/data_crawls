@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Bridges      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+General Crowder    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Wes Ferrell        R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Lefty Gomez        L   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 i
+Mel Harder         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Vern Kennedy       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Johnny Marcum      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Monte Pearson      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eddie Smith        L   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 
+Al Veach           R   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Rube Walberg       L   3   3   1   0   1   1   0   0   0   0   0 1.000 1.000 2.333 i

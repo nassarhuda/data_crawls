@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rene Arocha        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Steve Avery        L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Matt Beech         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Belcher        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Andy Benes         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sean Bergman       R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Buddy Black        L   6   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+John Burkett       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Frank Castillo     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Steve Cooke        L   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Doug Drabek        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Fassero       L   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Sid Fernandez      L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mark Gardner       R   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 
+Tyler Green        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joey Hamilton      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Harnisch      R  10   2   2   0   0   2   0   2   0   2   0  .200  .333  .400 
+Danny Jackson      L   4   2   1   0   0   0   0   0   0   2   0  .500  .500  .750 
+Greg Maddux        R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Dave Mlicki        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Morgan        R   6   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Terry Mulholland   L  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Chris Nabholz      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Donovan Osborne    L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tim Pugh           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Paul Quantrill     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Shane Reynolds     R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Kirk Rueter        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bret Saberhagen    R   4   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+John Smoltz        R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Todd Stottlemyre   R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Bill Swift         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Trachsel     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+W. VanLandingham   R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Paul Wagner        R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000

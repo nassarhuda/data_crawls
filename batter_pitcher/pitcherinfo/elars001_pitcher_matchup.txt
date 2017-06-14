@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Ankiel        L   2   0   0   0   0   1   0   1   1   1   0  .000  .500  .000 
+Andy Ashby         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Darren Dreifort    R   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Shawn Estes        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Steve Parris       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Curt Schilling     R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Dan Serafini       L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Kevin Tapani       R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250

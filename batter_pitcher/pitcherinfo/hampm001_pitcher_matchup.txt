@@ -1,0 +1,74 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Abbott        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bronson Arroyo     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Andy Ashby         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pedro Astacio      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Steve Avery        L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Andy Benes         R   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 
+Kris Benson        R   7   0   0   0   0   1   0   3   0   0   0  .000  .125  .000 
+Kevin Brown        R   8   2   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+John Burkett       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+F. Cordova         R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Omar Daal          L   6   2   1   0   0   0   0   1   1   0   0  .333  .429  .500 
+Darren Dreifort    R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Kevin Foster       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Gardner       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Tom Glavine        L   7   3   1   0   0   1   0   1   0   1   0  .429  .500  .571 
+Cole Hamels        L   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Joey Hamilton      R   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Dustin Hermanson   R   4   1   0   0   1   1   0   0   0   1   0  .250  .400 1.000 
+Livan Hernandez    R  12   5   0   0   1   0   0   4   0   1   0  .417  .417  .667 
+Orel Hershiser     R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kazuhisa Ishii     L   4   2   0   0   1   1   0   2   0   0   0  .500  .600 1.250 
+Josh Johnson       R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Randy Johnson      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bobby Jones        R   8   2   0   0   0   1   0   2   0   0   0  .250  .333  .250 
+Darryl Kile        R   7   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Brian Lawrence     R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Al Leiter          L  14   4   0   1   1   1   0   2   0   3   0  .286  .333  .643 
+Curt Leskanic      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jon Lieber         R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Esteban Loaiza     R   4   0   0   0   0   0   0   2   1   0   0  .000  .200  .000 
+Derek Lowe         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Greg Maddux        R   5   1   1   0   0   0   0   3   0   1   0  .200  .200  .400 
+Wade Miller        R   7   5   0   0   2   0   0   1   0   0   0  .714  .714 1.571 
+Kevin Millwood     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Matt Morris        R   8   5   1   0   0   0   0   1   0   1   0  .625  .625  .750 
+Brett Myers        R   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 
+Jaime Navarro      R  10   4   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Hideo Nomo         R   4   1   0   0   0   1   0   2   0   1   0  .250  .400  .250 
+Russ Ortiz         R  13   3   0   0   0   0   0   2   0   0   0  .231  .231  .231 
+Donovan Osborne    L   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vicente Padilla    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Chan Ho Park       R   8   0   0   0   0   0   0   5   1   1   0  .000  .111  .000 
+Steve Parris       R   4   2   0   0   0   0   0   1   0   0   1  .500  .400  .500 
+Carl Pavano        R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Brad Penny         R   8   2   1   0   0   1   0   2   0   0   0  .250  .333  .375 
+Odalis Perez       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Andy Pettitte      L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Cliff Politte      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Rick Reed          R  11   3   0   0   0   0   0   3   0   0   0  .273  .273  .273 
+Armando Reynoso    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Riedling      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Johan Santana      L   4   1   0   0   1   1   0   2   0   0   0  .250  .400 1.000 
+Curt Schilling     R  14   5   0   0   0   0   0   4   0   1   0  .357  .357  .357 
+Pete Schourek      L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Jae Weong Seo      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Smoltz        R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Kevin Tapani       R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Julian Tavarez     R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Mark Thompson      R   4   0   0   0   0   0   0   2   1   0   0  .000  .200  .000 
+Brett Tomko        R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Trachsel     R   8   2   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+F. Valenzuela      L   4   4   0   0   0   0   0   0   0   0   0 1.000 1.000 1.000 
+W. VanLandingham   R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Javier Vazquez     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Woody Williams     R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Dontrelle Willis   L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Randy Wolf         L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kerry Wood         R   6   3   0   0   1   0   0   1   0   0   0  .500  .500 1.000 
+Jamey Wright       R   9   3   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Masato Yoshii      R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400

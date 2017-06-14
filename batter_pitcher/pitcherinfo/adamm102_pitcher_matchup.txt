@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Woodie Fryman      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Andy Hassler       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ken Holtzman       L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Jim Kaat           L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Darold Knowles     L   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Rudy May           L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Nolan Ryan         R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Paul Splittorff    L   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 
+Brent Strom        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Clyde Wright       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

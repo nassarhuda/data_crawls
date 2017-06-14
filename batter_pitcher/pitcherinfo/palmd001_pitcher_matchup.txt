@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Tom Browning       L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+John Candelaria    L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Steve Carlton      L   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ron Darling        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Darwin       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Deshaies       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kelly Downs        R   7   2   0   0   0   0   0   3   0   1   0  .286  .286  .286 
+Dennis Eckersley   R   5   4   1   0   0   0   0   1   0   0   0  .800  .800 1.000 
+Sid Fernandez      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bob Forsch         R  16   4   2   0   0   0   0   8   0   2   0  .250  .250  .375 
+Scott Garrelts     R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Dwight Gooden      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Gullickson    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Andy Hawkins       R   5   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Orel Hershiser     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Danny Jackson      L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mike Krukow        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lynn McGlothen     R   7   1   1   0   0   0   0   5   0   0   0  .143  .143  .286 
+Larry McWilliams   L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dickie Noles       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Frank Pastore      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Alejandro Pena     R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ted Power          R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Shane Rawley       L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Don Robinson       R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Mike Scott         R   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Rick Sutcliffe     R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jay Tibbs          R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Steve Trout        L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+John Tudor         L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+F. Valenzuela      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

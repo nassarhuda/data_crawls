@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+M. Bumgarner       L  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 
+Andrew Cashner     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Santiago Casilla   R   4   1   0   0   0   0   0   2   1   0   0  .250  .400  .250 
+Jorge de la Rosa   L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+O. Despaigne       R   5   3   3   0   0   1   0   0   0   0   0  .600  .667 1.200 
+Yovani Gallardo    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brad Hand          L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Dan Haren          R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Clayton Kershaw    L  10   4   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+Lance Lynn         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jake Peavy         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tyson Ross         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Hyun-Jin Ryu       L   7   2   2   0   0   0   0   0   0   0   0  .286  .286  .571

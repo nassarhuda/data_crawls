@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   7   2   0   1   0   1   0   2   0   0   0  .286  .375  .571 
+Emil Bildilli      L   7   3   1   0   0   0   0   2   0   0   0  .429  .429  .571 
+George Caster      R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Ken Chase          L   2   2   0   0   0   2   0   0   0   0   0 1.000 1.000 1.000 
+Ed Cole            R   7   2   0   1   0   0   0   0   0   0   0  .286  .286  .571 
+Bob Feller         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+George Gill        R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Randy Gumpert      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bump Hadley        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Willis Hudlin      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Harry Kimberlin    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Al Milnar          L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Bobo Newsom        R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Jim Reninger       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Trotter       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

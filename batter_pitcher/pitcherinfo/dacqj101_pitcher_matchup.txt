@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Borbon       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Larry Demery       R   4   2   0   0   1   0   0   2   0   0   0  .500  .500 1.250 
+Bob Forsch         R   6   2   1   0   0   0   0   3   0   0   0  .333  .333  .500 
+Bob Gibson         R   7   1   0   0   0   1   0   4   0   0   0  .143  .250  .143 
+Burt Hooton        R   7   1   1   0   0   0   0   3   0   1   0  .143  .143  .286 
+Tommy John         L   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Randy Jones        L   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Carl Morton        R  10   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Phil Niekro        R   1   0   0   0   0   1   0   0   2   1   0  .000  .750  .000 
+Ron Reed           R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Roberts       L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Steve Rogers       R   7   0   0   0   0   1   0   4   0   0   0  .000  .125  .000 
+Dick Ruthven       R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Kent Tekulve       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

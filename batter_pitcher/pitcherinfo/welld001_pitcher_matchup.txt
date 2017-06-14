@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Edgar Gonzalez     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Aaron Harang       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Randy Johnson      L   5   0   0   0   0   0   0   2   1   0   0  .000  .167  .000 
+Ted Lilly          L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sergio Mitre       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Odalis Perez       L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Jason Schmidt      R   6   1   0   0   0   1   0   2   0   2   0  .167  .286  .167 
+Allen Watson       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Brandon Webb       R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Barry Zito         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

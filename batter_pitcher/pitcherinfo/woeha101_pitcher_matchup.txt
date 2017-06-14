@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jesse Barnes       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Johnny Cooney      L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Wilbur Cooper      L   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 i
+Art Decatur        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Doak          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Donohue       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Eddie Dyer         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Burleigh Grimes    R   8   2   0   1   0   0   0   1   0   0   0  .250  .250  .500 i
+Eppa Rixey         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ray Steineder      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dazzy Vance        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Emil Yde           L  12   3   0   0   0   1   0   0   0   0   0  .250  .308  .250

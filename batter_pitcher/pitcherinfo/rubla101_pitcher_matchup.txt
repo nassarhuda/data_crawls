@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Garland Buckeye    L   3   2   0   0   0   0   0   0   0   2   0  .667  .667  .667 
+Dizzy Dean         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Milt Gaston        R   8   2   1   1   0   0   0   2   0   1   0  .250  .250  .625 
+George Grant       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Willis Hudlin      R   6   3   1   1   0   0   0   1   0   0   0  .500  .500 1.000 
+Red Lucas          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ted Lyons          R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+George Pipgras     R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Hal Schumacher     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Lefty Stewart      L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Tommy Thomas       R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Bill Walker        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ernie Wingard      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ted Wingfield      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

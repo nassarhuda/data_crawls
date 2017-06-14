@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tim Belcher        R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Chris Bosio        R   3   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Alex Fernandez     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Fleming       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Randy Johnson      L   7   1   0   0   0   2   0   4   0   0   0  .143  .333  .143 
+Jimmy Key          L   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 
+Arthur Rhodes      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

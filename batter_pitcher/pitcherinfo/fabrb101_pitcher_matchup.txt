@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+Rube Benton        L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pol Perritt        R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Eppa Rixey         L   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 i
+Dick Rudolph       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Ferdie Schupp      L   7   4   1   0   1   3   0   0   0   0   0  .571  .700 1.143 
+Fred Toney         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Lefty Tyler        L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hippo Vaughn       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

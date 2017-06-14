@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R  14   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pete Alexander     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Red Ames           R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Cy Barger          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Rube Benton        L   7   1   0   0   0   2   0   1   0   1   0  .143  .333  .143 i
+Mordecai Brown     R  20   5   1   0   0   0   0   3   0   0   0  .250  .250  .300 i
+Bill Burns         L   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 i
+Howie Camnitz      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 i
+George Chalmers    R   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167 i
+Larry Cheney       R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 i
+Jack Coombs        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Gene Dale          R   5   2   1   0   0   1   0   2   0   0   0  .400  .500  .600 i
+Ed Donnelly        R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Patsy Flaherty     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Art Fromme         R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Dan Griner         R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Bob Harmon         R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 i
+Lefty Leifield     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Erskine Mayer      R   7   0   0   0   0   1   0   3   0   0   0  .000  .125  .000 i
+Harry McIntire     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George McQuillan   R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Earl Moore         R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Hub Perdue         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pol Perritt        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pat Ragan          R   9   3   1   0   0   2   0   2   0   1   0  .333  .455  .444 i
+Ed Reulbach        R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 i
+Lew Richie         R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Dick Rudolph       R   6   1   1   0   0   1   0   0   0   0   0  .167  .286  .333 i
+Slim Sallee        L  13   1   0   0   0   0   0   1   0   0   0  .077  .077  .077 i
+George Suggs       R   9   2   0   0   0   1   0   0   0   0   0  .222  .300  .222 i
+Lefty Tyler        L   6   0   0   0   0   2   0   2   0   0   0  .000  .250  .000 i
+Orlie Weaver       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Gene Woodburn      R   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 i

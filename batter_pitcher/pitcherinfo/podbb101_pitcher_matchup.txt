@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Buhl           R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Cliff Chambers     L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Murry Dickson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Carl Erskine       R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Andy Hansen        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ken Heintzelman    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dave Jolly         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+J. Klippstein      R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Dave Koslo         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Billy Loes         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Turk Lown          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Russ Meyer         R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bob Miller         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Minner        L  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Don Newcombe       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Johnny Podres      L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Robin Roberts      R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Warren Spahn       L   7   1   1   0   0   0   0   2   0   1   0  .143  .143  .286

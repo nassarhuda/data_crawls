@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Whitey Ford        L   7   1   0   0   0   0   0   5   0   0   0  .143  .143  .143 
+Mickey McDermott   L   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Tom Morgan         R   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+Allie Reynolds     R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Fred Sanford       R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Dizzy Trout        R   2   1   0   0   1   1   0   1   0   1   0  .500  .667 2.000

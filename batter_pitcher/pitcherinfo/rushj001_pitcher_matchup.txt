@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Matt Clement       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Matt Morris        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Roy Oswalt         R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Curt Schilling     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

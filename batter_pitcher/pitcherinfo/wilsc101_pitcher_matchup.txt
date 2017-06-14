@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jack Berly         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Guy Bush           R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ben Cantwell       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Watty Clark        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jumbo Elliott      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+F. Fitzsimmons     R  13   4   0   1   0   0   0   2   0   0   0  .308  .308  .462 
+Larry French       L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Bill Harris        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Holley          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Carl Hubbell       L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Si Johnson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pat Malone         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Earl Mattingly     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Heinie Meine       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Van Mungo          R   9   3   0   0   0   2   1   0   0   0   0  .333  .455  .333 
+Ray Phelps         R   6   1   1   0   0   1   0   0   0   0   0  .167  .286  .333 
+Jack Quinn         R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sloppy Thurston    R   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Dazzy Vance        R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bucky Walters      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lon Warneke        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000

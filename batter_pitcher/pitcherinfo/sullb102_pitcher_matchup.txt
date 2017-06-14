@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+George Boehler     R   4   2   1   0   0   0   0   1   0   1   0  .500  .500  .750 i
+Russ Ford          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Charley Hall       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Earl Hamilton      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Gene Krapp         R   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 i
+Joe Lake           R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ralph Works        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i

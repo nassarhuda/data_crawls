@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Bond         R  21   5   1   0   2   0   0   0   0   0   0  .238  .238  .571 i
+Asa Brainard       R  18   4   0   0   0   0   0   0   0   0   0  .222  .222  .222 i
+Jim Britt          U  16   3   2   0   0   0   0   0   0   0   0  .188  .188  .313 i
+Candy Cummings     R  43   9   1   1   0   0   0   1   0   0   0  .209  .209  .279 i
+Cherokee Fisher    R  13   4   2   0   0   1   0   0   0   0   0  .308  .357  .462 i
+Martin Malone      U   7   6   0   0   1   0   0   0   0   0   0  .857  .857 1.286 
+Bobby Mathews      R  37  13   1   1   0   1   0   0   0   0   0  .351  .368  .432 i
+Dick McBride       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Al Spalding        R  28   9   1   1   0   0   0   0   0   0   0  .321  .321  .429 i
+Bill Stearns       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+George Zettlein    R  29   9   0   1   1   0   0   0   0   0   0  .310  .310  .483 i

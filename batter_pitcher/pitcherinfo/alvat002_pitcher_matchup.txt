@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Alan Benes         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Brandon Claussen   L   3   2   0   0   0   1   0   0   0   0   1  .667  .600  .667 
+Doug Davis         L   4   2   1   0   1   1   0   1   0   0   0  .500  .600 1.500 
+Ryan Dempster      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

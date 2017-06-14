@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kyle Abbott        L   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+Jack Armstrong     R   5   1   0   0   0   0   0   3   0   2   0  .200  .200  .200 
+Steve Avery        L   7   1   0   0   0   0   0   1   0   1   0  .143  .143  .143 
+Andy Benes         R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Mike Bielecki      R  10   2   0   0   0   0   0   3   0   1   0  .200  .200  .200 
+Tom Browning       L   8   1   1   0   0   0   0   3   1   0   0  .125  .222  .250 
+John Burkett       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Don Carman         L   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+David Cone         R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Danny Cox          R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Danny Darwin       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jose De Jesus      R   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Jose DeLeon        R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 
+John Denny         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Deshaies       L   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Kelly Downs        R   8   3   0   0   0   1   0   2   0   2   0  .375  .444  .375 
+Doug Drabek        R  16   0   0   0   0   0   0   8   0   2   0  .000  .000  .000 
+Dave Dravecky      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sid Fernandez      L   8   0   0   0   0   0   0   7   0   0   0  .000  .000  .000 
+Tom Glavine        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dwight Gooden      R  14   1   0   0   0   0   0   6   0   2   0  .071  .071  .071 
+Kevin Gross        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Harris        R   8   3   0   0   0   0   0   2   0   1   1  .375  .333  .375 
+Orel Hershiser     R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Ken Hill           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Danny Jackson      L   5   2   0   0   0   2   0   0   0   1   0  .400  .571  .400 
+Bob Knepper        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mike Krukow        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Greg Maddux        R  10   3   1   0   0   0   0   4   0   3   0  .300  .300  .400 
+Joe Magrane        L   6   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Ramon Martinez     R  11   1   0   0   0   0   0   6   0   4   0  .091  .091  .091 
+Greg Mathews       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Mitchell      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mike Morgan        R  16   1   0   0   0   0   0   4   0   1   0  .063  .063  .063 
+Jamie Moyer        L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Terry Mulholland   L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Ojeda          L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Mark Portugal      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tim Pugh           R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jose Rijo          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ben Rivera         R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Don Robinson       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bruce Ruffin       L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Scott Sanderson    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Calvin Schiraldi   R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mike Scott         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Smiley        L   9   1   0   0   0   1   0   2   0   0   0  .111  .200  .111 
+John Smoltz        R   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Rick Sutcliffe     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Tim Wakefield      R   3   1   1   0   0   0   0   1   0   2   0  .333  .333  .667 
+Bob Walk           R  15   2   1   0   0   1   0   4   0   1   0  .133  .188  .200 
+Ed Whitson         R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

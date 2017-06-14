@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Hamilton      R   2   1   0   0   0   1   0   0   1   0   0  .500  .750  .500 
+Jay Hook           R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Sandy Koufax       L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+V. Mizell          L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Warren Spahn       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

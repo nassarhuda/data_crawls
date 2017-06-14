@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Joe Blanton        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mark Buehrle       L   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+A. Caminero        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Gerrit Cole        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Josh Collmenter    R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+Bartolo Colon      R   3   1   1   0   0   1   1   0   1   0   0  .333  .600  .667 
+Tyler Cravy        R   7   3   1   0   1   1   0   2   0   0   0  .429  .500 1.000 
+Jorge de la Rosa   L   9   3   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+A. DeSclafani      R   5   3   0   1   0   0   0   1   0   0   0  .600  .600 1.000 
+David Hale         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jason Hammel       R   6   2   0   1   1   0   0   2   0   0   0  .333  .333 1.167 
+David Holmberg     L   6   2   1   0   1   0   0   1   0   0   0  .333  .333 1.000 
+Jon Lester         L   6   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+F. Liriano         L   6   3   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Jeff Locke         L  11   3   1   0   0   0   0   2   0   0   0  .273  .273  .364 
+Kyle Lohse         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Shelby Miller      R   2   0   0   0   0   1   0   1   1   0   0  .000  .500  .000 
+Jimmy Nelson       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jon Niese          L   6   2   1   1   0   0   0   1   1   0   0  .333  .429  .833 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Price        L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Hector Rondon      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Chris Sale         L   4   3   1   0   1   0   0   1   0   0   0  .750  .750 1.750 
+Pedro Strop        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Carlos Torres      R   4   2   0   1   1   0   0   2   0   0   0  .500  .500 1.750 
+Jason Vargas       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Yordano Ventura    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Matt Wisler        R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Travis Wood        L  11   3   2   0   0   1   0   1   0   0   0  .273  .333  .455 
+Chris Young        R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250

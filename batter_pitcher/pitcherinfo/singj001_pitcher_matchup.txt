@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Archer       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Scott Baker        R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Clay Buchholz      R   8   0   0   0   0   1   0   4   0   0   0  .000  .111  .000 
+Carlos Carrasco    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Jesse Chavez       R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Josh Collmenter    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Yu Darvish         R   5   3   1   0   0   1   0   2   0   0   0  .600  .667  .800 
+Kyle Gibson        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Jason Hammel       R   7   1   0   0   1   2   0   4   0   0   0  .143  .333  .571 
+Hisashi Iwakuma    R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Joe Kelly          R   2   0   0   0   0   3   0   1   0   0   0  .000  .600  .000 
+Corey Kluber       R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Tom Layne          L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Nick Martinez      R   6   0   0   0   0   1   0   3   0   0   0  .000  .143  .000 
+Brandon McCarthy   R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Miles Mikolas      R   6   2   0   0   1   0   0   2   0   0   0  .333  .333  .833 
+Jake Odorizzi      R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+David Price        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Garrett Richards   R   8   1   0   0   1   1   0   4   0   0   0  .125  .222  .500 
+Jeff Samardzija    R  10   1   0   0   1   2   0   5   0   0   0  .100  .250  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Shoemaker     R   3   1   0   0   1   1   0   2   0   0   0  .333  .500 1.333 
+Jered Weaver       R   6   1   0   0   0   0   0   5   0   0   0  .167  .167  .167 
+C.J. Wilson        L   7   1   0   0   1   2   0   2   0   0   0  .143  .333  .571

@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R   3   1   0   0   1   0   0   1   0   1   0  .333  .333 1.333 
+Dave Boswell       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Dean Chance        R   9   1   0   1   0   0   0   2   0   3   0  .111  .111  .333 
+Chuck Dobson       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dick Ellsworth     L   4   2   0   0   0   1   0   2   0   0   0  .500  .600  .500 
+Jack Fisher        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Horlen         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tommy John         L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Bruce Kison        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sam McDowell       L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jim McGlothlin     R   9   1   1   0   0   0   0   3   0   2   0  .111  .111  .222 
+Denny McLain       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Bob Miller         R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Barry Moore        L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Roger Nelson       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Blue Moon Odom     R   6   2   0   1   0   0   0   2   0   0   0  .333  .333  .667 
+Phil Ortega        R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Camilo Pascual     R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Marty Pattin       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Sonny Siebert      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jerry Stephenson   R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mel Stottlemyre    R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Earl Wilson        R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Bill Zepp          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

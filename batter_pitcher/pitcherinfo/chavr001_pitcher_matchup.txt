@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Josh Beckett       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Brad Bergesen      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Doug Brocail       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Mark Buehrle       L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+A.J. Burnett       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Chris Capuano      L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Aaron Cook         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lance Cormier      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Doug Davis         L  13   2   0   0   0   0   0   4   0   0   0  .154  .154  .154 
+Ryan Drese         R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Kyle Farnsworth    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Josh Fogg          R   6   5   3   0   0   0   0   0   0   1   0  .833  .833 1.333 
+Matt Garza         R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 
+Edgar Gonzalez     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Aaron Harang       R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Bobby Jones        R   4   0   0   0   0   0   0   0   0   0   1  .000  .000  .000 
+Scott Kazmir       L   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Scott Linebrink    R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Braden Looper      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jason Marquis      R  12   4   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Millwood     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eric Milton        L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Brett Myers        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Chan Ho Park       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jake Peavy         R   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Brad Penny         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Oliver Perez       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mike Remlinger     L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Kirk Rueter        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Glendon Rusch      L   8   1   0   0   0   1   0   3   0   0   0  .125  .222  .125 
+Jesus Sanchez      L   2   1   0   0   0   1   1   0   0   0   1  .500  .500  .500 
+Ben Sheets         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jose Silva         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Jeff Suppan        R   7   5   1   0   0   0   0   0   0   0   0  .714  .714  .857 
+Julian Tavarez     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Woody Williams     R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Paul Wilson        R  10   4   2   0   0   2   1   0   0   1   0  .400  .500  .600 
+Jay Witasick       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kerry Wood         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jamey Wright       R   7   1   0   0   1   0   0   0   0   0   1  .143  .125  .571 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Young        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

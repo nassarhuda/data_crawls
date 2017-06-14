@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Josh Beckett       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Mark Buehrle       L  11   6   0   0   0   0   0   1   0   0   0  .545  .545  .545 
+A.J. Burnett       R   2   1   0   0   0   1   0   0   0   0   1  .500  .500  .500 
+Brian Burres       L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Chris Capuano      L  15   5   2   0   1   1   0   2   0   0   0  .333  .375  .667 
+Brandon Claussen   L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Matt Clement       R   9   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Doug Davis         L  13   4   2   0   0   2   0   5   0   0   0  .308  .400  .462 
+Jorge de la Rosa   L  11   5   0   0   0   2   0   1   0   0   0  .455  .538  .455 
+B. Duckworth       R   4   1   1   0   0   1   1   2   0   0   0  .250  .400  .500 
+Zach Duke          L   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Josh Fogg          R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Casey Fossum       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Francis       L  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 
+Freddy Garcia      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Tom Glavine        L   4   2   1   0   0   0   0   0   0   0   1  .500  .400  .750 
+Roy Halladay       R   6   0   0   0   0   0   0   1   0   0   1  .000  .000  .000 
+Jason Hammel       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Mike Hampton       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ben Hendrickson    R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Edwin Jackson      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jon Lester         L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Esteban Loaiza     R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Greg Maddux        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Carlos Marmol      R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Sean Marshall      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Joel Peralta       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Odalis Perez       L  13   2   0   0   0   0   0   2   0   0   0  .154  .154  .154 
+Oliver Perez       L  19   2   0   0   0   1   0   5   2   0   0  .105  .227  .105 
+Andy Pettitte      L  11   3   1   0   0   0   0   1   0   0   0  .273  .273  .364 
+Chad Qualls        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Mark Redman        L   8   3   0   0   0   0   0   1   1   0   0  .375  .444  .375 
+Wandy Rodriguez    L   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Kenny Rogers       L  11   1   0   0   0   0   0   2   0   0   0  .091  .091  .091 
+Glendon Rusch      L  17   4   2   0   0   1   0   6   0   0   0  .235  .278  .353 
+Johan Santana      L   6   4   1   0   0   0   0   0   0   0   0  .667  .667  .833 
+Victor Santos      R   6   2   0   0   0   2   0   2   0   0   0  .333  .500  .333 
+Ben Sheets         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Salomon Torres     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jason Vargas       L   4   2   0   1   1   0   0   1   0   0   0  .500  .500 1.750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ryan Vogelsong     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Billy Wagner       L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Adam Wainwright    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Todd Wellemeyer    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+David Wells        L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Dan Wheeler        R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Rick White         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+David Williams     L   7   4   0   0   1   1   0   0   0   0   0  .571  .625 1.000 
+Matt Wise          R   6   3   1   0   1   0   0   0   0   0   0  .500  .500 1.167 
+Carlos Zambrano    R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143

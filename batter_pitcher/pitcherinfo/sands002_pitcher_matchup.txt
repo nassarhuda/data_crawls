@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Brown        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pete Harnisch      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Butch Henry        L   3   1   0   0   0   1   0   0   0   1   0  .333  .500  .333 
+Jon Lieber         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Shane Reynolds     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Jose Rijo          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Kevin Ritz         R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Bob Tewksbury      R   2   1   0   0   0   0   0   1   0   2   0  .500  .500  .500 
+W. VanLandingham   R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+David Weathers     R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000

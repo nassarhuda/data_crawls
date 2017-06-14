@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 i
+Pete Alexander     R  13   2   0   0   0   0   0   5   0   0   0  .154  .154  .154 i
+Red Ames           R   9   1   0   0   0   0   0   3   0   1   0  .111  .111  .111 i
+Cy Barger          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rube Benton        L   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 i
+Ad Brennan         L   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Howie Camnitz      R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Bill Doak          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Phil Douglas       R   6   1   1   0   0   1   0   4   0   0   0  .167  .286  .333 i
+Hod Eller          R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 i
+Ray Fisher         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Burleigh Grimes    R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Dan Griner         R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 i
+Bob Harmon         R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Claude Hendrix     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Brad Hogg          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Elmer Jacobs       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Lefty Leifield     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Marquard      L   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Speed Martin       R   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Erskine Mayer      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+C. Mitchell        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Earl Moore         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Joe Oeschger       R  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Gene Packard       L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 i
+Jeff Pfeffer       R   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 i
+Pat Ragan          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Eppa Rixey         L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+Nap Rucker         L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Dick Rudolph       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Slim Sallee        L  13   3   0   0   0   1   0   4   0   0   0  .231  .286  .231 i
+Roy Sanders        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Pete Schneider     R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 i
+Ferdie Schupp      L   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 i
+Bob Steele         L   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 i
+Jeff Tesreau       R   9   0   0   0   0   1   0   5   0   0   0  .000  .100  .000 i
+Lefty Tyler        L  13   1   0   1   0   2   0   2   0   2   0  .077  .200  .231 i
+Earl Yingling      L   8   3   0   1   0   0   0   0   0   0   0  .375  .375  .625 i

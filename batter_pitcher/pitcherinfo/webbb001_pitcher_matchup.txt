@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Cain          R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Chris Capuano      L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Shawn Chacon       R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Brandon Claussen   L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Aaron Cook         R  12   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 
+Lance Cormier      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Kevin Correia      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Doug Davis         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Josh Fogg          R   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Jeff Francis       L   8   0   0   0   0   1   0   5   0   1   0  .000  .111  .000 
+Justin Germano     R   5   1   1   0   0   0   0   2   0   1   0  .200  .200  .400 
+Tom Glavine        L   5   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Aaron Harang       R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Mark Hendrickson   L   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Kazuhisa Ishii     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jason Jennings     R   9   1   0   0   0   0   0   6   0   1   0  .111  .111  .111 
+Cory Lidle         R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Jon Lieber         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Derek Lowe         R   5   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Jason Marquis      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Millwood     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Eric Milton        L   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Brian Moehler      R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Matt Morris        R   7   3   1   0   0   0   0   4   0   0   0  .429  .429  .571 
+Denny Neagle       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Hideo Nomo         R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Scott Olsen        L   4   0   0   0   0   1   0   1   0   1   0  .000  .200  .000 
+Chan Ho Park       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+John Patterson     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jake Peavy         R   9   0   0   0   0   1   0   7   0   0   0  .000  .100  .000 
+Brad Penny         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Andy Pettitte      L   5   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Chad Reineke       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kirk Rueter        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Glendon Rusch      L   3   1   1   0   0   0   0   2   0   1   0  .333  .333  .667 
+Chris Sampson      R   5   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Jason Schmidt      R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jeff Suppan        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Brett Tomko        R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Ron Villone        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Todd Wellemeyer    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+David Wells        L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Woody Williams     R   9   2   1   0   0   0   0   4   0   1   0  .222  .222  .333 
+Jerome Williams    R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Barry Zito         L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750

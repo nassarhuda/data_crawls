@@ -1,0 +1,50 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Andy Ashby         R  10   3   0   0   0   0   0   2   0   1   0  .300  .300  .300 
+Josh Beckett       R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Alan Benes         R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Kent Bottenfield   R   2   1   1   0   0   2   0   1   0   2   0  .500  .750 1.000 
+Elmer Dessens      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Scott Elarton      R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Shawn Estes        L  10   1   0   0   0   0   0   6   0   0   0  .100  .100  .100 
+Josh Fogg          R   7   1   0   0   0   0   0   2   0   2   0  .143  .143  .143 
+Jeff Francis       L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tyler Green        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mike Hampton       L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Aaron Harang       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jimmy Haynes       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Rick Helling       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Clay Hensley       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Livan Hernandez    R   4   2   0   0   0   0   0   2   0   1   0  .500  .500  .500 
+Kazuhisa Ishii     L   2   1   1   0   0   2   0   1   0   3   0  .500  .750 1.000 
+Randy Johnson      L   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Greg Maddux        R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Millwood     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Matt Morris        R   8   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Denny Neagle       L   7   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Hideo Nomo         R   5   0   0   0   0   0   0   3   0   2   0  .000  .000  .000 
+Wes Obermueller    R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Russ Ortiz         R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Chan Ho Park       R   6   1   0   0   0   1   0   4   0   1   0  .167  .286  .167 
+Jake Peavy         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Brad Penny         R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Odalis Perez       L   4   0   0   0   0   0   0   2   0   3   0  .000  .000  .000 
+Oliver Perez       L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mark Redman        L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Rick Reed          R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+J. Robertson       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Kirk Rueter        L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Glendon Rusch      L   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jesus Sanchez      L   2   0   0   0   0   1   0   2   0   2   0  .000  .333  .000 
+Curt Schilling     R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jason Schmidt      R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Jeff Suppan        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+John Thomson       R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Steve Trachsel     R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+Ismael Valdez      R   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143 
+Jeff Weaver        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brandon Webb       R   8   3   1   0   0   0   0   2   0   0   0  .375  .375  .500 
+Dontrelle Willis   L   0   0   0   0   0   1   0   0   0   3   0     - 1.000     - 
+Kerry Wood         R   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167

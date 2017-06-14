@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Dennis Bennett     L   9   0   0   0   0   1   0   2   0   0   0  .000  .100  .000 
+Bucky Brandon      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+George Brunet      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wally Bunker       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Roger Craig        R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Don Drysdale       R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Dick Ellsworth     L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Gibson         R   7   4   1   0   0   0   0   3   0   0   0  .571  .571  .714 
+Jay Hook           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bruce Howard       R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Catfish Hunter     R   7   1   0   0   0   2   0   3   0   0   0  .143  .333  .143 
+Al Jackson         L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Larry Jackson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tom Kelley         R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Frank Kreutzer     L   5   2   1   0   0   0   0   3   0   0   0  .400  .400  .600 
+Bob Locker         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sam McDowell       L  10   1   0   0   0   2   0   4   0   0   0  .100  .250  .100 
+Dave McNally       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jim Nash           R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gaylord Perry      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Gary Peters        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Fritz Peterson     L   3   1   0   0   0   0   0   1   0   0   1  .333  .250  .333 
+Juan Pizarro       L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Pete Richert       L   6   3   0   0   0   0   0   3   0   0   0  .500  .500  .500 
+Rollie Sheldon     R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Chris Short        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Curt Simmons       L   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Lee Stange         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Fred Talbot        R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+John Wyatt         R   4   1   1   0   0   1   0   3   0   0   0  .250  .400  .500

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Charlie Gassaway   L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Thornton Lee       L   6   2   0   0   0   1   1   0   0   0   0  .333  .429  .333 
+Eddie Lopat        L   5   3   0   0   1   0   0   0   0   0   0  .600  .600 1.200 
+Hal Newhouser      L   8   0   0   0   0   2   0   5   0   0   0  .000  .200  .000 
+Nels Potter        R   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 
+Allie Reynolds     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dizzy Trout        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333

@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Bill Bayne         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Caldwell       R  11   2   0   1   0   0   0   1   0   1   0  .182  .182  .364 
+Eddie Cicotte      R  11   4   1   0   0   0   0   0   0   1   0  .364  .364  .455 
+Rip Collins        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Stan Coveleski     R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i
+Hooks Dauss        R  14   7   1   0   0   0   0   1   0   0   0  .500  .500  .571 i
+Dixie Davis        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Howard Ehmke       R   6   1   1   0   0   0   0   1   0   1   0  .167  .167  .333 i
+Red Faber          R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Waite Hoyt         R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 i
+Syl Johnson        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Sad Sam Jones      R   5   1   0   0   0   1   0   2   0   2   0  .200  .333  .200 i
+Dickey Kerr        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Elmer Myers        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Rollie Naylor      R   6   2   0   0   0   0   0   1   1   0   0  .333  .429  .333 i
+Herb Pennock       L   5   3   0   1   0   0   0   0   0   0   0  .600  .600 1.000 i
+Scott Perry        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 i
+Jack Quinn         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Urban Shocker      R  13   6   3   0   0   0   0   0   0   0   0  .462  .462  .692 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ernie Shore        R   4   3   1   1   0   0   0   0   0   0   0  .750  .750 1.500 i
+Allen Sothoron     R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 i
+Hank Thormahlen    L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Carl Weilman       L   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 i
+Lefty Williams     L  11   4   1   0   0   0   0   3   0   0   0  .364  .364  .455

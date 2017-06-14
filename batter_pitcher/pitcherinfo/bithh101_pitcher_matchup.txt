@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   9   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Joe Beggs          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Davis         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Si Johnson         R   7   2   2   0   0   0   0   1   0   0   0  .286  .286  .571 
+Bob Klinger        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Lohrman       R   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 i
+Elmer Riddle       R   8   1   0   0   0   0   0   2   0   1   0  .125  .125  .125 
+Rip Sewell         R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 i
+Clyde Shoun        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Tobin          R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 i
+J. Vander Meer     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

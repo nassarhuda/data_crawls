@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jim Bagby          R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+Herman Besse       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Atley Donald       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Eisenstat    L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bob Feller         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lum Harris         R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Joe Haynes         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Vern Kennedy       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sam Lowry          R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Ted Lyons          R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Lynn Nelson        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hal Newhouser      L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i
+Nels Potter        R   5   1   0   0   0   0   0   3   0   2   0  .200  .200  .200 
+Johnny Rigney      R   9   1   1   0   0   0   0   3   0   0   0  .111  .111  .222 
+Al Smith           L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Bill Trotter       R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 i
+Dizzy Trout        R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 i
+Porter Vaughan     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Butch Wensloff     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Wilson        R   4   1   0   0   0   1   0   2   0   1   0  .250  .400  .250 i

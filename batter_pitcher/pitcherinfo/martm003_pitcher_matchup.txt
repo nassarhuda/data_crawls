@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Trevor Cahill      R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Jorge de la Rosa   L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ross Detwiler      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+R.A. Dickey        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Nathan Eovaldi     R   5   0   0   0   0   1   1   1   0   0   0  .000  .167  .000 
+Jeff Francis       L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jaime Garcia       L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Gio Gonzalez       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Chris Hatcher      R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Tim Hudson         R   5   1   0   0   0   2   0   1   0   0   0  .200  .429  .200 
+Hiroki Kuroda      R   5   2   0   1   0   0   0   1   0   0   0  .400  .400  .800 
+Mike Leake         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Wade LeBlanc       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Tim Lincecum       R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+Derek Lowe         R   8   3   0   0   0   0   0   1   0   1   0  .375  .375  .375 
+C. Martinez        R   3   1   0   0   0   1   1   1   0   0   0  .333  .500  .333 
+Jon Niese          L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ricky Nolasco      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Bud Norris         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mike Pelfrey       R   7   3   0   0   1   0   0   0   0   0   0  .429  .429  .857 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Porcello      R   4   1   1   0   0   0   0   3   0   0   0  .250  .250  .500 
+Anibal Sanchez     R   6   1   0   0   0   2   0   2   0   0   0  .167  .375  .167 
+Max Scherzer       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Tim Stauffer       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Ryan Webb          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Randy Wolf         L   7   3   0   0   1   0   0   1   0   0   0  .429  .429  .857

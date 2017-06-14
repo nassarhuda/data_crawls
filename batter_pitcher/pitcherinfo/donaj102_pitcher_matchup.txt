@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dixie Davis        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Waite Hoyt         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walter Johnson     R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Sad Sam Jones      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Firpo Marberry     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+George Mogridge    L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+George Pipgras     R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 i

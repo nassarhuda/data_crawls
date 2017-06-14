@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Matt Cain          R   3   2   1   0   0   1   0   1   0   0   0  .667  .750 1.000 
+Chris Capuano      L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Daniel Hudson      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Wade Miley         L   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Jon Niese          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Eric Surkamp       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

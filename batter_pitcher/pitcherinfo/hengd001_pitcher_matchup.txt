@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Allan Anderson     L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Scott Bailes       L   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Buddy Black        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bert Blyleven      R   5   2   1   0   0   1   0   2   0   0   0  .400  .500  .600 
+John Candelaria    L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Candiotti      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Steve Carlton      L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Jackson      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Doug Jones         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Charlie Lea        R   5   1   0   0   0   0   0   1   0   0   1  .200  .167  .200 
+C. Leibrandt       L  13   3   0   0   1   0   0   3   0   0   0  .231  .231  .462 
+Scott McGregor     L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Greg Swindell      L   9   1   0   0   0   0   0   4   1   0   0  .111  .200  .111 
+Frank Tanana       L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Mitch Williams     L   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250

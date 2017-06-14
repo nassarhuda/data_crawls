@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy Byrne        L  12   2   0   0   0   1   0   5   0   0   0  .167  .231  .167 
+Bob Feller         R  14   3   1   0   0   1   0   2   0   1   0  .214  .267  .286 
+Tom Ferrick        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Gray           L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Steve Gromek       R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Joe Haynes         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Sid Hudson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Kuzava         L   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Bob Lemon          R  13   2   0   0   0   1   0   5   0   0   0  .154  .214  .154 
+Eddie Lopat        L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Walt Masterson     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Jim McDonald       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Hal Newhouser      L   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Vic Raschi         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Allie Reynolds     R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Rozek         L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Carl Scheib        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bobby Shantz       L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Chuck Stobbs       L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Harry Taylor       R   3   3   0   0   0   0   0   0   0   1   0 1.000 1.000 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Early Wynn         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

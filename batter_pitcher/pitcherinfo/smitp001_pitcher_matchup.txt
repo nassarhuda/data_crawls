@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Luis Aquino        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Pedro Astacio      R   3   0   0   0   0   1   0   2   0   0   1  .000  .200  .000 
+Mike Bielecki      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Don Carman         L   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Jim Deshaies       L  10   1   0   0   0   0   0   3   0   2   0  .100  .100  .100 
+Doug Drabek        R  11   1   0   0   0   0   0   4   0   0   0  .091  .091  .091 
+Alex Fernandez     R   2   1   1   0   0   0   0   1   0   3   0  .500  .500 1.000 
+Dwight Gooden      R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Atlee Hammaker     L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Greg Harris        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Orel Hershiser     R   7   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Ken Hill           R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bruce Hurst        L   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+Jimmy Jones        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Greg Maddux        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mike Morgan        R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Adam Peterson      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dennis Rasmussen   L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bruce Ruffin       L   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 
+Bob Tewksbury      R   3   1   1   0   0   0   0   1   0   2   0  .333  .333  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Wagner        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Walk           R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Wally Whitehurst   R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000

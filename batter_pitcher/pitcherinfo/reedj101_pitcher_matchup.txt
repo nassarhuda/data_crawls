@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+Steve Barber       L   9   2   0   0   0   1   0   0   0   0   0  .222  .300  .222 
+Frank Baumann      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ted Bowsfield      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jack Fisher        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Jack Kralick       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Mossi          L   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Claude Osteen      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Juan Pizarro       L   4   2   1   1   0   1   0   0   0   0   0  .500  .600 1.250 
+Dick Stigman       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000

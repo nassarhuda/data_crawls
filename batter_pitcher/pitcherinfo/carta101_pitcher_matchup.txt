@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Blix Donnelly      R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Claude Passeau     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Cy Barger          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Buster Brown       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bob Harmon         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Marquard      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Hub Perdue         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Lew Richie         R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Doc Scanlan        R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 i
+George Suggs       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

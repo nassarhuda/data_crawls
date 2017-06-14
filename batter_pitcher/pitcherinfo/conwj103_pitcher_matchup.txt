@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   6   2   0   1   0   0   0   0   0   0   0  .333  .333  .667 
+Al Benton          R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Bill Bevens        R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Earl Caldwell      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Spud Chandler      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Dobson         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Stan Ferens        L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Tom Ferrick        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dave Ferriss       R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Jesse Flores       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Denny Galehouse    R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Ted Gray           L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Orval Grove        R  18   5   1   0   0   1   0   2   0   0   0  .278  .316  .333 
+Mickey Haefner     L  10   4   1   0   0   0   0   0   0   0   0  .400  .400  .500 
+Earl Harrist       R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Joe Haynes         R  15   3   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Sid Hudson         R  11   3   1   0   0   0   0   2   0   0   0  .273  .273  .364 
+Tex Hughson        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Fred Hutchinson    R  14   3   0   0   0   0   0   0   0   0   0  .214  .214  .214 
+Ellis Kinder       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Knerr          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Jack Kramer        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Dutch Leonard      R   6   2   0   0   0   1   0   2   0   0   0  .333  .429  .333 
+Eddie Lopat        L  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Phil Marchildon    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bob Muncrief       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hal Newhouser      L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Bobo Newsom        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Frank Papish       L   4   2   0   0   0   3   0   0   0   0   0  .500  .714  .500 
+Kent Peterson      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Nels Potter        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Willie Ramsdell    R   5   1   0   0   1   0   0   1   0   0   0  .200  .200  .800 
+Preacher Roe       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Johnny Sain        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bob Savage         R   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Tex Shirley        R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Eddie Smith        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Warren Spahn       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Harry Taylor       R   6   1   0   1   0   0   0   2   0   0   0  .167  .167  .500 
+Dizzy Trout        R  11   3   0   0   0   1   0   2   0   1   0  .273  .333  .273 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Virgil Trucks      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Hal White          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Early Wynn         R  13   3   1   0   0   1   0   1   0   0   0  .231  .286  .308 
+Sam Zoldak         L   8   3   0   1   0   1   0   1   0   0   0  .375  .444  .625 
+Bill Zuber         R   3   0   0   0   0   3   0   0   0   0   0  .000  .500  .000

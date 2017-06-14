@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dan Adams          R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Frank Allen        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fred Anderson      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Cy Barger          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ad Brennan         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mordecai Brown     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Howie Camnitz      R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 i
+Doc Crandall       R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Nick Cullop        L   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dave Davenport     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Walt Dickson       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Cy Falkenberg      R  12   3   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Russ Ford          R  11   1   0   0   0   0   0   1   0   0   0  .091  .091  .091 i
+Ed Henderson       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Claude Hendrix     R  11   2   1   0   0   0   0   2   0   0   0  .182  .182  .273 
+Pete Henning       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Rankin Johnson     R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Chief Johnson      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+G. Kaiserling      R   9   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Henry Keupper      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elmer Knetzer      R   8   4   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Gene Krapp         R  10   2   2   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Tom McGuire        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Earl Moore         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Harry Moran        L   5   1   0   0   0   3   0   0   0   0   0  .200  .500  .200 i
+Earl Moseley       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Gene Packard       L  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 i
+Mike Prendergast   R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Jack Quinn         R   7   2   0   0   0   1   0   0   0   2   0  .286  .375  .286 i
+Al Schulz          L   7   2   0   0   0   2   0   2   0   0   0  .286  .444  .286 i
+Frank Smith        R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 i
+Dwight Stone       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+George Suggs       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Kaiser Wilhelm     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ed Willett         R  13   4   1   0   0   0   0   0   0   0   0  .308  .308  .385 i

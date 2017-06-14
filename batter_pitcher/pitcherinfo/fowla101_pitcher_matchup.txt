@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   9   2   0   0   0   0   0   2   0   1   0  .222  .222  .222 
+Jim Davis          L   4   3   0   0   0   0   0   0   0   2   0  .750  .750  .750 
+Murry Dickson      R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Frank Funk         R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Ruben Gomez        R   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 
+Warren Hacker      R   9   2   0   0   0   0   0   7   0   0   1  .222  .200  .222 
+Harvey Haddix      L   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Jim Hearn          R   4   1   0   0   0   1   0   1   0   3   0  .250  .400  .250 
+Jim Hughes         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Sam Jones          R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Ron Kline          R   4   1   0   0   0   0   0   0   0   2   0  .250  .250  .250 
+Stu Miller         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Johnny Podres      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Pollet       L   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Robin Roberts      R   6   1   0   0   0   0   0   1   0   2   0  .167  .167  .167 
+Saul Rogovin       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bob Rush           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Curt Simmons       L   6   1   0   0   0   4   0   2   0   1   0  .167  .500  .167 
+Warren Spahn       L   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Max Surkont        R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hoyt Wilhelm       R   2   0   0   0   0   2   0   1   0   2   0  .000  .500  .000 
+Al Worthington     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

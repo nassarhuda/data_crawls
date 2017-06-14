@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Aase           R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Glenn Abbott       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Jerry Augustine    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Len Barker         R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+Dennis Eckersley   R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Roger Erickson     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Wayne Garland      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Matt Keough        R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Jack Morris        R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Mike Norris        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Palmer         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jim Slaton         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Dan Spillner       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Stieb         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pete Vuckovich     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Milt Wilcox        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Rick Wise          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

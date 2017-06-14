@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+L. Christenson     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Nino Espinosa      R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Joe Niekro         R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+Bob Owchinko       L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Steve Rogers       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Don Sutton         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Pete Vuckovich     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

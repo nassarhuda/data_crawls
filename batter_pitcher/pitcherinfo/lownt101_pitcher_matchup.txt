@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cliff Chambers     L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Murry Dickson      R   4   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Carl Erskine       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Dick Hyde          R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Larry Jansen       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Clem Labine        R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Billy Loes         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Meyer         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Russ Meyer         R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Bob Miller         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Don Newcombe       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chet Nichols       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bud Podbielan      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+K. Raffensberger   L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Steve Ridzik       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Gerry Staley       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Herm Wehmeier      R   3   1   0   1   0   1   0   0   0   0   0  .333  .500 1.000 
+Jim Wilson         R   5   2   0   0   0   1   0   1   0   1   0  .400  .500  .400

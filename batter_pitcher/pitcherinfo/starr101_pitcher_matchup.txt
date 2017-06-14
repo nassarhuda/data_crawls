@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Dick Barrett       R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Max Butcher        R   8   0   0   0   0   1   0   1   0   0   0  .000  .111  .000 
+Mort Cooper        R  10   1   0   0   0   1   0   7   0   1   0  .100  .182  .100 
+Curt Davis         R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Dutch Dietz        R   6   1   0   0   0   1   0   4   0   1   0  .167  .286  .167 
+Harry Feldman      R   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 
+Harry Gumbert      R   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Ed Head            R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Heusser         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Kirby Higbe        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tommy Hughes       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Si Johnson         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Klinger        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bill Lee           R  12   1   1   0   0   1   0   5   0   2   0  .083  .154  .167 
+Rube Melton        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Johnny Podgajny    R   5   3   0   0   0   0   0   0   0   2   0  .600  .600  .600 
+Manny Salvo        R   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 
+Jim Tobin          R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Ernie White        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnnie Wittig     R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000

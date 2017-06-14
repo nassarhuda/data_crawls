@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilbur Cooper      L   9   3   0   1   0   0   0   1   0   0   0  .333  .333  .556 
+Hod Eller          R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Burleigh Grimes    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Claude Hendrix     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Art Nehf           L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Jeff Pfeffer       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Hippo Vaughn       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Frank Woodward     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

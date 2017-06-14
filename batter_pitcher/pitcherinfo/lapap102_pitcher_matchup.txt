@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L   5   2   0   0   0   0   0   2   0   1   0  .400  .400  .400 
+Jackie Collum      L   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Marv Grissom       R   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Jim Hearn          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Larry Jansen       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sal Maglie         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Windy McCall       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Paul Minner        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Perkowski    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bud Podbielan      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Max Surkont        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ben Wade           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Herm Wehmeier      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Hoyt Wilhelm       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

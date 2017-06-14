@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Julio Bonetti      R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Tommy Bridges      R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Lloyd Brown        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Sugar Cain         R   9   1   0   0   0   0   0   2   0   1   0  .111  .111  .111 
+Earl Caldwell      R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Joe Cascarella     R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+George Earnshaw    R  11   3   1   0   0   0   0   3   0   0   0  .273  .273  .364 
+Denny Galehouse    R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Lefty Gomez        L  16   2   0   0   0   1   0   7   0   0   0  .125  .176  .125 i
+Lefty Grove        L  14   2   1   0   0   1   0   3   0   0   0  .143  .200  .214 
+Mel Harder         R  12   2   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Willis Hudlin      R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Sad Sam Jones      R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 i
+Vern Kennedy       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Thornton Lee       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ted Lyons          R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 i
+Danny MacFayden    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Leo Moon           L   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Johnny Murphy      R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lynn Nelson        R   7   5   0   0   0   0   0   1   0   0   0  .714  .714  .714 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+F. Ostermueller    L  10   3   0   0   0   1   0   2   0   0   0  .300  .364  .300 i
+Gordon Rhodes      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Red Ruffing        R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 
+Lefty Stewart      L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Monty Stratton     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Bud Thomas         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Russ Van Atta      L   5   0   0   0   0   2   0   4   0   1   0  .000  .286  .000 
+Rube Walberg       L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 i
+Earl Whitehill     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Whit Wyatt         R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 i

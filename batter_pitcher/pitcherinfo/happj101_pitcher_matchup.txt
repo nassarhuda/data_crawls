@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Cole          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hooks Dauss        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Alex Ferguson      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Waite Hoyt         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Sad Sam Jones      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+George Mogridge    L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Bill Piercy        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jack Quinn         R   3   3   0   0   0   0   0   0   0   1   0 1.000 1.000 1.000 
+Eddie Rommel       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Bob Shawkey        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Tom Zachary        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

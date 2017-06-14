@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Juan Berenguer     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bert Blyleven      R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Oil Can Boyd       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Cowley         R   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Eric King          R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tim Leary          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Jack Morris        R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Jeff Sellers       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Roy Thomas         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Wegman        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

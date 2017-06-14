@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Beggs          R   6   1   0   0   0   1   0   0   0   1   0  .167  .286  .167 
+Hi Bithorn         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bob Carpenter      R   8   3   1   1   0   1   0   1   0   0   0  .375  .444  .750 
+Curt Davis         R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Derringer     R  17   7   1   0   0   0   0   2   0   0   0  .412  .412  .471 
+Tom Earley         R   7   3   0   0   0   2   0   0   0   1   0  .429  .556  .429 i
+Vallie Eaves       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Paul Erickson      R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+F. Fitzsimmons     R   8   2   0   0   0   1   0   1   0   0   0  .250  .333  .250 
+Larry French       L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Carl Hubbell       L   6   2   1   0   0   1   0   1   0   0   0  .333  .429  .500 i
+Tommy Hughes       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Johnny Hutchings   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Al Javery          R  12   2   0   0   0   1   0   2   0   0   0  .167  .231  .167 i
+Bill Lee           R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 i
+Cliff Melton       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Sam Nahem          R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Vern Olsen         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Claude Passeau     R  16   1   1   0   0   1   0   2   0   0   0  .063  .118  .125 
+Johnny Podgajny    R   7   1   1   0   0   1   0   1   0   0   0  .143  .250  .286 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elmer Riddle       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Manny Salvo        R   6   3   1   0   0   0   0   1   0   0   0  .500  .500  .667 
+Hal Schumacher     R  18   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ray Starr          R  14   6   0   0   0   3   0   1   0   0   0  .429  .529  .429 
+Junior Thompson    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jim Tobin          R  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 
+Jim Turner         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+J. Vander Meer     L  13   3   0   0   0   0   0   2   0   0   0  .231  .231  .231 
+Bucky Walters      R  14   2   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Les Webber         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ernie White        L   7   1   0   0   0   0   0   2   1   0   0  .143  .250  .143 i
+Whit Wyatt         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

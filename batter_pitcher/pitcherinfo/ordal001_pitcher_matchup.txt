@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Appier       R   4   1   0   0   0   1   0   0   1   0   0  .250  .500  .250 
+Rolando Arrojo     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jason Bere         R   4   0   0   0   0   1   0   1   0   1   0  .000  .200  .000 
+Mark Buehrle       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mark Clark         R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Bartolo Colon      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Scott Elarton      R   3   1   0   0   0   0   0   2   0   1   0  .333  .333  .333 
+Freddy Garcia      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jon Garland        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Eddie Guardado     L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Mike Hampton       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gil Heredia        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Randy Johnson      L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Scott Karl         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jon Lieber         R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Jose Lima          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Esteban Loaiza     R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Kevin Millwood     R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Mark Mulder        L   8   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Terry Mulholland   L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hideo Nomo         R   5   2   0   0   0   0   0   0   0   3   0  .400  .400  .400 
+Steve Parris       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Peters       L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Bryan Rekar        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Mike Remlinger     L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+J.C. Romero        L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Johan Santana      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jason Schmidt      R   5   4   1   0   0   1   0   1   0   0   0  .800  .833 1.000 
+Justin Speier      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Brett Tomko        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Steve Trachsel     R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Ismael Valdez      R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Steve Woodard      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Barry Zito         L   6   2   0   0   0   0   0   1   0   0   1  .333  .286  .333

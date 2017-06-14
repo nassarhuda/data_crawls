@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ted Abernathy      R   4   2   1   0   0   0   0   1   1   0   0  .500  .600  .750 
+Tom Brewer         R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Hal Brown          R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Dick Donovan       R  10   2   0   0   0   1   0   3   0   0   0  .200  .273  .200 
+Bill Fischer       R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Mike Garcia        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Connie Johnson     R   4   1   0   0   1   0   0   3   0   0   0  .250  .250 1.000 
+Bob Keegan         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Alex Kellner       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Vern Law           R   5   3   1   0   0   0   0   2   0   0   0  .600  .600  .800 
+Don Lee            R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Bob Lemon          R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Billy Loes         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Don Mossi          L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Camilo Pascual     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Billy Pierce       L  14   3   0   1   0   0   0   2   0   1   0  .214  .214  .357 
+Dave Sisler        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Sturdivant     R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Bob Turley         R   5   1   0   0   1   1   0   2   0   0   0  .200  .333  .800 
+Jim Wilson         R  10   1   0   0   1   2   1   4   0   0   1  .100  .231  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Early Wynn         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250

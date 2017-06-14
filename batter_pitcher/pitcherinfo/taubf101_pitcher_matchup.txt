@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Guy Bush           R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Grove        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Mel Harder         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Roy Henshaw        L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Thornton Lee       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny MacFayden    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Monte Pearson      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Woody Upchurch     L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Earl Whitehill     L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286

@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  14   3   0   0   0   2   0   1   0   0   0  .214  .313  .214 i
+S. Bailey          R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 i
+Jesse Barnes       R  14   1   1   0   0   1   0   0   0   0   0  .071  .133  .143 i
+Rube Benton        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lynn Brenton       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Leon Cadore        R   6   1   0   0   0   2   0   0   0   1   0  .167  .375  .167 i
+Hal Carlson        R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Red Causey         R   6   3   1   0   0   1   0   0   0   0   0  .500  .571  .667 i
+Wilbur Cooper      L  19   4   0   0   0   0   0   2   0   0   0  .211  .211  .211 i
+Fritz Coumbe       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hod Eller          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Burleigh Grimes    R  17   2   0   0   0   0   0   2   0   0   0  .118  .118  .118 i
+Earl Hamilton      L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Claude Hendrix     R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Brad Hogg          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Hubbell       R   7   2   1   0   0   0   0   0   0   1   0  .286  .286  .429 i
+Ray Keating        R   8   1   0   1   0   0   0   1   0   0   0  .125  .125  .375 i
+Dolf Luque         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Al Mamaux          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Lee Meadows        R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+C. Mitchell        L  13   2   1   0   0   0   0   0   0   0   0  .154  .154  .231 i
+Art Nehf           L  21   3   0   1   0   2   0   0   0   0   0  .143  .217  .238 i
+Joe Oeschger       R  18   6   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Jeff Pfeffer       R  20   3   2   0   0   0   0   1   0   0   0  .150  .150  .250 i
+Eppa Rixey         L  24   6   0   0   0   2   0   0   0   2   0  .250  .308  .250 i
+Dick Rudolph       R   7   1   1   0   0   0   0   0   0   2   0  .143  .143  .286 i
+Dutch Ruether      L  17   6   0   2   0   1   0   0   0   1   0  .353  .389  .588 i
+Rosy Ryan          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Slim Sallee        L  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 i
+Ferdie Schupp      L  10   0   0   0   0   1   0   0   0   0   0  .000  .091  .000 i
+Jack Scott         R   9   5   1   1   0   1   0   0   0   0   0  .556  .600  .889 i
+George Smith       R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Monty Swartz       R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Jeff Tesreau       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Fred Toney         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lefty Tyler        L   9   2   0   0   0   1   0   0   0   2   0  .222  .300  .222 
+Hippo Vaughn       L  11   2   0   0   0   1   0   3   0   0   0  .182  .250  .182 i
+Jesse Winters      R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i

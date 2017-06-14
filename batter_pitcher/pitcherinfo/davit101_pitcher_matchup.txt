@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sandy Consuegra    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Joe Dobson         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Ellis Kinder       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bob Lemon          R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Eddie Lopat        L   5   1   0   1   0   0   0   2   0   0   0  .200  .200  .600 
+Mickey McDermott   L   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Joe Page           L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Vic Raschi         R   5   5   0   0   1   0   0   0   0   0   0 1.000 1.000 1.600 
+Spec Shea          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   9   3   0   0   0   1   0   1   0   0   0  .333  .400  .333 
+Dick Welteroth     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Early Wynn         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

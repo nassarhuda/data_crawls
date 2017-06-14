@@ -1,0 +1,54 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elden Auker        R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Bagby          R   9   3   0   0   0   1   0   2   0   3   0  .333  .400  .333 
+Hank Borowy        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ralph Branca       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Earl Caldwell      R   5   2   2   0   0   0   0   1   0   0   0  .400  .400  .800 
+Russ Christopher   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chubby Dean        L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Bill Dietrich      R  12   3   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Joe Dobson         R   9   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 i
+Paul Erickson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bob Feller         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Ferriss       R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 
+Jesse Flores       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Steve Gromek       R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 
+Mickey Haefner     L  10   4   1   0   0   0   0   4   0   0   0  .400  .400  .500 
+Luke Hamlin        R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Andy Hansen        R   2   0   0   0   0   1   0   0   0   2   0  .000  .333  .000 
+Bob Harris         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Haynes         R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 i
+Jim Hearn          R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sid Hudson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tex Hughson        R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Johnny Humphries   R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 i
+Oscar Judd         L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Ed Klieman         R   6   2   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Jack Kramer        R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Thornton Lee       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dutch Leonard      R  20   3   1   0   0   0   0   3   0   1   0  .150  .150  .200 
+Walt Masterson     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Bob Muncrief       R   7   0   0   0   0   3   0   2   0   0   0  .000  .300  .000 i
+Red Munger         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bobo Newsom        R  10   3   1   0   0   1   0   1   0   0   0  .300  .364  .400 
+Johnny Niggeling   R   9   4   0   0   0   0   0   1   0   1   0  .444  .444  .444 
+F. Ostermueller    L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Ray Poat           R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Nels Potter        R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Allie Reynolds     R   7   0   0   0   0   3   0   2   0   0   0  .000  .300  .000 i
+Buck Ross          R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 i
+Schoolboy Rowe     R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Mike Ryba          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Charley Schanz     R   2   0   0   0   0   1   0   1   0   2   0  .000  .333  .000 
+Al Smith           L  20   3   0   0   0   1   0   4   0   3   0  .150  .190  .150 i
+Eddie Smith        L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Warren Spahn       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Harry Taylor       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Trinkle        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dizzy Trout        R  12   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Virgil Trucks      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Charlie Wagner     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Wolff        R   9   2   0   0   0   0   0   2   0   1   0  .222  .222  .222 
+Early Wynn         R   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000

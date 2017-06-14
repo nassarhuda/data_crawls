@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hugh Bedient       R   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000 
+Joe Benz           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+George McConnell   R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Buck O'Brien       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i

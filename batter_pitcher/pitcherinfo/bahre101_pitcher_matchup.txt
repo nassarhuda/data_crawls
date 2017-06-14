@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ewell Blackwell    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Paul Erickson      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ed Heusser         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Oscar Judd         L   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Dick Mauney        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+K. Raffensberger   L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Johnny Sain        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

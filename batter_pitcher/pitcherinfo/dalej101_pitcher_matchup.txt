@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 i
+Red Ames           R  12   3   0   0   0   1   0   1   0   0   0  .250  .308  .250 i
+Rube Benton        L  12   4   0   0   0   3   0   1   0   0   0  .333  .467  .333 i
+Ray Boyd           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ad Brennan         L   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 i
+Howie Camnitz      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+George Chalmers    R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Larry Cheney       R   5   2   0   0   0   2   0   1   0   0   0  .400  .571  .400 
+Cliff Curtis       R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Walt Dickson       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ed Donnelly        R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Art Fromme         R   6   3   1   0   0   0   0   3   0   0   0  .500  .500  .667 
+Claude Hendrix     R  13   2   1   1   0   1   0   4   0   0   0  .154  .214  .385 i
+Otto Hess          L   8   1   0   0   0   0   0   1   1   0   0  .125  .222  .125 i
+Bert Humphries     R   7   0   0   0   0   0   0   1   1   0   0  .000  .125  .000 i
+Lefty Leifield     L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+C. Mathewson       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Marty O'Toole      R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Hub Perdue         R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Ed Reulbach        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Suggs       R   6   1   0   0   0   2   0   0   0   0   0  .167  .375  .167 i
+Lefty Tyler        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Hooks Wiltse       L   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 i

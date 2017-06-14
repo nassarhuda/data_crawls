@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Art Delaney        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Jesse Haines       R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Tony Kaufmann      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Ray Kremer         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i

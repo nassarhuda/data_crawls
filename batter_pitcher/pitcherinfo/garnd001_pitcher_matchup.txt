@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Anderson     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ian Kennedy        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+James Shields      R   5   1   0   0   1   1   0   3   0   0   0  .200  .333  .800

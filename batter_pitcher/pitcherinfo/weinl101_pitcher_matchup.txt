@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilbur Cooper      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pete Donohue       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Whitey Glazner     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jesse Haines       R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Fred Johnson       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tony Kaufmann      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Johnny Morrison    R   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Art Nehf           L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dutch Ruether      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Harry Shriver      R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+George Stueland    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

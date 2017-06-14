@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Ted Blankenship    R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Tommy Bridges      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Sarge Connally     R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Red Faber          R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Lefty Gomez        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Sam Gray           R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Lefty Grove        L   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 i
+Bump Hadley        R   3   2   0   0   0   0   0   1   0   1   0  .667  .667  .667 
+Waite Hoyt         R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 i
+Willis Hudlin      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ted Lyons          R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 i
+Danny MacFayden    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Firpo Marberry     R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+Wilcy Moore        R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bobo Newsom        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Jack Ogden         R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 i
+Monte Pearson      R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Ruffing        R  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 
+Vic Sorrell        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Stewart      L  12   1   1   0   0   0   0   5   0   0   0  .083  .083  .167 i
+Tommy Thomas       R  13   3   0   1   0   0   0   0   0   0   0  .231  .231  .385 i
+John Wilson        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333

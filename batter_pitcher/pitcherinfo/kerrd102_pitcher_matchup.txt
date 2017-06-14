@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mordecai Brown     R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Nick Cullop        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Cy Falkenberg      R   9   2   2   0   0   1   0   3   0   0   0  .222  .300  .444 
+Bob Groom          R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Ed Lafitte         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Tom Seaton         R  12   4   1   0   0   1   0   3   0   0   0  .333  .385  .417 
+Doc Watson         L   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 i
+Ed Willett         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

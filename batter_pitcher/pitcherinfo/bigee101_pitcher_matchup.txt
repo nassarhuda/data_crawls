@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Grady Adkins       R   4   1   0   0   1   1   0   0   0   0   0  .250  .400 1.000 
+G. Blaeholder      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ownie Carroll      R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 i
+Rip Collins        R   5   0   0   0   0   2   0   0   0   0   0  .000  .286  .000 i
+General Crowder    R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 i
+Fred Heimach       L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Waite Hoyt         R   7   1   1   0   0   0   0   0   0   0   0  .143  .143  .286 i
+Willis Hudlin      R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ad Liska           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ted Lyons          R   7   2   2   0   0   0   0   0   0   0   0  .286  .286  .571 
+Jack Ogden         R   6   2   1   0   0   1   0   0   0   0   0  .333  .429  .500 i
+Herb Pennock       L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Eddie Rommel       R   5   3   2   0   0   0   0   0   0   0   0  .600  .600 1.000 i
+Joe Shaute         L   4   3   1   0   0   1   0   0   0   0   0  .750  .800 1.000 
+Vic Sorrell        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Tommy Thomas       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Myles Thomas       R  12   6   1   0   0   1   0   0   0   0   0  .500  .538  .583 i
+George Uhle        R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600

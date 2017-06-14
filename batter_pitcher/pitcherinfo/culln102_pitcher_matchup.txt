@@ -1,0 +1,54 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Baecht          R   6   3   0   0   0   0   0   1   0   1   0  .500  .500  .500 
+Ray Benge          R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Jack Berly         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Sheriff Blake      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Erv Brame          R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Ed Brandt          L  18   6   2   1   1   3   0   4   0   0   0  .333  .429  .722 
+Garland Braxton    L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Guy Bush           R  19   7   1   0   1   1   0   2   0   0   0  .368  .400  .579 i
+Watty Clark        L  15   4   1   1   0   0   0   5   0   0   0  .267  .267  .467 
+Bruce Cunningham   R   6   3   2   0   0   1   0   0   0   0   0  .500  .571  .833 
+Paul Derringer     R  10   3   0   0   0   0   0   3   0   0   0  .300  .300  .300 
+Jumbo Elliott      L   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Larry French       L  17   3   0   1   0   1   0   3   0   0   0  .176  .222  .294 
+Burleigh Grimes    R  11   5   0   0   0   0   0   1   0   0   0  .455  .455  .455 
+Bump Hadley        R   3   2   0   0   1   1   0   0   0   0   0  .667  .750 1.667 i
+Jesse Haines       R   9   1   1   0   0   1   0   5   0   0   0  .111  .200  .222 
+Bill Hallahan      L   4   3   0   0   1   0   0   0   0   0   0  .750  .750 1.500 i
+Slim Harriss       R   6   2   2   0   0   0   0   1   0   0   0  .333  .333  .667 
+Carl Hubbell       L   9   1   0   0   0   1   0   4   0   0   0  .111  .200  .111 
+Syl Johnson        R  14   0   0   0   0   0   0  10   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Kremer         R  13   3   0   0   0   2   0   5   0   0   0  .231  .333  .231 
+Danny MacFayden    R   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Pat Malone         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Firpo Marberry     R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+C. Mitchell        L   5   3   1   0   1   1   0   0   0   0   0  .600  .667 1.400 
+Jim Mooney         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cy Moore           R   4   2   1   1   0   0   0   1   0   0   0  .500  .500 1.250 
+Bill Morrell       R   8   2   0   1   0   1   0   1   0   0   0  .250  .333  .500 i
+Ray Moss           R   5   3   1   0   1   0   0   0   0   0   0  .600  .600 1.400 i
+Art Nehf           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Herb Pennock       L   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Ray Phelps         R   8   2   0   0   0   2   1   2   0   0   0  .250  .400  .250 
+Flint Rhem         R   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Charlie Root       R  10   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Socks Seibold      R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Joe Shaute         L   8   1   1   0   0   0   0   2   0   0   0  .125  .125  .250 
+Bill Sherdel       L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Bob Smith          R  10   2   1   0   0   1   0   2   0   0   0  .200  .273  .300 i
+Glenn Spencer      R  10   2   0   0   0   0   0   4   1   0   0  .200  .273  .200 i
+Lefty Stewart      L   7   2   1   1   0   0   0   1   0   0   0  .286  .286  .714 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Les Sweetland      L  11   5   1   1   0   1   0   0   0   2   0  .455  .500  .727 
+Bud Teachout       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Sloppy Thurston    R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+Dazzy Vance        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Rube Walberg       L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Bill Walker        L  12   2   0   1   0   0   0   4   0   0   0  .167  .167  .333 i
+Lon Warneke        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Earl Whitehill     L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+C. Willoughby      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Spades Wood        L   5   2   0   0   0   1   0   2   0   0   0  .400  .500  .400 
+Tom Zachary        L  16   3   0   0   0   2   0   3   0   0   0  .188  .278  .188

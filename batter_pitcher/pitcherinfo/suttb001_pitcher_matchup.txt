@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doug Bair          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rick Camp          R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Randy Moffitt      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Jeff Reardon       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Joe Sambito        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

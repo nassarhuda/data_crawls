@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Blanton         R  10   1   0   0   0   2   0   3   0   1   0  .100  .250  .100 i
+Ed Brandt          L  14   5   3   0   0   0   0   2   0   0   0  .357  .357  .571 i
+Don Brennan        R   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 
+Guy Bush           R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 i
+Slick Castleman    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tiny Chaplin       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 
+Watty Clark        L   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Peaches Davis      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Dizzy Dean         R   9   3   0   1   0   1   0   1   0   0   0  .333  .400  .556 i
+Paul Derringer     R  14   7   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+George Earnshaw    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Larry French       L   9   3   0   0   0   1   0   2   0   0   0  .333  .400  .333 i
+Benny Frey         R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Jesse Haines       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Bill Hallahan      L  10   0   0   0   0   1   0   1   0   1   0  .000  .091  .000 i
+Roy Henshaw        L  18   4   0   0   1   1   0   2   0   1   0  .222  .263  .389 i
+Al Hollingsworth   L  12   1   0   0   0   2   0   1   0   0   0  .083  .214  .083 
+Waite Hoyt         R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Carl Hubbell       L  12   3   1   0   0   1   0   0   0   1   0  .250  .308  .333 
+George Jeffcoat    R   5   3   0   0   0   1   0   0   0   0   0  .600  .667  .600 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Si Johnson         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Johnny Lanning     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bill Lee           R  10   1   0   0   0   0   0   0   0   0   0  .100  .100  .100 
+Red Lucas          R  10   2   0   0   1   0   0   1   0   0   0  .200  .200  .500 i
+Van Mungo          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Roy Parmelee       R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Bobby Reis         R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 i
+Hal Schumacher     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Al Smith           L  10   4   1   0   0   0   0   1   0   0   0  .400  .400  .500 i
+Lee Stine          R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Bill Swift         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Bill Walker        L   3   2   0   0   1   2   0   0   0   0   0  .667  .800 1.667 i
+Lon Warneke        R   9   4   1   0   0   1   0   0   0   0   0  .444  .500  .556 
+Jim Weaver         R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 i
+Bill Weir          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dan Adams          R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i
+Fred Anderson      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Cy Barger          R   2   0   0   0   0   1   0   1   0   2   0  .000  .333  .000 i
+Hugh Bedient       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Joe Benz           R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Ad Brennan         L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Howie Camnitz      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Eddie Cicotte      R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Snipe Conley       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Doc Crandall       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Walt Dickson       R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Jean Dubuc         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 i
+Russ Ford          R  20   8   1   0   1   0   0   0   0   1   0  .400  .400  .600 i
+Vean Gregg         L   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833 i
+Charley Hall       R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 i
+Claude Hendrix     R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 
+Pete Henning       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Walter Johnson     R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Henry Keupper      L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Elmer Knetzer      R   7   3   1   0   0   1   0   1   0   0   0  .429  .500  .571 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gene Krapp         R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 i
+Tom McGuire        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 i
+Willie Mitchell    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Earl Moore         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Gene Packard       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Jack Powell        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Jack Quinn         R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i
+Reb Russell        L   4   1   0   1   0   0   0   1   0   1   0  .250  .250  .750 
+Dwight Stone       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Allan Travers      R   3   2   0   1   0   3   0   0   0   0   0  .667  .833 1.333 
+Hippo Vaughn       L   6   1   0   0   0   2   0   0   0   1   0  .167  .375  .167 i
+Dixie Walker       R   7   2   0   1   0   0   0   0   0   0   0  .286  .286  .571 i
+Ed Walsh           R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 i
+Carl Weilman       L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Ed Willett         R   8   4   0   0   0   2   0   1   0   0   0  .500  .600  .500 i
+Smoky Joe Wood     R  11   2   0   0   0   2   0   1   0   0   0  .182  .308  .182 i

@@ -1,0 +1,39 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Albury         L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Vida Blue          L   9   2   1   0   0   1   0   3   0   0   0  .222  .300  .333 
+Bert Blyleven      R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Dick Bosman        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jackie Brown       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Bill Butler        L   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+David Clyde        L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Joe Coleman        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dick Drago         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Rollie Fingers     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Woodie Fryman      L   7   3   0   0   2   1   0   2   0   0   0  .429  .500 1.286 
+Tom Griffin        R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Ed Halicki         R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Bill Hands         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Andy Hassler       L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ken Holtzman       L  10   2   0   0   0   0   0   3   1   0   0  .200  .273  .200 
+Jim Kaat           L   6   1   0   0   1   3   0   3   0   0   0  .167  .444  .667 
+Bob Knepper        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bill Lee           L  10   3   1   0   0   0   0   4   0   0   0  .300  .300  .400 
+Paul Lindblad      L   3   1   0   0   0   1   1   0   0   0   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mickey Lolich      L   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Sparky Lyle        L   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Blue Moon Odom     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Doug Rau           L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Rick Rhoden        R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Jim Rooker         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Tom Seaver         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Slaton         R   7   1   0   0   1   0   0   3   0   0   0  .143  .143  .571 
+Bill Slayback      R   5   1   0   0   0   0   0   1   1   0   0  .200  .333  .200 
+Mel Stottlemyre    R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Craig Swan         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Frank Tanana       L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Dick Tidrow        R   8   2   0   0   1   0   0   3   0   0   0  .250  .250  .625 
+Luke Walker        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dave Wehrmeister   R   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000 
+Wilbur Wood        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Clyde Wright       L  10   2   1   0   0   1   1   3   0   0   0  .200  .273  .300

@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bibby          R   6   1   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Vida Blue          L   8   0   0   0   0   1   0   5   0   0   0  .000  .111  .000 
+Tommy Boggs        R   4   1   0   1   0   1   0   0   0   0   0  .250  .400  .750 
+John Candelaria    L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Steve Carlton      L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Bryan Clark        L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+John Denny         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Mark Eichhorn      R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Ross Grimsley      L   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Ed Halicki         R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Brad Havens        L   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Ken Holtzman       L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+LaMarr Hoyt        R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Bob Knepper        L   4   1   0   0   0   2   0   0   0   0   0  .250  .500  .250 
+Jerry Koosman      L   5   2   0   0   0   0   0   0   0   0   1  .400  .333  .400 
+Ken Kravec         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Krukow        R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Dennis Lamp        R   8   1   0   0   0   1   0   0   0   2   0  .125  .222  .125 
+Bill Lee           L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dave Lemanczyk     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Silvio Martinez    R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rudy May           L   6   1   0   0   1   0   0   1   0   0   1  .167  .143  .667 
+Bob McClure        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Larry McWilliams   L   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Phil Nastu         L   6   1   0   1   0   0   0   1   0   0   0  .167  .167  .500 
+Jerry Reuss        L  10   3   0   0   0   1   0   1   0   0   0  .300  .364  .300 
+Jim Rooker         L   4   1   0   0   1   1   0   1   0   0   0  .250  .400 1.000 
+Mike Smithson      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kent Tekulve       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Frank Viola        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pete Vuckovich     R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ed Whitson         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

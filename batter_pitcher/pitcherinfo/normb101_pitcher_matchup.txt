@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Clint Brown        R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Jumbo Brown        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+General Crowder    R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Ed Durham          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Carl Fischer       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tony Freitas       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Gomez        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Lefty Grove        L   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Chief Hogsett      L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Waite Hoyt         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roy Mahaffey       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Russell       R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Rube Walberg       L   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250

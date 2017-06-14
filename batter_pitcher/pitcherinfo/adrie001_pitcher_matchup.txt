@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jake Arrieta       R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+A.J. Burnett       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Josh Collmenter    R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Zack Greinke       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kyle Hendricks     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Clayton Kershaw    L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Brandon McCarthy   R   3   1   1   0   0   0   0   0   1   0   0  .333  .500  .667 
+Franklin Morales   L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Charlie Morton     R   2   1   0   0   0   0   0   0   1   0   1  .500  .500  .500 
+Jon Niese          L   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Tyson Ross         R   4   2   0   0   0   2   0   1   0   0   0  .500  .667  .500 
+Hyun-Jin Ryu       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Michael Wacha      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

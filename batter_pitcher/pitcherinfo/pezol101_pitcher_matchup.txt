@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chief Bender       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Benz           R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Boardwalk Brown    R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 i
+Ray Caldwell       R   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+King Cole          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ray Fisher         R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Walter Johnson     R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Ray Keating        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dutch Leonard      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Eddie Plank        L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Shawkey        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

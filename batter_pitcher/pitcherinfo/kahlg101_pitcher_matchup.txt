@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chief Bender       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill Burns         L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Eddie Cicotte      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Hooks Dauss        R   4   1   0   0   0   0   0   2   1   0   0  .250  .400  .250 
+Russ Ford          R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Jack Powell        R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Jack Warhop        R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i

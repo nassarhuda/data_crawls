@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wally Bunker       R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Eddie Fisher       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bob Gibson         R   7   2   0   0   0   0   0   2   0   0   1  .286  .250  .286 
+Joe Horlen         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Denny McLain       R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Milt Pappas        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Camilo Pascual     R   6   2   0   0   1   0   0   0   0   0   0  .333  .333  .833 
+Orlando Pena       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+G. Richardson      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mel Stottlemyre    R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Fred Talbot        R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 
+Ralph Terry        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Tsitouris     R   6   2   0   0   1   0   0   1   0   0   0  .333  .333  .833

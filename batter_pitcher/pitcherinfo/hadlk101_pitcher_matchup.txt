@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gary Bell          R  12   2   0   0   0   2   0   4   0   0   0  .167  .286  .167 
+Tom Brewer         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+John Briggs        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hal Brown          R  10   3   1   0   0   0   0   3   0   0   1  .300  .273  .400 
+Jim Bunning        R  15   4   0   0   2   1   0   7   0   0   0  .267  .313  .667 
+Pete Burnside      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jerry Casale       R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Tex Clevenger      R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Jim Coates         R   6   2   0   0   0   1   0   3   0   0   0  .333  .429  .333 
+Art Ditmar         R   8   1   0   0   0   2   0   1   0   0   1  .125  .273  .125 
+Ryne Duren         R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bill Fischer       R   8   1   1   0   0   0   0   0   0   0   0  .125  .125  .250 
+Paul Foytack       R  13   6   0   0   4   2   0   2   0   0   1  .462  .500 1.385 
+Mudcat Grant       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Eli Grba           R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Billy Hoeft        L   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Russ Kemmerer      R  10   3   1   0   0   1   0   3   0   0   0  .300  .364  .400 
+Frank Lary         R  16   1   1   0   0   0   0   7   0   0   0  .063  .063  .125 
+Barry Latman       R   5   3   1   0   0   2   0   0   0   0   0  .600  .714  .800 
+Turk Lown          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Duke Maas          R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Cal McLish         R   7   4   0   0   0   1   0   1   0   0   0  .571  .625  .571 
+B. Monbouquette    R   4   1   1   0   0   1   0   2   0   0   0  .250  .400  .500 
+Ray Moore          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tom Morgan         R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Ray Narleski       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Milt Pappas        R   9   3   0   0   0   1   0   1   0   0   0  .333  .400  .333 
+Camilo Pascual     R  17   7   0   1   0   1   0   5   0   0   0  .412  .444  .529 
+Jim Perry          R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+A. Portocarrero    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pedro Ramos        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Romonosky     R   6   1   0   0   1   0   0   0   0   0   0  .167  .167  .667 
+Bob Shaw           R  10   1   0   0   0   3   0   3   1   0   0  .100  .357  .100 
+Gerry Staley       R   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Frank Sullivan     R   7   1   1   0   0   1   0   4   0   0   0  .143  .250  .286 
+Ralph Terry        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Turley         R  12   3   1   0   1   1   0   4   0   0   0  .250  .308  .583 
+Jerry Walker       R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Hoyt Wilhelm       R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Hal Woodeshick     L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Early Wynn         R  14   3   0   0   0   1   0   6   0   0   0  .214  .267  .214

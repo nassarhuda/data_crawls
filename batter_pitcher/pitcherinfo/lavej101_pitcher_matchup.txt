@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 i
+Pete Alexander     R  13   1   0   0   0   0   0   6   0   0   0  .077  .077  .077 i
+Frank Allen        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Rube Benton        L   5   2   1   0   0   1   0   1   0   1   0  .400  .500  .600 i
+Ad Brennan         L   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 i
+Wilbur Cooper      L   6   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 i
+Lefty George       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dan Griner         R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Bob Harmon         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 i
+Otto Hess          L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+C. Mathewson       R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Earl Moore         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Marty O'Toole      R   6   1   1   0   0   1   0   2   0   0   0  .167  .286  .333 i
+Pol Perritt        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jeff Pfeffer       R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Pat Ragan          R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+Hank Robinson      L   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 i
+Dick Rudolph       R  10   1   0   0   0   0   0   6   0   0   0  .100  .100  .100 i
+Jeff Tesreau       R  17   1   0   0   0   1   0   9   0   0   0  .059  .111  .059 i

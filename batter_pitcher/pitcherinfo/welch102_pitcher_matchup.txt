@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cy Barger          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Howie Camnitz      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roy Golden         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+C. Mathewson       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pat Ragan          R   4   2   1   0   0   1   0   1   0   0   0  .500  .600  .750 
+Elmer Steele       R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Bill Steele        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+George Suggs       R   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333

@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Milo Candini       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Scott Cary         L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Joe Dobson         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Red Embree         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Bob Feller         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Dick Fowler        R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Garcia        R  11   1   0   0   0   1   0   1   0   0   0  .091  .167  .091 
+Ned Garver         R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Bob Gillespie      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Marv Grissom       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Orval Grove        R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Mickey Harris      L   3   1   1   0   0   0   0   1   1   0   0  .333  .500  .667 
+Joe Haynes         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Art Houtteman      R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Sid Hudson         R  10   5   0   0   0   1   0   0   0   1   0  .500  .545  .500 
+Fred Hutchinson    R   9   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Howie Judson       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Bob Lemon          R   8   1   1   0   0   0   0   1   0   0   0  .125  .125  .250 
+Eddie Lopat        L   9   2   0   0   0   1   0   0   0   0   0  .222  .300  .222 
+Mickey McDermott   L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hal Newhouser      L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Joe Ostrowski      L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Mel Parnell        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Allie Reynolds     R  10   1   1   0   0   1   0   6   0   0   0  .100  .182  .200 
+Ray Scarborough    R  10   1   0   0   0   0   0   3   0   0   0  .100  .100  .100 
+Dizzy Trout        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Virgil Trucks      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Early Wynn         R  15   3   0   0   0   0   0   3   0   0   0  .200  .200  .200

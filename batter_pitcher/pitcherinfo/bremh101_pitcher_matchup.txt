@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dick Errickson     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lou Fette          R   5   1   0   0   1   1   0   0   0   0   0  .200  .333  .800 
+F. Fitzsimmons     R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Luke Hamlin        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Hollingsworth   L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ira Hutchinson     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Hal Kelleher       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Bill Lee           R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 i
+Danny MacFayden    R  11   2   0   0   0   0   0   2   0   0   0  .182  .182  .182 
+Milt Shoffner      L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Vito Tamulis       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bucky Walters      R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429

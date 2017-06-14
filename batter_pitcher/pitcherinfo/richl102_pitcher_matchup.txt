@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Frank Allen        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Cy Barger          R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+George Bell        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Art Fromme         R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Bob Harmon         R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Claude Hendrix     R   8   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Lefty Leifield     L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Lou Lowdermilk     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Rube Marquard      L   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 i
+C. Mathewson       R  10   1   0   0   0   0   0   3   0   1   0  .100  .100  .100 i
+Marty O'Toole      R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Slim Sallee        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Lefty Tyler        L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Hooks Wiltse       L   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 i

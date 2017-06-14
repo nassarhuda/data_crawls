@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Vida Blue          L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Pete Broberg       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dick Drago         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dave Hamilton      L   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+John Hiller        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Joe Horlen         R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Catfish Hunter     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Tommy John         L   6   4   0   0   0   1   0   2   0   0   0  .667  .714  .667 
+Bart Johnson       R   4   0   0   0   0   1   0   3   0   1   0  .000  .200  .000 
+Jim Kaat           L   9   4   1   0   0   1   0   1   0   0   1  .444  .455  .556 
+Jim Lonborg        R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Steve Luebber      R   4   2   0   0   0   0   0   1   1   0   0  .500  .600  .500 
+Rudy May           L   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Jim Perry          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Gary Peters        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Splittorff    L   7   2   1   0   0   1   0   3   0   0   0  .286  .375  .429 
+Mel Stottlemyre    R   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 
+Wilbur Wood        L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143

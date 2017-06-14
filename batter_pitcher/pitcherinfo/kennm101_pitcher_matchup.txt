@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Banta         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rex Barney         R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ewell Blackwell    R   5   1   0   0   0   0   0   1   0   2   0  .200  .200  .200 
+Hank Borowy        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ralph Branca       R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Al Brazle          L   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 
+Harry Brecheen     L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Murry Dickson      R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Eddie Erautt       R   3   1   0   0   0   0   0   2   1   0   0  .333  .500  .333 
+Howie Fox          R  14   0   0   0   0   0   0   3   0   4   0  .000  .000  .000 
+Joe Hatten         L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Hearn          R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kirby Higbe        R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Max Lanier         L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dutch Leonard      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Russ Meyer         R   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+F. Ostermueller    L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Erv Palica         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Perkowski    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Howie Pollet       L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+K. Raffensberger   L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Willie Ramsdell    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Preacher Roe       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Johnny Sain        R   7   0   0   0   0   1   0   3   0   1   0  .000  .125  .000 
+Johnny Schmitz     L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Rip Sewell         R   3   2   1   0   0   0   0   0   0   1   0  .667  .667 1.000 
+Curt Simmons       L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Frank Smith        R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Warren Spahn       L  23   5   1   0   0   0   0  10   0   0   0  .217  .217  .261 
+Gerry Staley       R   7   1   0   0   0   1   0   0   0   1   0  .143  .250  .143 
+J. Vander Meer     L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Bucky Walters      R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Hank Wyse          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

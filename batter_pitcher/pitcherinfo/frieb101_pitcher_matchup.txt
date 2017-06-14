@@ -1,0 +1,3 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ken Chase          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Gomez        L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667

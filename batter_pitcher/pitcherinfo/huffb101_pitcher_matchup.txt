@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   9   4   2   0   0   0   0   0   0   0   0  .444  .444  .667 
+Elden Auker        R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Clint Brown        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Sugar Cain         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Caster      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Spud Chandler      R   4   2   1   0   1   0   0   0   0   0   0  .500  .500 1.500 
+Jimmie DeShong     R   8   2   1   0   0   0   0   0   0   0   0  .250  .250  .375 
+Bill Dietrich      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Wes Ferrell        R  17   4   1   0   0   0   0   0   0   0   0  .235  .235  .294 
+Bump Hadley        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mel Harder         R   4   1   0   0   0   3   0   0   0   0   0  .250  .571  .250 
+Willis Hudlin      R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Harry Kelley       R   8   2   2   0   0   2   0   0   0   0   0  .250  .400  .500 
+Roxie Lawson       R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Ed Linke           R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Johnny Marcum      R  11   3   0   0   0   0   0   0   0   0   0  .273  .273  .273 
+Monte Pearson      R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Johnny Rigney      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Buck Ross          R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Monty Stratton     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Monte Weaver       R   8   3   0   0   0   1   0   1   0   0   0  .375  .444  .375 
+John Whitehead     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Wilson        R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250

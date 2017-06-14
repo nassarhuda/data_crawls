@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 i
+Pete Alexander     R  19   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Red Ames           R   8   2   2   0   0   1   0   1   0   0   0  .250  .333  .500 i
+Cy Barger          R  11   2   1   0   0   0   0   1   0   1   0  .182  .182  .273 i
+Fred Beebe         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+George Bell        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Rube Benton        L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Ad Brennan         L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 i
+Mordecai Brown     R   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Bill Burns         L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Howie Camnitz      R   8   1   0   0   0   0   0   0   0   1   0  .125  .125  .125 i
+King Cole          R  14   2   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Doc Crandall       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jack Ferry         R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Art Fromme         R   9   4   1   1   1   0   0   1   0   0   0  .444  .444 1.111 i
+Harry Gardner      R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Harry Gaspar       R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 i
+Bob Harmon         R  19   5   0   0   0   2   0   0   0   0   0  .263  .333  .263 i
+Bobby Keefe        R   7   1   0   0   0   2   0   0   0   0   0  .143  .333  .143 i
+Lefty Leifield     L   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Lowdermilk      R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Rube Marquard      L  13   2   0   0   0   0   0   3   0   0   0  .154  .154  .154 i
+C. Mathewson       R  12   3   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Harry McIntire     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Earl Moore         R  11   2   0   1   0   0   0   2   0   0   0  .182  .182  .364 i
+Bugs Raymond       R   3   2   1   0   1   1   0   0   0   0   0  .667  .750 2.000 i
+Ed Reulbach        R  13   2   1   0   0   0   0   3   0   0   0  .154  .154  .231 i
+Lew Richie         R   9   3   0   0   0   1   0   0   0   0   0  .333  .400  .333 i
+Nap Rucker         L   3   1   0   0   0   0   0   0   0   0   1  .333  .250  .333 i
+Slim Sallee        L  10   3   0   1   0   1   0   0   0   0   0  .300  .364  .500 i
+Bill Schardt       R  16   6   1   0   0   0   0   2   0   0   1  .375  .353  .438 i
+Frank Smith        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Elmer Steele       R   7   2   1   0   0   1   0   1   0   0   0  .286  .375  .429 i
+Bill Steele        R  17   4   1   0   0   2   0   1   0   0   0  .235  .316  .294 i
+George Suggs       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Fred Toney         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

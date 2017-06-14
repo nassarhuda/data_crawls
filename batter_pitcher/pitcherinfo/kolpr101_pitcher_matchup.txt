@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ray Benge          R  15   2   0   0   0   0   0   1   0   2   0  .133  .133  .133 
+Larry Benton       R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Ed Brandt          L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Jim Brillheart     L   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 i
+Guy Bush           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ben Cantwell       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Watty Clark        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Bill Doak          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+James Edwards      L   9   1   1   0   0   1   0   2   0   0   0  .111  .200  .222 
+Jumbo Elliott      L   3   2   0   0   0   1   0   0   0   1   0  .667  .750  .667 i
+F. Fitzsimmons     R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 i
+Larry French       L   3   2   0   0   0   0   0   0   0   2   0  .667  .667  .667 i
+Burleigh Grimes    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Jesse Haines       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Fred Heimach       L   8   4   0   0   0   1   0   0   0   0   0  .500  .556  .500 i
+Syl Johnson        R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+Ray Kremer         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Dutch Leonard      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Duster Mails       L   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Pat Malone         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roy Moore          L   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 i
+Frank Pearce       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Hub Pruett         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+C. Robertson       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Charlie Root       R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 i
+Hal Schumacher     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Bill Sherdel       L   6   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Bob Smith          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Swift         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+George Uhle        R   9   0   0   0   0   1   0   2   0   2   0  .000  .100  .000 i
+Dazzy Vance        R  15   4   0   0   1   0   0   5   0   0   0  .267  .267  .467 i
+Bill Walker        L  10   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lon Warneke        R   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Spades Wood        L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Tom Zachary        L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i

@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Abbott        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bartolo Colon      R   4   2   0   0   1   1   0   2   0   0   0  .500  .600 1.250 
+Tim Hudson         R   5   1   0   0   0   0   0   0   1   0   0  .200  .333  .200 
+Joel Pineiro       R   9   0   0   0   0   1   0   4   0   0   0  .000  .100  .000 
+Brad Radke         R   3   1   0   0   1   0   0   1   1   0   0  .333  .500 1.333

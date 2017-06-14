@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chris Archer       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Erik Bedard        L   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Mark Buehrle       L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Wei-Yin Chen       L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bartolo Colon      R   3   1   1   0   0   0   0   0   0   1   1  .333  .250  .667 
+Miguel Gonzalez    R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Felix Hernandez    R   6   4   1   0   0   1   0   1   0   0   0  .667  .714  .833 
+Phil Hughes        R   3   1   0   0   1   2   0   0   0   1   0  .333  .600 1.333 
+Hisashi Iwakuma    R  11   1   0   0   1   1   0   4   0   0   0  .091  .167  .364 
+Ubaldo Jimenez     R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Dallas Keuchel     L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Lucas Luetge       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jarrod Parker      R   6   2   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Garrett Richards   R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Esmil Rogers       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Joe Saunders       L   7   2   0   0   0   0   0   2   1   0   0  .286  .375  .286 
+Dan Straily        R   7   1   0   0   0   1   0   0   0   0   0  .143  .250  .143 
+Jason Vargas       L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chien-Ming Wang    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Avery        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Burkett       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Frank Castillo     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Hampton       L   5   2   0   0   1   0   0   2   0   0   0  .400  .400 1.000 
+Mike Remlinger     L   4   1   1   0   0   0   0   0   0   0   1  .250  .200  .500 
+Jose Rijo          R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

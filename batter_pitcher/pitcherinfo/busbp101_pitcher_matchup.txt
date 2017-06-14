@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elmer Riddle       R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Rip Sewell         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bucky Walters      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333

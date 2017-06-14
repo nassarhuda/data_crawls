@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Nate Andrews       R   8   2   0   0   0   2   0   0   0   0   0  .250  .400  .250 i
+Jim Bagby          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Red Barrett        R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Al Benton          R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Bill Bevens        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Harry Brecheen     L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Alex Carrasquel    R   3   0   0   0   0   1   1   2   0   0   0  .000  .250  .000 
+Russ Christopher   R   5   0   0   0   0   1   0   1   1   0   0  .000  .286  .000 
+Tommy de la Cruz   R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jesse Flores       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Hal Gregg          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mickey Haefner     L   4   3   0   0   0   0   0   0   1   0   0  .750  .800  .750 
+Mel Harder         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Hollingsworth   L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Thornton Lee       L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Lee           R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Les Mueller        R   2   0   0   0   0   2   0   0   0   1   0  .000  .500  .000 
+Hal Newhouser      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Niggeling   R   4   2   0   0   0   2   0   1   0   0   0  .500  .667  .500 
+F. Ostermueller    L   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Page           L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Papish       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Marino Pieretti    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Preacher Roe       L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i
+Rip Sewell         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dizzy Trout        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sandy Ullrich      R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 
+Bill Voiselle      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Roger Wolff        R   3   2   0   0   0   1   0   0   0   2   0  .667  .750  .667 
+Sam Zoldak         L   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill Zuber         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

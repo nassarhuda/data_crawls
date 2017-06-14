@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Jim Bouton         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Wally Bunker       R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Les Cain           L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dean Chance        R   8   1   0   0   0   1   0   7   0   0   0  .125  .222  .125 
+Al Fitzmorris      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Whitey Ford        L   6   3   1   0   0   0   0   2   0   1   0  .500  .500  .667 
+Mudcat Grant       R   9   2   0   0   1   0   0   4   0   0   0  .222  .222  .556 
+Bob Heffner        R   7   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ray Herbert        R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Joe Horlen         R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Bob Humphreys      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Kaat           L   5   2   0   0   0   0   0   2   0   2   0  .400  .400  .400 
+Jack Kralick       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Jack Lamabe        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Barry Latman       R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Marcelino Lopez    L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 
+Sam McDowell       L   6   1   0   0   0   3   0   4   0   0   0  .167  .444  .167 
+Denny McLain       R   5   1   0   0   1   0   0   4   0   0   0  .200  .200  .800 
+Dave McNally       L   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Morehead      R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Claude Osteen      L   5   4   0   1   0   0   0   0   0   1   0  .800  .800 1.200 
+Jim Perry          R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Pedro Ramos        R   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Pete Richert       L   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Robin Roberts      R   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 
+Rollie Sheldon     R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sonny Siebert      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Fred Talbot        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ralph Terry        R   8   1   0   0   0   0   0   4   0   1   0  .125  .125  .125 
+Earl Wilson        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Early Wynn         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

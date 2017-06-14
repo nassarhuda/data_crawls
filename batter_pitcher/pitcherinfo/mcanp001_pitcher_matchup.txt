@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brandon Backe      R   4   1   1   0   0   1   1   0   0   0   0  .250  .400  .500 
+Chad Billingsley   R   5   1   1   0   0   0   0   2   0   0   1  .200  .167  .400 
+Matt Cain          R   3   1   1   0   0   3   0   2   0   0   0  .333  .667  .667 
+Shawn Chacon       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Aaron Cook         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Jason Hammel       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hiroki Kuroda      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Tim Lincecum       R   2   0   0   0   0   4   0   1   0   0   0  .000  .667  .000 
+Derek Lowe         R   9   2   0   0   0   1   0   2   1   0   0  .222  .364  .222 
+Roy Oswalt         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Duaner Sanchez     R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200

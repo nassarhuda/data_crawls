@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Zach Day           R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Brian Lawrence     R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ruben Quevedo      R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Tim Redding        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+David Williams     L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

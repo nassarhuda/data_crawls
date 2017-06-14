@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Virgil Barnes      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Larry Benton       R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Ed Brandt          L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Bullet Joe Bush    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Hal Carlson        R  12   5   0   0   0   0   0   2   0   1   0  .417  .417  .417 i
+Wayland Dean       R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Art Decatur        R   7   2   1   0   0   0   0   1   0   1   0  .286  .286  .429 
+Pete Donohue       R  16   2   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Alex Ferguson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lou Fette          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+F. Fitzsimmons     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Larry French       L   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Benny Frey         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Burleigh Grimes    R  12   4   0   0   0   0   0   2   0   1   0  .333  .333  .333 i
+Jesse Haines       R  12   1   0   0   0   0   0   3   0   0   0  .083  .083  .083 i
+Dutch Henry        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bill Hubbell       R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Syl Johnson        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Ray Kremer         R   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Lucas          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dolf Luque         R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Jakie May          L  10   1   0   0   0   1   0   2   0   0   0  .100  .182  .100 i
+Carl Mays          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Doug McWeeny       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Lee Meadows        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+C. Mitchell        L  13   1   0   0   0   0   0   2   0   2   0  .077  .077  .077 i
+Jesse Petty        L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Flint Rhem         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 i
+Eppa Rixey         L  15   3   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jack Scott         R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 i
+Socks Seibold      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Bill Sherdel       L   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 i
+Bob Smith          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Dazzy Vance        R  14   1   0   0   0   0   0   3   0   2   0  .071  .071  .071 i
+C. Willoughby      R  12   1   0   0   0   0   0   2   1   0   0  .083  .154  .083 i

@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hank Aguirre       L   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Frank Baumann      L   4   1   0   0   0   0   0   2   0   2   0  .250  .250  .250 
+Gary Bell          R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Pete Burnside      L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jim Coates         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bud Daley          L   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Bennie Daniels     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Art Ditmar         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Whitey Ford        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Mudcat Grant       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jack Kralick       L   7   2   0   0   0   0   0   3   0   0   0  .286  .286  .286 
+Frank Lary         R  10   1   1   0   0   1   0   2   0   0   0  .100  .182  .200 
+Don Lee            R  11   1   0   0   0   0   0   5   0   0   0  .091  .091  .091 
+Ken McBride        R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Danny McDevitt     L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+B. Monbouquette    R  14   3   0   0   0   0   0   7   0   3   0  .214  .214  .214 
+Jim Perry          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Juan Pizarro       L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ed Rakow           R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Pedro Ramos        R   7   3   0   0   0   1   0   1   0   0   0  .429  .500  .429 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Phil Regan         R   1   0   0   0   0   0   0   1   0   2   1  .000  .000  .000 
+Don Rudolph        L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Don Schwall        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Stigman       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chuck Stobbs       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Ralph Terry        R   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Early Wynn         R   6   2   0   0   0   0   0   0   0   2   0  .333  .333  .333

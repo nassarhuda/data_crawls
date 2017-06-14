@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Gary Bell          R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Jack Billingham    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Coleman        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ray Culp           R   3   0   0   0   0   1   0   3   0   1   0  .000  .250  .000 
+Chuck Dobson       R   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Al Downing         L   6   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Jim Hannan         R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Jim Hardin         R   8   0   0   0   0   0   0   4   0   2   0  .000  .000  .000 
+Fergie Jenkins     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Tommy John         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Kaat           L  11   2   0   1   0   0   0   4   0   0   0  .182  .182  .364 
+Clay Kirby         R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Denny Lemaster     L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Paul Lindblad      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Lonborg        R   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Juan Marichal      R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Jon Matlack        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sam McDowell       L   8   2   0   0   0   0   0   4   0   1   0  .250  .250  .250 
+Denny McLain       R   5   1   1   0   0   0   0   4   0   1   0  .200  .200  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Merritt        L   5   1   0   0   0   0   0   4   0   0   0  .200  .200  .200 
+Joe Moeller        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Nash           R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Phil Niekro        R   5   2   1   0   0   0   0   1   0   0   0  .400  .400  .600 
+Lowell Palmer      R   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Milt Pappas        R  11   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Camilo Pascual     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Ron Reed           R   6   2   0   0   1   1   0   4   0   1   0  .333  .429  .833 
+Pete Richert       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bill Singer        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Scipio Spinks      R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Lee Stange         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Bob Veale          L   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Earl Wilson        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Billy Wynne        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

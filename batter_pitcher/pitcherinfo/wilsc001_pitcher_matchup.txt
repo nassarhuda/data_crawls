@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Darrel Akerfelds   R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Paul Assenmacher   L   9   3   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Tim Belcher        R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Mike Bielecki      R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Bosio        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tom Browning       L   3   2   0   0   0   0   0   0   0   0   1  .667  .500  .667 
+Norm Charlton      L   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Sid Fernandez      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+John Franco        L   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Tom Glavine        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Erik Hanson        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Bruce Hurst        L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Danny Jackson      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Les Lancaster      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Landrum       R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Craig Lefferts     L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+C. Leibrandt       L   7   4   0   0   0   0   0   0   0   0   0  .571  .571  .571 
+Roger McDowell     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chuck McElroy      L   6   2   1   0   0   0   0   1   0   0   1  .333  .286  .500 
+Kent Mercker       L   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Terry Mulholland   L   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Myers        L   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333 
+Curt Schilling     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Pete Schourek      L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+John Smiley        L   4   0   0   0   0   1   0   0   0   0   1  .000  .167  .000 
+Dave Smith         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Zane Smith         L  13   2   0   0   0   0   0   1   0   0   0  .154  .154  .154 
+John Smoltz        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Randy Tomlin       L   6   4   1   0   0   0   0   0   0   0   0  .667  .667  .833 
+Frank Viola        L   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Mitch Williams     L   4   2   0   0   0   2   1   1   0   0   0  .500  .667  .500 
+Steve Wilson       L   2   1   0   0   0   1   0   0   0   0   1  .500  .500  .500 
+Trevor Wilson      L   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000

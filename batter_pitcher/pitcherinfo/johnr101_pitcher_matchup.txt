@@ -1,0 +1,32 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Len Barker         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Jim Beattie        R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Jim Clancy         R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Danny Darwin       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dennis Eckersley   R  11   5   0   0   0   0   0   0   0   0   0  .455  .455  .455 
+Ken Forsch         R   7   2   1   0   1   0   0   1   0   0   0  .286  .286  .857 
+Rich Gossage       R   2   0   0   0   0   1   0   1   0   0   1  .000  .250  .000 
+Jim Gott           R   2   1   0   0   1   2   0   0   0   0   0  .500  .750 2.000 
+Moose Haas         R   6   2   1   0   1   0   0   2   0   0   1  .333  .286 1.000 
+LaMarr Hoyt        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Bruce Kison        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Dennis Lamp        R   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Rick Langford      R  11   5   0   0   0   0   0   3   0   0   0  .455  .455  .455 
+Dennis Martinez    R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Steve McCatty      R   4   0   0   0   0   1   0   2   1   0   0  .000  .333  .000 
+Doc Medich         R   4   2   1   0   0   1   0   1   0   0   1  .500  .500  .750 
+Mike Moore         R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Jack Morris        R   9   1   0   0   1   2   0   2   0   0   0  .111  .273  .444 
+Mike Norris        R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ed Nunez           R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gaylord Perry      R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 
+Dan Petry          R   7   2   0   0   1   2   0   0   0   0   0  .286  .444  .714 
+Dan Quisenberry    R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Steve Renko        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Lary Sorensen      R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Sammy Stewart      R   3   0   0   0   0   0   0   0   0   0   2  .000  .000  .000 
+Dave Stieb         R   8   1   0   0   0   1   0   1   0   0   0  .125  .222  .125 
+Rick Sutcliffe     R   5   1   0   0   0   1   0   0   0   0   1  .200  .286  .200 
+Pete Vuckovich     R   8   1   0   0   0   0   0   4   0   0   0  .125  .125  .125 
+Milt Wilcox        R   6   2   0   0   1   1   1   2   0   0   1  .333  .375  .833

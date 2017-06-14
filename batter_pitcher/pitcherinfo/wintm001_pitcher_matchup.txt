@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Boddicker     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Gene Harris        R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Brian Holman       R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000

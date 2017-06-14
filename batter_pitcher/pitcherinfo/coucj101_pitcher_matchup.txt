@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Virgil Barnes      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Guy Bush           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Hal Carlson        R   6   1   0   0   0   0   0   4   0   1   0  .167  .167  .167 
+Bill Doak          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Burleigh Grimes    R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Jesse Haines       R  12   1   0   0   0   0   0   7   0   0   0  .083  .083  .083 
+Vic Keen           R   5   0   0   0   0   0   0   2   1   0   0  .000  .167  .000 i
+Dolf Luque         R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Tim McNamara       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Hugh McQuillan     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+C. Mitchell        L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Tiny Osborne       R   4   2   0   2   0   0   0   2   0   0   0  .500  .500 1.500 
+Jeff Pfeffer       R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Eppa Rixey         L   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Dutch Ruether      L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Fred Toney         R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Dazzy Vance        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jesse Winters      R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 i

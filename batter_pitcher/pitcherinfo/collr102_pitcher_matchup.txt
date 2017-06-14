@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Bowman         R   8   3   1   0   0   1   0   1   0   0   0  .375  .444  .500 
+Mort Cooper        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Dick Errickson     R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dick Lanahan       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bill Lohrman       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Whitey Moore       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Hugh Mulcahy       R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Rip Sewell         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Clyde Shoun        L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Junior Thompson    R   5   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Turner         R   6   2   0   0   0   0   0   3   0   0   0  .333  .333  .333

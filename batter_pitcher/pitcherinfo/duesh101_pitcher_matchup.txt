@@ -1,0 +1,3 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Lemongello    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Pat Zachry         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250

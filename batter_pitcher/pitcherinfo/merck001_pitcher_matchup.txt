@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pedro Astacio      R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Willie Banks       R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Danny Darwin       R   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Glenn Dishman      L   4   1   1   0   0   0   0   0   0   1   0  .250  .250  .500 
+Marvin Freeman     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mark Gardner       R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Joey Hamilton      R   3   1   0   1   0   1   0   1   0   0   0  .333  .500 1.000 
+Chris Hammond      L   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Mike Hampton       L   4   1   1   0   0   0   0   2   0   1   0  .250  .250  .500 
+Pete Harnisch      R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Greg Harris        R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bobby Jones        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Darryl Kile        R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Greg Maddux        R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Pedro Martinez     R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Terry Mulholland   L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Bobby Munoz        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Pat Rapp           R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Armando Reynoso    R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Steve Trachsel     R   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ismael Valdez      R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143

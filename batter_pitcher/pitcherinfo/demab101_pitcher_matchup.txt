@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Brissie        L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Bob Feller         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Gray           L   6   2   0   0   0   1   0   0   0   1   0  .333  .429  .333 
+Joe Haynes         R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Bob Hooper         R   8   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Sid Hudson         R   7   1   0   0   0   2   0   2   0   0   0  .143  .333  .143 
+Fred Hutchinson    R   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429 
+Howie Judson       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Alex Kellner       L  18   3   2   0   0   0   0   1   0   1   0  .167  .167  .278 
+Ellis Kinder       R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 
+Bob Lemon          R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 
+Eddie Lopat        L   8   0   0   0   0   1   0   0   0   0   0  .000  .111  .000 
+Connie Marrero     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mickey McDermott   L   5   3   0   0   0   2   0   0   0   0   0  .600  .714  .600 
+Hal Newhouser      L  13   4   0   0   0   1   0   2   0   0   0  .308  .357  .308 
+Al Papai           R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Mel Parnell        L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Allie Reynolds     R   9   4   0   0   0   2   0   0   0   0   0  .444  .545  .444 
+Fred Sanford       R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Ray Scarborough    R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Carl Scheib        R   4   0   0   0   0   2   0   0   0   0   0  .000  .333  .000 
+Dizzy Trout        R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 
+Virgil Trucks      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Weik          R   6   1   0   1   0   3   0   1   0   0   0  .167  .444  .500

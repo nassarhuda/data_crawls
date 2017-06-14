@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Larry Anderson     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jerry Augustine    L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Gary Beare         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Bibby          R  13   1   0   0   0   1   0   2   0   0   0  .077  .143  .077 
+Bert Blyleven      R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Nelson Briles      R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Broberg       R   5   2   0   0   0   2   0   0   0   0   0  .400  .571  .400 
+Jim Colborn        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ed Figueroa        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Al Fitzmorris      R   8   1   0   0   0   3   0   0   0   0   0  .125  .364  .125 
+Wayne Garland      R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Rich Gossage       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Ross Grimsley      L   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 
+Ron Guidry         L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Steve Hargan       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Paul Hartzell      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Ken Holtzman       L  10   3   1   1   0   0   0   1   0   1   0  .300  .300  .600 
+Don Hood           L   8   1   0   0   0   0   0   1   0   1   0  .125  .125  .125 
+Bart Johnson       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Jones         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Kirkwood       R   6   3   2   0   0   0   0   1   0   0   0  .500  .500  .833 
+Bill Lee           L   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Dave Lemanczyk     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dennis Leonard     R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Littell       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Steve Mingori      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gaylord Perry      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Slaton         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Paul Splittorff    L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+Luis Tiant         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Dick Tidrow        R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Bill Travers       L   9   3   2   0   0   2   0   2   0   0   0  .333  .455  .556 
+Rick Waits         L  10   1   0   0   0   1   0   2   0   0   0  .100  .182  .100 
+Rick Wise          R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

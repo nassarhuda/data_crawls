@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Aldred       L   9   2   0   0   0   0   0   2   0   1   0  .222  .222  .222 
+Wilson Alvarez     L   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500 
+Kevin Appier       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Greg Cadaret       L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Tom Candiotti      R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Chuck Finley       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Chris Hammond      L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jeff Johnson       L   8   1   0   0   0   0   0   3   0   0   0  .125  .125  .125 
+C. Leibrandt       L   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Dave Otto          L   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Eric Plunk         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jose Rijo          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Greg Swindell      L   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Frank Tanana       L   6   2   0   0   0   0   0   0   0   0   1  .333  .286  .333 
+Wade Taylor        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Viola        L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000

@@ -1,0 +1,40 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i
+Jesse Barnes       R   8   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Ray Benge          R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Larry Benton       R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 i
+Sheriff Blake      R  11   1   0   0   0   1   0   5   0   0   0  .091  .167  .091 i
+Erv Brame          R   9   3   1   0   0   1   0   2   0   0   0  .333  .400  .444 
+Guy Bush           R  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 i
+Guy Cantrell       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Hal Carlson        R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Johnny Cooney      L   6   1   0   1   0   1   0   1   0   0   0  .167  .286  .500 
+Art Decatur        R   2   2   0   1   0   1   0   0   0   1   0 1.000 1.000 2.000 i
+Hod Eller          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Jumbo Elliott      L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Alex Ferguson      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+F. Fitzsimmons     R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 i
+Fred Frankhouse    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kent Greenfield    R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 i
+Jesse Haines       R  13   2   0   0   0   1   0   3   0   0   0  .154  .214  .154 
+Earl Hamilton      L   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Claude Hendrix     R   6   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Percy Jones        L   5   0   0   0   0   1   0   3   0   0   0  .000  .167  .000 
+Vic Keen           R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+Ray Kremer         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Al Mamaux          R   4   1   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Bob McGraw         R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 i
+Hugh McQuillan     R   7   4   2   0   0   0   0   2   0   0   0  .571  .571  .857 
+Doug McWeeny       R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 i
+Heinie Meine       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Cy Moore           R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Art Nehf           L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Ray Phelps         R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Hub Pruett         L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jack Scott         R   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 i
+Bill Sherdel       L   7   2   2   0   0   0   0   0   0   1   0  .286  .286  .571 i
+Bob Smith          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Allen Sothoron     R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Dazzy Vance        R  12   4   0   0   0   0   0   3   0   1   0  .333  .333  .333 i
+Johnny Wertz       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i

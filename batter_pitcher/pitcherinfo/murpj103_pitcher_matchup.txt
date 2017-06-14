@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Appleton      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Elden Auker        R   4   1   1   0   0   0   0   1   0   1   0  .250  .250  .500 
+Al Benton          R   5   2   0   0   0   2   0   1   0   1   0  .400  .571  .400 
+Tommy Bridges      R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 i
+Clint Brown        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Lloyd Brown        L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Mace Brown         R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+George Caster      R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Jimmie DeShong     R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Emerson Dickman    R   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Bill Dietrich      R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Wes Ferrell        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Lefty Grove        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bump Hadley        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Joe Haynes         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Joe Heving         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Oral Hildebrand    R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Chief Hogsett      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hank Johnson       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Jack Knott         R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Roxie Lawson       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Thornton Lee       L   6   0   0   0   0   1   0   2   0   1   0  .000  .143  .000 
+Johnny Marcum      R   3   1   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Bobo Newsom        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+F. Ostermueller    L  11   1   1   0   0   1   0   4   0   0   0  .091  .167  .182 i
+Monte Pearson      R   7   2   1   0   0   0   0   3   0   0   0  .286  .286  .429 
+Vic Sorrell        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Monte Weaver       R   9   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Whitehead     R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jack Wilson        R   5   0   0   0   0   2   0   4   0   0   0  .000  .286  .000 
+Bill Zuber         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

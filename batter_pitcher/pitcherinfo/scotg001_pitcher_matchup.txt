@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cris Carpenter     R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Jose DeLeon        R   6   2   0   0   0   0   0   1   1   0   0  .333  .429  .333 
+Doug Drabek        R   3   1   0   0   0   1   1   0   0   1   0  .333  .500  .333 
+Tom Glavine        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Tommy Greene       R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 
+Xavier Hernandez   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Hill           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Barry Jones        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Terry Mulholland   L   7   0   0   0   0   1   0   1   0   0   0  .000  .125  .000 
+Omar Olivares      R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Jose Rijo          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Tewksbury      R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 
+Randy Tomlin       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Walk           R   3   0   0   0   0   2   0   0   0   1   0  .000  .400  .000

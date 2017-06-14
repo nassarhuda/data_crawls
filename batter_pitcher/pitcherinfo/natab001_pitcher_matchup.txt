@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rene Arocha        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pedro Astacio      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jim Bullinger      R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Hector Carrasco    R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Mark Clark         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jeff Fassero       L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Mike Harkey        R   7   1   0   0   0   2   0   0   0   1   0  .143  .333  .143 
+Pete Harnisch      R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Orel Hershiser     R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Donovan Osborne    L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Remlinger     L   2   0   0   0   0   3   1   2   0   0   0  .000  .600  .000 
+Jose Rijo          R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Ben Rivera         R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Curt Schilling     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Schourek      L   6   3   1   0   1   0   0   1   0   0   0  .500  .500 1.167 
+W. VanLandingham   R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+David West         L   2   1   1   0   0   1   0   0   0   1   0  .500  .667 1.000

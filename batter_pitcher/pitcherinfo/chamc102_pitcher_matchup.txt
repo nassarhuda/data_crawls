@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vern Bickford      R  13   3   1   0   0   0   0   3   0   0   0  .231  .231  .308 
+Ewell Blackwell    R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Ralph Branca       R   9   2   0   0   1   0   0   3   0   0   0  .222  .222  .556 
+Lew Burdette       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Bud Byerly         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Murry Dickson      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Monk Dubiel        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Carl Erskine       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+George Estock      R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Howie Fox          R  15   2   0   0   0   2   0   2   0   1   0  .133  .235  .133 
+Larry Jansen       R  14   2   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Bob Kelly          R   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+Dave Koslo         L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Buddy Lively       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sal Maglie         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Miller         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Red Munger         R  10   3   0   0   0   1   0   0   0   0   0  .300  .364  .300 
+Erv Palica         R   5   2   0   1   0   0   0   2   0   0   0  .400  .400  .800 
+Harry Perkowski    L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Tom Poholsky       R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Howie Pollet       L   6   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+K. Raffensberger   L  13   3   1   0   0   0   0   1   0   0   0  .231  .231  .308 
+Robin Roberts      R   6   1   1   0   0   1   0   3   0   0   0  .167  .286  .333 
+Johnny Sain        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Johnny Schmitz     L   9   2   0   0   0   1   0   3   0   1   0  .222  .300  .222 
+Warren Spahn       L   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Gerry Staley       R   3   1   0   0   0   0   0   0   0   2   0  .333  .333  .333 
+Max Surkont        R   5   3   0   0   0   0   0   1   0   0   0  .600  .600  .600 
+Bill Voiselle      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Herm Wehmeier      R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Jim Wilson         R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600

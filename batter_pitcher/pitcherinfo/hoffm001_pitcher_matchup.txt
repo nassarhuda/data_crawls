@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jared Burton       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+David Bush         R  10   1   1   0   0   0   0   3   0   0   0  .100  .100  .200 
+Chris Carpenter    R   7   4   1   0   0   0   0   0   0   0   0  .571  .571  .714 
+Johnny Cueto       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Aaron Harang       R   7   2   0   0   0   1   0   1   0   0   0  .286  .375  .286 
+Kevin Hart         R   4   2   0   0   1   2   0   0   0   0   0  .500  .667 1.250 
+Tim Lincecum       R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Kyle Lohse         R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Braden Looper      R   8   1   1   0   0   0   0   2   0   0   0  .125  .125  .250 
+Jason Marquis      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Kyle McClellan     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Charlie Morton     R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Russ Ortiz         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Micah Owings       R   4   1   0   0   1   1   0   1   0   0   1  .250  .333 1.000 
+Chris Sampson      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Jeff Suppan        R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Javier Vazquez     R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Adam Wainwright    R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+P.J. Walters       R   4   3   1   0   1   0   0   0   0   0   0  .750  .750 1.750

@@ -1,0 +1,38 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Vic Aldridge       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Pete Alexander     R  17   3   1   0   0   0   0   5   0   1   0  .176  .176  .235 
+Jesse Barnes       R  12   3   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Larry Benton       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 i
+Guy Bush           R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Leon Cadore        R  12   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L  11   1   1   0   0   1   0   4   0   1   0  .091  .167  .182 i
+Johnny Couch       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Pete Donohue       R   8   2   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Rube Ehrhardt      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Hod Eller          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Earl Hamilton      L   6   2   1   0   0   0   0   1   0   1   0  .333  .333  .500 i
+Brad Hogg          R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Bill Hubbell       R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 i
+Percy Jones        L   5   0   0   0   0   1   0   4   0   1   0  .000  .167  .000 i
+Tony Kaufmann      R  11   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Dolf Luque         R  13   1   0   0   0   1   0   5   0   1   0  .077  .143  .077 i
+Al Mamaux          R   3   1   0   0   0   0   0   2   1   1   0  .333  .500  .333 i
+Rube Marquard      L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jakie May          L   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 i
+Carl Mays          R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Lee Meadows        R  11   2   0   0   0   0   0   5   0   1   0  .182  .182  .182 i
+Johnny Morrison    R  11   3   0   0   0   0   0   2   0   1   0  .273  .273  .273 i
+Art Nehf           L   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jesse Petty        L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jeff Pfeffer       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jimmy Ring         R  16   2   1   0   0   1   0   2   0   1   0  .125  .176  .188 i
+Eppa Rixey         L  30   9   3   2   0   0   0   7   0   1   0  .300  .300  .533 i
+Dutch Ruether      L  16   5   1   0   0   0   0   2   0   0   0  .313  .313  .375 i
+Ferdie Schupp      L   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667 i
+Bill Sherdel       L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Harry Shriver      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Fred Toney         R   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 i
+Dazzy Vance        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Hippo Vaughn       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i

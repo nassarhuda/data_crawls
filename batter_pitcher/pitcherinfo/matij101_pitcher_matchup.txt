@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lloyd Allen        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Chuck Dobson       R   5   1   0   0   1   1   0   0   0   0   0  .200  .333  .800 
+Mudcat Grant       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Catfish Hunter     R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Jim Kaat           L   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+G. Lauzerique      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Morehead      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tom Murphy         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Blue Moon Odom     R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 
+Clyde Wright       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

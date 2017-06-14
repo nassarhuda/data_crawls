@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wade Davis         R   6   3   1   0   0   0   0   0   0   0   0  .500  .500  .667 
+Scott Feldman      R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doug Mathis        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeff Niemann       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+David Purcey       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Scott Richmond     R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+James Shields      R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Javier Vazquez     R   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667

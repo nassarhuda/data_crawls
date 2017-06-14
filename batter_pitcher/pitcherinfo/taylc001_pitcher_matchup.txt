@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mark Buehrle       L   8   3   1   0   0   0   0   2   0   1   0  .375  .375  .500 
+Wei-Yin Chen       L   9   3   1   1   0   0   0   2   0   0   0  .333  .333  .667 
+Miguel Gonzalez    R   7   4   1   0   0   1   0   1   0   0   0  .571  .625  .714 
+Sonny Gray         R   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400 
+J.A. Happ          L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jon Lester         L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 
+Rick Porcello      R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+David Price        L   4   0   0   0   0   2   0   2   0   0   0  .000  .333  .000 
+Fernando Salas     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Aaron Sanchez      R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 
+Hector Santiago    L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+C.J. Wilson        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286

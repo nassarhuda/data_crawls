@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Broaca      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jimmie DeShong     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Lefty Grove        L   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Harry Kelley       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Vern Kennedy       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ted Lyons          R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Johnny Marcum      R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+John Whitehead     R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 i

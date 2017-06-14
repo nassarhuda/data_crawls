@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Billy Buckner      R   5   3   1   0   0   1   0   0   0   0   0  .600  .667  .800 
+Doug Davis         L   4   0   0   0   0   1   0   2   1   0   0  .000  .333  .000 
+Tim Lincecum       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jason Marquis      R   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Ross Ohlendorf     R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500

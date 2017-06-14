@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Miguel Batista     R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Brian Bohanon      L   2   0   0   0   0   0   0   1   1   1   0  .000  .333  .000 
+Matt Clement       R   4   1   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Jeff D'Amico       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Randy Johnson      L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Brian Lawrence     R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Terry Mulholland   L   3   1   0   0   0   0   0   2   0   2   0  .333  .333  .333 
+Brett Myers        R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Kirt Ojala         L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Steve Parris       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Odalis Perez       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rafael Roque       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jason Schmidt      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dontrelle Willis   L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Carlos Zambrano    R   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000

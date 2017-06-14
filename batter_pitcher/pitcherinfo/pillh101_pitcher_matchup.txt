@@ -1,0 +1,16 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bullet Joe Bush    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Stan Coveleski     R   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 i
+James Edwards      L   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 i
+Red Faber          R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Curt Fullerton     R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Fred Heimach       L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Sad Sam Jones      R   8   3   0   0   0   0   0   1   0   0   0  .375  .375  .375 i
+Carl Mays          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+George Mogridge    L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Curly Ogden        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 i
+Bill Piercy        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+C. Robertson       R   3   0   0   0   0   0   0   2   1   0   0  .000  .250  .000 i
+Eddie Rommel       R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 i
+George Uhle        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Elam Vangilder     R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i

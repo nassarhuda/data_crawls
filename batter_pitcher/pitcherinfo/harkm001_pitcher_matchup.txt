@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Armstrong     R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Andy Benes         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Jose DeLeon        R  11   2   0   0   0   0   0   3   0   0   0  .182  .182  .182 
+Scott Garrelts     R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Charlie Hough      R   2   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 
+Danny Jackson      L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Terry Mulholland   L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pete Smith         R   4   2   1   0   0   0   0   1   0   1   0  .500  .500  .750 
+John Smoltz        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bill Swift         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+F. Valenzuela      L   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750

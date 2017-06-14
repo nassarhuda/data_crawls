@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Charlie Bishop     R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 
+Hank Borowy        R   3   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Tom Brewer         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Lou Brissie        L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bob Feller         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Dick Fowler        R   1   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 
+Mike Garcia        R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Ned Garver         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Bob Kuzava         L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Lemon          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Phil Marchildon    R   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Stubby Overmire    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Satchel Paige      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bobby Shantz       L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dizzy Trout        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Early Wynn         R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

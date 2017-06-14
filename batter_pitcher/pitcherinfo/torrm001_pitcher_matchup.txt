@@ -1,0 +1,45 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jim Barr           R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jack Billingham    R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Bill Bonham        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Tom Bradley        R   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Caldwell      L   3   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Steve Carlton      L   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 
+Jose DeLeon        R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Larry Dierker      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pat Dobson         R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Al Downing         L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Dave Dravecky      L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Gary Gentry        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Don Gullett        L   8   2   0   0   0   0   0   4   0   2   0  .250  .250  .250 
+Bill Gullickson    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Atlee Hammaker     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Grant Jackson      L   7   2   0   1   0   0   0   0   0   0   0  .286  .286  .571 
+Fergie Jenkins     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Clay Kirby         R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Jerry Koosman      L   9   2   1   0   0   1   0   3   0   0   0  .222  .300  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Barry Lersch       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Juan Marichal      R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Andy McGaffigan    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Phil Niekro        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Gary Nolan         R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Jim Ray            R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Ron Reed           R  10   5   2   0   0   0   0   4   0   0   0  .500  .500  .700 
+Rick Reuschel      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jerry Reuss        L   4   2   1   0   0   0   0   0   0   1   0  .500  .500  .750 
+Jim Rooker         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Ruthven       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ray Sadecki        L   5   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Al Santorini       R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Ron Schueler       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dick Selma         R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Steve Stone        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Sutton         R  12   2   0   0   0   0   0   4   0   0   0  .167  .167  .167 
+Steve Trout        L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Wayne Twitchell    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+F. Valenzuela      L   4   1   0   0   0   0   0   1   0   2   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Don Wilson         R   4   2   2   0   0   0   0   2   0   0   0  .500  .500 1.000 
+Jim York           R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

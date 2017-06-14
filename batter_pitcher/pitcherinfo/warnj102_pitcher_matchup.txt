@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Barber       L   5   3   2   0   0   1   0   0   0   0   0  .600  .667 1.000 
+Dennis Bennett     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Al Downing         L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mudcat Grant       R   6   2   1   0   1   0   0   3   0   0   0  .333  .333 1.000 
+Joe Horlen         R   4   2   0   0   1   0   0   1   0   0   0  .500  .500 1.250 
+Tommy John         L   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Paul Lindblad      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Jerry Stephenson   R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Earl Wilson        R   2   0   0   0   0   1   0   1   0   0   1  .000  .250  .000

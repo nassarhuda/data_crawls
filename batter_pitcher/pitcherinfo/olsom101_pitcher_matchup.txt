@@ -1,0 +1,48 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Charlie Biggs      R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+G. Blaeholder      R  19   4   0   0   0   1   0   1   0   0   0  .211  .250  .211 
+Tommy Bridges      R   3   0   0   0   0   2   0   0   0   0   0  .000  .400  .000 i
+Clint Brown        R  22  10   0   1   0   0   0   0   0   1   0  .455  .455  .545 
+Lloyd Brown        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bobby Burke        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Sugar Cain         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dick Coffman       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Sarge Connally     R   5   0   0   0   0   2   0   1   0   1   0  .000  .286  .000 
+Bob Cooney         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+General Crowder    R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Pete Daglia        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+George Earnshaw    R  15   4   2   0   0   0   0   1   0   0   0  .267  .267  .400 
+Red Faber          R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 
+Wes Ferrell        R  10   0   0   0   0   2   0   1   0   0   0  .000  .167  .000 
+Carl Fischer       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Vic Frazier        R  12   5   1   1   0   3   0   1   0   0   0  .417  .533  .667 i
+Tony Freitas       L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Milt Gaston        R  11   4   0   1   0   0   0   0   0   0   0  .364  .364  .545 
+Paul Gregory       R   7   2   0   0   0   1   0   0   0   0   0  .286  .375  .286 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lefty Grove        L   6   2   0   0   0   3   0   0   0   0   0  .333  .556  .333 
+Bump Hadley        R  10   0   0   0   0   3   0   3   0   0   0  .000  .231  .000 
+Mel Harder         R  17   5   0   0   0   0   0   1   0   0   0  .294  .294  .294 
+Oral Hildebrand    R  14   4   0   0   0   1   0   0   0   1   0  .286  .333  .286 
+Chief Hogsett      L   9   2   0   1   0   0   0   0   0   0   0  .222  .222  .444 i
+Willis Hudlin      R  18   4   3   0   0   0   0   2   0   0   0  .222  .222  .389 
+Sad Sam Jones      R   4   1   0   0   0   4   0   1   0   0   0  .250  .625  .250 
+Lew Krausse        R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Roxie Lawson       R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Ted Lyons          R  15   4   0   0   0   6   0   1   0   1   0  .267  .476  .267 
+Danny MacFayden    R  12   4   2   0   0   2   0   2   0   0   0  .333  .429  .500 
+Roy Mahaffey       R  10   1   0   0   0   1   0   0   0   1   0  .100  .182  .100 
+Firpo Marberry     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Herb Pennock       L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+George Pipgras     R   3   2   1   0   0   3   0   0   0   0   0  .667  .833 1.000 i
+Red Ruffing        R  10   3   0   1   0   1   0   3   0   1   0  .300  .364  .500 
+Jack Russell       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Vic Sorrell        R  16   4   2   0   0   1   0   2   0   0   0  .250  .294  .375 i
+Lefty Stewart      L  18   2   0   0   0   0   0   0   0   0   0  .111  .111  .111 
+Tommy Thomas       R   8   2   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+George Uhle        R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 i
+Rube Walberg       L   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 
+Monte Weaver       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Earl Whitehill     L  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 i
+Whit Wyatt         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

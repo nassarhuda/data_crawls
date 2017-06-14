@@ -1,0 +1,53 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   8   3   0   0   0   2   0   2   0   1   0  .375  .500  .375 i
+Bill Bevens        R   2   0   0   0   0   1   0   1   0   2   0  .000  .333  .000 
+Vern Bickford      R   5   0   0   0   0   2   0   1   0   1   0  .000  .286  .000 
+Tommy Byrne        L   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Alex Carrasquel    R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Spud Chandler      R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Russ Christopher   R   4   0   0   0   0   1   0   4   0   0   0  .000  .200  .000 
+Emerson Dickman    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Joe Dobson         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Karl Drews         R   2   2   0   0   0   2   0   0   0   0   0 1.000 1.000 1.000 
+Monk Dubiel        R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Red Embree         R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Bob Feller         R   7   1   0   0   0   2   0   2   0   1   0  .143  .333  .143 
+Dave Ferriss       R   4   1   0   0   0   2   0   1   0   0   0  .250  .500  .250 
+Denny Galehouse    R   6   1   0   0   1   0   0   1   0   0   0  .167  .167  .667 
+Ned Garver         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mickey Haefner     L  10   0   0   0   0   3   0   2   0   0   0  .000  .231  .000 i
+Mickey Harris      L   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 i
+Joe Haynes         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+Randy Heflin       R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Art Houtteman      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Sid Hudson         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Tex Hughson        R   9   2   0   0   0   0   0   3   0   1   0  .222  .222  .222 
+Bill Kennedy       L   4   1   0   0   0   2   0   2   0   0   0  .250  .500  .250 
+Ed Klieman         R   1   0   0   0   0   2   0   0   0   1   0  .000  .667  .000 i
+Bob Lemon          R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Dutch Leonard      R   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Eddie Lopat        L  13   2   0   0   1   0   0   2   0   0   0  .154  .154  .385 i
+Walt Masterson     R   7   1   1   0   0   1   0   4   0   0   0  .143  .250  .286 i
+Bill McCahan       R   5   0   0   0   0   3   0   2   0   1   0  .000  .375  .000 
+Hal Newhouser      L  13   0   0   0   0   0   0   6   0   1   0  .000  .000  .000 i
+Bobo Newsom        R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 i
+Stubby Overmire    L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Joe Page           L   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 
+Frank Papish       L   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Billy Pierce       L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Marino Pieretti    R   8   2   0   0   0   0   0   4   0   2   0  .250  .250  .250 
+Vic Raschi         R   9   2   0   0   0   1   0   3   0   0   0  .222  .300  .222 
+Allie Reynolds     R  13   4   0   0   0   2   0   6   0   0   0  .308  .400  .308 i
+Johnny Rigney      R   4   2   1   0   0   0   0   2   0   1   0  .500  .500  .750 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Buck Ross          R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Red Ruffing        R   5   1   1   0   0   2   0   0   0   2   0  .200  .429  .400 
+Bob Savage         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ray Scarborough    R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Eddie Smith        L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Dizzy Trout        R  12   2   1   0   0   1   0   2   0   1   0  .167  .231  .250 i
+Virgil Trucks      R   5   1   0   0   1   0   0   2   0   2   0  .200  .200  .800 
+Jake Wade          L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 i
+Hal White          R   6   0   0   0   0   2   0   4   0   1   0  .000  .250  .000 
+Early Wynn         R  11   1   0   0   0   3   0   3   0   0   0  .091  .286  .091

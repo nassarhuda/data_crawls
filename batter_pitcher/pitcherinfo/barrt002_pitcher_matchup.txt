@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sid Fernandez      L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Jackson      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Joe Magrane        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jeff Robinson      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pete Smith         R   3   0   0   0   0   1   0   0   0   1   0  .000  .250  .000 
+Zane Smith         L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Scott Terry        R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500

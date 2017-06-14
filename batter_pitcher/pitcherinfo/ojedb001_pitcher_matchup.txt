@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Barnes       L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Andy Benes         R   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Tom Browning       L  11   1   0   0   0   1   0   3   0   1   0  .091  .167  .091 
+Jose DeLeon        R   9   1   1   0   0   1   0   2   0   1   0  .111  .200  .222 
+Kelly Downs        R   7   3   0   0   0   0   0   2   0   1   0  .429  .429  .429 
+Doug Drabek        R   6   0   0   0   0   0   0   1   0   4   0  .000  .000  .000 
+Mark Gardner       R   4   1   0   0   1   0   0   0   0   0   0  .250  .250 1.000 
+Scott Garrelts     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Glavine        L   3   0   0   0   0   1   0   1   0   1   0  .000  .250  .000 
+Jason Grimsley     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Neal Heaton        L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Orel Hershiser     R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Ken Hill           R  10   1   0   0   0   1   0   3   0   1   0  .100  .182  .100 
+Jimmy Jones        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Bob Kipper         L   8   2   0   0   0   1   0   3   0   0   0  .250  .333  .250 
+Bob Knepper        L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Mike Krukow        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rick Mahler        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dennis Martinez    R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Larry McWilliams   L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jamie Moyer        L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Terry Mulholland   L   3   0   0   0   0   1   0   2   0   1   0  .000  .250  .000 
+Bob Patterson      L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mark Portugal      R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dennis Rasmussen   L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bret Saberhagen    R   4   1   0   1   0   0   0   2   0   0   0  .250  .250  .750 
+John Smiley        L   5   1   0   0   0   0   0   2   0   2   0  .200  .200  .200 
+Bryn Smith         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Walt Terrell       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+John Tudor         L   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Bob Walk           R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250

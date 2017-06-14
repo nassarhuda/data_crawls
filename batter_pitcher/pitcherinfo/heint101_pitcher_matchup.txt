@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bonham        R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Ron Bryant         L   6   4   0   0   0   0   0   0   0   0   0  .667  .667  .667 
+Steve Carlton      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tom Carroll        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+John D'Acquisto    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dave Freisleben    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Don Gullett        L   8   2   1   0   0   1   0   2   0   0   0  .250  .333  .375 
+Randy Jones        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Clay Kirby         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Fred Norman        L   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Steve Renko        R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+George Stone       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Steve Stone        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Curt Barclay       R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Jim Brosnan        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Harvey Haddix      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Larry Jackson      R   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Vern Law           R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Tom Poholsky       R   6   1   0   0   0   0   0   2   0   1   0  .167  .167  .167 
+Warren Spahn       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

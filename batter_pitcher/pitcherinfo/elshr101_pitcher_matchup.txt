@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Baumgartner   L   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 
+Garland Buckeye    L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Stan Coveleski     R   6   2   0   1   0   0   0   1   0   0   0  .333  .333  .667 i
+Dave Danforth      L   7   2   0   1   0   1   0   1   0   1   0  .286  .375  .571 i
+Hooks Dauss        R   7   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Howard Ehmke       R   8   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Sam Gray           R   3   1   0   0   0   3   0   0   0   0   0  .333  .667  .333 i
+Bob Hasty          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Fred Heimach       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Waite Hoyt         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dutch Leonard      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Firpo Marberry     R   4   3   0   0   0   1   0   0   0   0   0  .750  .800  .750 i
+George Mogridge    L  18   2   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+Curly Ogden        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Herb Pennock       L  25   6   2   0   0   0   0   3   0   0   0  .240  .240  .320 i
+Joe Shaute         L  11   4   1   0   0   0   0   0   0   0   0  .364  .364  .455 i
+Ben Shields        L   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Urban Shocker      R  11   3   0   0   0   0   0   1   0   0   0  .273  .273  .273 i
+Sherry Smith       L  14   5   0   0   0   0   0   0   0   0   0  .357  .357  .357 i
+George Uhle        R  13   3   0   0   0   0   0   2   0   0   0  .231  .231  .231 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Elam Vangilder     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Walberg       L   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Earl Whitehill     L   9   2   0   0   0   1   0   0   0   0   0  .222  .300  .222 i
+Carl Yowell        L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Tom Zachary        L  15   3   0   0   0   1   0   0   0   1   0  .200  .250  .200 i

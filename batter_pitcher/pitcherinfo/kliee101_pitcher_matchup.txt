@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tiny Bonham        R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 i
+Mickey Haefner     L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Al Hollingsworth   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jack Kramer        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bobo Newsom        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Johnny Niggeling   R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Nels Potter        R   5   2   0   0   1   0   0   1   0   0   0  .400  .400 1.000 
+Mike Ryba          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Early Wynn         R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333

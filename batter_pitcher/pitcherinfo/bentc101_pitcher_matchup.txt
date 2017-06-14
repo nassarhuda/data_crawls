@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Britt          U  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 
+Candy Cummings     R  18   4   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Martin Malone      U   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Bobby Mathews      R  13   4   0   1   0   0   0   0   0   0   0  .308  .308  .462 
+Dick McBride       R   9   2   0   1   0   0   0   0   0   0   0  .222  .222  .444 
+Al Spalding        R  10   1   0   0   0   0   0   0   0   0   0  .100  .100  .100 i
+George Zettlein    R  18   3   0   0   0   0   0   1   0   0   0  .167  .167  .167

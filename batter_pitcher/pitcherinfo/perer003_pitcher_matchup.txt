@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Scott Carroll      R   3   2   0   0   0   1   0   0   0   1   0  .667  .750  .667 
+Alex Colome        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Danks         L   4   0   0   0   0   1   0   4   0   1   0  .000  .200  .000 
+Tyler Duffey       R   5   2   0   0   1   0   0   2   0   0   0  .400  .400 1.000 
+Danny Duffy        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Phil Hughes        R  10   5   1   0   1   0   0   1   1   0   0  .500  .545  .900 
+Colby Lewis        R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Kyle Lobstein      L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Trevor May         R   4   0   0   0   0   2   0   1   0   0   0  .000  .333  .000 
+Hector Noesi       R   5   2   1   0   0   0   0   2   0   0   0  .400  .400  .600 
+Ricky Nolasco      R   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Jose Quintana      L   6   2   0   0   0   1   1   1   0   0   0  .333  .429  .333 
+Carlos Rodon       L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Chris Sale         L   7   2   1   0   0   0   0   0   1   0   0  .286  .375  .429 
+Jeff Samardzija    R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Jason Vargas       L   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Edinson Volquez    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Chris Young        R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000

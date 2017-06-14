@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Armstrong     R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Steve Avery        L   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+Tim Belcher        R   7   1   0   1   0   0   0   1   0   1   0  .143  .143  .429 
+Kelly Downs        R   7   0   0   0   0   1   0   2   0   0   0  .000  .125  .000 
+Tom Glavine        L   7   3   1   0   0   1   0   1   0   0   0  .429  .500  .571 
+Dwight Gooden      R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Tommy Greene       R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Orel Hershiser     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Danny Jackson      L   5   1   0   0   0   0   0   0   0   0   1  .200  .167  .200 
+C. Leibrandt       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Roger Mason        R   4   2   1   1   0   0   0   0   0   0   0  .500  .500 1.250 
+Mike Morgan        R   5   0   0   0   0   0   0   0   1   0   0  .000  .167  .000 
+Chris Nabholz      L   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Ted Power          R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Mike Remlinger     L   4   3   2   0   0   0   0   0   0   1   0  .750  .750 1.250 
+Jose Rijo          R   8   0   0   0   0   1   0   4   0   0   0  .000  .111  .000 
+Don Robinson       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

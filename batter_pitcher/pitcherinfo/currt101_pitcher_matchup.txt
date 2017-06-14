@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Anderson       R  15   5   2   0   1   0   0   3   0   0   0  .333  .333  .667 
+Ernie Broglio      R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Jim Brosnan        R   5   4   1   0   0   0   0   0   0   0   0  .800  .800 1.000 
+Bob Buhl           R  16   6   1   0   0   3   0   1   0   0   0  .375  .474  .438 
+Lew Burdette       R  19   6   1   0   0   1   0   2   0   0   0  .316  .350  .368 
+Don Cardwell       R  12   3   0   1   0   2   1   3   0   0   0  .250  .357  .417 
+Roger Craig        R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Dick Drott         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Don Drysdale       R   8   1   1   0   0   1   1   5   0   0   0  .125  .222  .250 
+Don Elston         R   7   0   0   0   0   1   0   4   0   0   0  .000  .125  .000 
+Roy Face           R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Bob Friend         R  23   4   2   0   0   0   0   2   0   0   0  .174  .174  .261 
+Glen Hobbie        R   9   3   0   0   0   1   0   0   0   0   0  .333  .400  .333 
+Jay Hook           R   7   3   0   0   2   0   0   0   0   0   0  .429  .429 1.286 
+Larry Jackson      R  18   4   1   0   0   0   0   2   0   0   1  .222  .211  .278 
+Joey Jay           R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Sam Jones          R  16   1   0   0   0   1   0   8   0   0   0  .063  .118  .063 
+Vern Law           R   5   2   0   0   1   0   0   0   0   0   0  .400  .400 1.000 
+Jim Maloney        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Juan Marichal      R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cal McLish         R   5   2   0   1   1   0   0   0   1   0   0  .400  .500 1.400 
+Don McMahon        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Don Newcombe       R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Bob Purkey         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ed Roebuck         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Jack Sanford       R   9   1   0   0   0   0   0   4   0   1   0  .111  .111  .111 
+Larry Sherry       R   7   2   1   0   0   2   0   2   0   0   0  .286  .444  .429 
+Stan Williams      R   4   1   1   0   0   2   0   1   0   0   0  .250  .500  .500

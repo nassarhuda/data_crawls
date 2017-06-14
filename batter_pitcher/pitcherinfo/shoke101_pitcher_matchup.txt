@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Bahr            R   4   2   1   0   0   1   0   0   0   0   0  .500  .600  .750 
+Johnny Beazley     R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Hank Behrman       R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Hank Borowy        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jack Hallett       R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lee Howard         L   3   0   0   0   0   3   0   1   0   0   0  .000  .500  .000 
+Si Johnson         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dick Mauney        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Johnny Sain        R   6   0   0   0   0   2   0   0   0   0   0  .000  .250  .000 
+Nick Strincevich   R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Al Tate            R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 
+Ken Trinkle        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

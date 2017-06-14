@@ -1,0 +1,49 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   5   1   0   1   0   0   0   0   0   0   0  .200  .200  .600 i
+R. Aitchison       L   5   2   0   0   0   0   0   2   0   0   0  .400  .400  .400 i
+Pete Alexander     R  12   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Frank Allen        L   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 i
+Mack Allison       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Red Ames           R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Rube Benton        L   3   0   0   0   0   3   0   0   0   0   0  .000  .500  .000 i
+Fred Blanding      R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Ad Brennan         L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Carl Cashion       R   7   1   0   0   0   2   0   1   0   0   0  .143  .333  .143 
+Eddie Cicotte      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ray Collins        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Wilbur Cooper      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Stan Coveleski     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Roy Crabb          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Cliff Curtis       R   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Dave Davenport     R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Al Demaree         R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Bill Doak          R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Phil Douglas       R   9   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Russ Ford          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Vean Gregg         L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Otto Hess          L  12   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bill James         R  13   4   1   0   1   2   0   0   0   0   0  .308  .400  .615 i
+Walter Johnson     R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 i
+Ray Keating        R   2   1   0   0   0   1   0   0   1   0   0  .500  .750  .500 
+Rube Marquard      L  11   1   0   0   1   0   0   2   0   0   0  .091  .091  .364 i
+C. Mathewson       R  15   4   0   0   0   0   0   3   0   0   0  .267  .267  .267 i
+Erskine Mayer      R  11   2   0   0   0   2   0   1   0   0   0  .182  .308  .182 i
+George McConnell   R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 
+George McQuillan   R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Willie Mitchell    L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Gene Packard       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hub Perdue         R   3   1   1   0   0   0   0   0   0   1   0  .333  .333  .667 
+Jeff Pfeffer       R   9   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Pat Ragan          R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 i
+Nap Rucker         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Dick Rudolph       R   5   0   0   0   0   0   0   0   1   0   0  .000  .167  .000 i
+Slim Sallee        L  10   1   0   0   0   3   0   1   0   0   0  .100  .308  .100 i
+Tom Seaton         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Tesreau       R  14   4   0   2   0   1   0   2   0   0   0  .286  .333  .571 i
+Lefty Tyler        L  18   5   2   0   1   3   0   2   1   0   0  .278  .409  .556 i
+Ed Walsh           R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Carl Weilman       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Doc White          L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Smoky Joe Wood     R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i

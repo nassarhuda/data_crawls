@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   8   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Joe Benz           R  12   1   0   0   0   0   0   2   0   0   0  .083  .083  .083 i
+Bernie Boland      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Bullet Joe Bush    R   6   1   0   0   0   1   0   0   0   0   0  .167  .286  .167 i
+Ray Caldwell       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Eddie Cicotte      R   9   2   1   0   0   0   0   4   0   0   0  .222  .222  .333 i
+Hooks Dauss        R  11   1   0   0   0   0   0   2   0   0   0  .091  .091  .091 i
+Eric Erickson      R   9   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Red Faber          R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 
+Ray Fisher         R   7   3   1   0   0   0   0   0   0   0   0  .429  .429  .571 i
+Vean Gregg         L   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Walter Johnson     R   5   1   0   0   0   1   0   3   0   0   0  .200  .333  .200 
+Dickey Kerr        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Rollie Naylor      R   4   0   0   0   0   2   0   4   0   0   0  .000  .333  .000 
+Herb Pennock       L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Scott Perry        R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 i
+Jack Quinn         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Babe Ruth          L   9   1   0   0   0   0   0   2   0   0   0  .111  .111  .111 i
+Bob Shawkey        R   9   1   0   0   0   0   0   5   0   0   0  .111  .111  .111 i
+Carl Weilman       L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i

@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+George Caster      R   5   2   1   0   0   2   0   0   0   2   0  .400  .571  .600 
+Jimmie DeShong     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Wes Ferrell        R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Milt Gaston        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Gomez        L   9   4   1   0   0   0   0   2   0   0   0  .444  .444  .556 i
+Lefty Grove        L   8   0   0   0   0   1   0   4   0   0   0  .000  .111  .000 i
+Bump Hadley        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Johnny Marcum      R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+Bobo Newsom        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+F. Ostermueller    L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Red Ruffing        R   7   2   2   0   0   0   0   3   0   1   0  .286  .286  .571 
+Jack Russell       R   4   3   1   0   0   0   0   0   0   0   0  .750  .750 1.000 i
+Woody Upchurch     L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Earl Whitehill     L  11   2   0   0   0   0   0   1   0   1   0  .182  .182  .182 
+Jack Wilson        R   6   1   0   0   0   2   0   1   0   0   0  .167  .375  .167

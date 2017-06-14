@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Al Benton          R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Marv Breuer        R  10   5   2   1   0   0   0   0   0   0   0  .500  .500  .900 
+Tommy Bridges      R   8   2   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Spud Chandler      R  11   2   0   0   0   0   0   4   0   0   0  .182  .182  .182 
+Emerson Dickman    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Atley Donald       R  11   1   1   0   0   3   0   2   0   0   0  .091  .286  .182 
+Bob Feller         R  11   4   0   0   0   4   0   0   0   0   0  .364  .533  .364 
+Lefty Gomez        L   8   1   1   0   0   2   0   2   0   0   0  .125  .300  .250 
+Johnny Gorsica     R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Mickey Harris      L   6   2   0   0   0   2   0   1   0   0   0  .333  .500  .333 
+Bob Harris         R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Joe Heving         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Sid Hudson         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Johnny Humphries   R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Dutch Leonard      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Bob Muncrief       R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Johnny Murphy      R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Bobo Newsom        R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Dick Newsome       R  11   2   0   0   0   0   0   1   0   0   0  .182  .182  .182 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Ruffing        R  29   6   1   1   0   0   0   3   0   0   0  .207  .207  .310 
+Charlie Wagner     R  16   2   0   0   0   3   0   0   0   0   0  .125  .263  .125 
+Early Wynn         R   8   0   0   0   0   1   0   0   0   0   0  .000  .111  .000

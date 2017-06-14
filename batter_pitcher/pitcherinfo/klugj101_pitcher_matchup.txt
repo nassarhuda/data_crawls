@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Bentley       L  11   4   0   0   0   1   0   0   0   0   0  .364  .417  .364 i
+Ted Blankenship    R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Hal Carlson        R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Rip Collins        R   2   1   1   0   0   2   0   0   0   0   0  .500  .750 1.000 
+Wilbur Cooper      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dave Danforth      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hooks Dauss        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Wayland Dean       R  11   2   0   0   0   0   0   2   0   1   0  .182  .182  .182 
+Pete Donohue       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jess Doyle         R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Milt Gaston        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dinty Gearin       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ken Holloway       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Dutch Leonard      L   7   5   1   0   0   0   0   0   0   0   0  .714  .714  .857 
+Ted Lyons          R   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 
+Hugh McQuillan     R   3   2   0   0   0   0   0   0   1   0   0  .667  .750  .667 
+Joe Oeschger       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Eppa Rixey         L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+C. Robertson       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Lil Stoner         R   5   1   0   0   0   1   0   0   0   1   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Sloppy Thurston    R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Elam Vangilder     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Ed Wells           L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667

@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joaquin Andujar    R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jim Barr           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bert Blyleven      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Rick Camp          R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Bobby Castillo     R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Bill Caudill       R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+John Denny         R   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143 
+Dennis Eckersley   R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Sid Fernandez      L   6   2   1   0   0   0   0   3   0   0   0  .333  .333  .500 
+Jim Gott           R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bruce Kison        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Kevin Kobel        L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Randy Lerch        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Joe Niekro         R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+Rick Rhoden        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Pete Vuckovich     R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500

@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Cole          L   2   0   0   0   0   2   0   0   0   0   0  .000  .500  .000 i
+Howard Ehmke       R   5   2   1   0   0   0   0   0   1   0   0  .400  .500  .600 
+Waite Hoyt         R   5   2   0   0   0   1   0   0   0   1   0  .400  .500  .400 
+George Mogridge    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Herb Pennock       L   8   1   1   0   0   1   0   0   0   0   0  .125  .222  .250 
+Allen Russell      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Joe Shaute         L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Shawkey        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Urban Shocker      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+George Uhle        R   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 i

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bobby Burke        L   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Bill Dietrich      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Milt Gaston        R   4   2   0   1   0   0   0   1   0   0   0  .500  .500 1.000 
+Johnny Marcum      R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Johnny Murphy      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 
+Bobo Newsom        R   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Red Ruffing        R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Lefty Stewart      L   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750

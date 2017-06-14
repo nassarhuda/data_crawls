@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+A. Alfonseca       R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286 
+Rick Ankiel        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Andy Ashby         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Brian Bohanon      L   4   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+John Burkett       R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+A.J. Burnett       R   8   4   2   0   1   0   0   3   0   0   1  .500  .444 1.125 
+Paul Byrd          R   5   1   0   0   1   0   0   4   0   0   0  .200  .200  .800 
+Bruce Chen         L   6   4   2   0   0   0   0   2   0   0   0  .667  .667 1.000 
+Reid Cornelius     R   9   1   0   0   0   2   0   2   0   0   0  .111  .273  .111 
+Ryan Dempster      R   5   1   1   0   0   1   0   2   0   0   0  .200  .333  .400 
+Tom Glavine        L  14   7   2   0   2   1   1   0   0   0   0  .500  .533 1.071 
+Mike Hampton       L   9   4   0   0   1   1   0   0   0   0   0  .444  .500  .778 
+Pat Hentgen        R   3   1   1   0   0   0   0   0   1   0   0  .333  .500  .667 
+Jose Jimenez       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Randy Johnson      L  10   2   0   0   0   0   0   5   0   0   0  .200  .200  .200 
+Bobby Jones        R   4   1   1   0   0   0   0   1   1   0   0  .250  .400  .500 
+Darryl Kile        R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Al Leiter          L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Greg Maddux        R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Brian Meadows      R   5   1   1   0   0   0   0   2   0   0   1  .200  .167  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rafael Medina      R   2   0   0   0   0   2   0   2   0   0   0  .000  .500  .000 
+Dan Miceli         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Millwood     R   7   2   1   0   0   0   0   2   1   0   0  .286  .375  .429 
+Terry Mulholland   L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Kirt Ojala         L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rick Reed          R   9   1   0   0   1   1   0   3   0   0   0  .111  .200  .444 
+Mike Remlinger     L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Glendon Rusch      L   9   3   1   0   0   0   0   1   0   0   0  .333  .333  .444 
+Jesus Sanchez      L   8   3   0   0   1   0   0   3   0   0   0  .375  .375  .750 
+John Smoltz        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Turk Wendell       R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Randy Wolf         L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Jamey Wright       R   5   0   0   0   0   0   0   1   1   0   0  .000  .167  .000

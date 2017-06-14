@@ -1,0 +1,44 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Santo Alcala       R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Joaquin Andujar    R   9   3   1   0   0   0   0   0   0   0   0  .333  .333  .444 
+Rick Baldwin       R   3   1   0   0   0   2   0   1   0   0   0  .333  .600  .333 
+Floyd Bannister    L   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Jim Barr           R   6   3   0   0   0   0   0   0   0   0   1  .500  .429  .500 
+Jack Billingham    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Vida Blue          L  10   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jackie Brown       R   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Ray Burris         R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Candelaria    L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Steve Carlton      L   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+L. Christenson     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Curtis        L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Nino Espinosa      R   5   3   0   0   0   1   0   1   0   0   0  .600  .667  .600 
+Dave Freisleben    R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Tom Griffin        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Ed Halicki         R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Burt Hooton        R   9   2   0   0   0   2   0   0   0   1   0  .222  .364  .222 
+Charlie Hough      R   5   1   1   0   0   1   0   0   2   0   0  .200  .500  .400 
+Tom Hume           R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tommy John         L  15   2   0   0   0   1   0   0   0   0   0  .133  .188  .133 
+Randy Jones        L  13   2   0   0   0   3   2   0   0   0   0  .154  .313  .154 
+Jim Kaat           L   7   1   1   0   0   0   0   1   0   0   0  .143  .143  .286 
+Bob Knepper        L   8   1   1   0   0   1   1   0   0   0   0  .125  .222  .250 
+Jerry Koosman      L   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Mike Krukow        R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Mark Lemongello    R   7   4   0   0   1   0   0   1   0   0   0  .571  .571 1.000 
+John Montefusco    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Joe Niekro         R   8   2   0   0   0   1   0   0   0   0   0  .250  .333  .250 
+Fred Norman        L   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Bob Owchinko       L  14   1   1   0   0   1   0   2   0   0   0  .071  .133  .143 
+Doug Rau           L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Rick Rhoden        R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+J.R. Richard       R  14   0   0   0   0   1   0   0   0   1   0  .000  .067  .000 
+Steve Rogers       R  10   5   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Rick Sawyer        R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+Tom Seaver         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Don Stanhouse      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Don Sutton         R  16   2   0   0   0   1   0   2   0   1   0  .125  .176  .125 
+Charlie Williams   R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pat Zachry         R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375

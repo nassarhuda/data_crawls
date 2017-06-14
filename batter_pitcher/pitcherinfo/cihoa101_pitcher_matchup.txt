@@ -1,0 +1,35 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Al Benton          R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Don Black          R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Tiny Bonham        R   9   1   0   0   0   0   0   0   0   1   0  .111  .111  .111 
+Alex Carrasquel    R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Spud Chandler      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Otey Clark         L   6   1   1   0   0   0   0   2   0   0   0  .167  .167  .333 
+Bill Dietrich      R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Atley Donald       R   3   1   1   0   0   1   1   1   0   0   0  .333  .500  .667 
+Al Gettel          R  11   1   0   0   0   1   0   5   0   0   0  .091  .167  .091 
+Orval Grove        R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Randy Heflin       R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Al Hollingsworth   L   9   2   1   0   0   1   0   0   0   0   0  .222  .300  .333 
+Sig Jakucki        R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Johnny Johnson     L   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+Vic Johnson        L   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jack Kramer        R  12   4   0   0   0   0   0   4   0   0   0  .333  .333  .333 
+Thornton Lee       L  13   4   1   0   0   1   0   1   0   1   0  .308  .357  .385 
+Dutch Leonard      R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Eddie Lopat        L   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500 
+Les Mueller        R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Muncrief       R   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Hal Newhouser      L  18   2   0   0   0   1   0   4   0   0   0  .111  .158  .111 
+Johnny Niggeling   R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Stubby Overmire    L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Marino Pieretti    R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Nels Potter        R  14   5   2   0   0   0   0   1   0   1   0  .357  .357  .500 
+Mike Ryba          R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Tex Shirley        R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Dizzy Trout        R  10   0   0   0   0   0   0   5   0   1   0  .000  .000  .000 
+Sandy Ullrich      R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Lefty West         L   9   2   0   0   0   0   0   2   0   0   0  .222  .222  .222 
+Roger Wolff        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pinky Woods        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500

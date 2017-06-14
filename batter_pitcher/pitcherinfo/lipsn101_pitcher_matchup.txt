@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Spud Chandler      R   4   3   2   0   0   0   0   0   0   0   0  .750  .750 1.250 
+Jimmie DeShong     R   7   1   0   0   0   0   0   1   1   0   0  .143  .250  .143 
+Wes Ferrell        R   9   3   1   0   0   2   0   2   0   0   0  .333  .455  .444 
+Willis Hudlin      R   4   2   0   1   0   0   0   0   0   0   0  .500  .500 1.000 
+Roxie Lawson       R   9   2   1   0   0   0   0   1   0   0   0  .222  .222  .333 
+Bobo Newsom        R   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 
+B. Poffenberger    R   4   3   0   0   0   1   0   1   0   0   0  .750  .800  .750 i
+Eddie Smith        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Kemp Wicker        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Williams        R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250

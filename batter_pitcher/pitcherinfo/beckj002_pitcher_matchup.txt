@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Tony Armas         R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dave Coggin        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Doug Davis         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Adam Eaton         R   8   4   3   0   0   1   0   0   0   0   0  .500  .556  .875 
+Tom Glavine        L   4   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Aaron Heilman      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Livan Hernandez    R   5   1   0   0   0   1   0   2   0   0   0  .200  .333  .200 
+Ryan Jensen        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Cliff Lee          L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Tim Lincecum       R   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Jordan Lyles       R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Greg Maddux        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jason Marquis      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brett Myers        R   7   2   0   0   1   0   0   2   0   0   0  .286  .286  .714 
+Hideo Nomo         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Russ Ortiz         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Patterson     R   5   1   0   0   1   1   0   2   0   1   0  .200  .333  .800 
+Jake Peavy         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+John Smoltz        R   2   1   0   0   0   2   0   1   0   0   0  .500  .750  .500 
+Brett Tomko        R   6   1   1   0   0   0   0   1   0   0   0  .167  .167  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Trachsel     R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000

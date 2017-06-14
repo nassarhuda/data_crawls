@@ -1,0 +1,30 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Bush         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Chris Carpenter    R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Matt Clement       R   6   1   1   0   0   0   0   4   0   0   0  .167  .167  .333 
+Tom Glavine        L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Aaron Harang       R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Livan Hernandez    R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Randy Johnson      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Derek Lowe         R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Noah Lowry         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kevin Millwood     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brian Moehler      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Ramon Ortiz        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Russ Ortiz         R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Roy Oswalt         R  12   2   0   0   0   0   0   3   0   1   0  .167  .167  .167 
+Odalis Perez       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Andy Pettitte      L   4   0   0   0   0   1   0   3   0   0   0  .000  .200  .000 
+Sidney Ponson      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Mark Prior         R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Tim Redding        R   8   1   0   0   0   0   0   1   0   2   0  .125  .125  .125 
+Ben Sheets         R   9   1   0   0   0   0   0   3   0   0   0  .111  .111  .111 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brett Tomko        R   6   0   0   0   0   0   0   1   0   3   0  .000  .000  .000 
+Claudio Vargas     R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Brandon Webb       R   6   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Woody Williams     R   7   1   0   0   0   0   0   2   0   1   0  .143  .143  .143 
+Dontrelle Willis   L   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Kerry Wood         R   5   0   0   0   0   1   0   5   0   1   0  .000  .167  .000 
+Chris Young        R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Carlos Zambrano    R   7   1   0   0   0   0   0   3   0   1   0  .143  .143  .143

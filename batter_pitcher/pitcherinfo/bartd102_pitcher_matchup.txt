@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Curt Davis         R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Bob Logan          L   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Lee Pfund          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Preacher Roe       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tom Seats          L   7   3   0   0   0   2   0   0   0   0   0  .429  .556  .429

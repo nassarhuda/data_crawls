@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+David Cone         R   5   0   0   0   0   1   0   4   0   0   0  .000  .167  .000 
+Chris Haney        L   6   1   0   0   0   0   0   3   0   1   0  .167  .167  .167 
+Bruce Hurst        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Darryl Kile        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Dennis Martinez    R   3   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jim Neidlinger     R   4   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Dennis Rasmussen   L   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167

@@ -1,0 +1,18 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Buhl           R   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Bud Daley          L   4   1   0   0   0   0   0   0   0   2   0  .250  .250  .250 
+Bennie Daniels     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Dick Ellsworth     L   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Chuck Estrada      R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jack Fisher        R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Whitey Ford        L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Paul Foytack       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Billy Hoeft        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Al Jackson         L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Frank Lary         R   4   1   0   0   0   0   0   1   0   1   0  .250  .250  .250 
+Ken McBride        R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Joe Nuxhall        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Milt Pappas        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pedro Ramos        R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Robin Roberts      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Sanford       R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167

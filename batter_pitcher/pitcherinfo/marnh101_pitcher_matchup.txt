@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Hi Bithorn         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Bob Bowman         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hugh Casey         R   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 
+Mort Cooper        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Curt Davis         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Paul Derringer     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tom Earley         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+F. Fitzsimmons     R   4   1   0   0   0   1   0   0   0   1   0  .250  .400  .250 
+Harry Gumbert      R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Ed Head            R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kirby Higbe        R  12   3   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Max Lanier         L   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Hank Leiber        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Lohrman       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Elmer Riddle       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Manny Salvo        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hal Schumacher     R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rip Sewell         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ray Starr          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Junior Thompson    R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Turner         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+J. Vander Meer     L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bucky Walters      R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 
+Lefty Wilkie       L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Whit Wyatt         R   6   2   1   0   0   0   0   0   0   0   0  .333  .333  .500

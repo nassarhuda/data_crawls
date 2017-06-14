@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  18   2   0   0   0   1   0   1   0   0   0  .111  .158  .111 i
+Chief Bender       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+George Chalmers    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Larry Cheney       R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Jack Coombs        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Bill Doak          R   6   2   0   0   0   2   0   2   0   0   0  .333  .500  .333 i
+Charley Hall       R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 
+Jimmy Lavender     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 i
+C. Mathewson       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+George McConnell   R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Limb McKenry       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hub Perdue         R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 i
+Pol Perritt        R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 i
+Jeff Pfeffer       R  14   5   0   0   0   0   0   3   0   0   0  .357  .357  .357 i
+Mike Prendergast   R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pat Ragan          R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 i
+Nap Rucker         L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+Dick Rudolph       R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Pete Schneider     R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Jeff Tesreau       R   8   2   0   0   0   0   0   4   0   0   0  .250  .250  .250 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ben Tincup         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 i
+Fred Toney         R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Lefty Tyler        L   3   2   0   0   0   1   0   1   0   0   0  .667  .750  .667 i
+S. Williams        R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Zip Zabel          R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i

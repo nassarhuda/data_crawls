@@ -1,0 +1,6 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kevin Appier       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Chuck Finley       L   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Randy Johnson      L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Andy Pettitte      L   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+David Wells        L   7   1   0   0   0   0   0   3   0   0   0  .143  .143  .143

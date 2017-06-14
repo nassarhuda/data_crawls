@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Scott Baker        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Brian Bannister    R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Josh Beckett       R   9   3   1   0   0   1   0   2   0   1   0  .333  .400  .444 
+Boof Bonser        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Matt Cain          R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Bartolo Colon      R   3   0   0   0   0   1   0   1   1   0   0  .000  .400  .000 
+Roy Halladay       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Aaron Harang       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Jason Hirsh        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jon Lester         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Maholm        L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Millwood     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Brett Myers        R   7   2   0   1   0   0   0   2   0   0   0  .286  .286  .571 
+Ross Ohlendorf     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chan Ho Park       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Elizardo Ramirez   R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Darrell Rasner     R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+James Shields      R   5   1   0   0   1   0   0   2   0   0   0  .200  .200  .800 
+Ian Snell          R   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Suppan        R   5   2   2   0   0   0   0   0   0   0   0  .400  .400  .800 
+Tim Wakefield      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jamey Wright       R   3   1   0   1   0   0   0   0   0   1   0  .333  .333 1.000

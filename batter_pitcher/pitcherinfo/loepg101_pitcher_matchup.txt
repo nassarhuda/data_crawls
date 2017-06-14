@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Garland Braxton    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Clint Brown        R   7   3   2   0   0   1   0   0   0   1   0  .429  .500  .714 
+Wes Ferrell        R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 
+Milt Gaston        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Sam Gibson         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lefty Grove        L  15   3   0   0   0   3   0   2   0   0   0  .200  .333  .200 
+Dutch Henry        L  10   2   1   0   0   1   0   0   0   0   0  .200  .273  .300 
+Jake Miller        L   9   5   0   1   0   1   0   0   0   0   0  .556  .600  .778 
+Phil Page          L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Jack Quinn         R   3   1   0   0   0   0   0   0   1   0   0  .333  .500  .333 
+Jack Russell       R   4   3   3   0   0   0   0   0   0   0   0  .750  .750 1.500 
+Milt Shoffner      L   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Lefty Stewart      L  11   1   0   0   0   3   0   1   0   0   0  .091  .286  .091 i
+Rube Walberg       L  17   5   1   0   0   1   0   3   0   2   0  .294  .333  .353 
+Earl Whitehill     L   4   1   0   0   0   2   0   0   2   0   0  .250  .625  .250 i
+Tom Zachary        L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i

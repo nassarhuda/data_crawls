@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Baecht          R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 i
+Ray Benge          R   7   1   1   0   0   1   0   3   0   0   0  .143  .250  .286 
+Larry Benton       R   7   3   0   1   0   4   0   1   0   0   0  .429  .636  .714 
+Jack Berly         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Sheriff Blake      R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+Guy Bush           R   4   0   0   0   0   3   0   0   0   0   0  .000  .429  .000 
+Phil Collins       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Paul Derringer     R   4   3   0   0   0   0   0   1   0   0   0  .750  .750  .750 i
+Clise Dudley       R   8   2   2   0   0   1   0   0   0   0   0  .250  .333  .500 
+F. Fitzsimmons     R   6   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Burleigh Grimes    R   8   2   0   1   1   0   0   0   0   0   0  .250  .250  .875 
+Bill Hallahan      L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Si Johnson         R   7   2   0   0   0   2   0   1   0   0   0  .286  .444  .286 
+Syl Johnson        R   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 
+Tony Kaufmann      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ray Kremer         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Jim Lindsey        R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Red Lucas          R  12   3   1   0   0   0   0   1   0   0   0  .250  .250  .333 
+Heinie Meine       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+C. Mitchell        L   5   3   0   1   0   0   0   1   0   0   0  .600  .600 1.000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Flint Rhem         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Smith          R  12   1   0   0   0   0   0   0   0   0   0  .083  .083  .083 
+Bill Walker        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000

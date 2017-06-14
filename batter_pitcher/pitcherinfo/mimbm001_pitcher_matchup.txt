@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Benes         R   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Kevin Jarvis       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ramon Martinez     R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Bill Pulsipher     L   3   1   1   0   0   0   0   1   0   1   0  .333  .333  .667

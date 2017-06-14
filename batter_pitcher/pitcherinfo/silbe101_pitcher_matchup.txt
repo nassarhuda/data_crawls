@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Elden Auker        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Dietrich      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+George Gill        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Joe Gonzales       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mel Harder         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Willis Hudlin      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Vern Kennedy       R   8   3   0   0   0   0   0   3   0   0   0  .375  .375  .375 
+Thornton Lee       L   4   2   0   0   0   0   0   1   0   1   0  .500  .500  .500 i
+Ted Lyons          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Whitehead     R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500

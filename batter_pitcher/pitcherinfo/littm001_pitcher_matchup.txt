@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wilson Alvarez     L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brian Anderson     L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Omar Daal          L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Flores       L   2   1   0   1   0   0   0   0   2   0   0  .500  .750 1.500 
+Tom Glavine        L   7   3   0   0   0   0   0   0   0   0   0  .429  .429  .429 
+Livan Hernandez    R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Kazuhisa Ishii     L   8   1   0   0   0   3   0   3   0   0   0  .125  .364  .125 
+Ryan Jensen        R   3   2   1   0   0   0   0   0   1   0   0  .667  .750 1.000 
+Randy Johnson      L  12   1   0   0   0   1   0   7   0   0   0  .083  .154  .083 
+Joe Kennedy        L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Al Leiter          L   5   1   0   0   0   0   0   1   1   0   0  .200  .333  .200 
+Odalis Perez       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Oliver Perez       L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Chris Peters       L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Kirk Rueter        L   7   3   1   0   0   0   0   1   0   0   0  .429  .429  .571 
+Glendon Rusch      L   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333

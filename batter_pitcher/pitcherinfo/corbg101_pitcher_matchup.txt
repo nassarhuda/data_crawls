@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Brandt          L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Guy Bush           R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Ben Cantwell       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tex Carleton       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Peaches Davis      R   5   1   0   0   1   0   0   0   0   0   0  .200  .200  .800 
+Paul Derringer     R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Larry French       L   6   1   1   0   0   1   0   2   0   0   0  .167  .286  .333 
+Harry Gumbert      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Ray Harrell        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Roy Henshaw        L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Danny MacFayden    R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill McGee         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

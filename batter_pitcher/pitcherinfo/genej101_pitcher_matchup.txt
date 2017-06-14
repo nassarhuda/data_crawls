@@ -1,0 +1,34 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 i
+Pete Alexander     R  10   3   0   0   0   0   0   1   0   1   0  .300  .300  .300 i
+Jack Bentley       L   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Rube Benton        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Huck Betts         R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 i
+Guy Bush           R   6   1   0   0   0   0   0   0   1   0   0  .167  .286  .167 i
+Wayland Dean       R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pete Donohue       R  25   9   1   0   0   0   0   1   0   1   0  .360  .360  .400 i
+Eddie Dyer         L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Burleigh Grimes    R  12   2   0   0   0   0   0   0   0   2   0  .167  .167  .167 i
+Jesse Haines       R  11   1   0   0   0   0   0   2   0   2   0  .091  .091  .091 
+Tony Kaufmann      R   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Vic Keen           R   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Ray Kremer         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Dolf Luque         R   9   0   0   0   0   1   0   3   0   0   0  .000  .100  .000 i
+Jakie May          L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hugh McQuillan     R   5   2   0   1   0   1   0   0   0   0   0  .400  .500  .800 i
+C. Mitchell        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Art Nehf           L   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Lynn Nelson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Osborn         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tiny Osborne       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Jeff Pfeffer       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Art Reinhart       L   5   2   0   0   0   0   0   0   0   1   0  .400  .400  .400 
+Jimmy Ring         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 i
+Eppa Rixey         L  10   1   0   0   0   0   0   2   0   0   0  .100  .100  .100 i
+Charlie Root       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bill Sherdel       L   4   3   1   0   0   0   0   0   0   1   0  .750  .750 1.000 i
+Bob Smith          R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Les Sweetland      L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dazzy Vance        R  10   1   0   0   0   0   0   6   0   0   0  .100  .100  .100 i
+Emil Yde           L   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 i

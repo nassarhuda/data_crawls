@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Asa Brainard       R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bobby Mathews      R  10   4   1   0   0   0   0   0   0   0   0  .400  .400  .500 
+Dick McBride       R  13   1   0   0   0   0   0   1   0   0   0  .077  .077  .077 
+John McMullin      L  10   4   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Al Pratt           R   9   2   0   0   0   1   0   0   0   0   0  .222  .300  .222 i
+Al Spalding        R   9   2   0   0   0   0   0   0   0   0   0  .222  .222  .222 i
+Rynie Wolters      R  15   6   1   1   0   0   0   0   0   0   0  .400  .400  .600

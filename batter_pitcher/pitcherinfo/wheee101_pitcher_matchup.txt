@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bevens        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tiny Bonham        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hank Borowy        R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Dave Ferriss       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jesse Flores       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Hal Newhouser      L   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Johnny Niggeling   R   4   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Marino Pieretti    R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dizzy Trout        R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250

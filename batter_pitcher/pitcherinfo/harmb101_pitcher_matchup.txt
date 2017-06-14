@@ -1,0 +1,37 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R  15   4   0   0   0   2   0   5   0   2   0  .267  .353  .267 i
+Rube Benton        L   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Ad Brennan         L   6   2   0   0   0   0   0   2   0   1   0  .333  .333  .333 i
+Buster Brown       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Mordecai Brown     R   5   1   1   0   0   0   0   2   0   1   0  .200  .200  .400 i
+George Chalmers    R  13   1   0   0   0   1   0  10   0   0   0  .077  .143  .077 i
+Larry Cheney       R  14   2   0   0   0   0   0   3   0   0   0  .143  .143  .143 i
+Al Demaree         R   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 i
+Brad Hogg          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bill James         R  10   1   0   0   0   2   0   6   0   0   0  .100  .250  .100 i
+Chief Johnson      R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Elmer Knetzer      R   9   1   0   0   0   1   0   3   0   0   0  .111  .200  .111 i
+Lefty Leifield     L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+C. Mathewson       R  12   3   0   0   0   0   0   3   0   0   0  .250  .250  .250 i
+Al Mattern         L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Erskine Mayer      R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 i
+George McQuillan   R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lee Meadows        R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 i
+Joe Oeschger       R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Hub Perdue         R   6   3   1   0   0   1   0   1   0   0   0  .500  .571  .667 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jeff Pfeffer       R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 i
+George Pierce      L   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Pat Ragan          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ed Reulbach        R   7   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eppa Rixey         L   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000 i
+Nap Rucker         L  10   1   1   0   0   0   0   3   0   1   0  .100  .100  .200 i
+Dick Rudolph       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Slim Sallee        L   8   3   0   0   0   0   0   2   0   0   0  .375  .375  .375 i
+Pete Schneider     R   7   1   0   0   0   2   0   2   0   1   0  .143  .333  .143 i
+Elmer Steele       R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+Jeff Tesreau       R  11   1   0   0   0   1   0   3   0   0   0  .091  .167  .091 i
+Ben Tincup         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Lefty Tyler        L   9   2   0   1   0   0   0   1   0   1   0  .222  .222  .444 i
+Hooks Wiltse       L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Earl Yingling      L   6   3   0   0   0   1   0   2   0   0   0  .500  .571  .500 i

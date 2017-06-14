@@ -1,0 +1,4 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Kelso         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Lew Krausse        R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Fred Newman        R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000

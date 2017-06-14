@@ -1,0 +1,9 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Bahnsen       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Tom Bradley        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Gogolewski    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mickey Lolich      L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Jim Lonborg        R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Bill Parsons       R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Jim Perry          R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Wilbur Wood        L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

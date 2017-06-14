@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Gerrit Cole        R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Tyler Cravy        R   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+A. DeSclafani      R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+J.A. Happ          L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Dan Haren          R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chris Heston       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Raisel Iglesias    R   5   3   0   0   0   1   0   1   0   0   0  .600  .667  .600 
+John Lamb          L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Mike Leake         R   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Jon Lester         L   4   1   0   0   1   2   0   1   0   0   0  .250  .500 1.000 
+Michael Lorenzen   R   5   1   0   0   0   0   0   0   1   0   0  .200  .333  .200 
+Shelby Miller      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ariel Pena         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Wily Peralta       R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 
+Max Scherzer       R   4   2   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Ryan Vogelsong     R   5   3   0   0   0   1   0   1   0   0   0  .600  .667  .600

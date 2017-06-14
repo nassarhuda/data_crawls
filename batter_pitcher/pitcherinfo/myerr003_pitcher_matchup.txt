@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Paul Assenmacher   L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+James Baldwin      R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Jason Dickson      R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Orel Hershiser     R   6   4   1   0   0   1   0   1   0   0   0  .667  .714  .833 
+Andrew Lorraine    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack McDowell      R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Chad Ogea          R   8   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Mike Oquist        R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Brett Tomko        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

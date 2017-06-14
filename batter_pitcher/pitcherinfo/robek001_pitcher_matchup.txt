@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Andy Benes         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Willie Blair       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Doug Brocail       R   3   1   0   0   1   1   0   1   0   0   0  .333  .500 1.333 
+Jeff Fassero       L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Chris Hammond      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Eric Hillman       L   4   2   1   0   1   0   0   0   0   0   0  .500  .500 1.500 
+Danny Jackson      L   7   3   0   0   1   0   0   0   0   0   0  .429  .429  .857 
+Todd Jones         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Curt Leskanic      R   3   0   0   0   0   2   0   1   0   0   0  .000  .400  .000 
+Pedro Martinez     R   7   1   0   0   0   0   0   2   0   0   0  .143  .143  .143 
+Ramon Martinez     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Jaime Navarro      R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Donovan Osborne    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mark Portugal      R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Armando Reynoso    R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Kirk Rueter        L   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Scott Sanders      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+John Smoltz        R   6   2   0   0   1   1   0   0   0   0   0  .333  .429  .833 
+Bill Swift         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bob Tewksbury      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Paul Wagner        R   7   5   1   0   1   0   0   2   0   0   0  .714  .714 1.286 
+Brian Williams     R   3   1   0   0   1   0   0   2   1   0   0  .333  .500 1.333 
+Anthony Young      R   5   0   0   0   0   1   0   2   0   0   0  .000  .167  .000

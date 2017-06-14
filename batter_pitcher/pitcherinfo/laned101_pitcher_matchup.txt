@@ -1,0 +1,8 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Lou Brissie        L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Embree         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Dick Fowler        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Ned Garver         R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Sid Hudson         R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Alex Kellner       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ray Scarborough    R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333

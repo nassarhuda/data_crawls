@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Doyle Alexander    R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Pat Dobson         R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Bill Lee           L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Paul Lindblad      L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rudy May           L  12   2   0   0   0   1   0   3   0   0   0  .167  .231  .167 
+Gaylord Perry      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Fritz Peterson     L   5   2   1   0   0   1   0   0   0   0   0  .400  .500  .600 
+Nolan Ryan         R   1   0   0   0   0   3   0   0   0   0   0  .000  .750  .000 
+Bill Singer        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Paul Splittorff    L   5   1   0   1   0   1   0   1   0   0   0  .200  .333  .600 
+Wilbur Wood        L   5   2   0   0   0   0   0   3   0   0   0  .400  .400  .400

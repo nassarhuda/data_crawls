@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Bevens        R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Bill Dietrich      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Cliff Fannin       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Gettel          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Tex Hughson        R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Thornton Lee       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Nels Potter        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Dizzy Trout        R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Lefty West         L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200

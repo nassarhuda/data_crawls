@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Baumgardner     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mordecai Brown     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Harry Coveleski    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hooks Dauss        R   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Walt Dickson       R   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Cy Falkenberg      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Happy Finneran     R   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 i
+Bob Groom          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Earl Hamilton      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Claude Hendrix     R   4   0   0   0   0   1   0   0   0   2   0  .000  .200  .000 
+Rankin Johnson     R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Walter Johnson     R   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 
+Gene Krapp         R   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+George LeClair     R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Willie Mitchell    L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 i
+Earl Moseley       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Ed Reulbach        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Babe Ruth          L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Tom Seaton         R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 i
+Frank Smith        R   4   0   0   0   0   1   0   3   0   1   0  .000  .200  .000 i

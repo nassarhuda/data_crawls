@@ -1,0 +1,5 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Slim Harriss       R   7   3   0   0   0   0   0   2   0   0   0  .429  .429  .429 
+Sad Sam Jones      R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dixie Leverett     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Curly Ogden        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000

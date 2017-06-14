@@ -1,0 +1,15 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Ewell Blackwell    R  10   5   1   0   0   0   0   3   0   0   0  .500  .500  .600 
+Tiny Bonham        R   8   2   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Hank Borowy        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ken Burkhart       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Kirby Higbe        R   5   2   0   0   0   3   0   0   0   0   0  .400  .625  .400 
+Dave Koslo         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Doyle Lade         R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Red Munger         R   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Kent Peterson      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Howie Pollet       L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Rip Sewell         R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Nick Strincevich   R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+J. Vander Meer     L   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000

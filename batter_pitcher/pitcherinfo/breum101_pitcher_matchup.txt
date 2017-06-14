@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Bagby          R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ken Chase          L   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143 i
+Denny Galehouse    R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Sid Hudson         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Tex Hughson        R   4   0   0   0   0   1   0   2   0   1   0  .000  .200  .000 i
+Joe Krakauskas     L   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Roxie Lawson       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Archie McKain      L   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Hal Newhouser      L   3   0   0   0   0   1   0   3   0   0   0  .000  .250  .000 i
+Bobo Newsom        R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Johnny Niggeling   R   6   1   0   1   0   0   0   3   0   0   0  .167  .167  .500 
+Johnny Rigney      R   9   0   0   0   0   1   0   4   0   0   0  .000  .100  .000 
+Eddie Smith        L   6   0   0   0   0   2   0   4   0   0   0  .000  .250  .000 i
+Dizzy Trout        R   7   1   0   0   0   1   0   3   0   0   0  .143  .250  .143 i
+Porter Vaughan     L   5   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jake Wade          L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ace Adams          R   5   0   0   0   0   0   0   2   0   2   0  .000  .000  .000 
+Nate Andrews       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Red Barrett        R   6   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Dick Barrett       R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222 
+Ken Burkhart       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Mort Cooper        R   9   4   0   0   1   0   0   0   0   0   0  .444  .444  .778 
+Blix Donnelly      R   8   2   0   0   0   0   0   3   0   1   0  .250  .250  .250 
+Harry Feldman      R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Al Gerheauser      L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Andy Hansen        R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Ed Heusser         R   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+Vern Kennedy       R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Dave Koslo         L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Max Lanier         L   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+F. Ostermueller    L   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Claude Passeau     R   6   2   0   0   0   0   0   0   1   0   0  .333  .429  .333 
+Ewald Pyle         L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Xavier Rescigno    R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Preacher Roe       L   6   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+Johnny Sain        R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Schmitz     L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Charlie Sproull    R   7   3   2   0   0   0   0   0   0   0   0  .429  .429  .714 
+Nick Strincevich   R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Jim Tobin          R   9   2   1   0   0   1   0   0   0   2   0  .222  .300  .333 
+J. Vander Meer     L   6   2   0   0   1   0   0   4   0   0   0  .333  .333  .833 
+Bucky Walters      R  13   4   1   0   0   0   0   1   0   0   0  .308  .308  .385 
+Hank Wyse          R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000

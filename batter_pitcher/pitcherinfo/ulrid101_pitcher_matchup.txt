@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Sheriff Blake      R   4   1   0   0   0   1   0   2   0   0   0  .250  .400  .250 i
+Joe Genewich       R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Hal Goldsmith      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Hugh McQuillan     R   3   1   0   0   0   1   0   1   0   1   0  .333  .500  .333 
+Norman Plitt       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Charlie Root       R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Bob Smith          R   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200 
+Emil Yde           L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

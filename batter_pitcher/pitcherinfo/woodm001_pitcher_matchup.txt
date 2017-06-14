@@ -1,0 +1,20 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Steve Bedrosian    R   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Chris Bosio        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bill Dawley        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jeff Heathcock     R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Orel Hershiser     R  10   2   0   0   0   2   0   0   0   0   0  .200  .333  .200 
+LaMarr Hoyt        R   4   0   0   0   0   2   0   0   0   1   0  .000  .333  .000 
+Charlie Kerfeld    R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Rick Mahler        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Andy McGaffigan    R   8   4   0   0   0   2   0   0   0   0   0  .500  .600  .500 
+Pascual Perez      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ted Power          R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Jeff Russell       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Scott Sanderson    R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Mike Scott         R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Les Straker        R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mark Thurmond      L   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 
+Jay Tibbs          R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+F. Valenzuela      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Welch          R  10   3   0   0   0   1   0   2   0   0   0  .300  .364  .300

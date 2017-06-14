@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Aldridge       R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Jesse Barnes       R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rube Benton        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Huck Betts         R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 i
+Guy Bush           R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Mike Cvengros      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pete Donohue       R  13   4   1   0   0   0   0   4   0   0   0  .308  .308  .385 
+Percy Jones        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tony Kaufmann      R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 i
+Red Lucas          R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 i
+Dolf Luque         R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 i
+Hugh McQuillan     R   5   1   1   0   0   0   0   3   0   0   0  .200  .200  .400 
+Lee Meadows        R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+C. Mitchell        L   6   2   0   0   0   1   0   1   0   1   0  .333  .429  .333 
+Jimmy Ring         R   5   2   1   0   1   0   0   1   0   0   0  .400  .400 1.200 
+Eppa Rixey         L   5   1   0   0   0   1   0   1   0   1   0  .200  .333  .200 i
+Rosy Ryan          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Emil Yde           L   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

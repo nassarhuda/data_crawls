@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Red Barrett        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Boom-Boom Beck     R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Joe Bowman         R   3   1   0   0   0   0   0   0   1   1   0  .333  .500  .333 
+Harry Brecheen     L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jack Brewer        R   9   1   0   0   0   1   0   1   0   0   0  .111  .200  .111 
+Ken Burkhart       R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Max Butcher        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bud Byerly         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Chipman        L   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 
+Curt Davis         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Paul Derringer     R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Slim Emmerich      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Paul Erickson      R   4   1   0   0   0   1   0   1   0   1   0  .250  .400  .250 
+Harry Feldman      R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Howie Fox          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Gables         R   7   1   0   0   0   1   0   1   0   0   0  .143  .250  .143 
+Earl Harrist       R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Ed Heusser         R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Johnny Hutchings   R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Vern Kennedy       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bill Lee           R   9   4   0   0   0   0   0   1   0   0   0  .444  .444  .444 
+Bob Logan          L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Sal Maglie         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Mike Modak         R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Van Mungo          R   6   0   0   0   0   1   0   0   0   0   0  .000  .143  .000 
+Ray Prim           L   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Preacher Roe       L   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Nick Strincevich   R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Voiselle      R  12   2   0   0   0   2   1   1   0   0   0  .167  .286  .167 
+Ed Wright          R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Hank Wyse          R   9   2   0   0   0   0   0   1   0   0   0  .222  .222  .222

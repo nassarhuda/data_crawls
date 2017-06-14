@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Mike Bielecki      R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Joe Boever         R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Oil Can Boyd       R   8   0   0   0   0   2   0   3   0   0   0  .000  .200  .000 
+Jeff Brantley      R   7   3   0   0   0   0   0   1   0   1   0  .429  .429  .429 
+John Burkett       R   6   3   0   0   1   1   0   0   0   0   0  .500  .571 1.000 
+Tom Candiotti      R   5   1   0   1   0   1   0   0   0   0   0  .200  .333  .600 
+Jim Clancy         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+David Cone         R   8   1   0   0   1   1   0   3   0   0   0  .125  .222  .500 
+Tim Crews          R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Ron Darling        R   4   1   0   0   0   1   0   3   0   0   0  .250  .400  .250 
+Danny Darwin       R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Mark Gardner       R   5   0   0   0   0   3   0   0   0   0   0  .000  .375  .000 
+Dwight Gooden      R   7   1   0   0   0   1   0   4   0   0   0  .143  .250  .143 
+Jim Gott           R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Tommy Greene       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Kevin Gross        R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Mike Harkey        R   2   1   0   0   1   2   0   0   0   0   0  .500  .750 2.000 
+Jay Howell         R   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Ken Howell         R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Rick Luecken       R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Mahler        R   4   1   0   0   0   1   1   1   0   0   0  .250  .400  .250 
+Dennis Martinez    R  11   2   1   0   0   0   0   2   0   0   0  .182  .182  .273 
+Ramon Martinez     R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Roger McDowell     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Mike Morgan        R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Jeff Parrett       R   3   1   0   0   0   2   0   0   0   0   0  .333  .600  .333 
+Mark Portugal      R   5   1   1   0   0   1   0   1   0   0   0  .200  .333  .400 
+Jose Rijo          R   4   0   0   0   0   1   0   1   0   0   0  .000  .200  .000 
+Scott Ruskin       L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Mike Scott         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Lee Smith          R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Pete Smith         R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+John Smoltz        R   5   0   0   0   0   2   0   1   0   0   0  .000  .286  .000 
+John Wetteland     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

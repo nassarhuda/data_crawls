@@ -1,0 +1,25 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bernie Boland      R   6   1   0   0   0   0   0   1   1   0   0  .167  .286  .167 i
+Bert Cole          L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 i
+Stan Coveleski     R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Mike Cvengros      L   8   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Hooks Dauss        R   8   2   1   0   0   0   0   2   0   1   0  .250  .250  .375 i
+James Edwards      L   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Howard Ehmke       R  14   2   0   0   0   2   0   2   0   0   0  .143  .250  .143 i
+Red Faber          R   8   1   0   0   0   1   0   2   0   1   0  .125  .222  .125 i
+Curt Fullerton     R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Bert Gallia        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 i
+Harry Harper       L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Slim Harriss       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Shovel Hodge       R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Dutch Leonard      L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Carl Mays          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Herb Pennock       L   7   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+C. Robertson       R   3   0   0   0   0   0   0   0   0   3   0  .000  .000  .000 i
+Eddie Rommel       R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 i
+Allen Russell      R   5   2   0   0   0   1   0   1   0   0   0  .400  .500  .400 i
+Babe Ruth          L   5   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Joe Shaute         L   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Sherry Smith       L   3   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 i
+Lil Stoner         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i

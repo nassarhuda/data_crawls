@@ -1,0 +1,17 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Armstrong     R   5   1   1   0   0   0   0   4   0   0   0  .200  .200  .400 
+Don Carman         L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Doug Drabek        R   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Mark Grant         R   4   1   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Mike Harkey        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Derek Lilliquist   L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Bob Ojeda          L   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+David Palmer       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Jose Rijo          R   5   1   0   1   0   0   0   2   0   0   0  .200  .200  .600 
+Scott Sanderson    R   5   2   0   0   0   0   0   1   0   1   0  .400  .400  .400 
+Mike Scott         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Zane Smith         L   4   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+John Smoltz        R   7   1   0   0   0   0   0   4   1   0   0  .143  .250  .143 
+Rick Sutcliffe     R   5   0   0   0   0   0   0   4   0   0   0  .000  .000  .000 
+F. Valenzuela      L   5   0   0   0   0   1   0   2   0   1   0  .000  .167  .000 
+Ed Whitson         R   7   1   0   0   0   0   0   4   0   0   0  .143  .143  .143

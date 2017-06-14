@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Allen       R   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 
+Hugh Casey         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Davis         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Paul Derringer     R  10   2   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Larry French       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Hank Gornicki      R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ed Head            R   6   1   0   0   0   1   0   1   0   0   0  .167  .286  .167 
+Ken Heintzelman    L  15   2   0   0   0   1   0   0   0   0   0  .133  .188  .133 
+Kirby Higbe        R   7   0   0   0   0   1   0   0   0   0   0  .000  .125  .000 
+Tommy Hughes       R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375 i
+Bill Lohrman       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Cliff Melton       L  12   4   0   0   0   0   0   4   0   0   0  .333  .333  .333 i
+Rube Melton        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Vern Olsen         L   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Claude Passeau     R   6   3   2   0   1   0   0   0   0   1   0  .500  .500 1.333 
+Howie Pollet       L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Steve Rachunok     R   4   2   0   0   0   0   0   0   0   1   0  .500  .500  .500 
+Elmer Riddle       R   4   3   1   0   0   0   0   1   0   0   0  .750  .750 1.000 
+Rip Sewell         R   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Ray Starr          R   6   2   2   0   0   0   0   0   0   0   0  .333  .333  .667 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+J. Vander Meer     L  16   2   1   0   0   1   0   3   0   0   0  .125  .176  .188 
+Bucky Walters      R   7   2   1   0   0   0   0   2   0   0   0  .286  .286  .429 
+Ernie White        L   7   2   0   0   0   0   0   0   0   0   0  .286  .286  .286 i
+Lefty Wilkie       L   4   3   1   0   0   0   0   0   0   1   0  .750  .750 1.000 i
+Whit Wyatt         R   7   1   1   0   0   0   0   2   0   0   0  .143  .143  .286

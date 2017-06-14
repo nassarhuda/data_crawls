@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Andy Ashby         R   6   2   0   0   0   0   0   1   0   0   0  .333  .333  .333 
+Paul Assenmacher   L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Andy Benes         R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brad Brink         R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Jim Bullinger      R   3   0   0   0   0   3   0   1   0   0   0  .000  .500  .000 
+Frank Castillo     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Doug Drabek        R   8   3   1   0   0   0   0   4   0   0   0  .375  .375  .500 
+Dwight Gooden      R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 
+Tommy Greene       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Mike Harkey        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Gil Heredia        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Ken Hill           R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Charlie Hough      R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Greg Maddux        R  12   2   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Mike Morgan        R   4   3   0   0   0   0   0   0   0   0   0  .750  .750  .750 
+Mark Portugal      R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Ben Rivera         R   7   3   2   0   0   1   0   1   0   0   0  .429  .500  .714 
+Mel Rojas          R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Curt Schilling     R   7   1   1   0   0   0   0   0   0   0   1  .143  .125  .286 
+Anthony Young      R   4   1   1   0   0   1   1   0   0   0   0  .250  .400  .500

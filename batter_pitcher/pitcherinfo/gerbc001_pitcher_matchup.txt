@@ -1,0 +1,7 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bert Blyleven      R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Danny Darwin       R   6   1   1   0   0   0   0   0   0   0   0  .167  .167  .333 
+Bret Saberhagen    R   8   6   0   1   0   1   0   0   0   0   0  .750  .778 1.000 
+Mike Smithson      R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Dave Stewart       R   3   1   0   0   0   0   0   1   0   1   0  .333  .333  .333 
+Dave Stieb         R   8   3   0   0   0   0   0   0   0   0   0  .375  .375  .375

@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Nick Cullop        L   5   1   1   0   0   2   0   1   0   0   0  .200  .429  .400 i
+Max Fiske          R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Russ Ford          R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Bert Maxwell       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Earl Moore         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Harry Moran        L   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+George Suggs       R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Doc Watson         L   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 i

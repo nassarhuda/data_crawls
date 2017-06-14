@@ -1,0 +1,21 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jim Baskette       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Hugh Bedient       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 i
+Chief Bender       R   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Joe Benz           R  10   3   0   1   0   0   0   1   0   0   0  .300  .300  .500 i
+Carl Cashion       R   4   1   1   0   0   0   0   0   0   0   0  .250  .250  .500 i
+Jack Coombs        R   7   3   0   0   0   0   0   1   0   0   0  .429  .429  .429 i
+Roy Crabb          R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Iron Davis         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jean Dubuc         R   6   1   0   0   0   1   0   1   0   1   0  .167  .286  .167 i
+Russ Ford          R  10   3   1   0   0   0   0   2   0   1   0  .300  .300  .400 i
+Vean Gregg         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Tom Hughes         R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+George Kahler      R   9   1   0   0   0   0   0   1   0   0   0  .111  .111  .111 i
+George McConnell   R   4   2   0   0   0   0   0   1   0   0   0  .500  .500  .500 i
+George Mullin      R   9   3   0   0   0   0   0   1   0   0   0  .333  .333  .333 i
+Eddie Plank        L   5   1   0   0   0   0   0   0   0   1   0  .200  .200  .200 i
+Jack Quinn         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Dixie Walker       R   3   2   0   1   0   1   0   0   0   0   0  .667  .750 1.333 i
+Ed Walsh           R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Smoky Joe Wood     R  12   4   0   0   0   0   0   0   0   0   0  .333  .333  .333 i

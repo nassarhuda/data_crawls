@@ -1,0 +1,28 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Fred Anderson      R  10   1   0   0   0   1   0   1   0   0   0  .100  .182  .100 
+Bill Bailey        L   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Harry Billiard     R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ad Brennan         L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Mordecai Brown     R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Doc Crandall       R   7   2   0   0   0   0   0   1   0   1   0  .286  .286  .286 
+Nick Cullop        L   5   2   0   0   0   0   0   3   0   1   0  .400  .400  .400 
+Dave Davenport     R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Cy Falkenberg      R   8   1   0   0   0   1   0   0   0   0   0  .125  .222  .125 i
+Happy Finneran     R   4   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Russ Ford          R  12   1   0   1   0   0   0   1   0   0   0  .083  .083  .250 i
+Bob Groom          R  13   2   0   0   0   1   0   1   0   1   0  .154  .214  .154 i
+Byron Houck        R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Chief Johnson      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Henry Keupper      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Gene Krapp         R   4   4   0   0   0   0   0   0   0   0   0 1.000 1.000 1.000 
+Ed Lafitte         R  13   2   0   1   0   0   0   3   0   1   0  .154  .154  .308 i
+Earl Moore         R   8   2   0   0   0   0   0   2   0   1   0  .250  .250  .250 
+Harry Moran        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Eddie Plank        L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Jack Quinn         R   7   1   1   0   0   0   0   3   0   0   0  .143  .143  .286 i
+Al Schulz          L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Tom Seaton         R   6   2   0   0   0   3   0   2   0   0   0  .333  .556  .333 
+Frank Smith        R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+George Suggs       R   7   2   0   0   0   1   0   2   0   0   0  .286  .375  .286 i
+Ed Willett         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200

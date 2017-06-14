@@ -1,0 +1,36 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Win Ballou         R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Ted Blankenship    R   1   1   0   0   0   2   0   0   0   1   0 1.000 1.000 1.000 i
+Garland Buckeye    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Ownie Carroll      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rip Collins        R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 i
+Stan Coveleski     R  11   2   0   0   0   0   0   0   0   0   0  .182  .182  .182 i
+Dixie Davis        R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 i
+Red Faber          R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Milt Gaston        R   7   1   0   0   0   0   0   0   1   0   0  .143  .250  .143 
+Sam Gibson         R   7   0   0   0   0   2   0   0   0   0   0  .000  .222  .000 i
+Sam Gray           R   4   1   0   0   0   0   0   0   0   1   0  .250  .250  .250 i
+Lefty Grove        L   6   1   0   0   0   0   0   1   1   0   0  .167  .286  .167 i
+Ken Holloway       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Waite Hoyt         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Hank Johnson       R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Walter Johnson     R  11   2   0   0   0   2   0   1   0   1   0  .182  .308  .182 
+Dutch Levsen       R  10   4   0   1   0   1   0   0   0   0   0  .400  .455  .600 
+Ted Lyons          R  12   1   1   0   0   1   0   0   0   0   0  .083  .154  .167 i
+George Murray      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Ernie Nevers       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Curly Ogden        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Herb Pennock       L  13   4   0   0   1   0   0   1   0   0   0  .308  .308  .538 i
+Eddie Rommel       R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dutch Ruether      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bob Shawkey        R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 i
+Urban Shocker      R   9   3   1   1   0   0   0   0   0   1   0  .333  .333  .667 i
+Sherry Smith       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Lil Stoner         R   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 i
+Tommy Thomas       R   6   0   0   0   0   2   0   0   0   0   0  .000  .250  .000 i
+Lefty Thomas       L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Myles Thomas       R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 i
+George Uhle        R   8   1   0   0   1   1   0   1   0   0   0  .125  .222  .500 
+Earl Whitehill     L   7   4   2   1   0   1   0   2   0   1   0  .571  .625 1.143 i
+Tom Zachary        L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600

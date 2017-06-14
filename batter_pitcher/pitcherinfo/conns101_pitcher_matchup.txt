@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Burke        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+General Crowder    R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 i
+Hooks Dauss        R   5   4   1   0   0   0   0   0   0   1   0  .800  .800 1.000 i
+Howard Ehmke       R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+Milt Gaston        R   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 i
+Sam Gray           R  10   6   0   1   0   0   0   0   0   0   0  .600  .600  .800 i
+Lefty Grove        L   5   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 i
+Slim Harriss       R   7   2   0   1   0   1   0   0   0   1   0  .286  .375  .571 i
+Waite Hoyt         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Sad Sam Jones      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 i
+Danny MacFayden    R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 i
+Hank McDonald      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Herb Pennock       L   8   2   0   0   0   0   0   4   0   1   0  .250  .250  .250 i
+George Pipgras     R   3   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Sherry Smith       L   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Lefty Stewart      L   6   2   1   0   0   0   0   1   0   0   0  .333  .333  .500 
+Tommy Thomas       R   5   1   0   0   0   1   0   2   0   2   0  .200  .333  .200 
+George Uhle        R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 i
+Elam Vangilder     R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Bob Weiland        L   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ed Wells           L   5   2   1   1   0   0   0   0   0   0   0  .400  .400 1.000 i
+Tony Welzer        R   3   2   0   0   0   0   0   0   0   1   0  .667  .667  .667 i
+Earl Whitehill     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Tom Zachary        L   2   1   0   0   0   0   0   0   0   2   0  .500  .500  .500 i

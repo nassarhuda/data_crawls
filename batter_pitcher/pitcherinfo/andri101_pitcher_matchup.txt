@@ -1,0 +1,33 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Blaeholder      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Tommy Bridges      R  10   2   0   0   0   0   0   3   0   1   0  .200  .200  .200 i
+Clint Brown        R  11   3   0   0   0   0   0   2   0   0   0  .273  .273  .273 i
+Jumbo Brown        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Sugar Cain         R   5   0   0   0   0   1   0   0   0   1   0  .000  .167  .000 
+Joe Cascarella     R   9   2   0   0   0   1   0   1   0   0   0  .222  .300  .222 i
+George Earnshaw    R  10   2   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Wes Ferrell        R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Carl Fischer       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Milt Gaston        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Lefty Gomez        L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 i
+Lefty Grove        L   5   1   1   0   0   0   0   0   0   0   0  .200  .200  .400 
+Bump Hadley        R   6   2   1   0   0   0   0   2   0   0   0  .333  .333  .500 
+Mel Harder         R  12   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Chief Hogsett      L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Vern Kennedy       R   7   1   0   0   0   1   0   2   0   0   0  .143  .250  .143 
+Ted Lyons          R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 i
+Pat Malone         R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i
+Bobo Newsom        R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+F. Ostermueller    L   4   1   1   0   0   1   0   1   0   0   0  .250  .400  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Monte Pearson      R   6   0   0   0   0   1   0   0   0   1   0  .000  .143  .000 
+Eddie Rommel       R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Buck Ross          R   6   1   0   0   0   0   0   2   0   0   0  .167  .167  .167 
+Red Ruffing        R   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 i
+Jack Russell       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Eddie Smith        L   5   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Les Tietje         R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Monte Weaver       R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+John Whitehead     R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Earl Whitehill     L   9   2   0   0   0   0   0   1   0   2   0  .222  .222  .222 i
+Hank Winston       R   2   1   0   0   0   1   0   0   0   1   0  .500  .667  .500

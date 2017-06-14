@@ -1,0 +1,14 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Pete Alexander     R   8   2   0   0   0   0   0   3   0   0   0  .250  .250  .250 
+Cy Barger          R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Rube Benton        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Paul Fittery       L   4   1   0   0   0   0   0   0   1   0   0  .250  .400  .250 
+Rube Marquard      L   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 i
+C. Mathewson       R   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Earl Moseley       R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jeff Pfeffer       R   6   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Dick Rudolph       R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Al Schulz          L   6   1   0   0   0   0   0   0   0   1   0  .167  .167  .167 i
+Sherry Smith       L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 i
+Lefty Tyler        L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+S. Williams        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250

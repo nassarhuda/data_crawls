@@ -1,0 +1,31 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Brian Anderson     L   5   4   0   0   0   0   0   1   0   0   0  .800  .800  .800 
+Jason Bere         R   3   2   1   0   0   1   0   0   0   0   0  .667  .750 1.000 
+A.J. Burnett       R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Paul Byrd          R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Matt Clement       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Darren Dreifort    R   3   1   0   0   0   1   0   2   0   0   0  .333  .500  .333 
+Adam Eaton         R   3   1   1   0   0   0   0   2   0   1   0  .333  .333  .667 
+Mike Hampton       L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Livan Hernandez    R   5   2   0   0   0   1   0   0   0   1   0  .400  .500  .400 
+Al Leiter          L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Kevin Millwood     R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Brett Myers        R   4   1   0   0   1   0   0   1   0   1   0  .250  .250 1.000 
+Denny Neagle       L   8   2   1   0   0   0   0   3   0   1   0  .250  .250  .375 
+Hideo Nomo         R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Omar Olivares      R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Russ Ortiz         R   4   0   0   0   0   0   0   1   0   2   0  .000  .000  .000 
+Steve Parris       R   5   1   0   0   0   0   0   2   0   1   0  .200  .200  .200 
+Carlos Perez       L   5   2   1   0   0   0   0   0   0   0   0  .400  .400  .600 
+Odalis Perez       L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Chris Peters       L   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rick Reed          R   3   1   0   0   0   1   0   2   0   2   0  .333  .500  .333 
+Kirk Rueter        L   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Curt Schilling     R   4   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Jason Schmidt      R   6   1   0   0   0   0   0   3   0   0   0  .167  .167  .167 
+Kevin Tapani       R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Brian Tollberg     R   7   0   0   0   0   0   0   3   0   1   0  .000  .000  .000 
+Steve Trachsel     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Javier Vazquez     R   7   0   0   0   0   0   0   4   0   1   0  .000  .000  .000 
+Jamey Wright       R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

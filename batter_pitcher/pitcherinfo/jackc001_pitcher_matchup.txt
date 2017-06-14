@@ -1,0 +1,13 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dave Dravecky      L   5   1   0   0   1   1   0   2   0   0   0  .200  .333  .800 
+Tom Glavine        L   5   0   0   0   0   1   0   0   0   0   0  .000  .167  .000 
+Atlee Hammaker     L   6   1   0   0   0   0   0   1   0   1   0  .167  .167  .167 
+Neal Heaton        L   3   0   0   0   0   1   1   0   0   0   0  .000  .250  .000 
+Orel Hershiser     R   5   1   0   0   0   0   0   3   0   0   0  .200  .200  .200 
+Larry McWilliams   L   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Rob Murphy         L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Pat Perry          L   5   2   2   0   0   0   0   1   0   0   0  .400  .400  .800 
+Dennis Rasmussen   L   4   1   0   0   0   1   1   0   0   0   0  .250  .400  .250 
+Bruce Ruffin       L   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+John Smiley        L   5   1   1   0   0   0   0   1   0   0   1  .200  .167  .400 
+F. Valenzuela      L   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000

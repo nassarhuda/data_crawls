@@ -1,0 +1,27 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Chase Anderson     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Dylan Axelrod      R   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 
+Santiago Casilla   R   4   2   1   0   0   0   0   1   0   0   0  .500  .500  .750 
+Jacob deGrom       R   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Rubby de la Rosa   R   8   2   1   0   0   0   0   1   0   0   0  .250  .250  .375 
+Mike Foltynewicz   R   3   0   0   0   0   0   0   2   0   0   1  .000  .000  .000 
+Zack Greinke       R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Chris Heston       R   5   4   0   0   1   1   0   0   0   0   0  .800  .833 1.400 
+Tim Hudson         R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+George Kontos      R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mat Latos          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Michael Lorenzen   R   3   2   0   1   1   1   0   1   0   0   0  .667  .750 2.333 
+Jean Machi         R   3   1   0   0   1   1   0   0   0   0   0  .333  .500 1.333 
+Carlos Martinez    R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Shelby Miller      R   9   3   1   0   0   0   0   4   0   0   0  .333  .333  .444 
+Charlie Morton     R   6   4   1   1   0   1   0   1   0   0   0  .667  .714 1.167 
+Jake Peavy         R   4   1   0   0   1   0   0   1   0   0   0  .250  .250 1.000 
+Tyson Ross         R  10   1   0   0   0   1   0   1   1   0   0  .100  .250  .100 
+Max Scherzer       R   6   1   1   0   0   0   0   3   0   0   0  .167  .167  .333 
+S. Strasburg       R   8   1   0   0   0   1   1   3   0   0   0  .125  .222  .125 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ryan Vogelsong     R   6   1   0   0   0   1   0   2   0   0   0  .167  .286  .167 
+Michael Wacha      R   6   0   0   0   0   0   0   6   0   0   0  .000  .000  .000 
+Jerome Williams    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Alex Wood          L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+J. Zimmermann      R   7   2   1   0   0   0   0   1   1   0   0  .286  .375  .429

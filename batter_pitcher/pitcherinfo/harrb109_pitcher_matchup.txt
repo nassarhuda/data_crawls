@@ -1,0 +1,23 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Babich      R   7   1   0   0   0   2   0   1   0   2   0  .143  .333  .143 i
+Jim Bagby          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+Fred Caligiuri     R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Ken Chase          L   5   1   0   1   0   0   0   1   0   0   0  .200  .200  .600 
+Chubby Dean        L   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Bill Dietrich      R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Atley Donald       R   5   0   0   0   0   1   0   0   0   1   0  .000  .167  .000 
+Denny Galehouse    R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 i
+Lefty Gomez        L   3   0   0   0   0   1   0   2   0   0   0  .000  .250  .000 
+Orval Grove        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jack Knott         R   4   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Thornton Lee       L   6   2   0   0   0   0   0   1   0   2   0  .333  .333  .333 
+Les McCrabb        R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Al Milnar          L   4   0   0   0   0   1   0   0   0   1   0  .000  .200  .000 
+Lynn Nelson        R   5   2   0   0   0   0   0   1   0   0   0  .400  .400  .400 
+Bobo Newsom        R  12   3   1   0   0   0   0   3   0   0   0  .250  .250  .333 i
+Nels Potter        R   5   2   0   0   0   1   0   0   0   0   0  .400  .500  .400 
+Red Ruffing        R   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Marius Russo       L   4   0   0   0   0   1   0   2   0   0   0  .000  .200  .000 
+Eddie Smith        L   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dizzy Trout        R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i

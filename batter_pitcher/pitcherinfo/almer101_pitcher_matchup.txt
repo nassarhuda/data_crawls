@@ -1,0 +1,24 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Adams         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Pete Alexander     R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Red Ames           R   5   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Ad Brennan         L   7   2   0   0   1   0   0   1   0   0   0  .286  .286  .714 
+Sandy Burk         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Howie Camnitz      R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+Larry Cheney       R   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Ed Donnelly        R   5   1   1   0   0   1   0   0   0   0   0  .200  .333  .400 
+Rube Geyer         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Dan Griner         R   8   3   0   0   1   0   0   0   0   0   0  .375  .375  .750 i
+Claude Hendrix     R   2   0   0   0   0   1   0   1   0   1   0  .000  .333  .000 i
+Otto Hess          L   7   3   0   0   0   1   0   0   0   0   0  .429  .500  .429 i
+Lefty Leifield     L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+G. Lowdermilk      R   3   2   0   1   0   1   0   0   0   1   0  .667  .750 1.333 
+Rube Marquard      L  11   4   1   0   0   2   0   1   0   0   0  .364  .462  .455 i
+C. Mathewson       R   9   3   1   0   0   1   0   3   0   0   0  .333  .400  .444 
+Hub Perdue         R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Pol Perritt        R   4   1   0   1   0   0   0   1   0   0   0  .250  .250  .750 i
+George Pierce      L   4   2   0   0   1   0   0   0   0   0   0  .500  .500 1.250 i
+Nap Rucker         L   9   1   0   0   0   2   0   1   0   0   0  .111  .273  .111 i
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Rudolph       R   4   3   0   1   0   0   0   0   0   0   0  .750  .750 1.250 
+Slim Sallee        L   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 i

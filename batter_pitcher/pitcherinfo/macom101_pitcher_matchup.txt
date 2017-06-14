@@ -1,0 +1,42 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Dick Barrett       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 i
+Johnny Beazley     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Harry Brecheen     L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Max Butcher        R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 i
+Arnold Carter      L   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Ben Chapman        R   8   1   1   0   0   1   0   1   0   0   0  .125  .222  .250 
+Mort Cooper        R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Curt Davis         R   8   1   0   0   1   0   0   0   0   0   0  .125  .125  .500 i
+Tommy de la Cruz   R   7   5   0   0   0   0   0   0   0   0   0  .714  .714  .714 
+Paul Derringer     R   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 i
+Harry Feldman      R  12   4   2   0   0   0   0   0   0   2   0  .333  .333  .500 i
+Hank Gornicki      R   4   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 
+Hal Gregg          R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 i
+Harry Gumbert      R  17   5   0   0   0   0   0   0   0   0   0  .294  .294  .294 i
+Ed Heusser         R  11   1   1   0   0   0   0   0   0   0   0  .091  .091  .182 
+Al Javery          R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Vern Kennedy       R   8   4   0   0   0   0   0   1   0   0   0  .500  .500  .500 
+Max Lanier         L  13   4   0   0   1   0   0   2   0   0   0  .308  .308  .538 i
+Bill Lee           R  10   2   0   0   0   1   0   1   0   0   0  .200  .273  .200 i
+Red Lynn           R  10   3   0   0   0   0   0   1   0   0   0  .300  .300  .300 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Cal McLish         R   7   2   0   0   0   0   0   0   0   1   0  .286  .286  .286 
+Cliff Melton       L   8   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Rube Melton        R  16   3   0   1   0   0   0   1   0   0   0  .188  .188  .313 i
+Red Munger         R   6   0   0   0   0   1   0   1   0   0   0  .000  .143  .000 
+F. Ostermueller    L   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Claude Passeau     R   7   2   0   0   1   1   1   0   0   0   0  .286  .375  .714 i
+Ewald Pyle         L   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 
+Charley Schanz     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Frank Seward       R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Rip Sewell         R  19   6   0   0   0   0   0   2   0   0   0  .316  .316  .316 i
+Clyde Shoun        L   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Nick Strincevich   R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i
+Tom Sunkel         L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Bill Voiselle      R  17   2   0   0   0   0   0   3   0   0   0  .118  .118  .118 
+Bucky Walters      R  15   3   1   0   0   0   0   0   0   0   0  .200  .200  .267 
+Lon Warneke        R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Les Webber         R   8   3   0   0   0   1   0   0   0   0   0  .375  .444  .375 i
+John Wells         R   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Ted Wilks          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Hank Wyse          R   9   1   1   0   0   0   0   1   0   0   0  .111  .111  .222 i

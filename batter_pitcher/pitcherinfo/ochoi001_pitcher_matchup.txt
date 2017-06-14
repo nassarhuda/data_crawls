@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Josh Banks         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Chad Billingsley   R   3   2   1   0   0   0   0   1   0   1   0  .667  .667 1.000 
+Jorge Campillo     R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Jorge de la Rosa   L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Mike Hampton       L   5   2   1   0   0   0   0   0   0   1   0  .400  .400  .600 
+Dan Haren          R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Randy Johnson      L   7   4   0   0   0   0   0   1   0   0   0  .571  .571  .571 
+Jair Jurrjens      R   6   2   0   0   0   1   0   0   0   0   0  .333  .429  .333 
+Ricky Nolasco      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Roy Oswalt         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+CC Sabathia        L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

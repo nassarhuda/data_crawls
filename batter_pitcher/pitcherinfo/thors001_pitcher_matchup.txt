@@ -1,0 +1,26 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bronson Arroyo     R   6   2   1   0   1   1   0   1   0   0   0  .333  .429 1.000 
+Jason Bergmann     R   5   0   0   0   0   1   0   1   0   0   0  .000  .167  .000 
+Chris Carpenter    R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Chad Cordero       R   3   1   1   0   0   1   0   1   0   0   0  .333  .500  .667 
+F. Cordero         R   4   1   0   0   1   0   0   2   0   0   0  .250  .250 1.000 
+Adam Eaton         R   5   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Justin Germano     R   3   0   0   0   0   0   0   1   1   0   0  .000  .250  .000 
+Tom Gordon         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+John Grabow        L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Cole Hamels        L   4   1   1   0   0   0   0   2   0   0   0  .250  .250  .500 
+Rich Hill          L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jon Lieber         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Tim Lincecum       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Derek Lowe         R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Greg Maddux        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jason Marquis      R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Sean Marshall      L   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brett Myers        R   9   2   0   0   0   0   0   3   0   0   0  .222  .222  .222 
+Wes Obermueller    R   5   1   1   0   0   0   0   2   0   0   0  .200  .200  .400 
+Curt Schilling     R   4   1   1   0   0   1   1   1   0   0   0  .250  .400  .500 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Ben Sheets         R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Ian Snell          R   7   2   0   0   0   1   1   3   0   0   0  .286  .375  .286 
+Jerome Williams    R   4   1   0   0   0   1   0   1   0   0   0  .250  .400  .250 
+Carlos Zambrano    R   5   3   1   0   1   1   0   0   0   0   0  .600  .667 1.400

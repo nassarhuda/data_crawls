@@ -1,0 +1,29 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+G. Baumgardner     R   7   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Chief Bender       R   6   0   0   0   0   1   0   2   0   0   0  .000  .143  .000 i
+Joe Benz           R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Bullet Joe Bush    R  10   3   0   0   0   0   0   0   0   0   0  .300  .300  .300 i
+Ray Caldwell       R   6   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Eddie Cicotte      R   9   1   0   0   0   0   0   3   0   1   0  .111  .111  .111 i
+Ray Collins        L   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 i
+Nick Cullop        L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 i
+Jean Dubuc         R   9   4   0   0   0   0   0   0   0   0   0  .444  .444  .444 i
+Ray Fisher         R   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 i
+Bob Groom          R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 i
+Earl Hamilton      L   7   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Bill James         R   2   0   0   0   0   1   0   0   0   1   0  .000  .333  .000 i
+Walter Johnson     R   6   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 i
+George McConnell   R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 i
+George Mogridge    L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 i
+George Mullin      R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 i
+Jim Park           R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Eddie Plank        L   7   0   0   0   0   0   0   1   0   1   0  .000  .000  .000 i
+Jack Richardson    R   3   0   0   0   0   0   0   0   0   1   0  .000  .000  .000 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Babe Ruth          L   6   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 i
+Rube Schauer       R   3   0   0   0   0   0   0   2   0   1   0  .000  .000  .000 
+Jim Scott          R   9   0   0   0   0   0   0   5   0   0   0  .000  .000  .000 i
+Ed Walsh           R   9   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 i
+Carl Weilman       L   3   0   0   0   0   0   0   0   0   2   0  .000  .000  .000 i
+Charlie Wheatley   R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Ed Willett         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 i

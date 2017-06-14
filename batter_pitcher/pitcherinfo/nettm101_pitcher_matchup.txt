@@ -1,0 +1,55 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Vic Albury         L  18   7   1   0   0   1   0   1   0   0   0  .389  .421  .444 
+Ray Bare           R   8   1   0   0   0   0   0   1   0   0   0  .125  .125  .125 
+Doug Bird          R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Vida Blue          L  14   3   0   0   0   1   0   5   0   0   0  .214  .267  .214 
+Bert Blyleven      R  17   6   1   0   0   0   0   2   0   1   0  .353  .353  .412 
+Nelson Briles      R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Jackie Brown       R  11   3   1   0   0   0   0   0   0   0   0  .273  .273  .364 
+Tom Burgmeier      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Busby        R  10   5   0   0   0   0   0   2   0   0   0  .500  .500  .500 
+Bill Butler        L   4   2   0   0   0   1   0   0   0   0   0  .500  .600  .500 
+Bill Champion      R   5   3   0   0   0   2   2   0   0   0   0  .600  .714  .600 
+Reggie Cleveland   R   5   2   1   0   0   1   0   1   0   0   0  .400  .500  .600 
+David Clyde        L   4   2   2   0   0   1   0   1   0   0   0  .500  .600 1.000 
+Joe Coleman        R   2   0   0   0   0   1   0   2   0   1   0  .000  .333  .000 
+Ray Corbin         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Bruce Dal Canton   R   5   3   1   0   0   0   0   0   0   0   0  .600  .600  .800 
+Joe Decker         R   8   2   0   0   0   1   0   1   0   1   0  .250  .333  .250 
+Pat Dobson         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rollie Fingers     R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Al Fitzmorris      R  13   2   0   0   0   0   0   3   0   0   0  .154  .154  .154 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Terry Forster      L   4   0   0   0   0   1   0   3   0   1   0  .000  .200  .000 
+Steve Foucault     R   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Dave Goltz         R  11   4   1   0   0   0   0   3   0   0   0  .364  .364  .455 
+Rich Gossage       R   3   0   0   0   0   1   0   1   1   0   0  .000  .400  .000 
+Dave Hamilton      L   8   3   0   0   0   1   0   3   0   0   0  .375  .444  .375 
+Bill Hands         R   6   0   0   0   0   3   0   2   0   0   0  .000  .333  .000 
+Steve Hargan       R  11   2   0   0   0   1   0   2   0   0   0  .182  .250  .182 
+Ken Holtzman       L  12   0   0   0   0   0   0   3   0   0   0  .000  .000  .000 
+Catfish Hunter     R  10   2   0   0   0   0   0   2   0   0   1  .200  .182  .200 
+Jesse Jefferson    R   2   2   0   0   0   2   0   0   0   0   0 1.000 1.000 1.000 
+Fergie Jenkins     R  13   1   0   0   0   0   0   2   0   0   0  .077  .077  .077 
+Bart Johnson       R   6   2   0   0   0   0   0   2   0   0   0  .333  .333  .333 
+Jim Kaat           L  11   3   0   0   0   1   0   5   0   0   0  .273  .333  .273 
+Jack Kucek         R   4   2   0   0   0   1   0   1   0   0   0  .500  .600  .500 
+Bill Lee           L   8   2   2   0   0   0   0   1   0   0   0  .250  .250  .500 
+Dave Lemanczyk     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dennis Leonard     R   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 
+Paul Lindblad      L   5   1   0   0   0   1   0   0   0   0   0  .200  .333  .200 
+Lindy McDaniel     R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Steve Mingori      L   3   1   0   0   0   1   0   1   0   0   0  .333  .500  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Claude Osteen      L   7   1   0   0   0   0   0   0   0   0   0  .143  .143  .143 
+Jim Palmer         R  10   1   0   0   0   1   0   3   0   0   0  .100  .182  .100 
+Marty Pattin       R   7   2   0   0   0   0   0   2   0   0   0  .286  .286  .286 
+Gaylord Perry      R  11   3   0   0   0   3   0   6   0   0   0  .273  .429  .273 
+Jim Slaton         R  12   5   0   0   0   0   0   2   0   0   0  .417  .417  .417 
+Paul Splittorff    L   6   1   0   0   0   1   0   3   0   0   0  .167  .286  .167 
+Luis Tiant         R   9   5   1   0   0   0   0   1   0   0   0  .556  .556  .667 
+Mike Torrez        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Mark Wiley         R   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Rick Wise          R  12   2   0   0   0   1   0   3   0   0   0  .167  .231  .167 
+Wilbur Wood        L  19   6   0   0   0   0   0   3   0   0   0  .316  .316  .316 
+Clyde Wright       L   7   2   1   0   0   0   0   0   0   0   0  .286  .286  .429

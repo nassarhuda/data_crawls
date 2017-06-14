@@ -1,0 +1,10 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Larry Gura         L   7   2   0   0   1   0   0   0   0   0   0  .286  .286  .714 
+Bruce Hurst        L   7   2   0   0   0   0   0   1   0   0   0  .286  .286  .286 
+Tommy John         L   3   3   0   0   0   1   0   0   0   0   0 1.000 1.000 1.000 
+Brian Kingman      R   2   1   0   0   0   2   0   0   0   0   0  .500  .750  .500 
+Bruce Kison        R   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Bill Krueger       L   3   0   0   0   0   1   0   0   0   0   0  .000  .250  .000 
+Scott McGregor     L   5   1   0   0   0   0   0   1   0   0   0  .200  .200  .200 
+Frank Tanana       L   5   1   0   0   0   0   0   1   0   1   0  .200  .200  .200 
+John Tudor         L   5   1   0   0   0   1   0   1   0   0   0  .200  .333  .200

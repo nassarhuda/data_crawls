@@ -1,0 +1,11 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Floyd Bannister    L   9   1   0   0   0   1   0   6   0   0   0  .111  .200  .111 
+Mike Caldwell      L   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+Mike Flanagan      L   5   3   0   0   1   0   0   2   0   0   0  .600  .600 1.200 
+Brad Havens        L   8   1   0   0   0   1   0   2   0   0   0  .125  .222  .125 
+Tommy John         L   3   1   1   0   0   1   0   0   0   0   0  .333  .500  .667 
+Scott McGregor     L   4   2   0   0   1   0   0   2   0   0   0  .500  .500 1.250 
+Jack O'Connor      L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Shane Rawley       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Rick Waits         L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Geoff Zahn         L   5   2   0   0   0   3   0   0   0   0   0  .400  .625  .400

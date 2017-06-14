@@ -1,0 +1,12 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Rip Collins        R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Wilbur Cooper      L   9   2   0   0   0   0   0   4   0   0   0  .222  .222  .222 
+Johnny Couch       R   3   2   0   0   0   1   0   0   0   0   0  .667  .750  .667 
+Bill Hubbell       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 i
+Hugh McQuillan     R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Frank Miller       R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Dutch Ruether      L   8   0   0   0   0   1   0   2   0   0   0  .000  .111  .000 
+Bill Sherdel       L   2   0   0   0   0   2   0   1   0   0   0  .000  .500  .000 
+George Smith       R   5   1   0   0   0   0   0   2   0   0   0  .200  .200  .200 
+Lil Stoner         R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Lefty Weinert      L   3   0   0   0   0   1   0   1   0   0   0  .000  .250  .000 i

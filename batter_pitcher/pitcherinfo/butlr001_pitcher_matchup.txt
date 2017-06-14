@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Stan Belinda       R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Tom Bolton         L   4   1   0   0   0   1   0   2   1   0   0  .250  .500  .250 
+F. Cordova         R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Danny Darwin       R   3   3   1   0   0   1   0   0   0   0   0 1.000 1.000 1.333 
+Scott Erickson     R   4   0   0   0   0   1   0   0   0   0   1  .000  .167  .000 
+Mike Gardiner      R   4   2   0   0   0   0   0   0   0   0   1  .500  .400  .500 
+S. Kamieniecki     R   3   1   0   0   0   0   0   0   0   1   0  .333  .333  .333 
+Tim Leary          R   4   1   0   1   0   0   0   0   0   0   0  .250  .250  .750 
+Phil Leftwich      R   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Pedro Martinez     R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Angel Miranda      L   3   2   2   0   0   1   0   0   0   0   0  .667  .750 1.333 
+Charles Nagy       R   4   0   0   0   0   0   0   0   1   0   0  .000  .200  .000 
+Armando Reynoso    R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Kenny Rogers       L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Aaron Sele         R   4   2   2   0   0   0   0   0   0   0   0  .500  .500 1.000 
+John Smoltz        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Kevin Tapani       R   6   2   0   0   0   1   0   1   0   0   0  .333  .429  .333 
+Bobby Witt         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000

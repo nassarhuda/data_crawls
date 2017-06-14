@@ -1,0 +1,46 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Bobby Ayala        R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+Buddy Black        L   4   1   0   0   0   0   0   0   0   0   1  .250  .200  .250 
+Willie Blair       R   5   2   0   0   0   0   0   0   0   0   0  .400  .400  .400 
+Mike Boddicker     R   3   0   0   0   0   0   0   0   1   0   0  .000  .250  .000 
+Kevin Brown        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+John Burkett       R   5   1   1   0   0   0   0   1   0   0   0  .200  .200  .400 
+Tom Candiotti      R  13   3   0   0   1   0   0   1   0   0   0  .231  .231  .462 
+Frank Castillo     R  10   2   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Willie Fraser      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Marvin Freeman     R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Kevin Gross        R   9   1   0   0   0   0   0   0   0   0   0  .111  .111  .111 
+Erik Hanson        R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Pete Harnisch      R  13   5   1   0   0   1   0   1   0   0   0  .385  .429  .462 
+Orel Hershiser     R   7   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Ken Hill           R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Brian Holman       R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Michael Jackson    R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Jimmy Jones        R   7   2   1   0   0   0   0   1   0   0   0  .286  .286  .429 
+Mark Langston      L   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Greg Maddux        R   7   1   0   0   0   0   0   1   0   1   0  .143  .143  .143 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Kirk McCaskill     R   5   3   0   0   0   0   0   0   0   0   0  .600  .600  .600 
+Ben McDonald       R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Jose Mesa          R   8   1   0   0   0   0   0   0   0   0   0  .125  .125  .125 
+Jack Morris        R   4   1   0   0   0   0   0   0   0   0   0  .250  .250  .250 
+Jaime Navarro      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Steve Olin         R   4   0   0   0   0   0   0   1   0   0   0  .000  .000  .000 
+Omar Olivares      R   6   3   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Tim Pugh           R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Jose Rijo          R   8   3   1   0   0   0   0   0   0   0   0  .375  .375  .500 
+Nolan Ryan         R   4   2   1   0   0   0   0   0   0   0   0  .500  .500  .750 
+Curt Schilling     R   5   1   0   0   0   0   0   0   0   0   0  .200  .200  .200 
+Pete Smith         R   4   0   0   0   0   1   0   0   0   0   0  .000  .200  .000 
+John Smoltz        R  10   2   0   0   0   1   0   0   0   0   0  .200  .273  .200 
+Dave Stewart       R   8   1   0   0   0   0   0   2   0   0   0  .125  .125  .125 
+Todd Stottlemyre   R   4   1   1   0   0   0   0   1   0   0   0  .250  .250  .500 
+Bill Swift         R   8   3   1   0   0   0   0   1   0   0   0  .375  .375  .500 
+Greg Swindell      L   7   1   0   0   0   0   0   1   0   0   0  .143  .143  .143 
+Bob Tewksbury      R   5   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Bob Walk           R   4   1   0   0   0   1   0   0   0   0   0  .250  .400  .250 
+Mike Walker        R   6   2   0   0   0   0   0   0   0   0   0  .333  .333  .333 
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Wally Whitehurst   R   4   1   0   0   0   0   0   2   0   0   0  .250  .250  .250 
+Bobby Witt         R   4   1   0   0   0   0   0   1   0   0   0  .250  .250  .250 
+Matt Young         L   8   0   0   0   0   0   0   1   0   0   0  .000  .000  .000

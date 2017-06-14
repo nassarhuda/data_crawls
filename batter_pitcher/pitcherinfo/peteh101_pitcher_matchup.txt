@@ -1,0 +1,19 @@
+Pitcher          R/L  AB   H  2B  3B  HR  BB IBB  SO HBP  SH  SF   AVG   OBP   SLG
+Johnny Antonelli   L  10   4   1   0   1   5   1   0   0   0   0  .400  .600  .800 
+Luis Arroyo        L   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Curt Barclay       R   4   2   0   0   0   0   0   0   0   0   0  .500  .500  .500 
+Roger Craig        R   3   3   0   0   1   1   0   0   0   0   0 1.000 1.000 2.000 
+Moe Drabowsky      R   8   1   0   0   0   0   0   3   0   1   0  .125  .125  .125 
+Art Fowler         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Ruben Gomez        R   3   3   2   0   0   1   0   0   0   0   0 1.000 1.000 1.667 
+Harvey Haddix      L   4   0   0   0   0   0   0   2   0   0   0  .000  .000  .000 
+Brooks Lawrence    R   6   1   0   0   0   0   0   1   0   0   0  .167  .167  .167 
+Lindy McDaniel     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333 
+Stu Miller         R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Rudy Minarcin      R   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Paul Minner        L   6   3   0   0   0   0   0   0   0   0   1  .500  .429  .500 
+Ramon Monzant      R   5   2   0   1   0   0   0   0   0   0   0  .400  .400  .800 
+Joe Nuxhall        L  15   3   1   0   0   1   0   0   1   0   0  .200  .294  .267 
+Ed Roebuck         R   6   1   0   0   0   0   0   0   0   0   0  .167  .167  .167 
+Warren Spahn       L   4   0   0   0   0   0   0   0   0   0   0  .000  .000  .000 
+Al Worthington     R   3   1   0   0   0   1   0   0   0   0   0  .333  .500  .333
